@@ -1,0 +1,1 @@
+{"build": "he1b5a44_1002", "build_number": 1002, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "MIT", "license_family": "MIT", "name": "rapidjson", "subdir": "linux-64", "timestamp": 1560406832281, "version": "1.1.0", "size": 106303, "md5": "37d4fdbb92d573c7d6ab6de74a666dc4", "sha256": "73b74a21dcaafc4a9f43e7f4295ead29d0f3ef13790bad69351942b77294aad8"}

@@ -1,0 +1,1 @@
+{"build": "he1b5a44_0", "build_number": 0, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "BSD 3-Clause", "name": "pcre", "subdir": "linux-64", "timestamp": 1581533331945, "version": "8.44", "size": 267032, "md5": "e647d89cd5cdf62760cf283a001841ff", "sha256": "7c6424ed08b62f5c7ae3617be720c72578fc75542a68a689663f4ed39f54cc1d"}

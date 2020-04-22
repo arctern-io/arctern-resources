@@ -1,0 +1,127 @@
+{
+  "info": {
+    "subdir": "noarch"
+  },
+  "packages": {
+    "parquet-cpp-1.5.1-2.tar.bz2": {
+      "build": "2",
+      "build_number": 2,
+      "depends": [
+        "arrow-cpp >=0.11.0"
+      ],
+      "license": "Apache 2.0",
+      "md5": "79a5f78c42817594ae016a7896521a97",
+      "name": "parquet-cpp",
+      "noarch": "generic",
+      "sha256": "15e50657515b791734ba045da5135377404ca37c518b2066b9c6451c65cd732e",
+      "size": 3118,
+      "subdir": "noarch",
+      "timestamp": 1541734907649,
+      "version": "1.5.1"
+    },
+    "pip-20.0.2-py_2.tar.bz2": {
+      "build": "py_2",
+      "build_number": 2,
+      "depends": [
+        "python",
+        "setuptools",
+        "wheel"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "70e60f1bf7c83ede9f7b2551d006db8c",
+      "name": "pip",
+      "noarch": "python",
+      "sha256": "a25ca8121ab6c118c1bc43eecf884f46461814126dadfb0314381f1f3e136fdf",
+      "size": 1067478,
+      "subdir": "noarch",
+      "timestamp": 1580943385713,
+      "version": "20.0.2"
+    },
+    "poppler-data-0.4.9-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
+      "depends": [],
+      "license": "Adobe+GPLv2",
+      "license_family": "GPL",
+      "md5": "1fef1ac4c55eec7cde779d89c8d20cc6",
+      "name": "poppler-data",
+      "noarch": "generic",
+      "sha256": "a04a15d5b7e91ebf424a8ccbfd4c0a570e4e9e9f5e3936160521792d08b4965f",
+      "size": 3586821,
+      "subdir": "noarch",
+      "timestamp": 1546922263890,
+      "version": "0.4.9"
+    },
+    "python-dateutil-2.8.1-py_0.tar.bz2": {
+      "build": "py_0",
+      "build_number": 0,
+      "depends": [
+        "python",
+        "six"
+      ],
+      "license": "BSD 3 Clause",
+      "md5": "0d0150ed9c2d25817f5324108d3f7571",
+      "name": "python-dateutil",
+      "noarch": "python",
+      "sha256": "5bf47c858f799d475299f0926fd665b0f07c6ace873b866707856418f69d5c71",
+      "size": 224841,
+      "subdir": "noarch",
+      "timestamp": 1572790276913,
+      "version": "2.8.1"
+    },
+    "pytz-2019.3-py_0.tar.bz2": {
+      "build": "py_0",
+      "build_number": 0,
+      "depends": [
+        "python"
+      ],
+      "license": "MIT",
+      "md5": "50b90b25d004a9d0c90482bbd3fb71d9",
+      "name": "pytz",
+      "noarch": "python",
+      "sha256": "46cb9595097b6b4c1040c7438136c93234abfac6f6ac44e20e7ad9ba32fd9ea8",
+      "size": 242252,
+      "subdir": "noarch",
+      "timestamp": 1570448565461,
+      "version": "2019.3"
+    },
+    "six-1.14.0-py_1.tar.bz2": {
+      "build": "py_1",
+      "build_number": 1,
+      "depends": [
+        "python"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "9c032ebdf2b7685ec6332c5c45e1ac72",
+      "name": "six",
+      "noarch": "python",
+      "sha256": "99cf66d6dcc0428b1a02a241a97754c47799540e7ab9c6e96cc0972af3628082",
+      "size": 13426,
+      "subdir": "noarch",
+      "timestamp": 1583921682770,
+      "version": "1.14.0"
+    },
+    "wheel-0.34.2-py_1.tar.bz2": {
+      "build": "py_1",
+      "build_number": 1,
+      "depends": [
+        "python",
+        "setuptools"
+      ],
+      "license": "MIT",
+      "md5": "1a3f64dbee07e02a8f1de36b5b5e98ee",
+      "name": "wheel",
+      "noarch": "python",
+      "sha256": "2d94506e808dc979b6fd3357e4f683d246281c7629dac3be9a40b2a173b8ec64",
+      "size": 24204,
+      "subdir": "noarch",
+      "timestamp": 1580939961064,
+      "version": "0.34.2"
+    }
+  },
+  "packages.conda": {},
+  "removed": [],
+  "repodata_version": 1
+}

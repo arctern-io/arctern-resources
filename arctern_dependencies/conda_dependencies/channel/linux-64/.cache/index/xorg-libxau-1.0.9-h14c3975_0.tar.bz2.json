@@ -1,0 +1,1 @@
+{"build": "h14c3975_0", "build_number": 0, "depends": ["libgcc-ng >=7.3.0"], "license": "MIT", "license_family": "MIT", "name": "xorg-libxau", "subdir": "linux-64", "timestamp": 1549908934708, "version": "1.0.9", "size": 13757, "md5": "ffa7c2b7a2c7dc779ed9e38b10a93c3c", "sha256": "0150c0dbf564220d83ff893b1d2d61209fb6212e237685f786d07879b4dd1d20"}

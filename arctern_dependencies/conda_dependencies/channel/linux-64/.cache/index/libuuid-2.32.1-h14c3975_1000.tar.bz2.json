@@ -1,0 +1,1 @@
+{"build": "h14c3975_1000", "build_number": 1000, "depends": ["libgcc-ng >=7.3.0"], "license": "BSD 3-Clause", "name": "libuuid", "subdir": "linux-64", "timestamp": 1535656940107, "version": "2.32.1", "size": 26984, "md5": "39c6326f6ee5297632c47db6520546fe", "sha256": "7b6c3fd23d08c809214c2d9144939547312dbae3638389898dfb86ddfe92145c"}

@@ -1,0 +1,23 @@
+{
+  "paths": [
+    {
+      "_path": "lib/libtbb.so.2",
+      "path_type": "hardlink",
+      "sha256": "e343ba58f7b543be3a07d7de0aecb876617b33297f451536cb0eb106783c3193",
+      "size_in_bytes": 2574333
+    },
+    {
+      "_path": "lib/libtbbmalloc.so.2",
+      "path_type": "hardlink",
+      "sha256": "baad32669148d5376ec40daa467fb4794378ae3ee12301aa358d7449b1babe71",
+      "size_in_bytes": 763260
+    },
+    {
+      "_path": "lib/libtbbmalloc_proxy.so.2",
+      "path_type": "hardlink",
+      "sha256": "5cf7fd3cacb57e62a5227cffaa7dc99da5a3a9307a116c837d0cf91a6729fd82",
+      "size_in_bytes": 38212
+    }
+  ],
+  "paths_version": 1
+}

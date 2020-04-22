@@ -1,0 +1,1 @@
+{"build": "h14c3975_1002", "build_number": 1002, "depends": ["libgcc-ng >=7.3.0"], "license": "LGPL-2.1", "name": "freexl", "subdir": "linux-64", "timestamp": 1536235066338, "version": "1.0.5", "size": 44501, "md5": "95adf1f15709756d3c5b3f0330c0b0db", "sha256": "b1fc15a243cd31bce24a5bef6735496d8723ad1036a20f26e34943fc535b0b39"}

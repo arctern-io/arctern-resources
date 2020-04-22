@@ -1,0 +1,73 @@
+{
+  "paths": [
+    {
+      "_path": "bin/kea-config",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/kealib_1585883429857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "ad28bf3841b399814ec69b5b9fdc05f659505bbebf46d9fb9ede62ac42e4262a",
+      "size_in_bytes": 3086
+    },
+    {
+      "_path": "include/libkea/KEAAttributeTable.h",
+      "path_type": "hardlink",
+      "sha256": "f0e1885ff696e48f71e144ee16a7393bd4f8619276736958c447ff0bcc075862",
+      "size_in_bytes": 8640
+    },
+    {
+      "_path": "include/libkea/KEAAttributeTableFile.h",
+      "path_type": "hardlink",
+      "sha256": "c90c051550a771ae7e07f58ab4fedc50e27fb5f8acb748405059bc1ce08b080a",
+      "size_in_bytes": 5036
+    },
+    {
+      "_path": "include/libkea/KEAAttributeTableInMem.h",
+      "path_type": "hardlink",
+      "sha256": "9c7096d979e1f65edef03b48f72f4ff54725217e92475fc14d131f7d09307277",
+      "size_in_bytes": 4655
+    },
+    {
+      "_path": "include/libkea/KEACommon.h",
+      "path_type": "hardlink",
+      "sha256": "2c5a98161d773018a7c38d38b34ec3f3d832bac156d1105893b4452259abba83",
+      "size_in_bytes": 11629
+    },
+    {
+      "_path": "include/libkea/KEAException.h",
+      "path_type": "hardlink",
+      "sha256": "9bf75bb2e0e7506cb3776809afaaff62ad6eff27e1838d60d3f29def00515b7c",
+      "size_in_bytes": 2592
+    },
+    {
+      "_path": "include/libkea/KEAImageIO.h",
+      "path_type": "hardlink",
+      "sha256": "663139bc991ab928e12357cd73be0cdf90ef939ad21f2f953535ad7591eee0b6",
+      "size_in_bytes": 9135
+    },
+    {
+      "_path": "include/libkea/kea-config.h",
+      "path_type": "hardlink",
+      "sha256": "21ba31b52088d079e6b0f204321d9a6424651236f3e4329b7418072850e070ac",
+      "size_in_bytes": 387
+    },
+    {
+      "_path": "lib/libkea.so",
+      "path_type": "softlink",
+      "sha256": "fa1357f1822c000b45fcda88131c5038e648b7b37e7ce6ddef362a006a7b7a5c",
+      "size_in_bytes": 476472
+    },
+    {
+      "_path": "lib/libkea.so.1.4",
+      "path_type": "softlink",
+      "sha256": "fa1357f1822c000b45fcda88131c5038e648b7b37e7ce6ddef362a006a7b7a5c",
+      "size_in_bytes": 476472
+    },
+    {
+      "_path": "lib/libkea.so.1.4.13",
+      "path_type": "hardlink",
+      "sha256": "fa1357f1822c000b45fcda88131c5038e648b7b37e7ce6ddef362a006a7b7a5c",
+      "size_in_bytes": 476472
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,1 @@
+{"build": "h14c3975_1001", "build_number": 1001, "depends": ["libgcc-ng >=7.3.0"], "license": "MIT", "license_family": "MIT", "name": "pthread-stubs", "subdir": "linux-64", "timestamp": 1537005788311, "version": "0.4", "size": 5000, "md5": "e0b9987b65bba8016d21f5bdbe0a7923", "sha256": "18c2b6c862d633555d14228add5329dd517d04f1f6aa1f1d73672101a88120d0"}

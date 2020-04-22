@@ -1,0 +1,77 @@
+{
+  "paths": [
+    {
+      "_path": "include/glog/log_severity.h",
+      "path_type": "hardlink",
+      "sha256": "4d208e76bfd345e6b198ccb24a864bc11bb3a151d13964caeb4fb9fcd81feeb6",
+      "size_in_bytes": 3376
+    },
+    {
+      "_path": "include/glog/logging.h",
+      "path_type": "hardlink",
+      "sha256": "b6ba3375a589c90dc97647b43bd135e68a24cae684b45105d212d68fdf92c8fd",
+      "size_in_bytes": 65883
+    },
+    {
+      "_path": "include/glog/raw_logging.h",
+      "path_type": "hardlink",
+      "sha256": "572bbf162c89792608a7fc43597f1e8c00eadaad03be0c81955594c2f5c65208",
+      "size_in_bytes": 6656
+    },
+    {
+      "_path": "include/glog/stl_logging.h",
+      "path_type": "hardlink",
+      "sha256": "89e50e53b13c55ac22b80aa042e1a165667173fa9c3cc76f247f727f0199bdda",
+      "size_in_bytes": 7856
+    },
+    {
+      "_path": "include/glog/vlog_is_on.h",
+      "path_type": "hardlink",
+      "sha256": "92a505b7cb93e0b0eccaf766564123eafccea5c122f7ca2f5f50bbfb95e01c7a",
+      "size_in_bytes": 6038
+    },
+    {
+      "_path": "lib/cmake/glog/glog-config-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "2c6ed1e2ad11c0769a5b174f6c10f756dde650ece8a51628f4e1b1824e2eae44",
+      "size_in_bytes": 1722
+    },
+    {
+      "_path": "lib/cmake/glog/glog-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "ee7d9900873d5b510c9472b4e5dffab0576332f3337e9e7e34f5953ccb0e86ea",
+      "size_in_bytes": 892
+    },
+    {
+      "_path": "lib/cmake/glog/glog-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "42c52814c623ba7e57bbe61e13ef2395a3e81967ec74202912bdb804a899f9bf",
+      "size_in_bytes": 812
+    },
+    {
+      "_path": "lib/cmake/glog/glog-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "a7b819f49b9a1b3e0046862e51a8f5045e12b2ebb68d9efd06231dd41f00c44f",
+      "size_in_bytes": 3505
+    },
+    {
+      "_path": "lib/libglog.so",
+      "path_type": "softlink",
+      "sha256": "690f4fe8138e35b41cd0069f1646660749e1dc162482a6e435cfe947d6e109b0",
+      "size_in_bytes": 195368
+    },
+    {
+      "_path": "lib/libglog.so.0",
+      "path_type": "softlink",
+      "sha256": "690f4fe8138e35b41cd0069f1646660749e1dc162482a6e435cfe947d6e109b0",
+      "size_in_bytes": 195368
+    },
+    {
+      "_path": "lib/libglog.so.0.4.0",
+      "path_type": "hardlink",
+      "sha256": "690f4fe8138e35b41cd0069f1646660749e1dc162482a6e435cfe947d6e109b0",
+      "size_in_bytes": 195368
+    }
+  ],
+  "paths_version": 1
+}

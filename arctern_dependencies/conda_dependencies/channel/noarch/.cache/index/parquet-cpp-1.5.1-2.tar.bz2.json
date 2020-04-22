@@ -1,0 +1,1 @@
+{"build": "2", "build_number": 2, "depends": ["arrow-cpp >=0.11.0"], "license": "Apache 2.0", "name": "parquet-cpp", "noarch": "generic", "subdir": "noarch", "timestamp": 1541734907649, "version": "1.5.1", "size": 3118, "md5": "79a5f78c42817594ae016a7896521a97", "sha256": "15e50657515b791734ba045da5135377404ca37c518b2066b9c6451c65cd732e"}

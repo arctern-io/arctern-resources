@@ -1,0 +1,1 @@
+{"build": "h516909a_0", "build_number": 0, "depends": ["libgcc-ng >=7.3.0"], "license": "MIT", "license_family": "MIT", "name": "xorg-libice", "subdir": "linux-64", "timestamp": 1563155940938, "version": "1.0.10", "size": 58830, "md5": "4dfda1ccfd0cc90c4fe6786acece9a30", "sha256": "f50039ecba88e6ab8aa84c34ab77054ab42e9d80432b169b6c0dad6df238cce2"}

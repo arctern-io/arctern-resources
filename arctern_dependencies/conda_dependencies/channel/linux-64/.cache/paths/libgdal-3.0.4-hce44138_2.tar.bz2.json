@@ -1,0 +1,1053 @@
+{
+  "paths": [
+    {
+      "_path": "bin/gdal-config",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/gdal-split_1584155650231/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "102e25b1f58e30e58c7b12728bdfd6e4bcef53d9918967aeb7436b6834c0eed0",
+      "size_in_bytes": 14728
+    },
+    {
+      "_path": "bin/gdal_contour",
+      "path_type": "hardlink",
+      "sha256": "a9f32150aa76be559e15804cfb80464bfa2aaf0dbe7a07affa48101a22d9cdec",
+      "size_in_bytes": 30952
+    },
+    {
+      "_path": "bin/gdal_grid",
+      "path_type": "hardlink",
+      "sha256": "53078eb752205741634c1fd29491b5b8262202146d06d6209b627582a52a03fa",
+      "size_in_bytes": 20712
+    },
+    {
+      "_path": "bin/gdal_rasterize",
+      "path_type": "hardlink",
+      "sha256": "147d0a02116dbf551f197e1e2a71cc5333a22a77b66d88a191af2e58bee43651",
+      "size_in_bytes": 25288
+    },
+    {
+      "_path": "bin/gdal_translate",
+      "path_type": "hardlink",
+      "sha256": "34590d9028393bd77b71d67ddccaae5cec9f86edf9c43e8611b708b7b728a67d",
+      "size_in_bytes": 26656
+    },
+    {
+      "_path": "bin/gdaladdo",
+      "path_type": "hardlink",
+      "sha256": "69309a53b277af311fcda818c88f58ee32ba754b407337f27fb0d4a421c4e33b",
+      "size_in_bytes": 26120
+    },
+    {
+      "_path": "bin/gdalbuildvrt",
+      "path_type": "hardlink",
+      "sha256": "c3837615cd8dc58ba5cfb9b606b572e6bb804b7c3a891feabcbbc26694836cbe",
+      "size_in_bytes": 25088
+    },
+    {
+      "_path": "bin/gdaldem",
+      "path_type": "hardlink",
+      "sha256": "0876a4ba6aec40ce11cb05ed61e2f59144744776838399eb1f0fe28de2fcfa82",
+      "size_in_bytes": 20792
+    },
+    {
+      "_path": "bin/gdalenhance",
+      "path_type": "hardlink",
+      "sha256": "4e4678ca325fd86838c8e5bf29d3de7ab8afb325b9bcce5ad124e9cfc6109805",
+      "size_in_bytes": 31432
+    },
+    {
+      "_path": "bin/gdalinfo",
+      "path_type": "hardlink",
+      "sha256": "5b2167a89aa11080016996c7946f82f2d4d23e39d02e57d89b014d142653f90c",
+      "size_in_bytes": 25128
+    },
+    {
+      "_path": "bin/gdallocationinfo",
+      "path_type": "hardlink",
+      "sha256": "3d14142e0aab7ac90b1ca370c680343b853773a145e167790ec6061e3f6cd66b",
+      "size_in_bytes": 31064
+    },
+    {
+      "_path": "bin/gdalmanage",
+      "path_type": "hardlink",
+      "sha256": "0531db3685dab893c0af01a57a85a4015596aa8e8e316e7fe5081614bd2ca9b2",
+      "size_in_bytes": 25400
+    },
+    {
+      "_path": "bin/gdalserver",
+      "path_type": "hardlink",
+      "sha256": "6281a24d46fc7d5a5715ae4ca269929e47590a828d1b23a6306e88fc067a9eac",
+      "size_in_bytes": 25784
+    },
+    {
+      "_path": "bin/gdalsrsinfo",
+      "path_type": "hardlink",
+      "sha256": "7c0b374fcadbb821ac814aa5bfa3cfe7af205478c9c66132bbc6dbe2e01113f6",
+      "size_in_bytes": 30640
+    },
+    {
+      "_path": "bin/gdaltindex",
+      "path_type": "hardlink",
+      "sha256": "6252eb73fe796442c3705f12b7dd5350f9ee64b51ffb433975c38a2101a5ec21",
+      "size_in_bytes": 40424
+    },
+    {
+      "_path": "bin/gdaltransform",
+      "path_type": "hardlink",
+      "sha256": "bd81cdb66bb7b284c15af1a7ccfd75f157686a402e195ee561582f8b87144645",
+      "size_in_bytes": 30328
+    },
+    {
+      "_path": "bin/gdalwarp",
+      "path_type": "hardlink",
+      "sha256": "78424efe259c74f64bbab67a30daa2b93c702cebffbb91ff0f2147cd76fa94bf",
+      "size_in_bytes": 31480
+    },
+    {
+      "_path": "bin/gnmanalyse",
+      "path_type": "hardlink",
+      "sha256": "a921e897c4628f28565e43a376bc167c62ba89dcc57dff0ed2b462be4b8d224f",
+      "size_in_bytes": 34128
+    },
+    {
+      "_path": "bin/gnmmanage",
+      "path_type": "hardlink",
+      "sha256": "f08c399154f2568a2f53d353fc46a529fe80c51c43895a3d610b06877adaa620",
+      "size_in_bytes": 38960
+    },
+    {
+      "_path": "bin/nearblack",
+      "path_type": "hardlink",
+      "sha256": "1f3db60def6f75b796775a7ae9d5755247e0597fdf98cef2a9c02a449aa6eff5",
+      "size_in_bytes": 20848
+    },
+    {
+      "_path": "bin/ogr2ogr",
+      "path_type": "hardlink",
+      "sha256": "442fd55d2a6b061ed72c1f90346fac7f5495ae805c3f65db808a704332292f1e",
+      "size_in_bytes": 39776
+    },
+    {
+      "_path": "bin/ogrinfo",
+      "path_type": "hardlink",
+      "sha256": "dc971f83b8537bed39be09dc35c34f42d3e0ff210797d4eb6d0ad40ea46a5017",
+      "size_in_bytes": 44856
+    },
+    {
+      "_path": "bin/ogrlineref",
+      "path_type": "hardlink",
+      "sha256": "843a18f2f962a8c4c20061f7f8d886e8fd0aa1b43505a25ca2bce6c5605313d8",
+      "size_in_bytes": 68272
+    },
+    {
+      "_path": "bin/ogrtindex",
+      "path_type": "hardlink",
+      "sha256": "998a2f53627287854c1f85893dec697263631f605dc2311e17f503917a8b4ec3",
+      "size_in_bytes": 44360
+    },
+    {
+      "_path": "bin/testepsg",
+      "path_type": "hardlink",
+      "sha256": "3dc52d269a304a6827fdf1e16d69ac519e844cec3c275100ac014e4d69a74dab",
+      "size_in_bytes": 25544
+    },
+    {
+      "_path": "etc/conda/activate.d/gdal-activate.sh",
+      "path_type": "hardlink",
+      "sha256": "354ee50ab5065dd1e5ddb26ec65287383a281b868104e9d7027028e1f7b71118",
+      "size_in_bytes": 973
+    },
+    {
+      "_path": "etc/conda/deactivate.d/gdal-deactivate.sh",
+      "path_type": "hardlink",
+      "sha256": "655f6192a50985b8bf0b636b1196016034f0d09ed4bbb3ee329a8849fecae2e3",
+      "size_in_bytes": 433
+    },
+    {
+      "_path": "include/cpl_atomic_ops.h",
+      "path_type": "hardlink",
+      "sha256": "e0e8461f63f5a40c6535f713b9f4a68c77caf9e246df8b86a091727bd9c2617d",
+      "size_in_bytes": 4668
+    },
+    {
+      "_path": "include/cpl_auto_close.h",
+      "path_type": "hardlink",
+      "sha256": "861d22bec15561c360a90ba128231916a58dc88ecc28e46e0c0dbbd4e21686e3",
+      "size_in_bytes": 3353
+    },
+    {
+      "_path": "include/cpl_config.h",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/gdal-split_1584155650231/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "cb30ed8d0a1b42499e52b5509ef81b363e1dc9b32fe55ef6e698e76df04eab15",
+      "size_in_bytes": 8274
+    },
+    {
+      "_path": "include/cpl_config_extras.h",
+      "path_type": "hardlink",
+      "sha256": "fe9357d9c43772b8a175817f4c7a66d70f8a39929c87e4eb4c6883e962ef704f",
+      "size_in_bytes": 735
+    },
+    {
+      "_path": "include/cpl_conv.h",
+      "path_type": "hardlink",
+      "sha256": "0d3b695dbd13cb7e4f8af3343532dc66c28344d5b2b9632a34f6767ee4ebfbb1",
+      "size_in_bytes": 17775
+    },
+    {
+      "_path": "include/cpl_csv.h",
+      "path_type": "hardlink",
+      "sha256": "bab9146974e4080423c8652408a075336a77e2e63a1dc06782da748499364083",
+      "size_in_bytes": 3190
+    },
+    {
+      "_path": "include/cpl_error.h",
+      "path_type": "hardlink",
+      "sha256": "a6acf8bd8aee08b18b161e06ebc7b9120329ab8771d2070de84f4fe1bfed346d",
+      "size_in_bytes": 9207
+    },
+    {
+      "_path": "include/cpl_hash_set.h",
+      "path_type": "hardlink",
+      "sha256": "f757605aae39646d33f8d4c88fd46c753b8960d0577504cff73d3083dbaad90c",
+      "size_in_bytes": 3796
+    },
+    {
+      "_path": "include/cpl_http.h",
+      "path_type": "hardlink",
+      "sha256": "a89297f603ac8daf76fd7656b6ca06bfe927b44b789510d3d0b00fd7f864ddd6",
+      "size_in_bytes": 8460
+    },
+    {
+      "_path": "include/cpl_json.h",
+      "path_type": "hardlink",
+      "sha256": "195424d6636a82ab187c0c247c87267977e53bc516178cca3d10cac3b3e39366",
+      "size_in_bytes": 7212
+    },
+    {
+      "_path": "include/cpl_list.h",
+      "path_type": "hardlink",
+      "sha256": "decc6f39dc862cf2dd8eb3f68ee1362704dc6e69bb4ee14da4346eb250a2a173",
+      "size_in_bytes": 2923
+    },
+    {
+      "_path": "include/cpl_minixml.h",
+      "path_type": "hardlink",
+      "sha256": "9f943ff9f504f378b4db6b9b6473f8739662ca45470e8e16f51215c5e192d6ae",
+      "size_in_bytes": 8460
+    },
+    {
+      "_path": "include/cpl_minizip_ioapi.h",
+      "path_type": "hardlink",
+      "sha256": "3e94940f8cb490db91d51d01e3398949b3474e7846f70886f0a3a2b7b2148372",
+      "size_in_bytes": 3227
+    },
+    {
+      "_path": "include/cpl_minizip_unzip.h",
+      "path_type": "hardlink",
+      "sha256": "896c637b4e20832ec4782cb3cae3a7fe3b42d2d98a91f2b41d7d88056f34352c",
+      "size_in_bytes": 14128
+    },
+    {
+      "_path": "include/cpl_minizip_zip.h",
+      "path_type": "hardlink",
+      "sha256": "aacd0d62bb4d639de612949269d977d4903eef0a4f745e9c37bec44c1f3c95c2",
+      "size_in_bytes": 10124
+    },
+    {
+      "_path": "include/cpl_multiproc.h",
+      "path_type": "hardlink",
+      "sha256": "85ad94cc04e19f18792eee5ae2c872cf509976917b39007b8cdc969a3699b7de",
+      "size_in_bytes": 9983
+    },
+    {
+      "_path": "include/cpl_odbc.h",
+      "path_type": "hardlink",
+      "sha256": "b5b0caaf3a8495572f019daf0e5a465f53936f48dcab52d762784fabb86648d6",
+      "size_in_bytes": 10027
+    },
+    {
+      "_path": "include/cpl_port.h",
+      "path_type": "hardlink",
+      "sha256": "4abc94008e3fdbaa18e5f295bf4c6a4c5fe5068301a0055fe1f11b42102211ff",
+      "size_in_bytes": 44929
+    },
+    {
+      "_path": "include/cpl_progress.h",
+      "path_type": "hardlink",
+      "sha256": "7ff20778552a19a2701b9eb8223ed7c9216201131945463c86c09068034015f3",
+      "size_in_bytes": 2307
+    },
+    {
+      "_path": "include/cpl_quad_tree.h",
+      "path_type": "hardlink",
+      "sha256": "2d013f047668983c8f3382bb626833e888367b311e613ff212fcc7fe90414277",
+      "size_in_bytes": 4798
+    },
+    {
+      "_path": "include/cpl_spawn.h",
+      "path_type": "hardlink",
+      "sha256": "4685b423cb7160124bfb85739010d6c0ff585fcd3e2b70597ac18dceef93c05c",
+      "size_in_bytes": 3617
+    },
+    {
+      "_path": "include/cpl_string.h",
+      "path_type": "hardlink",
+      "sha256": "a6ba58f8dad8a11c4865c2666532b477d7920b3d0ae8a415be5204942484e579",
+      "size_in_bytes": 22971
+    },
+    {
+      "_path": "include/cpl_time.h",
+      "path_type": "hardlink",
+      "sha256": "ffb9438e62d44a379209303e60b13012ff46867cf2ab7ac6f277dc7a70e2dc20",
+      "size_in_bytes": 2399
+    },
+    {
+      "_path": "include/cpl_virtualmem.h",
+      "path_type": "hardlink",
+      "sha256": "b0a17f564c7f6b63f8f81016df4c5497c2406b0ea72a1be14c344e156c781a0b",
+      "size_in_bytes": 16312
+    },
+    {
+      "_path": "include/cpl_vsi.h",
+      "path_type": "hardlink",
+      "sha256": "909a7eb94bcd3e053ea1dd3d16ec07b2d109e6f2eb953e57c8dad6824f746b7a",
+      "size_in_bytes": 26551
+    },
+    {
+      "_path": "include/cpl_vsi_error.h",
+      "path_type": "hardlink",
+      "sha256": "86830c24fd41d3f5985ef536f3520a45ef5bc0c4e71a3c29a7c0497fcbc73fbf",
+      "size_in_bytes": 2990
+    },
+    {
+      "_path": "include/cpl_vsi_virtual.h",
+      "path_type": "hardlink",
+      "sha256": "ac8e6c56c310148e28c6d0ca4e8a8250c79f0b2aaab7baca2fbb64fbe4fd0a87",
+      "size_in_bytes": 11308
+    },
+    {
+      "_path": "include/cplkeywordparser.h",
+      "path_type": "hardlink",
+      "sha256": "d5475977c9ede77664725cf22dbe0d26a581ae727f0619fc760ee51a431685ff",
+      "size_in_bytes": 3007
+    },
+    {
+      "_path": "include/gdal.h",
+      "path_type": "hardlink",
+      "sha256": "e2adb44cdd29094f2c0d51fdf84fa1f2aaec01a7ce055ff6cdc794fcc47f42c5",
+      "size_in_bytes": 61823
+    },
+    {
+      "_path": "include/gdal_alg.h",
+      "path_type": "hardlink",
+      "sha256": "9c9674a1d09528525c9fb77a63bd2d633984a924150f27d5def24de5ef1425a6",
+      "size_in_bytes": 26947
+    },
+    {
+      "_path": "include/gdal_alg_priv.h",
+      "path_type": "hardlink",
+      "sha256": "9e88d05496de4ef6538a7e06fbebb99924fe51f0d890ba1c9b16e13aec9508d7",
+      "size_in_bytes": 9780
+    },
+    {
+      "_path": "include/gdal_csv.h",
+      "path_type": "hardlink",
+      "sha256": "5d499097bf07da593ad6bdefa9a7071c2fe36a6083824e0b74fd14952612afd2",
+      "size_in_bytes": 1931
+    },
+    {
+      "_path": "include/gdal_frmts.h",
+      "path_type": "hardlink",
+      "sha256": "c3ea44c82b6ad8bd3daa40594ae8967be4d5dcf021f5617b9173db36ee752b04",
+      "size_in_bytes": 8291
+    },
+    {
+      "_path": "include/gdal_mdreader.h",
+      "path_type": "hardlink",
+      "sha256": "6fc866dd62e698143e4dba85661a89718a1426b7a5e7cf8a7ce6337db2d407de",
+      "size_in_bytes": 9275
+    },
+    {
+      "_path": "include/gdal_pam.h",
+      "path_type": "hardlink",
+      "sha256": "751b24c4eae25228e66dac6ddb977434e105956eb0f70bef6571461252470694",
+      "size_in_bytes": 13267
+    },
+    {
+      "_path": "include/gdal_priv.h",
+      "path_type": "hardlink",
+      "sha256": "985260666e0fae0807297e620d170036f508953a6ba550abc213c896d485e745",
+      "size_in_bytes": 72368
+    },
+    {
+      "_path": "include/gdal_proxy.h",
+      "path_type": "hardlink",
+      "sha256": "9ab29b32a2b6642aeaf0f34a26ea42ff4dbe6d49439d3f8d04ce003d06aab33e",
+      "size_in_bytes": 18582
+    },
+    {
+      "_path": "include/gdal_rat.h",
+      "path_type": "hardlink",
+      "sha256": "656fe4fe22a4691c1f16c40fc4e21ab475b0b37c7835e89aad58a9c093b4593a",
+      "size_in_bytes": 14854
+    },
+    {
+      "_path": "include/gdal_simplesurf.h",
+      "path_type": "hardlink",
+      "sha256": "eed3549eb064e62edebadd812361e78cf1fc1fd359d0837287c1e1c2810a49fb",
+      "size_in_bytes": 17776
+    },
+    {
+      "_path": "include/gdal_utils.h",
+      "path_type": "hardlink",
+      "sha256": "41692daa248aae3979916c8da30811a9c5c36df542a5c4fc3935f8c912abcc8e",
+      "size_in_bytes": 10292
+    },
+    {
+      "_path": "include/gdal_version.h",
+      "path_type": "hardlink",
+      "sha256": "9ba52c68000f411dccfc855e7130b926ff6b970ac375a45119377b54fa5e6d8e",
+      "size_in_bytes": 1193
+    },
+    {
+      "_path": "include/gdal_vrt.h",
+      "path_type": "hardlink",
+      "sha256": "946c6cd4a24ccb24c9ec3e2eb82f882739fa67f35f651d5e32024ea763e994ac",
+      "size_in_bytes": 4812
+    },
+    {
+      "_path": "include/gdalgeorefpamdataset.h",
+      "path_type": "hardlink",
+      "sha256": "da60c76946e3334d3a0ba133d4708eed142c04441138790cbe0d4c07037d3d01",
+      "size_in_bytes": 3823
+    },
+    {
+      "_path": "include/gdalgrid.h",
+      "path_type": "hardlink",
+      "sha256": "d64bd61c9a4ae5822acd5ab9e6a0339e28d13077b71aeb6ae1e424e08e7b38f8",
+      "size_in_bytes": 6046
+    },
+    {
+      "_path": "include/gdalgrid_priv.h",
+      "path_type": "hardlink",
+      "sha256": "01e1d45961dc9b96842480246f0b09927c4aba6cf88b74518bcf50495365365b",
+      "size_in_bytes": 3853
+    },
+    {
+      "_path": "include/gdaljp2abstractdataset.h",
+      "path_type": "hardlink",
+      "sha256": "3bfabddfb8a1ac46208b7e94b15fb4c1d6f1a132079ea6e902e424245988bd9d",
+      "size_in_bytes": 2697
+    },
+    {
+      "_path": "include/gdaljp2metadata.h",
+      "path_type": "hardlink",
+      "sha256": "d9b2fb2659a7ca147de28887e6f6560898db3e2e751abf54b317f9c5c36e186d",
+      "size_in_bytes": 7598
+    },
+    {
+      "_path": "include/gdalpansharpen.h",
+      "path_type": "hardlink",
+      "sha256": "cf14a08085ad2f4c9f3fe590db55345265d695c8e2b6f9c88f9a6b2bb0528a9c",
+      "size_in_bytes": 12680
+    },
+    {
+      "_path": "include/gdalwarper.h",
+      "path_type": "hardlink",
+      "sha256": "eff8adb2f765d5bf4906164a95cd28887b38ccff482f620a5338a01d715bc735",
+      "size_in_bytes": 24009
+    },
+    {
+      "_path": "include/gnm.h",
+      "path_type": "hardlink",
+      "sha256": "709bbe91e7cc4a6c1e0686967cd40fcb602264d10a5bed9df96853578b36161a",
+      "size_in_bytes": 29211
+    },
+    {
+      "_path": "include/gnm_api.h",
+      "path_type": "hardlink",
+      "sha256": "d8cec6b8cf03990b2ced26ae432de483f2ab398f32a08dea6223571325b717d0",
+      "size_in_bytes": 4731
+    },
+    {
+      "_path": "include/gnmgraph.h",
+      "path_type": "hardlink",
+      "sha256": "228a9c490b411b146d0d048058e9284d7258ec42c5aaf931c07c9ee563f5a52d",
+      "size_in_bytes": 9832
+    },
+    {
+      "_path": "include/memdataset.h",
+      "path_type": "hardlink",
+      "sha256": "b14bc6b8e777ee6f1132cfe6c0c978979c4381bfd6b32cd1f7f2c5d4c414b90f",
+      "size_in_bytes": 9439
+    },
+    {
+      "_path": "include/ogr_api.h",
+      "path_type": "hardlink",
+      "sha256": "d2777a0c6af6a4a89ce4e31e093321f89dd3eb9f5f3240f57b7590dfa9be73bb",
+      "size_in_bytes": 38786
+    },
+    {
+      "_path": "include/ogr_core.h",
+      "path_type": "hardlink",
+      "sha256": "676441b784ce7098f99114fc7ef775e1d72890f1a54f0989a58d59ea728a9ba6",
+      "size_in_bytes": 38220
+    },
+    {
+      "_path": "include/ogr_feature.h",
+      "path_type": "hardlink",
+      "sha256": "c6f4cd17202d494a2adc4dea3062549df9372d3c5c59c6efff67094710d34222",
+      "size_in_bytes": 36496
+    },
+    {
+      "_path": "include/ogr_featurestyle.h",
+      "path_type": "hardlink",
+      "sha256": "a33b68e7dae3245293a33609fcf33445fca3ebf06baba8d0b809cef0168702e0",
+      "size_in_bytes": 19944
+    },
+    {
+      "_path": "include/ogr_geocoding.h",
+      "path_type": "hardlink",
+      "sha256": "f463426bfab327cafdfa2d32c89168011499700d6949f44c48a1cd85e2e76abe",
+      "size_in_bytes": 2633
+    },
+    {
+      "_path": "include/ogr_geometry.h",
+      "path_type": "hardlink",
+      "sha256": "9fc734b024446ca7d8c88b1ca3aa36d700a45786f768d735b0758c6c7afbe92a",
+      "size_in_bytes": 117194
+    },
+    {
+      "_path": "include/ogr_p.h",
+      "path_type": "hardlink",
+      "sha256": "81ec965037f0a3cb045cd0f522e6b807c5d8f99159bd3b031f4529c45bf3a90b",
+      "size_in_bytes": 8475
+    },
+    {
+      "_path": "include/ogr_spatialref.h",
+      "path_type": "hardlink",
+      "sha256": "857d2b2e7f6a8b0350d385e25867ebd10eedc5d4953554a8f2d9930379630609",
+      "size_in_bytes": 33749
+    },
+    {
+      "_path": "include/ogr_srs_api.h",
+      "path_type": "hardlink",
+      "sha256": "f2513d9b786e220c39ff04a8cc7c7b68484b8b26dd0ba9c9c8011d7754fc5810",
+      "size_in_bytes": 50362
+    },
+    {
+      "_path": "include/ogrsf_frmts.h",
+      "path_type": "hardlink",
+      "sha256": "2bf20303c25e3ad341f58218a5bd23401b63faf6a68730eb111800c3131e5cdf",
+      "size_in_bytes": 20712
+    },
+    {
+      "_path": "include/rawdataset.h",
+      "path_type": "hardlink",
+      "sha256": "7dc1deebd4324d90be0008497f13f38b46806472f0b265bf76c11860f1e9e0f0",
+      "size_in_bytes": 7383
+    },
+    {
+      "_path": "include/vrtdataset.h",
+      "path_type": "hardlink",
+      "sha256": "85f1f248f6ddfdb95da1cdfc82f898c2e62230007034698f52b3820153596e3c",
+      "size_in_bytes": 51820
+    },
+    {
+      "_path": "lib/libgdal.a",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/gdal-split_1584155650231/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "f47c7a9e6da5883f73998a60f8e33a4ef4fb28b517b627af41e12c498bee0fc7",
+      "size_in_bytes": 51979998
+    },
+    {
+      "_path": "lib/libgdal.so",
+      "path_type": "softlink",
+      "sha256": "c85e56c3c76e8b7ccbf808cd8e57be4b1f4c81d1b258e970e99a7b0c553415e8",
+      "size_in_bytes": 23751904
+    },
+    {
+      "_path": "lib/libgdal.so.26",
+      "path_type": "softlink",
+      "sha256": "c85e56c3c76e8b7ccbf808cd8e57be4b1f4c81d1b258e970e99a7b0c553415e8",
+      "size_in_bytes": 23751904
+    },
+    {
+      "_path": "lib/libgdal.so.26.0.4",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/gdal-split_1584155650231/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "c85e56c3c76e8b7ccbf808cd8e57be4b1f4c81d1b258e970e99a7b0c553415e8",
+      "size_in_bytes": 23751904
+    },
+    {
+      "_path": "lib/pkgconfig/gdal.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/gdal-split_1584155650231/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+      "sha256": "cd5293251fce273b39c93bfcd6c42082d938fd9dfae84e7a78eb7c6f7bfe312b",
+      "size_in_bytes": 1437
+    },
+    {
+      "_path": "share/gdal/GDALLogoBW.svg",
+      "path_type": "hardlink",
+      "sha256": "aac9dab33d479e0b832b8bd7c9e5510dcbef34a7c6cc9aea96bbe2aab5161c53",
+      "size_in_bytes": 13022
+    },
+    {
+      "_path": "share/gdal/GDALLogoColor.svg",
+      "path_type": "hardlink",
+      "sha256": "2c102a31c6e9116aa9b98787d8bf5cf648dbcc2b930aee653cd35df65ed118d0",
+      "size_in_bytes": 12305
+    },
+    {
+      "_path": "share/gdal/GDALLogoGS.svg",
+      "path_type": "hardlink",
+      "sha256": "1ae6e2d92e6b0439f3baee0cb55dad8b97abfb4fcc58c9189b23b63c818aeeca",
+      "size_in_bytes": 12305
+    },
+    {
+      "_path": "share/gdal/LICENSE.TXT",
+      "path_type": "hardlink",
+      "sha256": "b82e6cca0b13f5db2f22ab667f22254fb1f4b135ea73d5bd6238ef89aff31f6c",
+      "size_in_bytes": 18164
+    },
+    {
+      "_path": "share/gdal/bag_template.xml",
+      "path_type": "hardlink",
+      "sha256": "daf7816f686c35b51ec66c90fc6aedbf12dbef97f28f9fae9731392f92afb733",
+      "size_in_bytes": 9020
+    },
+    {
+      "_path": "share/gdal/cubewerx_extra.wkt",
+      "path_type": "hardlink",
+      "sha256": "1cca3fa3e249f4cc7d1bf0ffb0a71a1a2afadd10afdf7ed0aa292dbc5e4f0768",
+      "size_in_bytes": 11977
+    },
+    {
+      "_path": "share/gdal/default.rsc",
+      "path_type": "hardlink",
+      "sha256": "9e1c9d7081d52775e750d4155d49255252b04ca81fef27cb2997675d3cd9626b",
+      "size_in_bytes": 463632
+    },
+    {
+      "_path": "share/gdal/ecw_cs.wkt",
+      "path_type": "hardlink",
+      "sha256": "8e6354a762e8cd82e4c8da1117503e17f487f7b4585ac2cef2d811103e241ac6",
+      "size_in_bytes": 363717
+    },
+    {
+      "_path": "share/gdal/eedaconf.json",
+      "path_type": "hardlink",
+      "sha256": "13cd9d27fca19dc9e3103ee7f78286310a4bdb2b2d83d916391d7b316d8e2d35",
+      "size_in_bytes": 379
+    },
+    {
+      "_path": "share/gdal/epsg.wkt",
+      "path_type": "hardlink",
+      "sha256": "e50895e9061aba6dd1588f06a088872aa562a8d98716588bc1a420189dcb254c",
+      "size_in_bytes": 27
+    },
+    {
+      "_path": "share/gdal/esri_StatePlane_extra.wkt",
+      "path_type": "hardlink",
+      "sha256": "682df1b231cb6f1287685d4c64bf1b2611c0af43c30483473bbb366ce1bd8d33",
+      "size_in_bytes": 332546
+    },
+    {
+      "_path": "share/gdal/gdalicon.png",
+      "path_type": "hardlink",
+      "sha256": "d90f50a8f74c325086c867bf006a92266c259a270d9166b2f41f586b67755729",
+      "size_in_bytes": 2021
+    },
+    {
+      "_path": "share/gdal/gdalvrt.xsd",
+      "path_type": "hardlink",
+      "sha256": "197e93678409e45b32975eeeacb70068de61b111f7267011e9e8aa8bdfcf9e81",
+      "size_in_bytes": 21232
+    },
+    {
+      "_path": "share/gdal/gml_registry.xml",
+      "path_type": "hardlink",
+      "sha256": "dab571b2a74e4b6de27a0fde62d34887141ca456d11caacdd75a166b2de5a743",
+      "size_in_bytes": 6643
+    },
+    {
+      "_path": "share/gdal/gmlasconf.xml",
+      "path_type": "hardlink",
+      "sha256": "200939d2ef87de4df80e6ebf30908c60e9654e0bfc6b79c7ae4ea8a9447db76e",
+      "size_in_bytes": 7432
+    },
+    {
+      "_path": "share/gdal/gmlasconf.xsd",
+      "path_type": "hardlink",
+      "sha256": "a2f5290d7f0d98aaa5a542ccc5b84344c00508ddcf31630bc028bfe4ba9e6434",
+      "size_in_bytes": 48744
+    },
+    {
+      "_path": "share/gdal/gt_datum.csv",
+      "path_type": "hardlink",
+      "sha256": "dd0722e59b04d5da58409bceaec4436ec726306446bd6477ecbaa819c58f056d",
+      "size_in_bytes": 15804
+    },
+    {
+      "_path": "share/gdal/gt_ellips.csv",
+      "path_type": "hardlink",
+      "sha256": "c10676c298140d70248045e0c22d73e34c5cf85db359167374367d493ffa7cf4",
+      "size_in_bytes": 1719
+    },
+    {
+      "_path": "share/gdal/header.dxf",
+      "path_type": "hardlink",
+      "sha256": "11c47d822048a37b8fee1118f35ef457d016e37d49f82eca3efc6947ced0ccda",
+      "size_in_bytes": 7357
+    },
+    {
+      "_path": "share/gdal/inspire_cp_BasicPropertyUnit.gfs",
+      "path_type": "hardlink",
+      "sha256": "286d7b67c2fa3a5c321d439f83193bc06e0c6a0a6536838e79f151678ab5471c",
+      "size_in_bytes": 1740
+    },
+    {
+      "_path": "share/gdal/inspire_cp_CadastralBoundary.gfs",
+      "path_type": "hardlink",
+      "sha256": "55963c9317f76508f5b64729e6057a230f1f5fc9473851f1031f99c50b1aeb86",
+      "size_in_bytes": 1650
+    },
+    {
+      "_path": "share/gdal/inspire_cp_CadastralParcel.gfs",
+      "path_type": "hardlink",
+      "sha256": "6f14b49b1694abfe191f1d45c84c6e62678866e3941dc53f095e0ec6cfa30e24",
+      "size_in_bytes": 2450
+    },
+    {
+      "_path": "share/gdal/inspire_cp_CadastralZoning.gfs",
+      "path_type": "hardlink",
+      "sha256": "7b5182fbca4b8d9ea073e398d085037792cbd9444d1dc6b3596fa2ed030b4cfa",
+      "size_in_bytes": 4812
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_AdmArea.gfs",
+      "path_type": "hardlink",
+      "sha256": "13ee375bb8bc98152d97284f645b61bd135530c64f418b38587b9eb1eef90770",
+      "size_in_bytes": 1640
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_AdmBdry.gfs",
+      "path_type": "hardlink",
+      "sha256": "68bec4b06bfc5b49ae5e92b307e37769881cfb579dd4c2cad668d800b0b15d87",
+      "size_in_bytes": 1382
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_AdmPt.gfs",
+      "path_type": "hardlink",
+      "sha256": "fd4198972d31a3446526e76511aa77cb5609c5da27fdfe21e0da100e047b0010",
+      "size_in_bytes": 1633
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_BldA.gfs",
+      "path_type": "hardlink",
+      "sha256": "afe1e3130edb8c3e1f42ef83c0f14ae218b7eeda9526147d8fd242d503134fa9",
+      "size_in_bytes": 1501
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_BldL.gfs",
+      "path_type": "hardlink",
+      "sha256": "13dd6c1acdc89548f738d22e8786aa0408cba7c041f4b334fc04b4e44295169f",
+      "size_in_bytes": 1503
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_Cntr.gfs",
+      "path_type": "hardlink",
+      "sha256": "f53dc458d87b3d972604d31d2092e43a5a86807cfde7d7f48db09e33b2bac24e",
+      "size_in_bytes": 1501
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_CommBdry.gfs",
+      "path_type": "hardlink",
+      "sha256": "19f9b465633c3debea19875e73387b970331b329cb97efc29f2e44d701bad255",
+      "size_in_bytes": 1384
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_CommPt.gfs",
+      "path_type": "hardlink",
+      "sha256": "038d64f0e24aad6ab0e8df823efc9d949d0a134ecf8eb491f0308e3eb9ae61b3",
+      "size_in_bytes": 1635
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_Cstline.gfs",
+      "path_type": "hardlink",
+      "sha256": "59d7cc2fb9cf3f8cbe5232a81661aa101bc2d7b0c56cb71886bb5b59514f849e",
+      "size_in_bytes": 1509
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_ElevPt.gfs",
+      "path_type": "hardlink",
+      "sha256": "b2a0bd2c6881fb6198d78864f1444975ec2cd0b4a0b0a5621fc838f9ace4ef00",
+      "size_in_bytes": 1500
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_GCP.gfs",
+      "path_type": "hardlink",
+      "sha256": "9bfdfc0e4387170f01c24d786eb06066476f2e36d7d4bcf050c48166ad5d3247",
+      "size_in_bytes": 2523
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_LeveeEdge.gfs",
+      "path_type": "hardlink",
+      "sha256": "a7a918dc798713623937bd86a42d08c79cb40fc6adfb81a9eb212e96c991d891",
+      "size_in_bytes": 1386
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_RailCL.gfs",
+      "path_type": "hardlink",
+      "sha256": "4ce8cb56a3418192ceb1bf26f2760d1c7340015bac32f58c58658669f326540c",
+      "size_in_bytes": 1507
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_RdASL.gfs",
+      "path_type": "hardlink",
+      "sha256": "94cb6c9cbf96647c63deb52bb0fd4be3d9afe0c619b20b7dfba75e752e1356b3",
+      "size_in_bytes": 1251
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_RdArea.gfs",
+      "path_type": "hardlink",
+      "sha256": "de901847ae59461232c05f253360fc7c9b6c2cd2f445b6d4832b7f78f1acc5ec",
+      "size_in_bytes": 1515
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_RdCompt.gfs",
+      "path_type": "hardlink",
+      "sha256": "a0d80f94966d4e36800db214d34e6aaffd7b8aa9e6a42ec90431d2acf7e44c08",
+      "size_in_bytes": 1646
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_RdEdg.gfs",
+      "path_type": "hardlink",
+      "sha256": "f3f434940cf62093de6a6fc0cf87f38b9afc3310cbacc5bbefd1f66c52acd1bd",
+      "size_in_bytes": 1642
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_RdMgtBdry.gfs",
+      "path_type": "hardlink",
+      "sha256": "fc3d9286cfbda69902a04726544bb9a48b2180cb4dda817a44f6204e899602fc",
+      "size_in_bytes": 1386
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_RdSgmtA.gfs",
+      "path_type": "hardlink",
+      "sha256": "73d937c106234c43bb9073b8c8b6cbe0175de921cb5588262a687adee51795b7",
+      "size_in_bytes": 1644
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_RvrMgtBdry.gfs",
+      "path_type": "hardlink",
+      "sha256": "77f6caad076a3eab3bc7ef8464808954ac8ad518d7f910711daabe45fc43f6bf",
+      "size_in_bytes": 1388
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_SBAPt.gfs",
+      "path_type": "hardlink",
+      "sha256": "a5eb7f357c7bc9921fd3ed7f576c5b1efa4f3fa716834364b48b860bfb7dd45d",
+      "size_in_bytes": 1375
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_SBArea.gfs",
+      "path_type": "hardlink",
+      "sha256": "8732f2b86ab3f84f37bd5c87a99e735492e596c4aa92f2ac8debd511c4b2ac11",
+      "size_in_bytes": 1507
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_SBBdry.gfs",
+      "path_type": "hardlink",
+      "sha256": "2abc491f475c05604593c34a5a7667de99d44e1cc437e67b582919bfe693b932",
+      "size_in_bytes": 1253
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_WA.gfs",
+      "path_type": "hardlink",
+      "sha256": "3f899da9b40ecbdc5c150f3d26daf2b696f04f019ecc13a7505fba77313412ba",
+      "size_in_bytes": 1497
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_WL.gfs",
+      "path_type": "hardlink",
+      "sha256": "aeeb1dec07388bfa85cf7f1a1f838f53a81e677999b62f8a4f80422f341d72ec",
+      "size_in_bytes": 1499
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_WStrA.gfs",
+      "path_type": "hardlink",
+      "sha256": "8a5e7065f0290f1b740cab53cf4c45d1b0e88dea3a68612a82392828ab1823cb",
+      "size_in_bytes": 1503
+    },
+    {
+      "_path": "share/gdal/jpfgdgml_WStrL.gfs",
+      "path_type": "hardlink",
+      "sha256": "83b6c508bc3b3eb8f23eebdf48c6a36b34b26be8d720a3a99f060e3409185689",
+      "size_in_bytes": 1505
+    },
+    {
+      "_path": "share/gdal/netcdf_config.xsd",
+      "path_type": "hardlink",
+      "sha256": "0759d3529544f7a4fbc4dee38c9170eab7427a80d90d2ea0a0358bafdeda7fd2",
+      "size_in_bytes": 7585
+    },
+    {
+      "_path": "share/gdal/nitf_spec.xml",
+      "path_type": "hardlink",
+      "sha256": "d9f54f6fa0209bae51047a3befcbd9a186a4cebf618989e9bb34061d354aa0a4",
+      "size_in_bytes": 95917
+    },
+    {
+      "_path": "share/gdal/nitf_spec.xsd",
+      "path_type": "hardlink",
+      "sha256": "e458aacd4c62b6a51d8a3cdce786a50fb0bd77b650b789cd13c57c8c461f913a",
+      "size_in_bytes": 6184
+    },
+    {
+      "_path": "share/gdal/ogrvrt.xsd",
+      "path_type": "hardlink",
+      "sha256": "cb198ad582727e0199bcf767081f20cc4701eafd2d6a0326af0b11f534a59a96",
+      "size_in_bytes": 25752
+    },
+    {
+      "_path": "share/gdal/osmconf.ini",
+      "path_type": "hardlink",
+      "sha256": "4340ccc37f40398b1508adc52b9b9166bd2df8c57b4e93d26bc01507dd6e8e83",
+      "size_in_bytes": 4879
+    },
+    {
+      "_path": "share/gdal/ozi_datum.csv",
+      "path_type": "hardlink",
+      "sha256": "e3678e3f144084aeb3488c2e1ae2247f07a841f501a89e7225ae9dd9bfb19868",
+      "size_in_bytes": 8482
+    },
+    {
+      "_path": "share/gdal/ozi_ellips.csv",
+      "path_type": "hardlink",
+      "sha256": "0c8363bfdedc1787d53463d705e2e1ce8fbdfcd49d1e3c778f5d4282980d75c6",
+      "size_in_bytes": 1349
+    },
+    {
+      "_path": "share/gdal/pci_datum.txt",
+      "path_type": "hardlink",
+      "sha256": "3a240f847754d7a9c64752975e837f583bf5312f454a61fcc9611c5d63f5390b",
+      "size_in_bytes": 35105
+    },
+    {
+      "_path": "share/gdal/pci_ellips.txt",
+      "path_type": "hardlink",
+      "sha256": "60d4a950ddc976e28751b691a6680acf1c5c966ca410043220f627b7350925cc",
+      "size_in_bytes": 3466
+    },
+    {
+      "_path": "share/gdal/pdfcomposition.xsd",
+      "path_type": "hardlink",
+      "sha256": "2b056519ca12cb0272d2920942bde8613b6579dd942b02c8fbcb9c04acffeb90",
+      "size_in_bytes": 34271
+    },
+    {
+      "_path": "share/gdal/pds4_template.xml",
+      "path_type": "hardlink",
+      "sha256": "754c09db78d08fcc1e9613f2464f86a51915815d0bdec622af132b8b939c3ad7",
+      "size_in_bytes": 3452
+    },
+    {
+      "_path": "share/gdal/plscenesconf.json",
+      "path_type": "hardlink",
+      "sha256": "7167f29a5267ca943b8c2ffbc077772d0f62be41ae8eaba7176eca798b61eb16",
+      "size_in_bytes": 27704
+    },
+    {
+      "_path": "share/gdal/ruian_vf_ob_v1.gfs",
+      "path_type": "hardlink",
+      "sha256": "afbf77b20be9e82a359e630d5d9e6ab789666d21e11e8623ced4cfccd026838c",
+      "size_in_bytes": 46775
+    },
+    {
+      "_path": "share/gdal/ruian_vf_st_uvoh_v1.gfs",
+      "path_type": "hardlink",
+      "sha256": "8ecd4db08ef5ea9f07b6dce9903c7a74299238700c784b009ccda817dea89038",
+      "size_in_bytes": 2600
+    },
+    {
+      "_path": "share/gdal/ruian_vf_st_v1.gfs",
+      "path_type": "hardlink",
+      "sha256": "343787735ee46d2a8cc52519c5950c13a9c3cef1bbbdb3a95d198354435808ad",
+      "size_in_bytes": 45972
+    },
+    {
+      "_path": "share/gdal/ruian_vf_v1.gfs",
+      "path_type": "hardlink",
+      "sha256": "658b51ce5c4b972ff44688f275d288585e807eefed9c8fbac42fbc91b4d40220",
+      "size_in_bytes": 67334
+    },
+    {
+      "_path": "share/gdal/s57agencies.csv",
+      "path_type": "hardlink",
+      "sha256": "212ef7211ed83c4382ba59e2ee4437a7331713b29833bee7645c0731cabc4270",
+      "size_in_bytes": 13304
+    },
+    {
+      "_path": "share/gdal/s57attributes.csv",
+      "path_type": "hardlink",
+      "sha256": "f4b6dfe2e82fea5e7ee433e13683292a3fa09bb66750428e4b1578f99a46d2de",
+      "size_in_bytes": 20001
+    },
+    {
+      "_path": "share/gdal/s57expectedinput.csv",
+      "path_type": "hardlink",
+      "sha256": "d5b09a5c4248f3eb0906a4e3ac68d7380c86f819d70deae3662e736f0597bc6c",
+      "size_in_bytes": 20885
+    },
+    {
+      "_path": "share/gdal/s57objectclasses.csv",
+      "path_type": "hardlink",
+      "sha256": "8bf93888b0c825096645ec5c3c9fdf0a921e37dd32d09f39f89f2d60445be60a",
+      "size_in_bytes": 53304
+    },
+    {
+      "_path": "share/gdal/seed_2d.dgn",
+      "path_type": "hardlink",
+      "sha256": "dd8465f18569d9289809e9e0962115d365d0a56de021393952a5e7a0a20b527c",
+      "size_in_bytes": 9216
+    },
+    {
+      "_path": "share/gdal/seed_3d.dgn",
+      "path_type": "hardlink",
+      "sha256": "97c2f00ee6ea96873b7d16e5e898b4850e3d35448299d7d9d37e7d1792b56896",
+      "size_in_bytes": 2048
+    },
+    {
+      "_path": "share/gdal/stateplane.csv",
+      "path_type": "hardlink",
+      "sha256": "30c6210872b0a4c10d40739a8cb6beda630a7ef3eb4cb07a7128e26e8e83cbe3",
+      "size_in_bytes": 10360
+    },
+    {
+      "_path": "share/gdal/trailer.dxf",
+      "path_type": "hardlink",
+      "sha256": "e68bf8a39303d528fa19d7e88d9cee676f5ea46899cfcdc07ba6375028d2cd67",
+      "size_in_bytes": 220
+    },
+    {
+      "_path": "share/gdal/vdv452.xml",
+      "path_type": "hardlink",
+      "sha256": "071f7a47c97e3436336bcd856d3f41de8e58f798409c31801480f0bafe689752",
+      "size_in_bytes": 25904
+    },
+    {
+      "_path": "share/gdal/vdv452.xsd",
+      "path_type": "hardlink",
+      "sha256": "16fa364097e660b029bbff306b6b693c8745f5dab3b3907af07c97dd2c199a7c",
+      "size_in_bytes": 2942
+    }
+  ],
+  "paths_version": 1
+}

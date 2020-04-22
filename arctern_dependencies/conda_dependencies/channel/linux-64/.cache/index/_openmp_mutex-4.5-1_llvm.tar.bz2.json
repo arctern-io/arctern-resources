@@ -1,0 +1,1 @@
+{"build": "1_llvm", "build_number": 1, "depends": ["_libgcc_mutex 0.1 conda_forge", "llvm-openmp >=9.0.1"], "license": "BSD-3-Clause", "name": "_openmp_mutex", "subdir": "linux-64", "timestamp": 1582045300613, "version": "4.5", "size": 5187, "md5": "fa8d764c883a53d22ce622bea830c818", "sha256": "336db438c84eca10d0765ab81bd0bce677dbc0ab03c136ecf27ed05028397660"}

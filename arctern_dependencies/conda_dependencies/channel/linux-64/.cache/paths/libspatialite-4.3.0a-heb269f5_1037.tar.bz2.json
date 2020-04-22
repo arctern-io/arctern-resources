@@ -1,0 +1,169 @@
+{
+  "paths": [
+    {
+      "_path": "include/spatialite.h",
+      "path_type": "hardlink",
+      "sha256": "47873409b5ccc17fb40e84e2fb8183c161218469d3805e3a4580dd08b42cf86f",
+      "size_in_bytes": 53148
+    },
+    {
+      "_path": "include/spatialite/control_points.h",
+      "path_type": "hardlink",
+      "sha256": "e4374fde932a5173617929e893bf896e1504b6c46c37e9b83b42e57117154e9c",
+      "size_in_bytes": 8220
+    },
+    {
+      "_path": "include/spatialite/debug.h",
+      "path_type": "hardlink",
+      "sha256": "d788ff930de60aa4ae82972ba406dc850a4da145d4c68c6901f2641cb3002df5",
+      "size_in_bytes": 2601
+    },
+    {
+      "_path": "include/spatialite/gaiaaux.h",
+      "path_type": "hardlink",
+      "sha256": "2ff046fe124c4c34e2759b0201e3550d993d525da0249aa029db11bc0ada0c4f",
+      "size_in_bytes": 15215
+    },
+    {
+      "_path": "include/spatialite/gaiaexif.h",
+      "path_type": "hardlink",
+      "sha256": "75aaa5e83af27447779907ec134e9e73ae7e122d17498f20ca796eafe162cb1e",
+      "size_in_bytes": 19565
+    },
+    {
+      "_path": "include/spatialite/gaiageo.h",
+      "path_type": "hardlink",
+      "sha256": "db488da69bb938b1af6d14ad6737d3c936d3232c26d5a3ef179d51d634d09a88",
+      "size_in_bytes": 2351
+    },
+    {
+      "_path": "include/spatialite/gaiamatrix.h",
+      "path_type": "hardlink",
+      "sha256": "331a465cac0e091fa9aef378155752eb789bfa485c488a20e661442e1581555e",
+      "size_in_bytes": 9612
+    },
+    {
+      "_path": "include/spatialite/geopackage.h",
+      "path_type": "hardlink",
+      "sha256": "9413c8b6596c8b10151019cf7411d430606b8738626b72ab7a308ffcfdd4f7e2",
+      "size_in_bytes": 6834
+    },
+    {
+      "_path": "include/spatialite/gg_advanced.h",
+      "path_type": "hardlink",
+      "sha256": "16b39762c66dfa1c13ede9822f163ea8bf93260a7cdacaa037acade35c5c9404",
+      "size_in_bytes": 119863
+    },
+    {
+      "_path": "include/spatialite/gg_const.h",
+      "path_type": "hardlink",
+      "sha256": "00ea80194141c99ea851fa632822ee5988e5e4234704819e43e7bc7137f2bf29",
+      "size_in_bytes": 17705
+    },
+    {
+      "_path": "include/spatialite/gg_core.h",
+      "path_type": "hardlink",
+      "sha256": "f2382544ec6671ab151912d2ad5a7f0fff12f2f1ee657d539ac8ae13083439df",
+      "size_in_bytes": 67263
+    },
+    {
+      "_path": "include/spatialite/gg_dxf.h",
+      "path_type": "hardlink",
+      "sha256": "8940136bd90a55bcaf6170d1ff96c163083cc7ce3cbee44a476c3777d7786e4e",
+      "size_in_bytes": 28948
+    },
+    {
+      "_path": "include/spatialite/gg_dynamic.h",
+      "path_type": "hardlink",
+      "sha256": "340f7f3f93ac761c18c3da74e9853f144ee8e5dfdc6da5887d63b28634e1f89a",
+      "size_in_bytes": 13158
+    },
+    {
+      "_path": "include/spatialite/gg_formats.h",
+      "path_type": "hardlink",
+      "sha256": "9f91302fe3e0da9300d38cde4edbc87544cb64704b45888c25c30060799f3ec1",
+      "size_in_bytes": 59971
+    },
+    {
+      "_path": "include/spatialite/gg_mbr.h",
+      "path_type": "hardlink",
+      "sha256": "ea9970b954b1f38ddea520dda723ef0677143dbc67f611232aaf3d2d90051078",
+      "size_in_bytes": 14525
+    },
+    {
+      "_path": "include/spatialite/gg_structs.h",
+      "path_type": "hardlink",
+      "sha256": "f80443c55fa9f83b1b73df7d5b6160d217c74ea958826adf39ca849fa3bcae21",
+      "size_in_bytes": 23244
+    },
+    {
+      "_path": "include/spatialite/gg_wfs.h",
+      "path_type": "hardlink",
+      "sha256": "9b48feee8771b00c8b009497371c2a7e2fa5f3ce336708ee8b884421dc5dffb9",
+      "size_in_bytes": 19248
+    },
+    {
+      "_path": "include/spatialite/gg_xml.h",
+      "path_type": "hardlink",
+      "sha256": "591c866fbe5008704273568f2b69b3519c6fca7de9ed872b47807a8e612f825f",
+      "size_in_bytes": 27113
+    },
+    {
+      "_path": "include/spatialite/spatialite.h",
+      "path_type": "hardlink",
+      "sha256": "1a4f3707ea2f3d1d88428e8c97a1c1f680f606a6816298f8021e24ade4a41e76",
+      "size_in_bytes": 2607
+    },
+    {
+      "_path": "include/spatialite/sqlite.h",
+      "path_type": "hardlink",
+      "sha256": "7eb7454468e18ca83570c906286097cbc6e90056142951876f510cd50339765e",
+      "size_in_bytes": 2485
+    },
+    {
+      "_path": "lib/libspatialite.so",
+      "path_type": "softlink",
+      "sha256": "ee33646090d114b3cb63d09b0a445acbcef7e244ad310b4a53dc92f1b676adea",
+      "size_in_bytes": 5888984
+    },
+    {
+      "_path": "lib/libspatialite.so.7",
+      "path_type": "softlink",
+      "sha256": "ee33646090d114b3cb63d09b0a445acbcef7e244ad310b4a53dc92f1b676adea",
+      "size_in_bytes": 5888984
+    },
+    {
+      "_path": "lib/libspatialite.so.7.1.0",
+      "path_type": "hardlink",
+      "sha256": "ee33646090d114b3cb63d09b0a445acbcef7e244ad310b4a53dc92f1b676adea",
+      "size_in_bytes": 5888984
+    },
+    {
+      "_path": "lib/mod_spatialite.so",
+      "path_type": "softlink",
+      "sha256": "e3f1fd46d62b62d5708cf0202a51730ae35c35e45d6e9c716a2603a34ef8b32d",
+      "size_in_bytes": 5948080
+    },
+    {
+      "_path": "lib/mod_spatialite.so.7",
+      "path_type": "softlink",
+      "sha256": "e3f1fd46d62b62d5708cf0202a51730ae35c35e45d6e9c716a2603a34ef8b32d",
+      "size_in_bytes": 5948080
+    },
+    {
+      "_path": "lib/mod_spatialite.so.7.1.0",
+      "path_type": "hardlink",
+      "sha256": "e3f1fd46d62b62d5708cf0202a51730ae35c35e45d6e9c716a2603a34ef8b32d",
+      "size_in_bytes": 5948080
+    },
+    {
+      "_path": "lib/pkgconfig/spatialite.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/libspatialite_1584034312178/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+      "sha256": "dad71f6124c3c5f24928a6534046855caee006a78fcf9a6e5c6a129b065e62ef",
+      "size_in_bytes": 524
+    }
+  ],
+  "paths_version": 1
+}

@@ -1,0 +1,1 @@
+{"build": "he1b5a44_1007", "build_number": 1007, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "Custom", "name": "libffi", "subdir": "linux-64", "timestamp": 1584559351227, "version": "3.2.1", "size": 48003, "md5": "11389072d7d6036fd811c3d9460475cd", "sha256": "992246df63724484e9ee8652ce3ca0237f707961beab8b813096bbc647cf84f4"}

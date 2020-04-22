@@ -1,0 +1,1 @@
+{"build": "conda_forge", "build_number": 0, "depends": [], "license": "None", "name": "_libgcc_mutex", "subdir": "linux-64", "timestamp": 1578324546067, "version": "0.1", "size": 2562, "md5": "d7c89558ba9fa0495403155b64376d81", "sha256": "fe51de6107f9edc7aa4f786a70f4a883943bc9d39b3bb7307c04c41410990726"}

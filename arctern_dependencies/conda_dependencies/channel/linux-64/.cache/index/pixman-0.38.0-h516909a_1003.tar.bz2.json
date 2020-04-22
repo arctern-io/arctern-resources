@@ -1,0 +1,1 @@
+{"build": "h516909a_1003", "build_number": 1003, "depends": ["libgcc-ng >=7.3.0"], "license": "MIT", "name": "pixman", "subdir": "linux-64", "timestamp": 1554689690001, "version": "0.38.0", "size": 607772, "md5": "7c0b1414e5af196415f7808fbd704143", "sha256": "60ef8a4bb9672a15c188ac1d7f722c78b909752e258e66732228f97f7b382f30"}

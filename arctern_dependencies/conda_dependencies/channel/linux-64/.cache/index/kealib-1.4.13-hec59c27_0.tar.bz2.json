@@ -1,0 +1,1 @@
+{"build": "hec59c27_0", "build_number": 0, "depends": ["hdf5 >=1.10.5,<1.10.6.0a0", "libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "MIT", "name": "kealib", "subdir": "linux-64", "timestamp": 1585883550567, "version": "1.4.13", "size": 176437, "md5": "b72884a415c3b6d694914fa069bf43c4", "sha256": "5e26cf7659ec18ff2c323dcc8b294a45cc036ebb23d401e734545cd970565ac2"}

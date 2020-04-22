@@ -1,0 +1,1109 @@
+{
+  "paths": [
+    {
+      "_path": "bin/pdfdetach",
+      "path_type": "hardlink",
+      "sha256": "3fe32559aa160a2847dd953a089c674ca2adf404e1bd89a7897f69a2714aa56a",
+      "size_in_bytes": 382760
+    },
+    {
+      "_path": "bin/pdffonts",
+      "path_type": "hardlink",
+      "sha256": "622891aa21ee4da25ae29c0410f37635c73d5a88f7629be1a6a01876866508c9",
+      "size_in_bytes": 396784
+    },
+    {
+      "_path": "bin/pdfimages",
+      "path_type": "hardlink",
+      "sha256": "c3d78c0fe4ed09d51fb19fb1c7463540ec761f749ecd77f721cd3d89485e4731",
+      "size_in_bytes": 728472
+    },
+    {
+      "_path": "bin/pdfinfo",
+      "path_type": "hardlink",
+      "sha256": "f8c063fc9ef9b1cfc173c8e26ff402a5c1735ce23a0cb327ff0ebab6ac898bc2",
+      "size_in_bytes": 840016
+    },
+    {
+      "_path": "bin/pdfseparate",
+      "path_type": "hardlink",
+      "sha256": "334bb7534ecc2bde78f4f375cfcf3396f3528a2dd410b376f77597cbef243674",
+      "size_in_bytes": 371672
+    },
+    {
+      "_path": "bin/pdftocairo",
+      "path_type": "hardlink",
+      "sha256": "5a92a110b9261a12204034735a2483223c62200034fa4bc4234591bd5c4d2b2b",
+      "size_in_bytes": 1237544
+    },
+    {
+      "_path": "bin/pdftohtml",
+      "path_type": "hardlink",
+      "sha256": "4342729170c73fe9cdbe992ffb284b6d690fb500051b73127f9d98ead4b10e43",
+      "size_in_bytes": 1065712
+    },
+    {
+      "_path": "bin/pdftoppm",
+      "path_type": "hardlink",
+      "sha256": "b321b686127165f385e1614e0bf6dcf174b651c3fcd5a204a5e46490425812bb",
+      "size_in_bytes": 404960
+    },
+    {
+      "_path": "bin/pdftops",
+      "path_type": "hardlink",
+      "sha256": "212e9df99ac96ccc308c6b4d6427f25aa88c4b4d593c016d78676f81528042f2",
+      "size_in_bytes": 436576
+    },
+    {
+      "_path": "bin/pdftotext",
+      "path_type": "hardlink",
+      "sha256": "d85c5c1549a72a4be41e08b934da081f62292f3b9a4d2b46613e16517d515ccb",
+      "size_in_bytes": 567504
+    },
+    {
+      "_path": "bin/pdfunite",
+      "path_type": "hardlink",
+      "sha256": "9ab34969390c712a7345816b9f6a81c10466dd4ff106b9f390fe77704fcca460",
+      "size_in_bytes": 502440
+    },
+    {
+      "_path": "include/poppler/Annot.h",
+      "path_type": "hardlink",
+      "sha256": "b3408c6912b0f596a1391141c08367dfe1421e8d422cbeb200c160e3703849dd",
+      "size_in_bytes": 51057
+    },
+    {
+      "_path": "include/poppler/Array.h",
+      "path_type": "hardlink",
+      "sha256": "3d71ee3cd19f37b2d33814eb01b04bb5721248b0400f3677f8e883022d559c70",
+      "size_in_bytes": 2328
+    },
+    {
+      "_path": "include/poppler/BuiltinFont.h",
+      "path_type": "hardlink",
+      "sha256": "2bee7be388c922eee2c1d92602045eaf3b0fc91d7bec48e61f309acdfb00703f",
+      "size_in_bytes": 1718
+    },
+    {
+      "_path": "include/poppler/BuiltinFontTables.h",
+      "path_type": "hardlink",
+      "sha256": "68be97f8fd25e39763302428cd5827a6a736894972704cc7e60be4c1c8bf64e4",
+      "size_in_bytes": 556
+    },
+    {
+      "_path": "include/poppler/CMap.h",
+      "path_type": "hardlink",
+      "sha256": "7947de212ee925b2bc3babbae77359833c5effbff21f1289f44af3e5ae40afcf",
+      "size_in_bytes": 4802
+    },
+    {
+      "_path": "include/poppler/CachedFile.h",
+      "path_type": "hardlink",
+      "sha256": "1f962fcd4bc9afe237d8e3d6311485177383f718707c1fbdfa2ac71cc169d56c",
+      "size_in_bytes": 4052
+    },
+    {
+      "_path": "include/poppler/Catalog.h",
+      "path_type": "hardlink",
+      "sha256": "4c7408928c419e16d1114e1ae1503a9a26cd4c67e98e4b500ec8201cce1cec08",
+      "size_in_bytes": 8927
+    },
+    {
+      "_path": "include/poppler/CharCodeToUnicode.h",
+      "path_type": "hardlink",
+      "sha256": "6546b517f221d98cf869e0393143484f0a91dc9caa3ab04d186ddccf51a74116",
+      "size_in_bytes": 5003
+    },
+    {
+      "_path": "include/poppler/CharTypes.h",
+      "path_type": "hardlink",
+      "sha256": "3363f7b613009a6a9508e078109feeab3b9c552efe4f971b56eb3c3383103ef4",
+      "size_in_bytes": 526
+    },
+    {
+      "_path": "include/poppler/CompactFontTables.h",
+      "path_type": "hardlink",
+      "sha256": "42465e8f68f92ccf996b0cb464fd8eab0f65cb8fc11c215c8dcd9247d1accdda",
+      "size_in_bytes": 8959
+    },
+    {
+      "_path": "include/poppler/CurlCachedFile.h",
+      "path_type": "hardlink",
+      "sha256": "83be29461f987b57fdad66272e848926a79281f61486487f4a7b5264e4f398c5",
+      "size_in_bytes": 884
+    },
+    {
+      "_path": "include/poppler/CurlPDFDocBuilder.h",
+      "path_type": "hardlink",
+      "sha256": "e49a32f46ed0bb79f519ad22b03c687f2081739b6f89e8a234a6c52b43e0cd7a",
+      "size_in_bytes": 954
+    },
+    {
+      "_path": "include/poppler/DateInfo.h",
+      "path_type": "hardlink",
+      "sha256": "28fcf967174d696d7487680b5f1a74fe8c6fd606ada8c129823c85a0e8883a14",
+      "size_in_bytes": 1418
+    },
+    {
+      "_path": "include/poppler/Decrypt.h",
+      "path_type": "hardlink",
+      "sha256": "16a86ebc7e349b998411940ef2b957b28defc42298f57e9f5115fd3f1eb7be7e",
+      "size_in_bytes": 5044
+    },
+    {
+      "_path": "include/poppler/Dict.h",
+      "path_type": "hardlink",
+      "sha256": "883895bb983083f9bdfffcb20c6e5862aa56cd4397eaf276b00b8df368f92b9d",
+      "size_in_bytes": 3385
+    },
+    {
+      "_path": "include/poppler/Error.h",
+      "path_type": "hardlink",
+      "sha256": "124ede056c18b09dec133cc41089d7e349978a4c806481ea0cbe7f36827d3eff",
+      "size_in_bytes": 2226
+    },
+    {
+      "_path": "include/poppler/ErrorCodes.h",
+      "path_type": "hardlink",
+      "sha256": "fc76ff54530135084176877c08378d7abfe186b592820798db328cf320e0290c",
+      "size_in_bytes": 1628
+    },
+    {
+      "_path": "include/poppler/FileSpec.h",
+      "path_type": "hardlink",
+      "sha256": "58ab100f5558ce5173286bfe92338bbcccea2f91a51235e1186d9660d26ff4e2",
+      "size_in_bytes": 2257
+    },
+    {
+      "_path": "include/poppler/FontEncodingTables.h",
+      "path_type": "hardlink",
+      "sha256": "2c5852917af887ac7c3f64823c6f5a4f42272e9a001e720da022903e50ac1a5a",
+      "size_in_bytes": 564
+    },
+    {
+      "_path": "include/poppler/FontInfo.h",
+      "path_type": "hardlink",
+      "sha256": "3111e7c17fe9361ea3b84c52c8fa40d571c86b715f7e990f0428047e0dee851b",
+      "size_in_bytes": 2522
+    },
+    {
+      "_path": "include/poppler/Form.h",
+      "path_type": "hardlink",
+      "sha256": "56715b59bad4699327f9997d14b633a8d30d22fd4bc1431e5b58c8600b9d4652",
+      "size_in_bytes": 18707
+    },
+    {
+      "_path": "include/poppler/Function.h",
+      "path_type": "hardlink",
+      "sha256": "50348a5e2eb5094703248847449817a5f4bc52a77ffedda9baebb210563da3ff",
+      "size_in_bytes": 7626
+    },
+    {
+      "_path": "include/poppler/Gfx.h",
+      "path_type": "hardlink",
+      "sha256": "d799a1afadeaad0c36da247a52035b7724d402460e66a1b5fed86aa9f17b7269",
+      "size_in_bytes": 13599
+    },
+    {
+      "_path": "include/poppler/GfxFont.h",
+      "path_type": "hardlink",
+      "sha256": "1ca3c034eb867ffbea96df46ff1c63c4eb8010c6cf5435211264cf06649ea4b4",
+      "size_in_bytes": 14526
+    },
+    {
+      "_path": "include/poppler/GfxState.h",
+      "path_type": "hardlink",
+      "sha256": "016685a27aaa838af25327a603e9d1ad551d99d2038546361e8777389555e2a9",
+      "size_in_bytes": 57098
+    },
+    {
+      "_path": "include/poppler/GfxState_helpers.h",
+      "path_type": "hardlink",
+      "sha256": "e92d42a2a239a0921afb514454f472128405f05bdc1ad465a92aa8277e9d3703",
+      "size_in_bytes": 2412
+    },
+    {
+      "_path": "include/poppler/GlobalParams.h",
+      "path_type": "hardlink",
+      "sha256": "2a00d298a5b74845ac87cc441a223209f5f5949233d2b8eaf1c67c565a39343f",
+      "size_in_bytes": 8264
+    },
+    {
+      "_path": "include/poppler/Hints.h",
+      "path_type": "hardlink",
+      "sha256": "de2a308b6caf39f245c60a1a8f3089ca91a6d0939d63f97f38074f09dc2e56af",
+      "size_in_bytes": 2146
+    },
+    {
+      "_path": "include/poppler/JArithmeticDecoder.h",
+      "path_type": "hardlink",
+      "sha256": "15a249a7ee326a2b8e413cfd28d642fdb8ac666e44948799976055fb47e82264",
+      "size_in_bytes": 3598
+    },
+    {
+      "_path": "include/poppler/JBIG2Stream.h",
+      "path_type": "hardlink",
+      "sha256": "0f266d4bf8178935b93888e011b71da2ea93e375a6283162160943b5cb3f0e3f",
+      "size_in_bytes": 5623
+    },
+    {
+      "_path": "include/poppler/JPEG2000Stream.h",
+      "path_type": "hardlink",
+      "sha256": "058d4f7f224ca9355b52f3776a821e05e4ceb211cd93d9093415968bc014d0a9",
+      "size_in_bytes": 1474
+    },
+    {
+      "_path": "include/poppler/Lexer.h",
+      "path_type": "hardlink",
+      "sha256": "0e5290f88d4428e771e7b4d640c3d318242a960a4eb4a20bc9e0d28745147189",
+      "size_in_bytes": 3356
+    },
+    {
+      "_path": "include/poppler/Linearization.h",
+      "path_type": "hardlink",
+      "sha256": "1b0c8f2be6f45c44c4bb6f7b47731b9585a09624234deff4b3d95ff7ec06401e",
+      "size_in_bytes": 942
+    },
+    {
+      "_path": "include/poppler/Link.h",
+      "path_type": "hardlink",
+      "sha256": "52c556f8e3d9a21bc4ec38ab443a1427c9b6cb5615ea64e7ad62b1366641bdee",
+      "size_in_bytes": 15364
+    },
+    {
+      "_path": "include/poppler/LocalPDFDocBuilder.h",
+      "path_type": "hardlink",
+      "sha256": "e09123d5714d3783d1cb12d8db5a5319ea25e978e010c6badc242b5936db39ac",
+      "size_in_bytes": 977
+    },
+    {
+      "_path": "include/poppler/MarkedContentOutputDev.h",
+      "path_type": "hardlink",
+      "sha256": "8716dc0667620a5ac41031b638cd2df106b66412e42227bca224296552d7c4d6",
+      "size_in_bytes": 3219
+    },
+    {
+      "_path": "include/poppler/Movie.h",
+      "path_type": "hardlink",
+      "sha256": "97c7ca74fba1f20a561f1227296ec8c5f708d4ce7555a77c6c9332081081d7c3",
+      "size_in_bytes": 3505
+    },
+    {
+      "_path": "include/poppler/NameToCharCode.h",
+      "path_type": "hardlink",
+      "sha256": "b668fd7904de4c65e0b8b468b5a4e33ec718fe8a9793e4138fb86a88f04fd906",
+      "size_in_bytes": 1369
+    },
+    {
+      "_path": "include/poppler/NameToUnicodeTable.h",
+      "path_type": "hardlink",
+      "sha256": "98571faba37c6ce913436e1a3ee3bfce7aaeb9dd1deec15bb432880d1d3b8bd8",
+      "size_in_bytes": 121814
+    },
+    {
+      "_path": "include/poppler/Object.h",
+      "path_type": "hardlink",
+      "sha256": "211345a7ef5dd71e9a0127b9ce18844b2e6147c5ff7917195b0c06cea0c7a519",
+      "size_in_bytes": 15307
+    },
+    {
+      "_path": "include/poppler/OptionalContent.h",
+      "path_type": "hardlink",
+      "sha256": "193df6afc38370ae0c142d6362f2de3d3018bf9da6b4311794cddd35d0b3f154",
+      "size_in_bytes": 3795
+    },
+    {
+      "_path": "include/poppler/Outline.h",
+      "path_type": "hardlink",
+      "sha256": "927884815929ef41e9fef6c672479e3598536e27974103f71a84ffcfc4759108",
+      "size_in_bytes": 2482
+    },
+    {
+      "_path": "include/poppler/OutputDev.h",
+      "path_type": "hardlink",
+      "sha256": "7e6eeb91f6c4f3e97620694eadbd2b4030b984e5a81dc8be45fa4986b2779698",
+      "size_in_bytes": 15360
+    },
+    {
+      "_path": "include/poppler/PDFDoc.h",
+      "path_type": "hardlink",
+      "sha256": "cf795cb2bbd218999ea13aa2b94e1b2b51494fd297d7718559b85c8096030443",
+      "size_in_bytes": 16211
+    },
+    {
+      "_path": "include/poppler/PDFDocBuilder.h",
+      "path_type": "hardlink",
+      "sha256": "a556875a91e90f187ecbdc66b84bd98c05c8f1f3e308d0b064e59d673db02ebe",
+      "size_in_bytes": 1408
+    },
+    {
+      "_path": "include/poppler/PDFDocEncoding.h",
+      "path_type": "hardlink",
+      "sha256": "2fb9cb24ada410dd230df86c6871b63397ac4e6a722fea5297b130271a440e04",
+      "size_in_bytes": 977
+    },
+    {
+      "_path": "include/poppler/PDFDocFactory.h",
+      "path_type": "hardlink",
+      "sha256": "f72acc2d1e5acdb60e0ec5de223a9fff547d618e081d60d1f497f4e8765ff27e",
+      "size_in_bytes": 1734
+    },
+    {
+      "_path": "include/poppler/PSOutputDev.h",
+      "path_type": "hardlink",
+      "sha256": "fc7e8e8b209b86dc98e5284c0f9948bc15d3f8fe1c6c905a87f5f2cf68d0bf89",
+      "size_in_bytes": 23258
+    },
+    {
+      "_path": "include/poppler/PSTokenizer.h",
+      "path_type": "hardlink",
+      "sha256": "b0c2b293c24a72226e8d8454f130cff522a54bd0fd9a23ddc79868a5f354622e",
+      "size_in_bytes": 1326
+    },
+    {
+      "_path": "include/poppler/Page.h",
+      "path_type": "hardlink",
+      "sha256": "5a8760c4cbc7daabe854a1c7431c70439413312e95b2db93e19e7d8edaa4d76f",
+      "size_in_bytes": 9793
+    },
+    {
+      "_path": "include/poppler/PageTransition.h",
+      "path_type": "hardlink",
+      "sha256": "bc30b84ad7b07973f4c11b73fc8c2264b6d078af6ed273d685f76dba0e070b5e",
+      "size_in_bytes": 3001
+    },
+    {
+      "_path": "include/poppler/Parser.h",
+      "path_type": "hardlink",
+      "sha256": "007ce2e4d23374aba71df616fc29fc0034e525aa80783b2bad201daf12427f56",
+      "size_in_bytes": 2548
+    },
+    {
+      "_path": "include/poppler/PopplerCache.h",
+      "path_type": "hardlink",
+      "sha256": "acd5e0c67f7fb5546460bbfd8e4a4e9f873ddc30908fa7c376d6b8963d85173e",
+      "size_in_bytes": 2265
+    },
+    {
+      "_path": "include/poppler/PreScanOutputDev.h",
+      "path_type": "hardlink",
+      "sha256": "fde967190463c5ed44e95748a55e3b4f32a2878207b3e9704975642af9f6bf9f",
+      "size_in_bytes": 6477
+    },
+    {
+      "_path": "include/poppler/ProfileData.h",
+      "path_type": "hardlink",
+      "sha256": "1965f5596b6b650550708464aaa3d24b55407939ea31918ada7e6aad85fc0af0",
+      "size_in_bytes": 988
+    },
+    {
+      "_path": "include/poppler/Rendition.h",
+      "path_type": "hardlink",
+      "sha256": "56fe30ebdea6592ee5bc45fc72ed926a06eeecfe212c67eb508669982a6850be",
+      "size_in_bytes": 4642
+    },
+    {
+      "_path": "include/poppler/SecurityHandler.h",
+      "path_type": "hardlink",
+      "sha256": "e879b1c1a52a8fa70314b83687bcd501c5e59be490fe50d112d9d1b9521b737f",
+      "size_in_bytes": 6016
+    },
+    {
+      "_path": "include/poppler/Sound.h",
+      "path_type": "hardlink",
+      "sha256": "3532285b22cf8977a8a0997db2c1e731c62b296783c8d33f4b2651add5005c78",
+      "size_in_bytes": 2240
+    },
+    {
+      "_path": "include/poppler/SplashOutputDev.h",
+      "path_type": "hardlink",
+      "sha256": "cfb2e3e33160b295b30c1f9b81cd99c60328ad96ece03ccc424cbda192f1526b",
+      "size_in_bytes": 16783
+    },
+    {
+      "_path": "include/poppler/StdinCachedFile.h",
+      "path_type": "hardlink",
+      "sha256": "de7114deb0d451c7c1f68422dad2999aae43dce3fdcb63de36a36cfdb5bddcc0",
+      "size_in_bytes": 634
+    },
+    {
+      "_path": "include/poppler/StdinPDFDocBuilder.h",
+      "path_type": "hardlink",
+      "sha256": "3dd40dcfbbec1944d8bd66bbf3bd4fe43b9da9a73d2c7b6d5ccd657bb27d5c60",
+      "size_in_bytes": 982
+    },
+    {
+      "_path": "include/poppler/Stream-CCITT.h",
+      "path_type": "hardlink",
+      "sha256": "acf8f7f1f00c729f70eaa71158aba1b282678f169459e26dfe8301b07cf95ca5",
+      "size_in_bytes": 18056
+    },
+    {
+      "_path": "include/poppler/Stream.h",
+      "path_type": "hardlink",
+      "sha256": "3fbca209620c0c049c4204760c9ab3cbea333a8ed8be23d949fc08e29bdbef64",
+      "size_in_bytes": 40524
+    },
+    {
+      "_path": "include/poppler/StructElement.h",
+      "path_type": "hardlink",
+      "sha256": "bfdb4f148d7658cd41d9420ef2f10be0050711675aa32d72b7ae2625e363bcfc",
+      "size_in_bytes": 10448
+    },
+    {
+      "_path": "include/poppler/StructTreeRoot.h",
+      "path_type": "hardlink",
+      "sha256": "be28eb03189b0b6e1a3ec360d34325b8fb66083025a2bbb792d5123bebdc6919",
+      "size_in_bytes": 2391
+    },
+    {
+      "_path": "include/poppler/TextOutputDev.h",
+      "path_type": "hardlink",
+      "sha256": "5a9cb13f56bc2280e48cf1a750f2975d2fd3e49bc409b68d32a99b5ce80b42f0",
+      "size_in_bytes": 28722
+    },
+    {
+      "_path": "include/poppler/UTF.h",
+      "path_type": "hardlink",
+      "sha256": "cde866e95dbf707f5c0897e7f5888fc39c631315fed725e0fabd01cebed6f329",
+      "size_in_bytes": 3317
+    },
+    {
+      "_path": "include/poppler/UnicodeCClassTables.h",
+      "path_type": "hardlink",
+      "sha256": "2237736d0ccdb660323061cfb1d37b2c4e55838a28f490fb69ec731444763f7b",
+      "size_in_bytes": 66205
+    },
+    {
+      "_path": "include/poppler/UnicodeCompTables.h",
+      "path_type": "hardlink",
+      "sha256": "67c970e81108d6fd950c503985a2dfcd67f1315a67b1982d44252f8e608a9cd5",
+      "size_in_bytes": 58188
+    },
+    {
+      "_path": "include/poppler/UnicodeDecompTables.h",
+      "path_type": "hardlink",
+      "sha256": "8890f4f8478f810de676292b3df6e6db24f0061a157ba83c58af67bbe0076ea4",
+      "size_in_bytes": 240900
+    },
+    {
+      "_path": "include/poppler/UnicodeMap.h",
+      "path_type": "hardlink",
+      "sha256": "cbe48aa929fb3f0e1558aa5b618c6e962993185744ca627a7d1de7c3656d7b7c",
+      "size_in_bytes": 3954
+    },
+    {
+      "_path": "include/poppler/UnicodeMapFuncs.h",
+      "path_type": "hardlink",
+      "sha256": "a911ed3c2a98e25568c20fea0ea4e1283b72c1ea1d10cf7975c528712e86c8ee",
+      "size_in_bytes": 992
+    },
+    {
+      "_path": "include/poppler/UnicodeMapTables.h",
+      "path_type": "hardlink",
+      "sha256": "c1da02d5f64209427b3065e42c7b3056ee84b12f9fa3acf158f067b2a2075a54",
+      "size_in_bytes": 11501
+    },
+    {
+      "_path": "include/poppler/UnicodeTypeTable.h",
+      "path_type": "hardlink",
+      "sha256": "bdbaf35c3a895d19f154084f9745771f5fda230e2198844bbda0002b89120fab",
+      "size_in_bytes": 1461
+    },
+    {
+      "_path": "include/poppler/ViewerPreferences.h",
+      "path_type": "hardlink",
+      "sha256": "d94ae4f8abef7e3aa6ea8e28bcafe6b115c4c40c684c0e99d3457950c2403a6d",
+      "size_in_bytes": 1883
+    },
+    {
+      "_path": "include/poppler/XRef.h",
+      "path_type": "hardlink",
+      "sha256": "629491d628c354ad211ee63f9ae3c3fad00eca1bde27bbba891f8e5d56043009",
+      "size_in_bytes": 10535
+    },
+    {
+      "_path": "include/poppler/XpdfPluginAPI.h",
+      "path_type": "hardlink",
+      "sha256": "93c10b12b622e86f2f860cda8cd3e4bd0966e0a9135311d29393640621533ddb",
+      "size_in_bytes": 10343
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-document.h",
+      "path_type": "hardlink",
+      "sha256": "ca022c6f9df1469a4cb4666d72d7351afde39e26a5d2c7b016eedf88fb08b5e6",
+      "size_in_bytes": 4272
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-embedded-file.h",
+      "path_type": "hardlink",
+      "sha256": "8f6bdd0f58ec99a527144f78659b9cd5041a3cc246d2e6c61ff75f8c6910403e",
+      "size_in_bytes": 1465
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-font.h",
+      "path_type": "hardlink",
+      "sha256": "bbecf4ce7485358207ebdbd4367248a16f2153c264f60f512dc2371a14a3883e",
+      "size_in_bytes": 2001
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-global.h",
+      "path_type": "hardlink",
+      "sha256": "0e6b466fe0f94160f32d9e0c26c88d5e879823740beb5a16d32db6d0a675e912",
+      "size_in_bytes": 3194
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-image.h",
+      "path_type": "hardlink",
+      "sha256": "6d31b2c7abff68b865c2f24e7b66ee3b8af51cb11038ab22e8a1d1503d22e2d6",
+      "size_in_bytes": 1918
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-page-renderer.h",
+      "path_type": "hardlink",
+      "sha256": "a1477746b5ef8c0ab5e4a9e959776919e11878464a7cbcd60622b117325fdc02",
+      "size_in_bytes": 2161
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-page-transition.h",
+      "path_type": "hardlink",
+      "sha256": "c49f4fa144fe49ec947dd666a8bbe123243118182686ebe80efc25c385a9c1ca",
+      "size_in_bytes": 1817
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-page.h",
+      "path_type": "hardlink",
+      "sha256": "b3914f11194e491f0c1b1355212ad11b589f40f4c9a0fadf3555ef5a178d9df4",
+      "size_in_bytes": 3650
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-rectangle.h",
+      "path_type": "hardlink",
+      "sha256": "ebbbae4b8f7f45255576b6c480abc1d837f2a5bc1753b1bd07318673ade0ae6d",
+      "size_in_bytes": 1950
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-toc.h",
+      "path_type": "hardlink",
+      "sha256": "d546b789e9bc15d00f3d9ffab8e4d3d2f0adb29776284dde38ff9db8d74feedd",
+      "size_in_bytes": 1608
+    },
+    {
+      "_path": "include/poppler/cpp/poppler-version.h",
+      "path_type": "hardlink",
+      "sha256": "09a9a711b0c8b2884c15fe0f6c9d7fba2d8236bb3afe84654bbd9de74e15dbd7",
+      "size_in_bytes": 1207
+    },
+    {
+      "_path": "include/poppler/fofi/FoFiBase.h",
+      "path_type": "hardlink",
+      "sha256": "ca08e48d14af672b4163ac6a8c09e6fc57c7157e015f3408a4051aab695e530c",
+      "size_in_bytes": 1971
+    },
+    {
+      "_path": "include/poppler/fofi/FoFiEncodings.h",
+      "path_type": "hardlink",
+      "sha256": "8751ba8011c9d2fff3f43735ae82a1f60e8a36f40bb4e1bfc7c5fd561513a63c",
+      "size_in_bytes": 1552
+    },
+    {
+      "_path": "include/poppler/fofi/FoFiIdentifier.h",
+      "path_type": "hardlink",
+      "sha256": "722d259f4b2f99533233e57c9437b53c79e747130851db09225ac4a662701d8e",
+      "size_in_bytes": 1229
+    },
+    {
+      "_path": "include/poppler/fofi/FoFiTrueType.h",
+      "path_type": "hardlink",
+      "sha256": "e5db56832945638f3e229c39db0abbfa732af6aa01447350216aeca2af3c3d12",
+      "size_in_bytes": 7916
+    },
+    {
+      "_path": "include/poppler/fofi/FoFiType1.h",
+      "path_type": "hardlink",
+      "sha256": "f985c2441631023e1eaa4c7f2a3bc2df8542a190de823f640f71c394b11ed19d",
+      "size_in_bytes": 1410
+    },
+    {
+      "_path": "include/poppler/fofi/FoFiType1C.h",
+      "path_type": "hardlink",
+      "sha256": "2a8e79e8f556dc47fd50fecee68a3b3d6980b8be3de6bf343753b996af49f1b1",
+      "size_in_bytes": 8251
+    },
+    {
+      "_path": "include/poppler/glib/poppler-action.h",
+      "path_type": "hardlink",
+      "sha256": "16d7ec763339dc78af31f7afeb8199532b33d6ee9bf51b846520b39373fc0877",
+      "size_in_bytes": 8859
+    },
+    {
+      "_path": "include/poppler/glib/poppler-annot.h",
+      "path_type": "hardlink",
+      "sha256": "e6c15bc13d1165baf9e60348f0993e878a93cd88f1e6b216a59572983531814a",
+      "size_in_bytes": 17303
+    },
+    {
+      "_path": "include/poppler/glib/poppler-attachment.h",
+      "path_type": "hardlink",
+      "sha256": "21edb777b1094e6d7ece4cd7564a19381f4e3ecc22e76c1f988d7a5bf15c290c",
+      "size_in_bytes": 2974
+    },
+    {
+      "_path": "include/poppler/glib/poppler-date.h",
+      "path_type": "hardlink",
+      "sha256": "3ce3211f3a9b74fa4a34d557aa30b353002ecdc72d085e2e0e0d38a47e14f420",
+      "size_in_bytes": 1037
+    },
+    {
+      "_path": "include/poppler/glib/poppler-document.h",
+      "path_type": "hardlink",
+      "sha256": "e4c6b57c8317a0ffd149a9fb624b48420a04a92cc5afca61510d7f6c3308f682",
+      "size_in_bytes": 16941
+    },
+    {
+      "_path": "include/poppler/glib/poppler-enums.h",
+      "path_type": "hardlink",
+      "sha256": "9d28f6e97c46fa42a949bb2ef97930b614b39cf638bb3a6d1e3a630336e4d510",
+      "size_in_bytes": 6967
+    },
+    {
+      "_path": "include/poppler/glib/poppler-features.h",
+      "path_type": "hardlink",
+      "sha256": "a35622bacf66a1e3688a6181e2286770dacec81c78879de21ba4a47284e5f03e",
+      "size_in_bytes": 2697
+    },
+    {
+      "_path": "include/poppler/glib/poppler-form-field.h",
+      "path_type": "hardlink",
+      "sha256": "54e87258f8e024d3dcb580b7079006a9d58d9aaa68118d089f31a7c29065d47a",
+      "size_in_bytes": 5190
+    },
+    {
+      "_path": "include/poppler/glib/poppler-layer.h",
+      "path_type": "hardlink",
+      "sha256": "2e40f214be1072086ad2848648750bd0f0324ed3754ab0f28a13ec31d70c7289",
+      "size_in_bytes": 1769
+    },
+    {
+      "_path": "include/poppler/glib/poppler-media.h",
+      "path_type": "hardlink",
+      "sha256": "921b88a16695e3a00a247d74761a4f7811182fc3c2e7a01bea9d4bbe468573af",
+      "size_in_bytes": 2927
+    },
+    {
+      "_path": "include/poppler/glib/poppler-movie.h",
+      "path_type": "hardlink",
+      "sha256": "6e77f22cf8fe297e9bfbb07f84479050000b2111d73e54cb7f1459172a5d35ad",
+      "size_in_bytes": 2511
+    },
+    {
+      "_path": "include/poppler/glib/poppler-page.h",
+      "path_type": "hardlink",
+      "sha256": "1266e80884e94feabc33143afd88cc443f750f1517d8ab63826e149b57025814",
+      "size_in_bytes": 15717
+    },
+    {
+      "_path": "include/poppler/glib/poppler-structure-element.h",
+      "path_type": "hardlink",
+      "sha256": "6bbad7ae3b60c075d7f8b81aa52e3bbc23e70f501d1fe9f81e7f33685960d262",
+      "size_in_bytes": 19769
+    },
+    {
+      "_path": "include/poppler/glib/poppler.h",
+      "path_type": "hardlink",
+      "sha256": "b8cfe6713d18c236ccbf6143155441b93d3915507cb920ba8ad6b8ced37a91bf",
+      "size_in_bytes": 9086
+    },
+    {
+      "_path": "include/poppler/goo/FixedPoint.h",
+      "path_type": "hardlink",
+      "sha256": "24861bd6fbdd84f4a3956845d0311123020850157773b1ab6f40b6b9668a971b",
+      "size_in_bytes": 6803
+    },
+    {
+      "_path": "include/poppler/goo/GooLikely.h",
+      "path_type": "hardlink",
+      "sha256": "0d7f2452d3b4d1373365964ed2b33944c5996d73d18fabbcfdd394887373d22f",
+      "size_in_bytes": 560
+    },
+    {
+      "_path": "include/poppler/goo/GooList.h",
+      "path_type": "hardlink",
+      "sha256": "adc6100d1d94b47cc47fff96c6f8a0aaeae5615027974d87164d23665bc47de9",
+      "size_in_bytes": 3374
+    },
+    {
+      "_path": "include/poppler/goo/GooMutex.h",
+      "path_type": "hardlink",
+      "sha256": "bb75f28cfae3d51e1e627888c8d7f2885a9610d72a53a3b03b4a2e827341e83f",
+      "size_in_bytes": 2493
+    },
+    {
+      "_path": "include/poppler/goo/GooString.h",
+      "path_type": "hardlink",
+      "sha256": "eff3b5b0ce49e177c762818bba805bbf4e9b3a3ba7c210bcf90f8d82cbff0b72",
+      "size_in_bytes": 7565
+    },
+    {
+      "_path": "include/poppler/goo/GooTimer.h",
+      "path_type": "hardlink",
+      "sha256": "f8b469d52e5ee79e9443285d4ab49402759ac54c4e05d20813d5962b25de62da",
+      "size_in_bytes": 1379
+    },
+    {
+      "_path": "include/poppler/goo/ImgWriter.h",
+      "path_type": "hardlink",
+      "sha256": "8176dd0a11831fdba9cbf78f39dfe8baaaa257d9d0bd68646f87d8943d95665d",
+      "size_in_bytes": 1065
+    },
+    {
+      "_path": "include/poppler/goo/JpegWriter.h",
+      "path_type": "hardlink",
+      "sha256": "2858dd6cf31a4f8f6c2b0e04a879466ba67ac7603b20dec4d6c71600c199dac9",
+      "size_in_bytes": 1630
+    },
+    {
+      "_path": "include/poppler/goo/PNGWriter.h",
+      "path_type": "hardlink",
+      "sha256": "80fd5f0ae1d121cf9b8bcec96884bd5ae51446a63b073ced5ca0466dbea36f7b",
+      "size_in_bytes": 1506
+    },
+    {
+      "_path": "include/poppler/goo/TiffWriter.h",
+      "path_type": "hardlink",
+      "sha256": "cbc422a55c1d69f53f3c1f67c88f773d07311d450ca506dfe437e54b725a410d",
+      "size_in_bytes": 1586
+    },
+    {
+      "_path": "include/poppler/goo/gfile.h",
+      "path_type": "hardlink",
+      "sha256": "66148f31079cc9203cd8090eb2e36f84123967dde3205e462ae208ecd8bae4e1",
+      "size_in_bytes": 6318
+    },
+    {
+      "_path": "include/poppler/goo/gmem.h",
+      "path_type": "hardlink",
+      "sha256": "3926b9ffbff0e729e79e4bd18e9fd1a10061203c7730c8ea9c0e48fdf0389f69",
+      "size_in_bytes": 2483
+    },
+    {
+      "_path": "include/poppler/goo/grandom.h",
+      "path_type": "hardlink",
+      "sha256": "5dffedffc09f1d81a23e99edb45a8cbd64397a5d00ae28ab9167f8250961cd16",
+      "size_in_bytes": 486
+    },
+    {
+      "_path": "include/poppler/goo/gstrtod.h",
+      "path_type": "hardlink",
+      "sha256": "7407ceaf584277d69d3a06e6e13880e8cb737e1fa8212c84fabea3ec2a74b9a9",
+      "size_in_bytes": 1446
+    },
+    {
+      "_path": "include/poppler/goo/gtypes.h",
+      "path_type": "hardlink",
+      "sha256": "01538c7c9a4a52744524b3b4d983574b9d82e637b0cd9402fa89ba6266edcf28",
+      "size_in_bytes": 1421
+    },
+    {
+      "_path": "include/poppler/poppler-config.h",
+      "path_type": "hardlink",
+      "sha256": "ccea2c52488a673c7019ded9aebcbb678b86fe0d5811b53fc06a63b53b08df95",
+      "size_in_bytes": 4481
+    },
+    {
+      "_path": "include/poppler/splash/Splash.h",
+      "path_type": "hardlink",
+      "sha256": "5725e3612f0ee7640a68996f6e22a1cce9aa42f8c7e1b3b37a568eb03c8e5a14",
+      "size_in_bytes": 16591
+    },
+    {
+      "_path": "include/poppler/splash/SplashBitmap.h",
+      "path_type": "hardlink",
+      "sha256": "e9f392b074351a5fb6f5a2ad5fd82329cb8f5dc7d588defc24454e5c2feb6bd5",
+      "size_in_bytes": 4567
+    },
+    {
+      "_path": "include/poppler/splash/SplashClip.h",
+      "path_type": "hardlink",
+      "sha256": "e1e75d5f3818da87388534350b89a19d0973296d5c4506974eef4346163943fd",
+      "size_in_bytes": 4442
+    },
+    {
+      "_path": "include/poppler/splash/SplashErrorCodes.h",
+      "path_type": "hardlink",
+      "sha256": "8dd2054c8653ebc7e3277cfefa8749f192fb3e99f806f4fe890b33be5cd6c27a",
+      "size_in_bytes": 1572
+    },
+    {
+      "_path": "include/poppler/splash/SplashFTFont.h",
+      "path_type": "hardlink",
+      "sha256": "03d8c2d322e1c4bfbc40404eb8969d1e0151f33aecab4f3de7220c4f07d1e930",
+      "size_in_bytes": 2309
+    },
+    {
+      "_path": "include/poppler/splash/SplashFTFontEngine.h",
+      "path_type": "hardlink",
+      "sha256": "d1b1c1963871406bbb3ff4148a45b8680d1cae7cec294ce1388a2e5cfa633ddc",
+      "size_in_bytes": 2784
+    },
+    {
+      "_path": "include/poppler/splash/SplashFTFontFile.h",
+      "path_type": "hardlink",
+      "sha256": "4f8e8b6bfbea126b36ddee71ba8885c68d07aca2f5180fa0ca36966c0741d833",
+      "size_in_bytes": 2450
+    },
+    {
+      "_path": "include/poppler/splash/SplashFont.h",
+      "path_type": "hardlink",
+      "sha256": "79544ac2c315f3bbba1493a1a55877d83a0b4ee30e214ef33c928999115bebe3",
+      "size_in_bytes": 4338
+    },
+    {
+      "_path": "include/poppler/splash/SplashFontEngine.h",
+      "path_type": "hardlink",
+      "sha256": "1f3aae7ea42431bd54514bfb1da315498367cee58d64fb3d5a3f2ce18c347509",
+      "size_in_bytes": 3456
+    },
+    {
+      "_path": "include/poppler/splash/SplashFontFile.h",
+      "path_type": "hardlink",
+      "sha256": "de51ba204701a4177142c74dbcf60dafc0ad78636cbd35565e12f9118151dbaa",
+      "size_in_bytes": 2443
+    },
+    {
+      "_path": "include/poppler/splash/SplashFontFileID.h",
+      "path_type": "hardlink",
+      "sha256": "3c34f617e04b1082b3367c05171b0881ebe32c1bff121ff55797e831506972d3",
+      "size_in_bytes": 1298
+    },
+    {
+      "_path": "include/poppler/splash/SplashGlyphBitmap.h",
+      "path_type": "hardlink",
+      "sha256": "ecc26503c7d4ffc326118c99413a615745dc6ece88e040e58ab8ee2216ac5a19",
+      "size_in_bytes": 699
+    },
+    {
+      "_path": "include/poppler/splash/SplashMath.h",
+      "path_type": "hardlink",
+      "sha256": "d6b77149a50c53f8bda07f6eed1aea7630b804d86ed349e6841add69be17a511",
+      "size_in_bytes": 6653
+    },
+    {
+      "_path": "include/poppler/splash/SplashPath.h",
+      "path_type": "hardlink",
+      "sha256": "51d4d36ca1ae27b33596b8b7c2817a53591e19316c082ca065f143953cdc3f50",
+      "size_in_bytes": 4323
+    },
+    {
+      "_path": "include/poppler/splash/SplashPattern.h",
+      "path_type": "hardlink",
+      "sha256": "dde4a8718417ef059241700a65493d7680093749d2af74645bfe0b82a9a1e08a",
+      "size_in_bytes": 3059
+    },
+    {
+      "_path": "include/poppler/splash/SplashScreen.h",
+      "path_type": "hardlink",
+      "sha256": "318e38f9ea9f9433be3b90910bf8f56d9db78587dff684b1bdde4f2e33692361",
+      "size_in_bytes": 2522
+    },
+    {
+      "_path": "include/poppler/splash/SplashState.h",
+      "path_type": "hardlink",
+      "sha256": "cd2fff041343535fc938907be2911401e3272da315b1c25324ebe0e1ae33a5f0",
+      "size_in_bytes": 4373
+    },
+    {
+      "_path": "include/poppler/splash/SplashTypes.h",
+      "path_type": "hardlink",
+      "sha256": "00f2ce253a32070f9794d42889066a5cb070050a0b804223011ee0b85980c20d",
+      "size_in_bytes": 6547
+    },
+    {
+      "_path": "include/poppler/splash/SplashXPath.h",
+      "path_type": "hardlink",
+      "sha256": "f0d38bb469f95ec9777d8fc5e6f18226735842f40a2eed73930658a5c6619cc1",
+      "size_in_bytes": 3413
+    },
+    {
+      "_path": "include/poppler/splash/SplashXPathScanner.h",
+      "path_type": "hardlink",
+      "sha256": "38a63946707b0e7cd97e9fefa032a2e64960a83c6424b26e3c98fe15c7e09e05",
+      "size_in_bytes": 3793
+    },
+    {
+      "_path": "lib/girepository-1.0/Poppler-0.18.typelib",
+      "path_type": "hardlink",
+      "sha256": "3827f42f2dcc40fd42b15aadc3a4b95df6c1c59360c58f1b38dd24afe8354279",
+      "size_in_bytes": 61940
+    },
+    {
+      "_path": "lib/libpoppler-cpp.so",
+      "path_type": "softlink",
+      "sha256": "7ecfbfdff818f6f7db26611e7b4d1f11d994e343358078ba3fd71686251108b8",
+      "size_in_bytes": 1716432
+    },
+    {
+      "_path": "lib/libpoppler-cpp.so.0",
+      "path_type": "softlink",
+      "sha256": "7ecfbfdff818f6f7db26611e7b4d1f11d994e343358078ba3fd71686251108b8",
+      "size_in_bytes": 1716432
+    },
+    {
+      "_path": "lib/libpoppler-cpp.so.0.5.0",
+      "path_type": "hardlink",
+      "sha256": "7ecfbfdff818f6f7db26611e7b4d1f11d994e343358078ba3fd71686251108b8",
+      "size_in_bytes": 1716432
+    },
+    {
+      "_path": "lib/libpoppler-glib.so",
+      "path_type": "softlink",
+      "sha256": "4c903ea972ca73546e5036d2b2b23f287abb709611e34e7ba51517d7351f9146",
+      "size_in_bytes": 3548112
+    },
+    {
+      "_path": "lib/libpoppler-glib.so.8",
+      "path_type": "softlink",
+      "sha256": "4c903ea972ca73546e5036d2b2b23f287abb709611e34e7ba51517d7351f9146",
+      "size_in_bytes": 3548112
+    },
+    {
+      "_path": "lib/libpoppler-glib.so.8.9.0",
+      "path_type": "hardlink",
+      "sha256": "4c903ea972ca73546e5036d2b2b23f287abb709611e34e7ba51517d7351f9146",
+      "size_in_bytes": 3548112
+    },
+    {
+      "_path": "lib/libpoppler.so",
+      "path_type": "softlink",
+      "sha256": "b4781b30bac028bcd586d81995cb740d1f3a13d745b76fd812fa40a497b16bee",
+      "size_in_bytes": 14372368
+    },
+    {
+      "_path": "lib/libpoppler.so.78",
+      "path_type": "softlink",
+      "sha256": "b4781b30bac028bcd586d81995cb740d1f3a13d745b76fd812fa40a497b16bee",
+      "size_in_bytes": 14372368
+    },
+    {
+      "_path": "lib/libpoppler.so.78.0.0",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/poppler_1574151444409/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "b4781b30bac028bcd586d81995cb740d1f3a13d745b76fd812fa40a497b16bee",
+      "size_in_bytes": 14372368
+    },
+    {
+      "_path": "lib/pkgconfig/poppler-cairo.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "34b80910dc650145915b2aa98b826fcdef1945bf5e5d915a918bf54bcd536543",
+      "size_in_bytes": 277
+    },
+    {
+      "_path": "lib/pkgconfig/poppler-cpp.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "12ff179188e3039db5b09f10783323dcd11a1801a32f76f5de58d51adbffc231",
+      "size_in_bytes": 345
+    },
+    {
+      "_path": "lib/pkgconfig/poppler-glib.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "1993d6e13988ae1cddfa6cec4c0ee1e2c177396139d8aa2224d5fa2b91887c97",
+      "size_in_bytes": 379
+    },
+    {
+      "_path": "lib/pkgconfig/poppler-splash.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "cdf63de15495924607e6f71fc6aa1a5ff7b7f63db0e3d73bffb037aa3f457555",
+      "size_in_bytes": 263
+    },
+    {
+      "_path": "lib/pkgconfig/poppler.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "1c75f9dd36ee78f8b147ae603767dd9d701644e5498b52b0a5556ecbcd5a9555",
+      "size_in_bytes": 263
+    },
+    {
+      "_path": "share/gir-1.0/Poppler-0.18.gir",
+      "path_type": "hardlink",
+      "sha256": "12cb19d56201b07caf021ef3d75e87c50804c9af3363fdf2309734bb2e509107",
+      "size_in_bytes": 385512
+    },
+    {
+      "_path": "share/man/man1/pdfdetach.1",
+      "path_type": "hardlink",
+      "sha256": "59c20c4a26e57c1da9678b90477b3476e24b0ac2c4a4cee03f414bfc729d4a7f",
+      "size_in_bytes": 2239
+    },
+    {
+      "_path": "share/man/man1/pdffonts.1",
+      "path_type": "hardlink",
+      "sha256": "87128b586177ac9ca5a1580477ee1a3e3af397f524fe63dd8ad3f1099f3bdca6",
+      "size_in_bytes": 2317
+    },
+    {
+      "_path": "share/man/man1/pdfimages.1",
+      "path_type": "hardlink",
+      "sha256": "1258b1ee35ae9edbe43e874bc210f0f4e88da545d843970145357f21d841763e",
+      "size_in_bytes": 6216
+    },
+    {
+      "_path": "share/man/man1/pdfinfo.1",
+      "path_type": "hardlink",
+      "sha256": "8082bab99a0b02e064f5eaa9a988f87874259b56b4edb1249720eabba8dcd3ef",
+      "size_in_bytes": 3353
+    },
+    {
+      "_path": "share/man/man1/pdfseparate.1",
+      "path_type": "hardlink",
+      "sha256": "73f02af30f653bb2a999572f28abff089f39d622c0065c1ea876969f176b4668",
+      "size_in_bytes": 1585
+    },
+    {
+      "_path": "share/man/man1/pdftocairo.1",
+      "path_type": "hardlink",
+      "sha256": "e99de97df66f965c5f5c37c25d1e90b8874f3302c83a6df5dbf5ad79f24c1c48",
+      "size_in_bytes": 11270
+    },
+    {
+      "_path": "share/man/man1/pdftohtml.1",
+      "path_type": "hardlink",
+      "sha256": "82401a2355fa69bee0f7069837cf9abb205ed4a97efcf9ea3fc03af412b4fc38",
+      "size_in_bytes": 2450
+    },
+    {
+      "_path": "share/man/man1/pdftoppm.1",
+      "path_type": "hardlink",
+      "sha256": "f8fcb0054f0f1149369f401856e8d53a3076b82482aaa30a640f1ee3578d9a5e",
+      "size_in_bytes": 4928
+    },
+    {
+      "_path": "share/man/man1/pdftops.1",
+      "path_type": "hardlink",
+      "sha256": "5e009326d847fa895b5381c0c3722042248c46fa3b566dee2c5b9687c226b504",
+      "size_in_bytes": 7370
+    },
+    {
+      "_path": "share/man/man1/pdftotext.1",
+      "path_type": "hardlink",
+      "sha256": "4eae56d56c9c7c5383e4844423d21080ad2d8402d43975e5a1af8104022cb0dd",
+      "size_in_bytes": 3328
+    },
+    {
+      "_path": "share/man/man1/pdfunite.1",
+      "path_type": "hardlink",
+      "sha256": "ec2601f61b4407a773f7e0686609d894a15564b61703798425bc3bf6f9311a99",
+      "size_in_bytes": 1165
+    }
+  ],
+  "paths_version": 1
+}

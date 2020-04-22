@@ -1,0 +1,1 @@
+{"build": "h14c3975_1007", "build_number": 1007, "depends": ["libgcc-ng >=7.3.0"], "license": "MIT", "license_family": "MIT", "name": "xorg-xproto", "subdir": "linux-64", "timestamp": 1537020199842, "version": "7.0.31", "size": 73752, "md5": "a45d8cd411bdf8f08ced463f68986b62", "sha256": "d24dfec052d1ed796604caf405d8846a394c7950c60a611ec24a4b91aaa9d56f"}

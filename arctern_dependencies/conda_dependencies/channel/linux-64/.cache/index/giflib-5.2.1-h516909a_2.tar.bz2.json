@@ -1,0 +1,1 @@
+{"build": "h516909a_2", "build_number": 2, "depends": ["libgcc-ng >=7.3.0"], "license": "MIT", "name": "giflib", "subdir": "linux-64", "timestamp": 1582370710504, "version": "5.2.1", "size": 81435, "md5": "70d777f83639cc2c05334b59a6dc9159", "sha256": "986e182c36feda14a2b07609e34db28cdb7dda3d7e756f5dd34f1ea1c766ce75"}

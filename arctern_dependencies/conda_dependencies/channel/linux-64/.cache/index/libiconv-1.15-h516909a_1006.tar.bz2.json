@@ -1,0 +1,1 @@
+{"build": "h516909a_1006", "build_number": 1006, "depends": ["libgcc-ng >=7.3.0"], "license": "GPL and LGPL", "name": "libiconv", "subdir": "linux-64", "timestamp": 1584615296933, "version": "1.15", "size": 2093100, "md5": "a3e21981e79cc9de012bdbcb5b66e976", "sha256": "3382d048efc742d4d9d9c0c9c476280ad7b38cb35156a3932b4906840e402ff8"}

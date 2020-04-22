@@ -1,0 +1,1 @@
+{"build": "hed695b0_1", "build_number": 1, "depends": ["libgcc-ng >=7.3.0", "zlib >=1.2.11,<1.3.0a0"], "license": "zlib/libpng", "name": "libpng", "subdir": "linux-64", "timestamp": 1584621774302, "version": "1.6.37", "size": 315784, "md5": "af826c4343debc44688bde6394f76fe8", "sha256": "9252098d19ae32fd6a1936b782c0253eb6f5f0797c45728c59f1d8ff0e0be17e"}

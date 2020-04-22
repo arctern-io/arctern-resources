@@ -1,0 +1,1819 @@
+{
+  "paths": [
+    {
+      "_path": "bin/clusterdb",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "ec197f855f74938dc57d35948d89c1b71b343f2aee9167967ae14ac2cb55ba47",
+      "size_in_bytes": 69120
+    },
+    {
+      "_path": "bin/createdb",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "97801e40bd9fe58019c4ca7f2715011c3fa46b3ba0aadb05a888007faddf9412",
+      "size_in_bytes": 64328
+    },
+    {
+      "_path": "bin/createuser",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "80ff8857205226688cbd396c23511d42dd28b53ff1ea90d73b456924480e5405",
+      "size_in_bytes": 68928
+    },
+    {
+      "_path": "bin/dropdb",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "9f47b4def0d404e4f2285e44a65f8b409ba40f2a9fcb9fcc2cb5a3a88753b949",
+      "size_in_bytes": 63256
+    },
+    {
+      "_path": "bin/dropuser",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "56da0ce3d677ad29df1667d93a727276bcfeb1c8e1512b99833c27423b8bf66a",
+      "size_in_bytes": 63176
+    },
+    {
+      "_path": "bin/ecpg",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "6451ae36c956491d5ba4ab1cee0371efdf98a5e863c58e1a5b9844fc5e51776f",
+      "size_in_bytes": 946920
+    },
+    {
+      "_path": "bin/initdb",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "363f915d1840f75ba311d52f6d4ef04929a39dd9bcd6b97afe9cab38c668b98d",
+      "size_in_bytes": 151576
+    },
+    {
+      "_path": "bin/oid2name",
+      "path_type": "hardlink",
+      "sha256": "7d4d98abbd9400bdf0fa230eb7721a04ce9bf0999537194905c5559eb24cf24d",
+      "size_in_bytes": 48600
+    },
+    {
+      "_path": "bin/pg_archivecleanup",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "029bad69ced60c7d14985f6743cc65f38136561191e2e69160477e271964a673",
+      "size_in_bytes": 48824
+    },
+    {
+      "_path": "bin/pg_basebackup",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "721cf8905c7e1abc38644bdf440f4921dccf3baa838199761476fd8e6dab4ef2",
+      "size_in_bytes": 127056
+    },
+    {
+      "_path": "bin/pg_checksums",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "5f218286743d48c5503d2be9800d81e0bc7bb83d96ea1347514c52eb05a99896",
+      "size_in_bytes": 71560
+    },
+    {
+      "_path": "bin/pg_controldata",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "c2558a9729ce628e5e97814fb8d15134bf01771ee05c8b0a6206a4711c6cc541",
+      "size_in_bytes": 65528
+    },
+    {
+      "_path": "bin/pg_ctl",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "2d63b020fcd41434e543bfdaf56e97270d2bf8ddd6a1ee4b48a271174a609ec1",
+      "size_in_bytes": 81600
+    },
+    {
+      "_path": "bin/pg_dump",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "b6d634334c1486dc8bfef8ea7a61d71af2aa99a12d988a5491b9e91e6cc78c83",
+      "size_in_bytes": 438816
+    },
+    {
+      "_path": "bin/pg_dumpall",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "d2200e18368c39119bb2a20a469599a93841cc2b13031da3070a89f2d3faf53b",
+      "size_in_bytes": 109104
+    },
+    {
+      "_path": "bin/pg_isready",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "6eef85208d9d96f695387ec1382cf736b82a897d9d2258b97f122f15c32b8a8c",
+      "size_in_bytes": 49056
+    },
+    {
+      "_path": "bin/pg_receivewal",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "0e353dab38278e65f6c34deda76610adffee6c533b605e2b4c2833fe81722280",
+      "size_in_bytes": 89904
+    },
+    {
+      "_path": "bin/pg_recvlogical",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "61b10f8201f90dc087d7539928099fd62a8fd08483e9361f86c45d849546080f",
+      "size_in_bytes": 76192
+    },
+    {
+      "_path": "bin/pg_resetwal",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "bfcf253d0e493113e015d46d39100b63c5fad87730e90170a0eff7b4c70b7c65",
+      "size_in_bytes": 71688
+    },
+    {
+      "_path": "bin/pg_restore",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "ba9f1b425e766881901078c4f15e80f996b223398e7884f518655c195997dd77",
+      "size_in_bytes": 179696
+    },
+    {
+      "_path": "bin/pg_rewind",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "cb4883a021d7b5ec87789709db22f06813a51bdecb8551a7bd49e592bc990e58",
+      "size_in_bytes": 109576
+    },
+    {
+      "_path": "bin/pg_standby",
+      "path_type": "hardlink",
+      "sha256": "aab62e0ac2211643d37c7ad22b0921e943d72fabbf32ab099619522fe662bb45",
+      "size_in_bytes": 44152
+    },
+    {
+      "_path": "bin/pg_test_fsync",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "b9c6f9b5c80e701012a99841be4bf66e2f96ee0738a7cf5b4e23b85b44e3aefa",
+      "size_in_bytes": 53576
+    },
+    {
+      "_path": "bin/pg_test_timing",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "c3a6f66c189ff35fe1c1eb859ad9df7fa7f0084226c955c4f5ddc40e28d4ff89",
+      "size_in_bytes": 43544
+    },
+    {
+      "_path": "bin/pg_upgrade",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "8e89d2a1731029d1b370ea8f5d041a147fb6439d9a0764a26fc25ea96a2a7acc",
+      "size_in_bytes": 158672
+    },
+    {
+      "_path": "bin/pg_waldump",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "3f9688265375f823ab501371f527214110fb3c8a92460e9a8d2994baa4806bcc",
+      "size_in_bytes": 99752
+    },
+    {
+      "_path": "bin/pgbench",
+      "path_type": "hardlink",
+      "sha256": "ef338055ecbf34412e764f74c983eaa9a015e12f266dfacf1013a6c1d6e3138c",
+      "size_in_bytes": 170512
+    },
+    {
+      "_path": "bin/postgres",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "07d6edb5f8b64a759862185d9f25762d9eabd48af63414bc6ba5248a0eac621d",
+      "size_in_bytes": 8827984
+    },
+    {
+      "_path": "bin/postmaster",
+      "path_type": "softlink",
+      "sha256": "07d6edb5f8b64a759862185d9f25762d9eabd48af63414bc6ba5248a0eac621d",
+      "size_in_bytes": 8827984
+    },
+    {
+      "_path": "bin/psql",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "d06c66587aba089fb43f2b16c87db22dd2a2c51e6487c6cbe799db22f0ea1e9a",
+      "size_in_bytes": 697064
+    },
+    {
+      "_path": "bin/reindexdb",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "4647f0141b8dd1424a8977d35c064a37dc43345b2c447256797dde61a7d78e38",
+      "size_in_bytes": 77440
+    },
+    {
+      "_path": "bin/vacuumdb",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/postgresql-split_1586364513170/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "a8b6b6caccfd8ce104567759741b9f51bfa30ffa3427fdd076503234d81a662c",
+      "size_in_bytes": 82160
+    },
+    {
+      "_path": "bin/vacuumlo",
+      "path_type": "hardlink",
+      "sha256": "6e293ab5ea4c0e8e2fbac8301a90b25d5b54fe10f0118206fb6c87bb7aba91d2",
+      "size_in_bytes": 43728
+    },
+    {
+      "_path": "include/server/extension/cube/cubedata.h",
+      "path_type": "hardlink",
+      "sha256": "1107c5dfb10e52ca3a04c92f77dfad9bb46d2fbda00c6a75cfc6d4e6308e9c2b",
+      "size_in_bytes": 2242
+    },
+    {
+      "_path": "include/server/extension/hstore/hstore.h",
+      "path_type": "hardlink",
+      "sha256": "122bda3f2dc6afcf45a75df50c8d4435981c7634d135a8f9785c84b90fcb8088",
+      "size_in_bytes": 7086
+    },
+    {
+      "_path": "include/server/extension/isn/isn.h",
+      "path_type": "hardlink",
+      "sha256": "8a80f82efb1b8514219a91d83e59adac87c4392b9bb7ff990115731cb38bddc7",
+      "size_in_bytes": 759
+    },
+    {
+      "_path": "include/server/extension/ltree/ltree.h",
+      "path_type": "hardlink",
+      "sha256": "4dc36769ba603c5c38f5614035b17453686b2207fdc164f9c962c73394f8ccf3",
+      "size_in_bytes": 7902
+    },
+    {
+      "_path": "include/server/extension/seg/segdata.h",
+      "path_type": "hardlink",
+      "sha256": "b01c35704842df301a3038f9812aba4098dcee42c93b71334447ff70974e31d7",
+      "size_in_bytes": 488
+    },
+    {
+      "_path": "lib/_int.so",
+      "path_type": "hardlink",
+      "sha256": "d0083d47f2773c6121b39922994a825a7ad831839611fc53f0f47bf194355168",
+      "size_in_bytes": 71104
+    },
+    {
+      "_path": "lib/adminpack.so",
+      "path_type": "hardlink",
+      "sha256": "dbcb1921d669e5ae9f6b39712e8cb83fc39eb764e9123768300659e7c9622ba0",
+      "size_in_bytes": 27488
+    },
+    {
+      "_path": "lib/amcheck.so",
+      "path_type": "hardlink",
+      "sha256": "f127a471cbe055f9131f8000b1d5be9358dab615fc9c3cc876804358eebccaa8",
+      "size_in_bytes": 40032
+    },
+    {
+      "_path": "lib/auth_delay.so",
+      "path_type": "hardlink",
+      "sha256": "ad12868f4cec1668b976351f3499ab0b6873f075ce91dccf07eac241fb272cf4",
+      "size_in_bytes": 16272
+    },
+    {
+      "_path": "lib/auto_explain.so",
+      "path_type": "hardlink",
+      "sha256": "f9734387f643e040a5132e65209270301194919dbd0b848f9e5f5d529fd338ad",
+      "size_in_bytes": 22840
+    },
+    {
+      "_path": "lib/autoinc.so",
+      "path_type": "hardlink",
+      "sha256": "a245a3e73b33bcd5271d7d473153ddd272dde5fa919aa1674b56d1ab0f2f87f3",
+      "size_in_bytes": 16800
+    },
+    {
+      "_path": "lib/bloom.so",
+      "path_type": "hardlink",
+      "sha256": "0b4ae4b23c15d6dd6483a49459da214341116d2aceb4b09e21a3d4f9201e9d11",
+      "size_in_bytes": 40952
+    },
+    {
+      "_path": "lib/btree_gin.so",
+      "path_type": "hardlink",
+      "sha256": "e9e60442fb127972c625f08e02671ba139b931c2dc430d56ec2b921354c92051",
+      "size_in_bytes": 49760
+    },
+    {
+      "_path": "lib/btree_gist.so",
+      "path_type": "hardlink",
+      "sha256": "dc09a6ce2d7ac5c0cabf6a252519b8d7d81f30aee3b1a0e81a7725347f4b4615",
+      "size_in_bytes": 131776
+    },
+    {
+      "_path": "lib/citext.so",
+      "path_type": "hardlink",
+      "sha256": "1d723795ce9332720f2869c3420657dd637e172927733f9ed2856f5fd87bb356",
+      "size_in_bytes": 22272
+    },
+    {
+      "_path": "lib/cube.so",
+      "path_type": "hardlink",
+      "sha256": "941ead4c1701b58eba6b43e1772c4addb2dd89806b29d9b617ad44160472e269",
+      "size_in_bytes": 66456
+    },
+    {
+      "_path": "lib/dblink.so",
+      "path_type": "hardlink",
+      "sha256": "140978c36fe51e25e05b8a49ba6514d9c840b92822aeefd51e8f94e2c9849bce",
+      "size_in_bytes": 58984
+    },
+    {
+      "_path": "lib/dict_int.so",
+      "path_type": "hardlink",
+      "sha256": "2c6fbdf950db160631a6ab17135feccec309e74c9609a4255799d1b90cb85dff",
+      "size_in_bytes": 16568
+    },
+    {
+      "_path": "lib/dict_xsyn.so",
+      "path_type": "hardlink",
+      "sha256": "d3549e0ebe9df5dc2451ad7624b8429d31eacd4941d9aaefa01168d2446e8c39",
+      "size_in_bytes": 17176
+    },
+    {
+      "_path": "lib/earthdistance.so",
+      "path_type": "hardlink",
+      "sha256": "2c560c51d5c972d908aa7ee5d42c993a3bc179b7cbc6b5b53fff5c035b35f627",
+      "size_in_bytes": 16232
+    },
+    {
+      "_path": "lib/file_fdw.so",
+      "path_type": "hardlink",
+      "sha256": "7f52d068641854342b43069225ce3197ff88b93c1f99f6bda0e710e2bfbfe91a",
+      "size_in_bytes": 27784
+    },
+    {
+      "_path": "lib/fuzzystrmatch.so",
+      "path_type": "hardlink",
+      "sha256": "fac1ec4584ec4498f7f88dfa99b56478f9130cb98ca42193ceaa568f948975f5",
+      "size_in_bytes": 38848
+    },
+    {
+      "_path": "lib/hstore.so",
+      "path_type": "hardlink",
+      "sha256": "2022deb65922e02a0cb23e229cad6b23e437e6f7b0f5ebd90471ebda43ea9264",
+      "size_in_bytes": 76896
+    },
+    {
+      "_path": "lib/insert_username.so",
+      "path_type": "hardlink",
+      "sha256": "bfa10934840b2ae40e3c0b5c695cd834dcc2e2f718d229be71f501f1a044c604",
+      "size_in_bytes": 16688
+    },
+    {
+      "_path": "lib/isn.so",
+      "path_type": "hardlink",
+      "sha256": "c695e56e0f26e0102bbf85fcdb29fb28c80d84b222eadc5ab181b110c35e44a9",
+      "size_in_bytes": 109520
+    },
+    {
+      "_path": "lib/lo.so",
+      "path_type": "hardlink",
+      "sha256": "fd8f1846887369289f6f4a9df521c8eb3564bf675fdd545672d35177aab990c6",
+      "size_in_bytes": 16456
+    },
+    {
+      "_path": "lib/ltree.so",
+      "path_type": "hardlink",
+      "sha256": "7fcce86f3c5e26f278cc87dbebaca81fc73a460498606669baf79616909efebb",
+      "size_in_bytes": 75600
+    },
+    {
+      "_path": "lib/moddatetime.so",
+      "path_type": "hardlink",
+      "sha256": "4de4acfcc4803e31269ca3d47dd4d801767f61d56f849551ef15b0915502e531",
+      "size_in_bytes": 16688
+    },
+    {
+      "_path": "lib/pageinspect.so",
+      "path_type": "hardlink",
+      "sha256": "36ffd7c75f54590163e17410e63e542bfbbd9934248a276c6a4ebfa571dbdce4",
+      "size_in_bytes": 51848
+    },
+    {
+      "_path": "lib/passwordcheck.so",
+      "path_type": "hardlink",
+      "sha256": "6f09c1a3d8b180d15516e07731f3792c4a052657182357f52523324483d890c8",
+      "size_in_bytes": 16544
+    },
+    {
+      "_path": "lib/pg_buffercache.so",
+      "path_type": "hardlink",
+      "sha256": "7926ce57d3d51e6115e3dd87096910fe7f766ecef9c548e0af6daf7853c40e02",
+      "size_in_bytes": 16888
+    },
+    {
+      "_path": "lib/pg_freespacemap.so",
+      "path_type": "hardlink",
+      "sha256": "6edbcd5154024d691fef182c28bb865e7d8f5b36dd3cd24fe8c4c04ab3b7f01f",
+      "size_in_bytes": 16376
+    },
+    {
+      "_path": "lib/pg_prewarm.so",
+      "path_type": "hardlink",
+      "sha256": "dc84ed51c30ecf05c33c2fff0008012b21e4eb9f2187fff10102f492c8cf5f0f",
+      "size_in_bytes": 37312
+    },
+    {
+      "_path": "lib/pg_stat_statements.so",
+      "path_type": "hardlink",
+      "sha256": "62b8f55888e80a44c4605054b13f83aacf8b1a4539f23c35dba100651858aaa0",
+      "size_in_bytes": 51248
+    },
+    {
+      "_path": "lib/pg_trgm.so",
+      "path_type": "hardlink",
+      "sha256": "648b8a6260f7b06e2e79ad66303e779d3517c6838c7c57c5a31d0760049ec698",
+      "size_in_bytes": 61072
+    },
+    {
+      "_path": "lib/pg_visibility.so",
+      "path_type": "hardlink",
+      "sha256": "ce370278e30f1120cc941539cb28977d51c7d02b867f0c330483a735294696de",
+      "size_in_bytes": 27152
+    },
+    {
+      "_path": "lib/pgcrypto.so",
+      "path_type": "hardlink",
+      "sha256": "87c22e6744a94256fbca010b5ad2d733ea2dff85e959294ba9118ecaaf5cc4e4",
+      "size_in_bytes": 160392
+    },
+    {
+      "_path": "lib/pgrowlocks.so",
+      "path_type": "hardlink",
+      "sha256": "09b881d3d244e838c05ec63cefde7a12d7439c2198d2ba4c7a2bb5bebfb28c00",
+      "size_in_bytes": 21848
+    },
+    {
+      "_path": "lib/pgstattuple.so",
+      "path_type": "hardlink",
+      "sha256": "8bf9d5c3cf86cea6903ea9f57bf129208e9fbc511bee17be83899acf36c32624",
+      "size_in_bytes": 37832
+    },
+    {
+      "_path": "lib/pgxml.so",
+      "path_type": "hardlink",
+      "sha256": "68ea0157c207b9081dadaa414e9c86f01623c80589ed0945c7375e55c6f609eb",
+      "size_in_bytes": 33344
+    },
+    {
+      "_path": "lib/postgres_fdw.so",
+      "path_type": "hardlink",
+      "sha256": "65dbc649ac96306c55bce3e9885a1e4b06721683e8376b7ce8fe2a97c656afd8",
+      "size_in_bytes": 122120
+    },
+    {
+      "_path": "lib/refint.so",
+      "path_type": "hardlink",
+      "sha256": "66d8d3c50caf1c0bc9342fa434721ce3e3e4e980f675973edb7842264637f0ad",
+      "size_in_bytes": 21712
+    },
+    {
+      "_path": "lib/seg.so",
+      "path_type": "hardlink",
+      "sha256": "326cc344cf6be4955740a95ab7d088187850d974729cead1e127640bf37bce21",
+      "size_in_bytes": 47912
+    },
+    {
+      "_path": "lib/sslinfo.so",
+      "path_type": "hardlink",
+      "sha256": "e2c008f51700f272d64c5707b27cf2c1780963190d9d4a606f11782823747ffd",
+      "size_in_bytes": 24160
+    },
+    {
+      "_path": "lib/tablefunc.so",
+      "path_type": "hardlink",
+      "sha256": "f0a953ab8e5f82d07cd842a7bfe0fb9d81408d28fdf3dcf2e355b4bc641e7304",
+      "size_in_bytes": 35416
+    },
+    {
+      "_path": "lib/tcn.so",
+      "path_type": "hardlink",
+      "sha256": "f2173c0a5f6b9eaa682ac3ace7149619837ec089c4b46a5ebacc7464b79ae74f",
+      "size_in_bytes": 16688
+    },
+    {
+      "_path": "lib/test_decoding.so",
+      "path_type": "hardlink",
+      "sha256": "bb3a8e88428f8fde940e5c6111ab099bec38fc5401ef508da57a8e98c86eb273",
+      "size_in_bytes": 21896
+    },
+    {
+      "_path": "lib/tsm_system_rows.so",
+      "path_type": "hardlink",
+      "sha256": "657c0f961eb16003b64c1e6c48023ac23325a94e747a312ad694e7a3d9339639",
+      "size_in_bytes": 17016
+    },
+    {
+      "_path": "lib/tsm_system_time.so",
+      "path_type": "hardlink",
+      "sha256": "8d001a70b0105e77b5db25768d03995e329aee63a0d297a2306fa2b30303705c",
+      "size_in_bytes": 17152
+    },
+    {
+      "_path": "lib/unaccent.so",
+      "path_type": "hardlink",
+      "sha256": "cc6903da7c88cf57afdb3b748d16623c4cccfaa11c9516e3c781136d21d6c240",
+      "size_in_bytes": 21960
+    },
+    {
+      "_path": "lib/uuid-ossp.so",
+      "path_type": "hardlink",
+      "sha256": "f58813edc10c13261e4b55cbaf377853679a488d4f4558871f9908956b1ed5cb",
+      "size_in_bytes": 26240
+    },
+    {
+      "_path": "share/doc/extension/autoinc.example",
+      "path_type": "hardlink",
+      "sha256": "65d6f64b26468f34cf192e54b09a9235fd41c17fc47acd7a12b0d35cfd0d29a4",
+      "size_in_bytes": 798
+    },
+    {
+      "_path": "share/doc/extension/insert_username.example",
+      "path_type": "hardlink",
+      "sha256": "f8ca2cc72359704097bf17b2bea9aa7b94b321f6204d4a4961d274a9cf3f2d99",
+      "size_in_bytes": 560
+    },
+    {
+      "_path": "share/doc/extension/moddatetime.example",
+      "path_type": "hardlink",
+      "sha256": "49e64f09781b8498f2cac51ba516bd83900f329902a921f5424c20115bcd7116",
+      "size_in_bytes": 493
+    },
+    {
+      "_path": "share/doc/extension/refint.example",
+      "path_type": "hardlink",
+      "sha256": "4d57a400bff9f757e6abc8ec2c8a8025109eda2fc0d002aba713b4b74ca339d3",
+      "size_in_bytes": 2105
+    },
+    {
+      "_path": "share/extension/adminpack--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "3fd4be2c4ade8770e76403072329232f2b9d57c264a013467174c72a02aa480d",
+      "size_in_bytes": 274
+    },
+    {
+      "_path": "share/extension/adminpack--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "cd4ab224700cfeed7ce07f8250b42b45575bd961374618b38e4f943fc749a26c",
+      "size_in_bytes": 1535
+    },
+    {
+      "_path": "share/extension/adminpack--1.1--2.0.sql",
+      "path_type": "hardlink",
+      "sha256": "79b1cfc03528bc75d8f6240a8f7cd8e0c58009b0cf8f49a020e3ce93a1017d25",
+      "size_in_bytes": 1682
+    },
+    {
+      "_path": "share/extension/adminpack.control",
+      "path_type": "hardlink",
+      "sha256": "d3125a66fb511670ac406dfa9962779a54e032263b37ed3cf5b7bb7ade713418",
+      "size_in_bytes": 176
+    },
+    {
+      "_path": "share/extension/amcheck--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "ef7837e801a68f98a386417dcc2e6daffbcf489903ac6ae2a7785f5c979f2a57",
+      "size_in_bytes": 931
+    },
+    {
+      "_path": "share/extension/amcheck--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "6a11b89aac993740431348d1c578d5be1e285a81de79eb27ff6335b075bb7e79",
+      "size_in_bytes": 704
+    },
+    {
+      "_path": "share/extension/amcheck--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "2a67d156021c0aa2f96f89e4a537c2087666debecb07cb708c022adfafa7db35",
+      "size_in_bytes": 705
+    },
+    {
+      "_path": "share/extension/amcheck.control",
+      "path_type": "hardlink",
+      "sha256": "8b7ee0021d99f093ba633d137e0d798ca0bc93c687fad9f47e27cb66b4d8a634",
+      "size_in_bytes": 154
+    },
+    {
+      "_path": "share/extension/autoinc--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "90a86e5b46d1d6b1688c3cc068b60782e26a52fa19139feb6b6049ec7c289b53",
+      "size_in_bytes": 249
+    },
+    {
+      "_path": "share/extension/autoinc--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "75a57bb436eac1c41c961b0a9b51c0829f7f9321762a8dca9e8bdc0622172a93",
+      "size_in_bytes": 250
+    },
+    {
+      "_path": "share/extension/autoinc.control",
+      "path_type": "hardlink",
+      "sha256": "4fc948f4ae89d47a07589a4c2cb93af211bad46369666322fe0a3d41d6d7d5ff",
+      "size_in_bytes": 149
+    },
+    {
+      "_path": "share/extension/bloom--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "cecce7d404b82c1fb397f8598953c55a9d9eaf02b5554989259bbf185611837f",
+      "size_in_bytes": 666
+    },
+    {
+      "_path": "share/extension/bloom.control",
+      "path_type": "hardlink",
+      "sha256": "a638be9bb2eac43f8fb73db7d5fc43a170b9112ddbf2034d7d037b34d5deedbf",
+      "size_in_bytes": 156
+    },
+    {
+      "_path": "share/extension/btree_gin--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "c81798c7433e3286af13d5b876c0640e0f6cbe7fae25275b86511500ba5d8879",
+      "size_in_bytes": 1372
+    },
+    {
+      "_path": "share/extension/btree_gin--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "0c5440a89f33c953fd0217d273a3ad6816ae32eeea8bcadbc8951ea6688756e3",
+      "size_in_bytes": 24818
+    },
+    {
+      "_path": "share/extension/btree_gin--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "6a3c43f4d8e91802f205b1c0ee330eadbb23372b1ff86e2954bb1ea3dd412f42",
+      "size_in_bytes": 1445
+    },
+    {
+      "_path": "share/extension/btree_gin--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "7a159af1a74eb2202be19c5a6383720a08e65ded58d4b2393cca56fe8c34cd35",
+      "size_in_bytes": 4571
+    },
+    {
+      "_path": "share/extension/btree_gin--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "0d0325a625daea3392680b697059111653191d129cb530ef8ab7c4a96fd6f96b",
+      "size_in_bytes": 10107
+    },
+    {
+      "_path": "share/extension/btree_gin.control",
+      "path_type": "hardlink",
+      "sha256": "2268c95b51b5c1ce072381443b49a580a57d52fc6913834c251012f7bcb0f8ac",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/extension/btree_gist--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "bf5d5f760da60f41fbfcd31804550f06c4511b1a5c19ffa302c3c1761c4afe38",
+      "size_in_bytes": 3739
+    },
+    {
+      "_path": "share/extension/btree_gist--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "0445e8c94b7405c48258bf34c3c12fb7faa5cd1732e71019044bb15c164ed9f1",
+      "size_in_bytes": 4346
+    },
+    {
+      "_path": "share/extension/btree_gist--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "5dc7a402185ddbdff6d4488686ba28e3e89c59a850e54f833114f383cda19123",
+      "size_in_bytes": 1955
+    },
+    {
+      "_path": "share/extension/btree_gist--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "6ce065d3cf6225cdc56d06ce0e8c18f404b658f18d5ae5b5adc652b69b4a66b4",
+      "size_in_bytes": 41115
+    },
+    {
+      "_path": "share/extension/btree_gist--1.3--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "7a7f5ece012f23d7a11f460e7536b65435ee0aeead0717963a428b092135ab84",
+      "size_in_bytes": 1932
+    },
+    {
+      "_path": "share/extension/btree_gist--1.4--1.5.sql",
+      "path_type": "hardlink",
+      "sha256": "4e28241668ad1ccc0d645ac46726a160617af4d07a8d77f188776e91b085d3ce",
+      "size_in_bytes": 1872
+    },
+    {
+      "_path": "share/extension/btree_gist--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "0518ec62ea64ce014b1113992c4c38237aa2c481933777060997b9a6546e4ce8",
+      "size_in_bytes": 21479
+    },
+    {
+      "_path": "share/extension/btree_gist.control",
+      "path_type": "hardlink",
+      "sha256": "d828464a2a66b13c5ff711c61f8b760aa7d863a09b2f95629336336220b693c6",
+      "size_in_bytes": 163
+    },
+    {
+      "_path": "share/extension/citext--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "8e522f09d70ccaa6794ba3aa9e0eb19e4c4235b6772605506e619f5b77ba23c4",
+      "size_in_bytes": 1028
+    },
+    {
+      "_path": "share/extension/citext--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "dcc62dacc31d116be7745932ce512605c0317ac794d090cd2cb8e6c792a605a2",
+      "size_in_bytes": 2748
+    },
+    {
+      "_path": "share/extension/citext--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "8ae45cd4dd2941a6514bd1e659d5e3e2aaad73d9dcc4d424161bba84a46bbb33",
+      "size_in_bytes": 307
+    },
+    {
+      "_path": "share/extension/citext--1.3--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "7289ff58c1cb20ca73b4c5a0e1c55808661b07d196f28a0b9a1c1dd7679a736e",
+      "size_in_bytes": 668
+    },
+    {
+      "_path": "share/extension/citext--1.4--1.5.sql",
+      "path_type": "hardlink",
+      "sha256": "8104223ef4f55afc26bddbca5a6f5500a87c026a9692c6bf1f06e2594fe69c21",
+      "size_in_bytes": 2284
+    },
+    {
+      "_path": "share/extension/citext--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "ca0e42530cef4281e9ee788739c6774cf4d5e1ce8eeb1a84964150a9659d3e0b",
+      "size_in_bytes": 13466
+    },
+    {
+      "_path": "share/extension/citext--1.5--1.6.sql",
+      "path_type": "hardlink",
+      "sha256": "31917f922dcc33b58c34cd9f221d4822eadfd5a190f2d3f0a447e03f46de394e",
+      "size_in_bytes": 427
+    },
+    {
+      "_path": "share/extension/citext--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "7a5cbb707f90e4fa267d717067809b34a41d909fc46eb2581d30b30e43610a6f",
+      "size_in_bytes": 9781
+    },
+    {
+      "_path": "share/extension/citext.control",
+      "path_type": "hardlink",
+      "sha256": "10de324128e518462305ae6c0d26fd1b6d0e4bc39be34febdc92b3bf510e52d0",
+      "size_in_bytes": 158
+    },
+    {
+      "_path": "share/extension/cube--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "943afc9d06b3898eb53855166438e42f3475f284176d5ec3745a701c53365bfc",
+      "size_in_bytes": 1594
+    },
+    {
+      "_path": "share/extension/cube--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "cae4e2364f04ad1e35051f00f38ffed3a46be391c6e112ec313e95d091b6d5b5",
+      "size_in_bytes": 3234
+    },
+    {
+      "_path": "share/extension/cube--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "ccc82742d4a9360cbd3baeb8eb50090824be5a84e30e9e01f8ef9f1e82c0beb5",
+      "size_in_bytes": 365
+    },
+    {
+      "_path": "share/extension/cube--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "5c6dbab000abc408addfbf19bd797a7d7bcea7d64f02f4ab44356eb0acb2daeb",
+      "size_in_bytes": 9761
+    },
+    {
+      "_path": "share/extension/cube--1.3--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "fa78e6e4d710fda0463af0e3be37bf37d3c736bf0f375c5139364081c4203f48",
+      "size_in_bytes": 1944
+    },
+    {
+      "_path": "share/extension/cube--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "a647b549d6a89a7e12f7ca66e5d98ef14007c1a8ad34a74a4d4b6f53394cd6d2",
+      "size_in_bytes": 3195
+    },
+    {
+      "_path": "share/extension/cube.control",
+      "path_type": "hardlink",
+      "sha256": "2c550b6afe90a3f6b805998bfa6b10896bb222ca9318cd765ac9255e6f35b32f",
+      "size_in_bytes": 142
+    },
+    {
+      "_path": "share/extension/dblink--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "41aae031fc6c6e60bd64ddc21841d02a0d894a3894ddad2591a37c02281633bd",
+      "size_in_bytes": 419
+    },
+    {
+      "_path": "share/extension/dblink--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "65ef017bd7c0b07f65f0785420e83939a833645f5cd2935b9fc7235bac0f3001",
+      "size_in_bytes": 2832
+    },
+    {
+      "_path": "share/extension/dblink--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "615d0687b504a6389ce94d4fd202a78a0dec09eef55653d358e9c964f9521914",
+      "size_in_bytes": 6645
+    },
+    {
+      "_path": "share/extension/dblink--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "f346269f9d903034dc163289de2cccdc09c58b8357f3ca5d6d075ff19c6b2e41",
+      "size_in_bytes": 2863
+    },
+    {
+      "_path": "share/extension/dblink.control",
+      "path_type": "hardlink",
+      "sha256": "000235278aab047a81911dbb285563e4ea5cefbbc1930901560914f28c86237c",
+      "size_in_bytes": 170
+    },
+    {
+      "_path": "share/extension/dict_int--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "ef69820527c757bd6004c04353fc2136b405b47dfd78c4af6aa34e96b8fd540f",
+      "size_in_bytes": 711
+    },
+    {
+      "_path": "share/extension/dict_int--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "5117cb699314ca11eb0d483e74101ae059e351cf8001a71a26b97f1bedfbd581",
+      "size_in_bytes": 493
+    },
+    {
+      "_path": "share/extension/dict_int.control",
+      "path_type": "hardlink",
+      "sha256": "7c02cb99acc47dc3290627fbd82a104352c77ec770a723d3b4b52fc2b5508f10",
+      "size_in_bytes": 158
+    },
+    {
+      "_path": "share/extension/dict_xsyn--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "a0ff05b7ee7c72242952d6cecb4a00837a19b3ed28da25a00a0ffa7ecaf90019",
+      "size_in_bytes": 694
+    },
+    {
+      "_path": "share/extension/dict_xsyn--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "42da19548f1b7d7d05e36b6fd128f373afc481618295057dc561d7fc05a2fe17",
+      "size_in_bytes": 488
+    },
+    {
+      "_path": "share/extension/dict_xsyn.control",
+      "path_type": "hardlink",
+      "sha256": "99ccde7920c8f430fea48e311d5420bc238491d2d9f7e2d38f916ade95a0b9cd",
+      "size_in_bytes": 179
+    },
+    {
+      "_path": "share/extension/earthdistance--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "378acfc1526f7a7b9dff088cde21bc85548d15388f7283732fe728f7facac809",
+      "size_in_bytes": 671
+    },
+    {
+      "_path": "share/extension/earthdistance--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "0bb175047b74ec4546bc2cc3f72221a77d620d9b710eaacad7d3c6d1ef10339c",
+      "size_in_bytes": 3224
+    },
+    {
+      "_path": "share/extension/earthdistance--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "2c8225d06fcb0662e9b47029d4b2b20fbe609157ef874f37bee1c642509b9c4b",
+      "size_in_bytes": 959
+    },
+    {
+      "_path": "share/extension/earthdistance.control",
+      "path_type": "hardlink",
+      "sha256": "94be3ba4b5bf6ee7b8892119c8bade1cb9e5b635268e4760473e3b1495a867ad",
+      "size_in_bytes": 202
+    },
+    {
+      "_path": "share/extension/file_fdw--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "9e8c813cfe876d71d5ee36ecaad5d17c77bbfc8bbfb005490f76478ac37e3f53",
+      "size_in_bytes": 475
+    },
+    {
+      "_path": "share/extension/file_fdw.control",
+      "path_type": "hardlink",
+      "sha256": "2f5964ed7e8d26aeb1a5b78674b891f219cb4d8b63fecc9600aded4315c6de78",
+      "size_in_bytes": 155
+    },
+    {
+      "_path": "share/extension/fuzzystrmatch--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "b4e6797d0a1d25ca905b52bc96f5ab18b40f18b1fc71fdadd8d01513b03a754e",
+      "size_in_bytes": 788
+    },
+    {
+      "_path": "share/extension/fuzzystrmatch--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "84009c54e3756973a0e8c5786161eb5bbd1d45b83d2f1c717ecac2917ae6cf06",
+      "size_in_bytes": 1576
+    },
+    {
+      "_path": "share/extension/fuzzystrmatch--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "ab5b940dded47f969007fa98091a84e75845d213ff8c1a66bb032ace9d681284",
+      "size_in_bytes": 1108
+    },
+    {
+      "_path": "share/extension/fuzzystrmatch.control",
+      "path_type": "hardlink",
+      "sha256": "e621a7c4de1b771f59f92d3f68fc4d82c353189c28f27b571e652cde20c9c1da",
+      "size_in_bytes": 175
+    },
+    {
+      "_path": "share/extension/hstore--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "9ee1738c34583f6acc424c08d9529f9012c59f107a1af90ec06e4a87d9e5635b",
+      "size_in_bytes": 279
+    },
+    {
+      "_path": "share/extension/hstore--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "97dd86d4b3392e939f3bc13478b5b63fe0ee356158a2e458116f5eceea80d24e",
+      "size_in_bytes": 1199
+    },
+    {
+      "_path": "share/extension/hstore--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "0753c346e86147cb7767f603310b774cff6affb11e65c2d5caf173cf0766ad2c",
+      "size_in_bytes": 525
+    },
+    {
+      "_path": "share/extension/hstore--1.3--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "f03b707ea7b113ebdbe864d3cd5c57e6382b92a8f1ba6b672a30f3e081afe37b",
+      "size_in_bytes": 4689
+    },
+    {
+      "_path": "share/extension/hstore--1.4--1.5.sql",
+      "path_type": "hardlink",
+      "sha256": "045d0def508a248fd0049f1bf99bbbec9bccff523f31514ffa3f7daf46b11de6",
+      "size_in_bytes": 409
+    },
+    {
+      "_path": "share/extension/hstore--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "bcd0328004e985554dc3831cb0db92da3f45bec48b6501fce962187b7a2c2bbf",
+      "size_in_bytes": 13765
+    },
+    {
+      "_path": "share/extension/hstore--1.5--1.6.sql",
+      "path_type": "hardlink",
+      "sha256": "957ae4e39efc2841766c59e2ece1bc431d87a8cfe39e8433b70ba08cf3e3b8d5",
+      "size_in_bytes": 455
+    },
+    {
+      "_path": "share/extension/hstore--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "bb224315d4a5ee1e74364c0e037ca97f85493ac5a884dad239da9b1c044652c2",
+      "size_in_bytes": 5509
+    },
+    {
+      "_path": "share/extension/hstore.control",
+      "path_type": "hardlink",
+      "sha256": "8713a100fbeae350e228805a55a7b08b949a0f006935747927fa023105956211",
+      "size_in_bytes": 158
+    },
+    {
+      "_path": "share/extension/insert_username--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "dfd01c866f57383291de8998b03dc99f4ef0d0f6a6f238a61511f6b3c05676db",
+      "size_in_bytes": 273
+    },
+    {
+      "_path": "share/extension/insert_username--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "8324b725890c85b561dc3f719ab14be39b632e20d5f505d9ee35c54421919bf8",
+      "size_in_bytes": 282
+    },
+    {
+      "_path": "share/extension/insert_username.control",
+      "path_type": "hardlink",
+      "sha256": "a50a089237d1da5e5d56ace503a601d5e3d759ffb1d3cc5a61c9024eb19a0ddd",
+      "size_in_bytes": 170
+    },
+    {
+      "_path": "share/extension/intagg--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "a854d41f3cf743cb97b6c695b79518f4c72ee673237895d0fe0287d5858b9e42",
+      "size_in_bytes": 471
+    },
+    {
+      "_path": "share/extension/intagg--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "23efea89ed8f96cc6aff196d2ca19100757e8a27d69add7ea516ade554273324",
+      "size_in_bytes": 1089
+    },
+    {
+      "_path": "share/extension/intagg--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "3bcac867a7994d74ec6a1c0af7ae5dbae8ce03088951a891821887b66966b4af",
+      "size_in_bytes": 468
+    },
+    {
+      "_path": "share/extension/intagg.control",
+      "path_type": "hardlink",
+      "sha256": "b0fd3e80a9386f194adebdcdec7a87d3e3be05f2b121b5feedf24c70c3a6590f",
+      "size_in_bytes": 119
+    },
+    {
+      "_path": "share/extension/intarray--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "afe3f46b5ea00c14d203b81de1f9c44ddff65fb1780f12fdbe9f9a5fe8bf3296",
+      "size_in_bytes": 1794
+    },
+    {
+      "_path": "share/extension/intarray--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "ea3a7312e9a5ca68d013806764f78c77069e7eb9e0f7cfceed03c6274a10df9f",
+      "size_in_bytes": 4922
+    },
+    {
+      "_path": "share/extension/intarray--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "cdbe2efda79cb5c9cfc17f157425e240bcd659b5c4ff590b30ab7dafc8b9dab1",
+      "size_in_bytes": 12293
+    },
+    {
+      "_path": "share/extension/intarray--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "e7908e16bd347fad0489108a3d9b79feb204123ad9f125210745ce35eb10b37c",
+      "size_in_bytes": 6771
+    },
+    {
+      "_path": "share/extension/intarray.control",
+      "path_type": "hardlink",
+      "sha256": "9a4484e9bcdf58e983fb1e4fba16ff245cce5152f7a3bb7a786621fcefe854ce",
+      "size_in_bytes": 176
+    },
+    {
+      "_path": "share/extension/isn--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "481e984efaf9cf02f0351f601945976b1604bbb46eaf72f8400da7121f206302",
+      "size_in_bytes": 12333
+    },
+    {
+      "_path": "share/extension/isn--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "a8bb938809c0c3cd239ba3248590e774961a54da454a7f2d3050169b221e46b2",
+      "size_in_bytes": 5264
+    },
+    {
+      "_path": "share/extension/isn--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "eedbf152770a67be7cb839ce3c229c2886ae07d4888f8ec61caac09c818a0fcb",
+      "size_in_bytes": 69885
+    },
+    {
+      "_path": "share/extension/isn--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "490c2390b30016acb8843e5dbf322325dbe88777480422acfa11a51d5db90644",
+      "size_in_bytes": 23705
+    },
+    {
+      "_path": "share/extension/isn.control",
+      "path_type": "hardlink",
+      "sha256": "8ba7e37861bc54b9a0d68762ad5ae02756dd4f896a7845ce26d7c0eeb02e45c1",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/extension/lo--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "6b746a7b34517f8c4a9aded518085fcdce85ee9145b7400788167401833a3485",
+      "size_in_bytes": 223
+    },
+    {
+      "_path": "share/extension/lo--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "d045cbbb5385d15052b9dacd213d896d994ba51af55695e1685681b2f7637d5e",
+      "size_in_bytes": 722
+    },
+    {
+      "_path": "share/extension/lo--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "6b09d7398aa7093b61849e8498ef079bbdb4f2d0e6e985d6ca77af21c29018dd",
+      "size_in_bytes": 314
+    },
+    {
+      "_path": "share/extension/lo.control",
+      "path_type": "hardlink",
+      "sha256": "24af956bef3635520b756b54b711eeb24fc45e495116a69a57acf61669f3d09f",
+      "size_in_bytes": 126
+    },
+    {
+      "_path": "share/extension/ltree--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "620b166dc75a933ffdc1e4abc8241fc895e48eb1f72e770bed1797ac678b2ab1",
+      "size_in_bytes": 5687
+    },
+    {
+      "_path": "share/extension/ltree--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "17bd2b7616cc0fdd72ded20017c224e7c1d8d145a7562f985f5093bb8180b7cc",
+      "size_in_bytes": 19375
+    },
+    {
+      "_path": "share/extension/ltree--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "d288cb57df639a9cb65a904ad015ebe5c8f6cdc06af48ca13bf853e53be8bde0",
+      "size_in_bytes": 7998
+    },
+    {
+      "_path": "share/extension/ltree.control",
+      "path_type": "hardlink",
+      "sha256": "536ee6898053260543b10dc31efd84a9b016f958e675e2c9ff1a28e70a3cfd14",
+      "size_in_bytes": 155
+    },
+    {
+      "_path": "share/extension/moddatetime--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "81aa1167a1f7ab51f1518698c8f56f712a5030e15ec588d2e1def03dddc69c96",
+      "size_in_bytes": 261
+    },
+    {
+      "_path": "share/extension/moddatetime--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "265ba33ad821ea33e022128f00183b11703a2c561327412e1d3632d9b3a9ae77",
+      "size_in_bytes": 266
+    },
+    {
+      "_path": "share/extension/moddatetime.control",
+      "path_type": "hardlink",
+      "sha256": "7c6e860c0570348baa620603566c6bc4d7bb4b3b11a66dd0033493fcb4f1f96e",
+      "size_in_bytes": 165
+    },
+    {
+      "_path": "share/extension/pageinspect--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "84268e37d39bef6585d42a4e14dee567e7afb919addf6621dfd4ec9eabf08fca",
+      "size_in_bytes": 560
+    },
+    {
+      "_path": "share/extension/pageinspect--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "84899c9fbf372d2c2dacffd817eec64c6076fe41006be6261e76f3661c91435e",
+      "size_in_bytes": 562
+    },
+    {
+      "_path": "share/extension/pageinspect--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "df73aa055b6977ae94cbafca5ce57dab3778633189525ffcd517722a333cb9d7",
+      "size_in_bytes": 1946
+    },
+    {
+      "_path": "share/extension/pageinspect--1.3--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "77ea8f779d43ca5fbf04b81170e9971459c9667f0d3e340b5d1ae2c055d35f41",
+      "size_in_bytes": 2566
+    },
+    {
+      "_path": "share/extension/pageinspect--1.4--1.5.sql",
+      "path_type": "hardlink",
+      "sha256": "b433f6d5838c1055b9d67fa15c170069b9f7e48f0c44d89b30b9207254b4de2a",
+      "size_in_bytes": 1347
+    },
+    {
+      "_path": "share/extension/pageinspect--1.5--1.6.sql",
+      "path_type": "hardlink",
+      "sha256": "24280667f07c8e9323361c01e6180453f659c3b7aa92ed4cb2356bc6742fcc10",
+      "size_in_bytes": 2252
+    },
+    {
+      "_path": "share/extension/pageinspect--1.5.sql",
+      "path_type": "hardlink",
+      "sha256": "c8ae5e8b5b2a4ddd91606768bb97a15b20d9801bf221dc5f5a6b9d04f8728582",
+      "size_in_bytes": 6262
+    },
+    {
+      "_path": "share/extension/pageinspect--1.6--1.7.sql",
+      "path_type": "hardlink",
+      "sha256": "9429a8581910c56ca47892c6c0c5f21f978de3b365735234dc918eb88da689fb",
+      "size_in_bytes": 698
+    },
+    {
+      "_path": "share/extension/pageinspect--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "d5a5f59d29af61c1b913cfef9bd08d09ae204108a140a5e2b527d29e9edcf08d",
+      "size_in_bytes": 1116
+    },
+    {
+      "_path": "share/extension/pageinspect.control",
+      "path_type": "hardlink",
+      "sha256": "3f65e051612cd975eb958038c30a4a345e5e3965d965f8f275084101441e0f90",
+      "size_in_bytes": 173
+    },
+    {
+      "_path": "share/extension/pg_buffercache--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "88d9a4fe3d4b1f57716786357bf323c3a563da32e5ba424220dc79b96134458c",
+      "size_in_bytes": 508
+    },
+    {
+      "_path": "share/extension/pg_buffercache--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "78054761138f260a9c1b34577e7f2a09b81ff3d58ac3f6e1c6424e0f7f5ca00f",
+      "size_in_bytes": 271
+    },
+    {
+      "_path": "share/extension/pg_buffercache--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "7a90452071e7dae7ca6e75bacf15b73f96bb4be46abfa93502c3e6d520540aad",
+      "size_in_bytes": 328
+    },
+    {
+      "_path": "share/extension/pg_buffercache--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "ef83a188c86f21905f9ace8393143c6407d2c25c577e486df6a251c742b6cb6e",
+      "size_in_bytes": 794
+    },
+    {
+      "_path": "share/extension/pg_buffercache--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "3640060cacf8a8d6a7c1bc37294723e7241b47262a8aad7c66284b5ef1424034",
+      "size_in_bytes": 351
+    },
+    {
+      "_path": "share/extension/pg_buffercache.control",
+      "path_type": "hardlink",
+      "sha256": "1df734d0d715b92eae8250b61a885a70740a458a277cd12bcb41c3fa99aa5e45",
+      "size_in_bytes": 157
+    },
+    {
+      "_path": "share/extension/pg_freespacemap--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "67a3bc34c99015ddb234e33af7468aecf7d07d32ad2edca1689c8f385b8ff0f5",
+      "size_in_bytes": 335
+    },
+    {
+      "_path": "share/extension/pg_freespacemap--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "d864b9660785a2b139368539f5523c26a125e1f70e110d60f7106f203b4bb5b2",
+      "size_in_bytes": 377
+    },
+    {
+      "_path": "share/extension/pg_freespacemap--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "af0b659e01f3d1c49cdae9857be584e7ee0358b80c917eb810e8a808b5a3d087",
+      "size_in_bytes": 899
+    },
+    {
+      "_path": "share/extension/pg_freespacemap--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "e79228527f9bb17a6bdcc1bca7e4fb636feabf1824aea022d5ee21ff65eb4889",
+      "size_in_bytes": 375
+    },
+    {
+      "_path": "share/extension/pg_freespacemap.control",
+      "path_type": "hardlink",
+      "sha256": "37218e3edb4b4b1e9c0e71b0771128ae7ba49fffb21443b9056d137c8cadfea4",
+      "size_in_bytes": 160
+    },
+    {
+      "_path": "share/extension/pg_prewarm--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "086aab8d6f130184865916aa93e84a2563ce335eb8da130fc485368860c8c390",
+      "size_in_bytes": 281
+    },
+    {
+      "_path": "share/extension/pg_prewarm--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "1e3071f0c1535462db8e3d03df58c4de0de73e0106f16a013c4b47e4d84cdd19",
+      "size_in_bytes": 458
+    },
+    {
+      "_path": "share/extension/pg_prewarm--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "879227a872c8a8e200b87a09470d166264d0f71269118dcd2117cd89370dbdf6",
+      "size_in_bytes": 475
+    },
+    {
+      "_path": "share/extension/pg_prewarm.control",
+      "path_type": "hardlink",
+      "sha256": "02457f028a8d2b0a861c4a6611318e3a9af92926881fb111d7d39c329da52b08",
+      "size_in_bytes": 139
+    },
+    {
+      "_path": "share/extension/pg_stat_statements--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "3be14c0cfbc48097813ddb38be7b6ba8b64e61eed495ac78691b112f177fad5d",
+      "size_in_bytes": 1246
+    },
+    {
+      "_path": "share/extension/pg_stat_statements--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "585bcd4b958d9509a4884807895263dc408cd84deb591422fb5088c84797a03c",
+      "size_in_bytes": 1336
+    },
+    {
+      "_path": "share/extension/pg_stat_statements--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "fec6a32365da764be76cf65d3cc5aa70286601f33a07191d122f394eb34c6214",
+      "size_in_bytes": 1454
+    },
+    {
+      "_path": "share/extension/pg_stat_statements--1.3--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "1224d505a793c90f36e8d9ee860780a3b9cc57043d75bf5a3c3b9f3e45b20a60",
+      "size_in_bytes": 345
+    },
+    {
+      "_path": "share/extension/pg_stat_statements--1.4--1.5.sql",
+      "path_type": "hardlink",
+      "sha256": "2f0256a0f057d6bbf62fec58045f06e31974d8d391f553b6ba48fb8583962b86",
+      "size_in_bytes": 305
+    },
+    {
+      "_path": "share/extension/pg_stat_statements--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "2bf423c3cebe2fcce8ac589f4b12cbdd6c4e678520d5d8bd76bbf21d7d86a185",
+      "size_in_bytes": 1427
+    },
+    {
+      "_path": "share/extension/pg_stat_statements--1.5--1.6.sql",
+      "path_type": "hardlink",
+      "sha256": "7c537b11d4bb551208b8f61ecc240ab8af9ba779b76fbd653bd12f38bfe28dc6",
+      "size_in_bytes": 376
+    },
+    {
+      "_path": "share/extension/pg_stat_statements--1.6--1.7.sql",
+      "path_type": "hardlink",
+      "sha256": "7a5ffffffbff4eab6dff365f8cdb63fd5b675674e2ab52a53adf705aec45fc73",
+      "size_in_bytes": 806
+    },
+    {
+      "_path": "share/extension/pg_stat_statements--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "2123808e8730e7d7e8f420cdee7883b8ce610999eb9ab346f0912114e6a9aa2a",
+      "size_in_bytes": 449
+    },
+    {
+      "_path": "share/extension/pg_stat_statements.control",
+      "path_type": "hardlink",
+      "sha256": "35f8141ff3ae21516c4c964d8cfdebc53bf6ec23059e5f064780b36e2f2d3fea",
+      "size_in_bytes": 191
+    },
+    {
+      "_path": "share/extension/pg_trgm--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "a85cff55497081250bef3bb3b7fc8d8beb3b9bab64675501f79f923d7bd0a06c",
+      "size_in_bytes": 536
+    },
+    {
+      "_path": "share/extension/pg_trgm--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "0ed40419dc9b01417ce058aba210c615bf1ff04daba44e4d23085983a4565f7f",
+      "size_in_bytes": 2192
+    },
+    {
+      "_path": "share/extension/pg_trgm--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "982025e5cbc843cdfef4f88a8d964884058a7a9023738ce4d26013c50818e780",
+      "size_in_bytes": 2903
+    },
+    {
+      "_path": "share/extension/pg_trgm--1.3--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "98763d59a6e221dd1bfc43e941024e4ed363fc05c9ce4514bc93554dfd8a8ed5",
+      "size_in_bytes": 2045
+    },
+    {
+      "_path": "share/extension/pg_trgm--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "cf983b7bd9f716f113f635c66525c63291b3a8dc1aab6589f6d3da42631318b9",
+      "size_in_bytes": 7975
+    },
+    {
+      "_path": "share/extension/pg_trgm--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "ed8f05fb0e8e869b31e5bfcb7ea0df30d4232b1ef8c61ddfb06411dc87d6087b",
+      "size_in_bytes": 4246
+    },
+    {
+      "_path": "share/extension/pg_trgm.control",
+      "path_type": "hardlink",
+      "sha256": "b42dc184e9129b5b0c85bfc417cc539d11c2b31ae97c9a0f42b8524607109894",
+      "size_in_bytes": 177
+    },
+    {
+      "_path": "share/extension/pg_visibility--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "60764a081274333c2fb9378e339ede225cd914d72da82fb4f2e7144e9630f6af",
+      "size_in_bytes": 883
+    },
+    {
+      "_path": "share/extension/pg_visibility--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "e013d95f190343277fb02d797b2ab845a975e4a4280a4702cb6941c2211a8b60",
+      "size_in_bytes": 833
+    },
+    {
+      "_path": "share/extension/pg_visibility--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "4894754ecbcd82334a9af001bc8eec10f81a12149afe89ff04ea1193ea71cc34",
+      "size_in_bytes": 2825
+    },
+    {
+      "_path": "share/extension/pg_visibility.control",
+      "path_type": "hardlink",
+      "sha256": "5265d68f17d85a14d89441b5a800a2689509dab34c05419bbdb1c5081d4cc39e",
+      "size_in_bytes": 186
+    },
+    {
+      "_path": "share/extension/pgcrypto--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "530abf4709c3010f600312b513cafd2c169b8d8810b59f54ad4da5e576689ec3",
+      "size_in_bytes": 307
+    },
+    {
+      "_path": "share/extension/pgcrypto--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "d33b87d052730a764df864d59f16f09686c0f6c8883184d60784c02702ab1af3",
+      "size_in_bytes": 483
+    },
+    {
+      "_path": "share/extension/pgcrypto--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "dfc2f4de2ca4eef79c4b24e25562b8d1948f5a6571a916b6b4c81b07d14dfbc6",
+      "size_in_bytes": 2346
+    },
+    {
+      "_path": "share/extension/pgcrypto--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "84f8eee1d6b03982fac596988b46bf89d5d5d8790d3133783eedad38bc7d8d38",
+      "size_in_bytes": 5708
+    },
+    {
+      "_path": "share/extension/pgcrypto--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "cd2f3e58d5bf4c8049fd15d8d67f0b9ac73c62566013765634dd84b0afdb482c",
+      "size_in_bytes": 2449
+    },
+    {
+      "_path": "share/extension/pgcrypto.control",
+      "path_type": "hardlink",
+      "sha256": "b0c1f121e54c2b220b9aa8e1c194d466f2bc64f6d42061369cee981987e27413",
+      "size_in_bytes": 137
+    },
+    {
+      "_path": "share/extension/pgrowlocks--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "679105d3cf9c1ae69ee1f95653bc3bdfd6501b1ce2b4f166749937c7a7c9e52f",
+      "size_in_bytes": 651
+    },
+    {
+      "_path": "share/extension/pgrowlocks--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "5718fa13fd8e3ea9058284683eafe8c1be3ea8d549032d04b625ecb33208f46b",
+      "size_in_bytes": 253
+    },
+    {
+      "_path": "share/extension/pgrowlocks--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "6645e58b3282e3f7ef35a7ec832bf1a06cd0480715993f379e03472eb8d9e636",
+      "size_in_bytes": 555
+    },
+    {
+      "_path": "share/extension/pgrowlocks--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "b0e9ac68a1356b4f17bd9ed48dc0098c001f93f2a5f794662a088751ef27279b",
+      "size_in_bytes": 273
+    },
+    {
+      "_path": "share/extension/pgrowlocks.control",
+      "path_type": "hardlink",
+      "sha256": "95be083d42f975d6868a667d2c085accea63e65e235cd65d1697de4e4ea0ff49",
+      "size_in_bytes": 152
+    },
+    {
+      "_path": "share/extension/pgstattuple--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "f3d746e666e75ea13570858459e9cc6264de26fe9a7149af35f6739605682947",
+      "size_in_bytes": 400
+    },
+    {
+      "_path": "share/extension/pgstattuple--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "3166dce80800ea8cd1abe4334f8d76b16b4b1c25f5fc69533264ee97920646d5",
+      "size_in_bytes": 1435
+    },
+    {
+      "_path": "share/extension/pgstattuple--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "140f5d8b2a6fa9285244fafeb3763e579e3478762ab2646011c8aab6a21e43f6",
+      "size_in_bytes": 1126
+    },
+    {
+      "_path": "share/extension/pgstattuple--1.3--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "d4a79f01e50e9623ed1bc0e44d84b88ab5312ed1b25c23d43b6eb5db9dccf7d7",
+      "size_in_bytes": 623
+    },
+    {
+      "_path": "share/extension/pgstattuple--1.4--1.5.sql",
+      "path_type": "hardlink",
+      "sha256": "8d8eb6a614cbfca248684edff229303a1c18ad0e12c89f62da0e1b2411f35e24",
+      "size_in_bytes": 5506
+    },
+    {
+      "_path": "share/extension/pgstattuple--1.4.sql",
+      "path_type": "hardlink",
+      "sha256": "f2340a359a830b8ca02d192a40470df25e4cd600212062910980ad694f49d5cb",
+      "size_in_bytes": 3764
+    },
+    {
+      "_path": "share/extension/pgstattuple--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "ba88dff03a25739ddc0c4bc8a304c85d859e99ce317a6f8ff86e56fffc6c9554",
+      "size_in_bytes": 457
+    },
+    {
+      "_path": "share/extension/pgstattuple.control",
+      "path_type": "hardlink",
+      "sha256": "51ddd02509a3c65c5b07eae95f4f49375cd3d3da56f0357a4c9c12bc5a357941",
+      "size_in_bytes": 147
+    },
+    {
+      "_path": "share/extension/postgres_fdw--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "3a6af33c106f7f62040e0ed8ca97eaa5f144b23efdfc0e261bb25368d0239a70",
+      "size_in_bytes": 507
+    },
+    {
+      "_path": "share/extension/postgres_fdw.control",
+      "path_type": "hardlink",
+      "sha256": "bac0dde8eaaecbd1f91336a5454ab495638bd59d4efdef1f48b132bd63b6534a",
+      "size_in_bytes": 172
+    },
+    {
+      "_path": "share/extension/refint--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "25f8d28d97c44c2ec317755620cbfdd740360a868a58626a47ad4aebee0dfe7b",
+      "size_in_bytes": 343
+    },
+    {
+      "_path": "share/extension/refint--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "ef83c31b440c7e905f6d4adb7c2eae0d1c1acc12fc7cd92c3cc75b946f8e789b",
+      "size_in_bytes": 314
+    },
+    {
+      "_path": "share/extension/refint.control",
+      "path_type": "hardlink",
+      "sha256": "2c04e91a2d113ec5e6596c5b66cdbdc80dd4e0b9d0d7af9af13116c91e06fe04",
+      "size_in_bytes": 169
+    },
+    {
+      "_path": "share/extension/seg--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "001e8a150c91b1a8804d1cf1aafda16cced457cf67eb7685757e11c5c0e707c5",
+      "size_in_bytes": 2432
+    },
+    {
+      "_path": "share/extension/seg--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "fc18230eaa27579238ad232553393cf09ae9e47de249b5f3ce064e9045ea1a96",
+      "size_in_bytes": 360
+    },
+    {
+      "_path": "share/extension/seg--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "afcaf459b8f653942151c68723510724b596b8b914b6a41525efa00a378e63c0",
+      "size_in_bytes": 8142
+    },
+    {
+      "_path": "share/extension/seg--1.2--1.3.sql",
+      "path_type": "hardlink",
+      "sha256": "16c8bb7cd0d63acab46db28321483e2b9aaca04f412ab07b74c00b8a797049a9",
+      "size_in_bytes": 1923
+    },
+    {
+      "_path": "share/extension/seg--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "36944aa4184198ef2aa9c3ce1ad74d1f1984469a6fbe764f2bb4f3bc4b5b197b",
+      "size_in_bytes": 2782
+    },
+    {
+      "_path": "share/extension/seg.control",
+      "path_type": "hardlink",
+      "sha256": "41651c8d88d020a0c858af5b109e3dd0645666742a36a8a1e6ff987a011b6431",
+      "size_in_bytes": 172
+    },
+    {
+      "_path": "share/extension/sslinfo--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "1a293f04b59457df7fbd0609a1358324516baff7ff1e59d47070619c92ce4bd0",
+      "size_in_bytes": 375
+    },
+    {
+      "_path": "share/extension/sslinfo--1.1--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "95cf20ca97265301b1f046a65aa153890bc93817e2cf20d5f5cddfc3cd00b122",
+      "size_in_bytes": 746
+    },
+    {
+      "_path": "share/extension/sslinfo--1.2.sql",
+      "path_type": "hardlink",
+      "sha256": "e58a0233448e54dd486126208d4551ee1f313a8330eccf1d28a6400795ef95a4",
+      "size_in_bytes": 1534
+    },
+    {
+      "_path": "share/extension/sslinfo--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "dafb905325c4fe0ecedbb50259ad3bb44f09387db15405eea4b56d6bd696f9e4",
+      "size_in_bytes": 846
+    },
+    {
+      "_path": "share/extension/sslinfo.control",
+      "path_type": "hardlink",
+      "sha256": "e6a93ff05db1a9947cbb5d2a8477a71c0726f656e934a525f651731193ff717e",
+      "size_in_bytes": 146
+    },
+    {
+      "_path": "share/extension/tablefunc--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "82488e9d01a88bc0481d1a4be6193802d0aecd925a362a56ddcb406bea39ad7e",
+      "size_in_bytes": 2153
+    },
+    {
+      "_path": "share/extension/tablefunc--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "32b944c08590d120f35d4161199ca460dfe5da20b9292457133241a986db8f1f",
+      "size_in_bytes": 1160
+    },
+    {
+      "_path": "share/extension/tablefunc.control",
+      "path_type": "hardlink",
+      "sha256": "f9eb2e2dfdabb3cb64dc7a347e3ccb10b8f88352b1d53681cad3a932ab9bdc17",
+      "size_in_bytes": 174
+    },
+    {
+      "_path": "share/extension/tcn--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "61685715d8213fe053f8e1d78864e4948df337a7a660bcdf3d61d0808b1d1af3",
+      "size_in_bytes": 274
+    },
+    {
+      "_path": "share/extension/tcn.control",
+      "path_type": "hardlink",
+      "sha256": "efdb79f8d021d56d0cf1285725e1417e5d8a94ec35d3bd58a14ef0c535b7287d",
+      "size_in_bytes": 134
+    },
+    {
+      "_path": "share/extension/tsm_system_rows--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "b6ff301cc9069b9be9f3e29ea6708f8e452b4621e5728b25cc10e8d6b45a1ef3",
+      "size_in_bytes": 327
+    },
+    {
+      "_path": "share/extension/tsm_system_rows.control",
+      "path_type": "hardlink",
+      "sha256": "9e26c05825c8b943dbd4012d2cb0642d1f290c8888dc468a0e16801c6942a5c4",
+      "size_in_bytes": 186
+    },
+    {
+      "_path": "share/extension/tsm_system_time--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "3c47246eab5711c561310e9c5209318deb12df9a2f26837493e701c56ca37ef3",
+      "size_in_bytes": 327
+    },
+    {
+      "_path": "share/extension/tsm_system_time.control",
+      "path_type": "hardlink",
+      "sha256": "c919909eb8e9060b6c9516fa3d74f75ad7f76a8b9ac159acba65c3e7988ee5af",
+      "size_in_bytes": 192
+    },
+    {
+      "_path": "share/extension/unaccent--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "82040e64db6ec0fe8210bb414e175ca6fb7ae4a70d80b0e65d861f4f4266ac96",
+      "size_in_bytes": 445
+    },
+    {
+      "_path": "share/extension/unaccent--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "e08a90e98ae8e1b6cdb5d25dcab352064f13f187e99f29b6d971ef61e10f6a7a",
+      "size_in_bytes": 910
+    },
+    {
+      "_path": "share/extension/unaccent--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "b9ca3591b4bf88812fcd17fce32e784a579aae292e5793207d194ffdfed846ce",
+      "size_in_bytes": 766
+    },
+    {
+      "_path": "share/extension/unaccent.control",
+      "path_type": "hardlink",
+      "sha256": "601fbe7ddd8c03fd8357ec27b07d8a888b53c83b1f0d5a13684547dba6a7cf7b",
+      "size_in_bytes": 157
+    },
+    {
+      "_path": "share/extension/uuid-ossp--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "112b84c73afb619a0dcddc2c23aef834cab2b4a2a0aa6b54c42d74e0064f3bc1",
+      "size_in_bytes": 688
+    },
+    {
+      "_path": "share/extension/uuid-ossp--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "1cf94e2eaa2033f32b80b1a7a371809d6cacc108b39d187c254f6fe04b383f84",
+      "size_in_bytes": 1516
+    },
+    {
+      "_path": "share/extension/uuid-ossp--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "b2b753d0fc2281f134de3012f3e497d8af2baec05722ed63e7e0d1d300879472",
+      "size_in_bytes": 853
+    },
+    {
+      "_path": "share/extension/uuid-ossp.control",
+      "path_type": "hardlink",
+      "sha256": "14f612daa3bdc0bb8e664c14e8bbc50225008786157bd8b2039b218d8dd5e711",
+      "size_in_bytes": 163
+    },
+    {
+      "_path": "share/extension/xml2--1.0--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "f14378e15a56c8e837feb24deffd3fb779a456b87d9e81ddb7da702802d4990a",
+      "size_in_bytes": 944
+    },
+    {
+      "_path": "share/extension/xml2--1.1.sql",
+      "path_type": "hardlink",
+      "sha256": "287954e902826960e9dec8f7e86bc0e39ca1e257fe25c0641f9f9fd5a4594e0d",
+      "size_in_bytes": 2049
+    },
+    {
+      "_path": "share/extension/xml2--unpackaged--1.0.sql",
+      "path_type": "hardlink",
+      "sha256": "0907ebe29fe7a45bf904fe3fa2c0ffbec395f2254289b1d070364a3cc7aa391f",
+      "size_in_bytes": 1341
+    },
+    {
+      "_path": "share/extension/xml2.control",
+      "path_type": "hardlink",
+      "sha256": "3aa55b30acee7ac68997fe1855e7609c6361fed21d53972fa918cf57c767ce82",
+      "size_in_bytes": 208
+    },
+    {
+      "_path": "share/tsearch_data/unaccent.rules",
+      "path_type": "hardlink",
+      "sha256": "72cd3bdfd3a4c1bc7aeb1aa87f3f4e1e8613ace57552b849178e4702920d99c1",
+      "size_in_bytes": 8935
+    },
+    {
+      "_path": "share/tsearch_data/xsyn_sample.rules",
+      "path_type": "hardlink",
+      "sha256": "25346fa2b510399e4f30548067ef76b0b61aee884b301a7fa55db4781aa1d84e",
+      "size_in_bytes": 139
+    }
+  ],
+  "paths_version": 1
+}

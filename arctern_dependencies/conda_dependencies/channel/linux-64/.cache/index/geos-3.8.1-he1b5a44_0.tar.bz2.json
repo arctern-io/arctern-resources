@@ -1,0 +1,1 @@
+{"build": "he1b5a44_0", "build_number": 0, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "LGPL-2.1", "name": "geos", "subdir": "linux-64", "timestamp": 1583932813585, "version": "3.8.1", "size": 1059965, "md5": "7282fbe0c036bacad959c03c05a7eb9a", "sha256": "1f38587ef543a0e24d07a0d1197e621c1fa8d9f4850d9a8416d8ffd41e755b8f"}

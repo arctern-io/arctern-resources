@@ -1,0 +1,17 @@
+{
+  "paths": [
+    {
+      "_path": "lib/libopenblas.so.0",
+      "path_type": "softlink",
+      "sha256": "e7d08a02440739faf11d0baf8cab1d6b281201ff3a77c7853a36ba8137825125",
+      "size_in_bytes": 30496944
+    },
+    {
+      "_path": "lib/libopenblasp-r0.3.9.so",
+      "path_type": "hardlink",
+      "sha256": "e7d08a02440739faf11d0baf8cab1d6b281201ff3a77c7853a36ba8137825125",
+      "size_in_bytes": 30496944
+    }
+  ],
+  "paths_version": 1
+}

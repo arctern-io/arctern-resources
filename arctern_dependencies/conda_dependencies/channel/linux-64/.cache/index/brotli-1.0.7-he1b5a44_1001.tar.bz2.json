@@ -1,0 +1,1 @@
+{"build": "he1b5a44_1001", "build_number": 1001, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "MIT", "name": "brotli", "subdir": "linux-64", "timestamp": 1584601771632, "version": "1.0.7", "size": 1052144, "md5": "b25bc77161c979927c87c5d8bbd570f1", "sha256": "75935c46f40427bb7121d7b29d53bdfddc82a5a185afb53d3200a439f700c5f3"}

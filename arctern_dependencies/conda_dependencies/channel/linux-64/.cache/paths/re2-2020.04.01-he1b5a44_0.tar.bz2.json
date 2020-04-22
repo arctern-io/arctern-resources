@@ -1,0 +1,61 @@
+{
+  "paths": [
+    {
+      "_path": "include/re2/filtered_re2.h",
+      "path_type": "hardlink",
+      "sha256": "969bb1baef7a0405255986c5ddcf1a46c102ff7e0c1406ee7fcf35287ca0b030",
+      "size_in_bytes": 4097
+    },
+    {
+      "_path": "include/re2/re2.h",
+      "path_type": "hardlink",
+      "sha256": "1e821cf09a8dae3739da547f89fc585d5b25e8187259338d08015c9284713145",
+      "size_in_bytes": 39053
+    },
+    {
+      "_path": "include/re2/set.h",
+      "path_type": "hardlink",
+      "sha256": "d1fdb8e95b96c903c9046d6c848bea354b5bb370a0057679b57eb4536d36f65d",
+      "size_in_bytes": 2365
+    },
+    {
+      "_path": "include/re2/stringpiece.h",
+      "path_type": "hardlink",
+      "sha256": "12e966d14179b6093ef44d84a962deaebd9d71bdd2fdae204d18936327ac0da2",
+      "size_in_bytes": 6336
+    },
+    {
+      "_path": "lib/libre2.a",
+      "path_type": "hardlink",
+      "sha256": "fdc11a3422ed7664ffea4795634982ecb991b8bf95c6f33a67d87ff369a128aa",
+      "size_in_bytes": 1214806
+    },
+    {
+      "_path": "lib/libre2.so",
+      "path_type": "softlink",
+      "sha256": "0e22d102b00c75a4aafac0a17de813f67ae1827209c879d747af8e8a13ef4f16",
+      "size_in_bytes": 518000
+    },
+    {
+      "_path": "lib/libre2.so.6",
+      "path_type": "softlink",
+      "sha256": "0e22d102b00c75a4aafac0a17de813f67ae1827209c879d747af8e8a13ef4f16",
+      "size_in_bytes": 518000
+    },
+    {
+      "_path": "lib/libre2.so.6.0.0",
+      "path_type": "hardlink",
+      "sha256": "0e22d102b00c75a4aafac0a17de813f67ae1827209c879d747af8e8a13ef4f16",
+      "size_in_bytes": 518000
+    },
+    {
+      "_path": "lib/pkgconfig/re2.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/re2_1585716396921/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+      "sha256": "1bfa7111abac6c2ce8dd7c3eae552bae017167ac9108856d2f78182b4b58276b",
+      "size_in_bytes": 722
+    }
+  ],
+  "paths_version": 1
+}

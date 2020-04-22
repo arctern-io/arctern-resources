@@ -1,0 +1,339 @@
+{
+  "paths": [
+    {
+      "_path": "include/rapidjson/allocators.h",
+      "path_type": "hardlink",
+      "sha256": "574fb8bebf000c3a4779fe200b37cbcfabf9d028cd04a0e2ed633f757060c0ec",
+      "size_in_bytes": 10311
+    },
+    {
+      "_path": "include/rapidjson/document.h",
+      "path_type": "hardlink",
+      "sha256": "da02371e1747e869c56fbe0a66d66630aefbefee6d615740f2895342c924fc8c",
+      "size_in_bytes": 113794
+    },
+    {
+      "_path": "include/rapidjson/encodedstream.h",
+      "path_type": "hardlink",
+      "sha256": "b44479a6e74ff0a5c461debd10de5a48810989e9565e6b1f20523a8449c39ccb",
+      "size_in_bytes": 10686
+    },
+    {
+      "_path": "include/rapidjson/encodings.h",
+      "path_type": "hardlink",
+      "sha256": "4cc11051fca0f274fe3a296987de98d9d99174cd94aaf274652cab4c1c6f586f",
+      "size_in_bytes": 28553
+    },
+    {
+      "_path": "include/rapidjson/error/en.h",
+      "path_type": "hardlink",
+      "sha256": "5d040327a5b7b50367f5862fe88e9d742bcefcff52450279bfebb89a30072d2d",
+      "size_in_bytes": 3870
+    },
+    {
+      "_path": "include/rapidjson/error/error.h",
+      "path_type": "hardlink",
+      "sha256": "97563d14f2d7d5eee7ba73149b66034d3612c0e0358d0d591f9faa5d4c926f0a",
+      "size_in_bytes": 5824
+    },
+    {
+      "_path": "include/rapidjson/filereadstream.h",
+      "path_type": "hardlink",
+      "sha256": "7ad99895d5deef0ad98993d09c6386880ab833962c1d886e6a11de45c74c32d4",
+      "size_in_bytes": 2988
+    },
+    {
+      "_path": "include/rapidjson/filewritestream.h",
+      "path_type": "hardlink",
+      "sha256": "5f64e24e43823c5b0d3adf5b43c17c1fbe70ddd2f9faaf4c9d9639789e779841",
+      "size_in_bytes": 3139
+    },
+    {
+      "_path": "include/rapidjson/fwd.h",
+      "path_type": "hardlink",
+      "sha256": "06a7b142b7b0e1d2b773e657bbafd9b861e4b0a17fadf49a806d8833ac6d557e",
+      "size_in_bytes": 4035
+    },
+    {
+      "_path": "include/rapidjson/internal/biginteger.h",
+      "path_type": "hardlink",
+      "sha256": "3e139846902741c8a18da9e2be9d79f98d0a44e8966df41ae37910d49642ec83",
+      "size_in_bytes": 9139
+    },
+    {
+      "_path": "include/rapidjson/internal/diyfp.h",
+      "path_type": "hardlink",
+      "sha256": "ea94d97853cb1f4dfb6d14314386af71bae61d7ba015cc942c97c7116fbb599c",
+      "size_in_bytes": 11512
+    },
+    {
+      "_path": "include/rapidjson/internal/dtoa.h",
+      "path_type": "hardlink",
+      "sha256": "36d9e86e6c2968bf839a73e69fc7ac149ba8e0ea1f667f82cc9b80241f7c111e",
+      "size_in_bytes": 8172
+    },
+    {
+      "_path": "include/rapidjson/internal/ieee754.h",
+      "path_type": "hardlink",
+      "sha256": "ae0a4ff88545bf762e659079bc35a0ad274c8ce9f46dbdf8bd034de749a46699",
+      "size_in_bytes": 3022
+    },
+    {
+      "_path": "include/rapidjson/internal/itoa.h",
+      "path_type": "hardlink",
+      "sha256": "b4d2564f0f6e44505142f0e553370d6018d470c9cc3896a1eae93f18a2baf2f3",
+      "size_in_bytes": 10306
+    },
+    {
+      "_path": "include/rapidjson/internal/meta.h",
+      "path_type": "hardlink",
+      "sha256": "24d25dc872a13b7df5cb0b80c704ef1e06792ceaa6595a84bb63b3ecce615e45",
+      "size_in_bytes": 6572
+    },
+    {
+      "_path": "include/rapidjson/internal/pow10.h",
+      "path_type": "hardlink",
+      "sha256": "6b8787ecc984887cc2579d7043c08ac57614b8c59e09073565538890dcd1ff21",
+      "size_in_bytes": 3595
+    },
+    {
+      "_path": "include/rapidjson/internal/regex.h",
+      "path_type": "hardlink",
+      "sha256": "38b53a5fa8ef845b577704741b531d14d4327b885950631ccb2c3d8687adff19",
+      "size_in_bytes": 24825
+    },
+    {
+      "_path": "include/rapidjson/internal/stack.h",
+      "path_type": "hardlink",
+      "sha256": "9608f057f67fcbabd6cdc7ae35b0e6130b430deecf47d0c3670fd27eae806861",
+      "size_in_bytes": 7026
+    },
+    {
+      "_path": "include/rapidjson/internal/strfunc.h",
+      "path_type": "hardlink",
+      "sha256": "a280976eedcc3b0cf4e73e96f809ea62b945b577d62df72a6e3c13f02abaa036",
+      "size_in_bytes": 1897
+    },
+    {
+      "_path": "include/rapidjson/internal/strtod.h",
+      "path_type": "hardlink",
+      "sha256": "344940dfc5936f2f4f967c4063d84da8fb3021cddb727d0e108b12e17ad0d6e6",
+      "size_in_bytes": 8672
+    },
+    {
+      "_path": "include/rapidjson/internal/swap.h",
+      "path_type": "hardlink",
+      "sha256": "1403bd099a25621c63a1234ca61daae0444f1538c4be7b193694cf41a76f14ac",
+      "size_in_bytes": 1419
+    },
+    {
+      "_path": "include/rapidjson/istreamwrapper.h",
+      "path_type": "hardlink",
+      "sha256": "6b370f558c1768789ce64a9015703685f5bc785b6c68278041147fc9b2d6387f",
+      "size_in_bytes": 3576
+    },
+    {
+      "_path": "include/rapidjson/memorybuffer.h",
+      "path_type": "hardlink",
+      "sha256": "cbfb33d4b2b826012c9932a664044cd70606ebd938ba9e35748892de2569e03f",
+      "size_in_bytes": 2560
+    },
+    {
+      "_path": "include/rapidjson/memorystream.h",
+      "path_type": "hardlink",
+      "sha256": "5381dd5981676dc6194cb384af6bcf623d9dee46b9b1508bd1e62c7cf3efac9f",
+      "size_in_bytes": 2667
+    },
+    {
+      "_path": "include/rapidjson/msinttypes/inttypes.h",
+      "path_type": "hardlink",
+      "sha256": "78ee41fd99bcbe59ca93f6a870a83c0a90f4b179af571f6e684f2600491bbae7",
+      "size_in_bytes": 8372
+    },
+    {
+      "_path": "include/rapidjson/msinttypes/stdint.h",
+      "path_type": "hardlink",
+      "sha256": "bf2d1bc4885bc1e0720ec9af8f399477c7e105ae1e70e2863c31a8123cae1c17",
+      "size_in_bytes": 9386
+    },
+    {
+      "_path": "include/rapidjson/ostreamwrapper.h",
+      "path_type": "hardlink",
+      "sha256": "8ab62eb2967a965b4b39bd03ae49c220e7a6cd6c5c680f39cb32ef652b2c3337",
+      "size_in_bytes": 2331
+    },
+    {
+      "_path": "include/rapidjson/pointer.h",
+      "path_type": "hardlink",
+      "sha256": "c0f4bf66f0ae482c240aed4a22708da0c4e90f2944b47f8d22688c5fcbaf039c",
+      "size_in_bytes": 58465
+    },
+    {
+      "_path": "include/rapidjson/prettywriter.h",
+      "path_type": "hardlink",
+      "sha256": "bcfd65f5e1169942dd5819384794db251855824754187b817a7cd6b0465f7df4",
+      "size_in_bytes": 9601
+    },
+    {
+      "_path": "include/rapidjson/rapidjson.h",
+      "path_type": "hardlink",
+      "sha256": "f2a9af92f880ec8ed2ddc0ff9ae6d6f15adfa9137eaac9658bfe39ecdebc21f0",
+      "size_in_bytes": 21461
+    },
+    {
+      "_path": "include/rapidjson/reader.h",
+      "path_type": "hardlink",
+      "sha256": "7825cd236782b26c3df953b30623218805b7c2faa66ff1029321c9f0030c841d",
+      "size_in_bytes": 79760
+    },
+    {
+      "_path": "include/rapidjson/schema.h",
+      "path_type": "hardlink",
+      "sha256": "f3ff069ab5af883371919642d06af4831798ca16028380947404d3d8cda6a6a6",
+      "size_in_bytes": 80014
+    },
+    {
+      "_path": "include/rapidjson/stream.h",
+      "path_type": "hardlink",
+      "sha256": "84d03fe1bb5293ee416a6340e4be9b4e0f63c5dc064e2ba902fcc1694d1e1e8e",
+      "size_in_bytes": 5466
+    },
+    {
+      "_path": "include/rapidjson/stringbuffer.h",
+      "path_type": "hardlink",
+      "sha256": "c7b50a0d3f98f7bd7f66bea78b3f94a8441f6e7669188f52e07d495e63f34cca",
+      "size_in_bytes": 3798
+    },
+    {
+      "_path": "include/rapidjson/writer.h",
+      "path_type": "hardlink",
+      "sha256": "07ea1608318a1fa220a2dd09a553e9e524485102add3829b6e3f550004f8a6a2",
+      "size_in_bytes": 23261
+    },
+    {
+      "_path": "lib/cmake/RapidJSON/RapidJSONConfig.cmake",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "fad3f5bbe6a212cdf96d08a82aff2684e94ccdcfdc676ca48eeb05f7238af742",
+      "size_in_bytes": 219
+    },
+    {
+      "_path": "lib/cmake/RapidJSON/RapidJSONConfigVersion.cmake",
+      "path_type": "hardlink",
+      "sha256": "c48d9a87162d1d9c011059e377b440d2b296a8999f7905405d757f01b880c73a",
+      "size_in_bytes": 454
+    },
+    {
+      "_path": "lib/pkgconfig/RapidJSON.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "dfba06291c64deb4229f3f0492bca1a1a1babf0aed1ba811e1b826a92f14ceca",
+      "size_in_bytes": 228
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/CMakeLists.txt",
+      "path_type": "hardlink",
+      "sha256": "c9d40df82a083e7a458d33b6592001b25dfaa5ba57e95a4696ded08b20bd8912",
+      "size_in_bytes": 1021
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/capitalize/capitalize.cpp",
+      "path_type": "hardlink",
+      "sha256": "c48565ad9fafa7009f95c1f2d16f2fb843a0d97a2f99ee818440b277d334cec6",
+      "size_in_bytes": 2577
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/condense/condense.cpp",
+      "path_type": "hardlink",
+      "sha256": "59ae627f2191a6c3414c2d25df7fb47f2073b2c9d21c8f275805fbb19b5e6046",
+      "size_in_bytes": 1015
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/filterkey/filterkey.cpp",
+      "path_type": "hardlink",
+      "sha256": "7007880210c653d36be5ad8fe0b2fae61c9b188154d21e2a24566b8b3ed0d98f",
+      "size_in_bytes": 4979
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/filterkeydom/filterkeydom.cpp",
+      "path_type": "hardlink",
+      "sha256": "da77547b255d0dcefa1070d6529d9c47ff29fff9b260318e43942e040740f315",
+      "size_in_bytes": 5946
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/jsonx/jsonx.cpp",
+      "path_type": "hardlink",
+      "sha256": "3198fbb76544fa5eb47bfe6fa32f37f11a2768ba638ea78dca4fe27039047f8a",
+      "size_in_bytes": 6022
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/messagereader/messagereader.cpp",
+      "path_type": "hardlink",
+      "sha256": "2318a88e29553f8b804a96771c6e206a5163ea0f2051d4cb31a44e9fd791ad7c",
+      "size_in_bytes": 2814
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/parsebyparts/parsebyparts.cpp",
+      "path_type": "hardlink",
+      "sha256": "3b055026115c5fccafac6a4dc5c14e3419307aaed80e9dc12f9f81b75efbe323",
+      "size_in_bytes": 5026
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/pretty/pretty.cpp",
+      "path_type": "hardlink",
+      "sha256": "c8cd2f1bbf8a553405abf99eae28b1f7303417798d99c7538dbca324878e7055",
+      "size_in_bytes": 1019
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/prettyauto/prettyauto.cpp",
+      "path_type": "hardlink",
+      "sha256": "a0d1b93f5324a46dfffaeaa8a8bee4d79d3d06025b5f6507a3d2b9c7a5933584",
+      "size_in_bytes": 2245
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/schemavalidator/schemavalidator.cpp",
+      "path_type": "hardlink",
+      "sha256": "557a593f8e289564649477fe2051bc3b048ce8b5d024a17b52ea4f7b01e4aa2c",
+      "size_in_bytes": 2510
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/serialize/serialize.cpp",
+      "path_type": "hardlink",
+      "sha256": "094ba98cba621e84c170abae95acd46b15c548b736c3556608148ed80be8350d",
+      "size_in_bytes": 4590
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/simpledom/simpledom.cpp",
+      "path_type": "hardlink",
+      "sha256": "a30da6f11be4dfe5dda90e9d545014996b5e1d2cca5623b7c7da383a89fa891c",
+      "size_in_bytes": 685
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/simplereader/simplereader.cpp",
+      "path_type": "hardlink",
+      "sha256": "723f64435dc6260ca8fb3dd8cef0edc8e19de3a681f519eb86e6ec5f8ce9384d",
+      "size_in_bytes": 1868
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/simplewriter/simplewriter.cpp",
+      "path_type": "hardlink",
+      "sha256": "097ff1c98545a7b59aca45562f748e5b272a8e738f59bf8765932305b87a8f9b",
+      "size_in_bytes": 1031
+    },
+    {
+      "_path": "share/doc/RapidJSON/examples/tutorial/tutorial.cpp",
+      "path_type": "hardlink",
+      "sha256": "9744d4340d481104230bc5ace79c0fa45ad9634cf17f5ba20e89ec3e536b840b",
+      "size_in_bytes": 6263
+    },
+    {
+      "_path": "share/doc/RapidJSON/readme.md",
+      "path_type": "hardlink",
+      "sha256": "ac1612175441cca1241174db73c9fcbe763c1280a3aad84ed4944efcfd55ac0e",
+      "size_in_bytes": 8913
+    }
+  ],
+  "paths_version": 1
+}

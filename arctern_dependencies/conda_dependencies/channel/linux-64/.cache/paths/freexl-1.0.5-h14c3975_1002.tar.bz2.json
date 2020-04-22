@@ -1,0 +1,43 @@
+{
+  "paths": [
+    {
+      "_path": "include/freexl.h",
+      "path_type": "hardlink",
+      "sha256": "2ef344c11819d0a6925ec5ae3146f5b9dfae004a6ec8e3b0c77a9e20b4ad7a92",
+      "size_in_bytes": 23704
+    },
+    {
+      "_path": "lib/libfreexl.a",
+      "path_type": "hardlink",
+      "sha256": "bb0d1a6a8cd17b6da07280a0e7c8b0818150383a552035308bdc59d4c3af6db9",
+      "size_in_bytes": 44362
+    },
+    {
+      "_path": "lib/libfreexl.so",
+      "path_type": "softlink",
+      "sha256": "b26a875520a2864def8ce18462dde3e5c132ba79b1e077116c6e804b76b970b2",
+      "size_in_bytes": 47528
+    },
+    {
+      "_path": "lib/libfreexl.so.1",
+      "path_type": "softlink",
+      "sha256": "b26a875520a2864def8ce18462dde3e5c132ba79b1e077116c6e804b76b970b2",
+      "size_in_bytes": 47528
+    },
+    {
+      "_path": "lib/libfreexl.so.1.1.0",
+      "path_type": "hardlink",
+      "sha256": "b26a875520a2864def8ce18462dde3e5c132ba79b1e077116c6e804b76b970b2",
+      "size_in_bytes": 47528
+    },
+    {
+      "_path": "lib/pkgconfig/freexl.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "f83c3977fbd9eba972c92746bdebd3afe278d10ec8eca7dd430836d87793f789",
+      "size_in_bytes": 315
+    }
+  ],
+  "paths_version": 1
+}

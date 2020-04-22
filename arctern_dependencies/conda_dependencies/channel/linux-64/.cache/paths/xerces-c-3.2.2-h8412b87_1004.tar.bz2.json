@@ -1,0 +1,2935 @@
+{
+  "paths": [
+    {
+      "_path": "bin/CreateDOMDocument",
+      "path_type": "hardlink",
+      "sha256": "e2c1c5cb86607e0963550cfb26e84e57b4f52e7424909cc9bbf8dc075974f250",
+      "size_in_bytes": 27672
+    },
+    {
+      "_path": "bin/DOMCount",
+      "path_type": "hardlink",
+      "sha256": "a8e10d0c6158d6bb4951d50eb03cfc7eb917b1b1f1c1c2d42d6254a487e3aefa",
+      "size_in_bytes": 43616
+    },
+    {
+      "_path": "bin/DOMPrint",
+      "path_type": "hardlink",
+      "sha256": "991357e8a39fae579be0d8763283e95061b7b422bc56b1a7a9ee3c28bb1d8a8b",
+      "size_in_bytes": 55160
+    },
+    {
+      "_path": "bin/EnumVal",
+      "path_type": "hardlink",
+      "sha256": "006acf794e9567b24e5a6c509476c197d7753b535d2a5a6ee0d02de099b947e5",
+      "size_in_bytes": 35032
+    },
+    {
+      "_path": "bin/MemParse",
+      "path_type": "hardlink",
+      "sha256": "6e0d4df33d5ed85ba356749cb740770c580f5503795bd9c1225716c671d8c9e4",
+      "size_in_bytes": 52488
+    },
+    {
+      "_path": "bin/PParse",
+      "path_type": "hardlink",
+      "sha256": "a8b7565f7fedbb818a82331432faef4c8f0cea2728de5251a79bead0e9272276",
+      "size_in_bytes": 52808
+    },
+    {
+      "_path": "bin/PSVIWriter",
+      "path_type": "hardlink",
+      "sha256": "19f52380ef22942fe62b19271ca717a79dc56506d36c9d9422a3bc89671edf89",
+      "size_in_bytes": 201472
+    },
+    {
+      "_path": "bin/Redirect",
+      "path_type": "hardlink",
+      "sha256": "7a3a39b3b6cfc8487ab931dc2287aaff7339530b423f14651f603924777fc819",
+      "size_in_bytes": 52728
+    },
+    {
+      "_path": "bin/SAX2Count",
+      "path_type": "hardlink",
+      "sha256": "4f188adedaeb34597e2d2753ec9b5f5b93c2f10d5769d26696bc8f42e56e88a6",
+      "size_in_bytes": 63792
+    },
+    {
+      "_path": "bin/SAX2Print",
+      "path_type": "hardlink",
+      "sha256": "90609c00106ab6502ca4ef165a37224d002ce3581143e93a68efe093e8b6740d",
+      "size_in_bytes": 102944
+    },
+    {
+      "_path": "bin/SAXCount",
+      "path_type": "hardlink",
+      "sha256": "ca3abfd80c5d456bfc05563c6f14321c8448cbd74a4e2ecdce1e78e998ccae91",
+      "size_in_bytes": 53112
+    },
+    {
+      "_path": "bin/SAXPrint",
+      "path_type": "hardlink",
+      "sha256": "fabe24c337741170b4fb3673a0436674c643bba4a5d78f8e1325ebd1afb7f4cf",
+      "size_in_bytes": 54648
+    },
+    {
+      "_path": "bin/SCMPrint",
+      "path_type": "hardlink",
+      "sha256": "ddc91b5e6ab7a14a32748553ce979e303ff0b60654641134f6a84d3c164841cf",
+      "size_in_bytes": 73880
+    },
+    {
+      "_path": "bin/SEnumVal",
+      "path_type": "hardlink",
+      "sha256": "01d3b3cf990def31b3471076a140e6b602c9989cc9f61ef42cba95fda11f2dee",
+      "size_in_bytes": 70888
+    },
+    {
+      "_path": "bin/StdInParse",
+      "path_type": "hardlink",
+      "sha256": "46ba380fe6b940a8d1476e9097cf9fb0d9c74297abd01dcd10b0b2ee8aec3d03",
+      "size_in_bytes": 54016
+    },
+    {
+      "_path": "bin/XInclude",
+      "path_type": "hardlink",
+      "sha256": "4e48d6f617586c78f90c90088c411448b64f5fa17ee4af885e7f0925b8f71a9a",
+      "size_in_bytes": 38536
+    },
+    {
+      "_path": "include/xercesc/dom/DOM.hpp",
+      "path_type": "hardlink",
+      "sha256": "19d3366c84ec06a33d27ccf811397c516069b76cbece58b887b09a3a4aa23868",
+      "size_in_bytes": 3289
+    },
+    {
+      "_path": "include/xercesc/dom/DOMAttr.hpp",
+      "path_type": "hardlink",
+      "sha256": "e45f0c0ab548342e01e9dd3a019bca43a2fecae25dbf72703f28db815563c3fa",
+      "size_in_bytes": 6312
+    },
+    {
+      "_path": "include/xercesc/dom/DOMCDATASection.hpp",
+      "path_type": "hardlink",
+      "sha256": "3a720ecb212f8aa505d075cde60f6ed60dee701e562d65f1676d68e68517bb25",
+      "size_in_bytes": 4401
+    },
+    {
+      "_path": "include/xercesc/dom/DOMCharacterData.hpp",
+      "path_type": "hardlink",
+      "sha256": "1b2e8ad4c8fcbf18ba430e86e061f78f890b8fc15e0f53a351d46fc717bbbe3d",
+      "size_in_bytes": 9016
+    },
+    {
+      "_path": "include/xercesc/dom/DOMComment.hpp",
+      "path_type": "hardlink",
+      "sha256": "3a56efa6a24a320f5980f5c0176b0506a631a0fc116a447339c748b0200bf092",
+      "size_in_bytes": 2577
+    },
+    {
+      "_path": "include/xercesc/dom/DOMConfiguration.hpp",
+      "path_type": "hardlink",
+      "sha256": "1be13fd333d5e747271db7210528166d253030433db47fb0cc4074eb40dd9a50",
+      "size_in_bytes": 18951
+    },
+    {
+      "_path": "include/xercesc/dom/DOMDocument.hpp",
+      "path_type": "hardlink",
+      "sha256": "96dca446567de9a6a99fa2e82806e01d3abdb7a9d073e00b9332e23e2ee70dcc",
+      "size_in_bytes": 36263
+    },
+    {
+      "_path": "include/xercesc/dom/DOMDocumentFragment.hpp",
+      "path_type": "hardlink",
+      "sha256": "68cf2b6beb3af40d0474b60387ba9abca7a3e398121f629d7c1ac38cf9951d62",
+      "size_in_bytes": 4663
+    },
+    {
+      "_path": "include/xercesc/dom/DOMDocumentRange.hpp",
+      "path_type": "hardlink",
+      "sha256": "fc082f8ea4daea7d95d3dbfdedcef04a2e62739a2b077e90f77a1bd32556ae4c",
+      "size_in_bytes": 3224
+    },
+    {
+      "_path": "include/xercesc/dom/DOMDocumentTraversal.hpp",
+      "path_type": "hardlink",
+      "sha256": "4ad873b02017adb57bdb1694cef7ca41f4e7cfb4c7711fedcbfda5face46a420",
+      "size_in_bytes": 7469
+    },
+    {
+      "_path": "include/xercesc/dom/DOMDocumentType.hpp",
+      "path_type": "hardlink",
+      "sha256": "cd4360137dad797f1b7a5a5ab3501e0c0e34afa706a30eed21501b58324a1b6b",
+      "size_in_bytes": 5863
+    },
+    {
+      "_path": "include/xercesc/dom/DOMElement.hpp",
+      "path_type": "hardlink",
+      "sha256": "f295bdb2107c843c087c2a8cc64decef41f76b0339897d2d9d7ad10509c825b3",
+      "size_in_bytes": 23554
+    },
+    {
+      "_path": "include/xercesc/dom/DOMEntity.hpp",
+      "path_type": "hardlink",
+      "sha256": "0820caf47ec9035800cba2c84eb0b6b9acb6da2c493db72db3fc8399cdef9a9a",
+      "size_in_bytes": 6741
+    },
+    {
+      "_path": "include/xercesc/dom/DOMEntityReference.hpp",
+      "path_type": "hardlink",
+      "sha256": "2d2e41fb4110963ecc8a36d1a853becfef955a604f125dfb076dea52278b215a",
+      "size_in_bytes": 3832
+    },
+    {
+      "_path": "include/xercesc/dom/DOMError.hpp",
+      "path_type": "hardlink",
+      "sha256": "5fefa3e507df9dbf51e5650f7a507ee3458380f2b956f262873bd1411ed060c1",
+      "size_in_bytes": 5696
+    },
+    {
+      "_path": "include/xercesc/dom/DOMErrorHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "fc4144568b1efc17b05a33ecd219eb7997bdd198a6a68478af357d6e15929af5",
+      "size_in_bytes": 3761
+    },
+    {
+      "_path": "include/xercesc/dom/DOMException.hpp",
+      "path_type": "hardlink",
+      "sha256": "27e8285567a3ac98141484e1574c713abc78d719b7586834d92d68281b00a0c1",
+      "size_in_bytes": 9101
+    },
+    {
+      "_path": "include/xercesc/dom/DOMImplementation.hpp",
+      "path_type": "hardlink",
+      "sha256": "d8e873355d7f3df60edab0b03775fe06e0da9381468794b4e2fb5db0ac583b5f",
+      "size_in_bytes": 11034
+    },
+    {
+      "_path": "include/xercesc/dom/DOMImplementationLS.hpp",
+      "path_type": "hardlink",
+      "sha256": "4a33d64616bf180405e7079bb28d2fbc358bad0efb801b5abc1955a9d4f52e19",
+      "size_in_bytes": 7134
+    },
+    {
+      "_path": "include/xercesc/dom/DOMImplementationList.hpp",
+      "path_type": "hardlink",
+      "sha256": "b42bd0eedbf37ae6153007a0b1205d71bbb98c4f5f3de5145d975b2f6f0e4425",
+      "size_in_bytes": 4384
+    },
+    {
+      "_path": "include/xercesc/dom/DOMImplementationRegistry.hpp",
+      "path_type": "hardlink",
+      "sha256": "a7f7c1dc227e2dd80c65ab102fb89fe4e247e5184905614abfe436cbe91e1bf7",
+      "size_in_bytes": 3762
+    },
+    {
+      "_path": "include/xercesc/dom/DOMImplementationSource.hpp",
+      "path_type": "hardlink",
+      "sha256": "7963f661e084acdce187d7db909586c176786ea4d90287c177c8bab15aea1520",
+      "size_in_bytes": 4202
+    },
+    {
+      "_path": "include/xercesc/dom/DOMLSException.hpp",
+      "path_type": "hardlink",
+      "sha256": "73f81c4c32d738056522a28e0ca3b0b52e4864777c09dd0fef3674e31d37f04c",
+      "size_in_bytes": 4179
+    },
+    {
+      "_path": "include/xercesc/dom/DOMLSInput.hpp",
+      "path_type": "hardlink",
+      "sha256": "6f92e9e9d165ae1c1463e41061a8305fdb1bbd547d66c182385776a8d24ebedb",
+      "size_in_bytes": 9575
+    },
+    {
+      "_path": "include/xercesc/dom/DOMLSOutput.hpp",
+      "path_type": "hardlink",
+      "sha256": "a476f7b56ba9110125d85a8fa117c227b2d17b2d2e4318e1e5ace127f44b1aa0",
+      "size_in_bytes": 5650
+    },
+    {
+      "_path": "include/xercesc/dom/DOMLSParser.hpp",
+      "path_type": "hardlink",
+      "sha256": "37b09af6b8b723400cec794e5204aac4826bf7a66ad6eb8965173e67f6ab0fe5",
+      "size_in_bytes": 38018
+    },
+    {
+      "_path": "include/xercesc/dom/DOMLSParserFilter.hpp",
+      "path_type": "hardlink",
+      "sha256": "49bf7b74bbb1ea8394ee355cebf82457c900b9273334dd76c4c5d51827855ed2",
+      "size_in_bytes": 6999
+    },
+    {
+      "_path": "include/xercesc/dom/DOMLSResourceResolver.hpp",
+      "path_type": "hardlink",
+      "sha256": "b5aaf105bc2bfa3187f138b3eb5983de72221e2f2487e4115562eb61408cd9ff",
+      "size_in_bytes": 6541
+    },
+    {
+      "_path": "include/xercesc/dom/DOMLSSerializer.hpp",
+      "path_type": "hardlink",
+      "sha256": "ff4b3906eba6d0526adfc4bb924dcb0a2eeda4223f5287030b3f461a48ac063a",
+      "size_in_bytes": 26502
+    },
+    {
+      "_path": "include/xercesc/dom/DOMLSSerializerFilter.hpp",
+      "path_type": "hardlink",
+      "sha256": "db0dfe51c126ad1b9800d6fb43f2cfdac8bb0319752204abf7e2320693581b16",
+      "size_in_bytes": 3580
+    },
+    {
+      "_path": "include/xercesc/dom/DOMLocator.hpp",
+      "path_type": "hardlink",
+      "sha256": "438404bf1db7692b7c08f8b330d472c29f01408abd042c8ecbd0fabdcd0d465a",
+      "size_in_bytes": 3980
+    },
+    {
+      "_path": "include/xercesc/dom/DOMMemoryManager.hpp",
+      "path_type": "hardlink",
+      "sha256": "47053d83471b2ae274d8541d63035804e9555e0d34b0f2c452218ab5c5f389da",
+      "size_in_bytes": 5509
+    },
+    {
+      "_path": "include/xercesc/dom/DOMNamedNodeMap.hpp",
+      "path_type": "hardlink",
+      "sha256": "d9ab8a9972f9437df7e6aedb12129db0176c1819b363ef84a11ffc84082285df",
+      "size_in_bytes": 10108
+    },
+    {
+      "_path": "include/xercesc/dom/DOMNode.hpp",
+      "path_type": "hardlink",
+      "sha256": "1822860ce694110c57bb76c5faad370c6a29eb5b99cdacda56f6686a564e8960",
+      "size_in_bytes": 39671
+    },
+    {
+      "_path": "include/xercesc/dom/DOMNodeFilter.hpp",
+      "path_type": "hardlink",
+      "sha256": "e89b58f589ecb40d481be67776d451153d01b8596fbc097bf90f2351721cfae1",
+      "size_in_bytes": 9042
+    },
+    {
+      "_path": "include/xercesc/dom/DOMNodeIterator.hpp",
+      "path_type": "hardlink",
+      "sha256": "91d609dcdaa2df1e20e8c248f896a1394b73c6c5c4a5d4fe0c1289f63ba724c9",
+      "size_in_bytes": 8114
+    },
+    {
+      "_path": "include/xercesc/dom/DOMNodeList.hpp",
+      "path_type": "hardlink",
+      "sha256": "9bc4ab92e7c604f81a69c2f9d12994c0848c877a04bcadf81ba04f24c7e2b8ed",
+      "size_in_bytes": 3811
+    },
+    {
+      "_path": "include/xercesc/dom/DOMNotation.hpp",
+      "path_type": "hardlink",
+      "sha256": "496bb89c671c5de55671e7abc1d8bc231b73adef3f309a71872cb74f6b408153",
+      "size_in_bytes": 3870
+    },
+    {
+      "_path": "include/xercesc/dom/DOMPSVITypeInfo.hpp",
+      "path_type": "hardlink",
+      "sha256": "f899d3e14a371e18c437514fa8f823ca9891c444e7801a96895b9037183a77d3",
+      "size_in_bytes": 4086
+    },
+    {
+      "_path": "include/xercesc/dom/DOMProcessingInstruction.hpp",
+      "path_type": "hardlink",
+      "sha256": "d52ec6498da21460c8569436721d57526925c39724eb0fc9cdba5429c73e6c4d",
+      "size_in_bytes": 4258
+    },
+    {
+      "_path": "include/xercesc/dom/DOMRange.hpp",
+      "path_type": "hardlink",
+      "sha256": "4a9510d78b213e7f75b4e60ca6c534b20692ab12418ff64b841ed0b46261f36f",
+      "size_in_bytes": 21584
+    },
+    {
+      "_path": "include/xercesc/dom/DOMRangeException.hpp",
+      "path_type": "hardlink",
+      "sha256": "f16d06ebf481863ad56451488245f00e03c57925c18eb0271ff098c8692cf506",
+      "size_in_bytes": 3827
+    },
+    {
+      "_path": "include/xercesc/dom/DOMStringList.hpp",
+      "path_type": "hardlink",
+      "sha256": "7511cf542303ec23b2a309558d7e9bd39843c5c27d2b9d5d59b0f37cf8422548",
+      "size_in_bytes": 4458
+    },
+    {
+      "_path": "include/xercesc/dom/DOMText.hpp",
+      "path_type": "hardlink",
+      "sha256": "b9d59adc285a1ab78b363a0f721394bf55a8f2a33877bf1267926dbf7dbe2742",
+      "size_in_bytes": 7734
+    },
+    {
+      "_path": "include/xercesc/dom/DOMTreeWalker.hpp",
+      "path_type": "hardlink",
+      "sha256": "6bab9ca821fb1850892c4a9ebc29fcf325292596f1fe53b4a884cf8eaca236da",
+      "size_in_bytes": 11676
+    },
+    {
+      "_path": "include/xercesc/dom/DOMTypeInfo.hpp",
+      "path_type": "hardlink",
+      "sha256": "ea555a0d1c139f70130b980b6fe7eae744a572a7e83a431d4766d071607f96f7",
+      "size_in_bytes": 9426
+    },
+    {
+      "_path": "include/xercesc/dom/DOMUserDataHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "a18c55d87f7a98d19e1881cd9345d912892c62bdfb1ccaf180fee592b98f1fe8",
+      "size_in_bytes": 4851
+    },
+    {
+      "_path": "include/xercesc/dom/DOMXPathEvaluator.hpp",
+      "path_type": "hardlink",
+      "sha256": "7d9960db72c7c552511e40c147cbb045409d6dc904345ab70a01d13d57fbefcb",
+      "size_in_bytes": 9138
+    },
+    {
+      "_path": "include/xercesc/dom/DOMXPathException.hpp",
+      "path_type": "hardlink",
+      "sha256": "53da648231a52f295be466af667ab831b54129384cda6900f0039bc09ac0c08a",
+      "size_in_bytes": 3374
+    },
+    {
+      "_path": "include/xercesc/dom/DOMXPathExpression.hpp",
+      "path_type": "hardlink",
+      "sha256": "596e0bbebe485c37929c26885f113d47f6fa00daee851defad059906138ebcd8",
+      "size_in_bytes": 5442
+    },
+    {
+      "_path": "include/xercesc/dom/DOMXPathNSResolver.hpp",
+      "path_type": "hardlink",
+      "sha256": "b3cca0c5c1098a754336ec35fdaab2351f6fcef3641dbf1689b2b92125e7cf12",
+      "size_in_bytes": 4719
+    },
+    {
+      "_path": "include/xercesc/dom/DOMXPathNamespace.hpp",
+      "path_type": "hardlink",
+      "sha256": "bbe3a825d7e2db995cf0da4e4d50ff3bc1a4ef501d5e1ac9ffa102d81f06c255",
+      "size_in_bytes": 4629
+    },
+    {
+      "_path": "include/xercesc/dom/DOMXPathResult.hpp",
+      "path_type": "hardlink",
+      "sha256": "41d84371bf96819078712fb2956a630f3df48a91a06ea75247e42d07fbeeccd0",
+      "size_in_bytes": 15712
+    },
+    {
+      "_path": "include/xercesc/dom/StDOMNode.hpp",
+      "path_type": "hardlink",
+      "sha256": "52935131e791c101e63d612050829942d356b04430b248f756c7e66066d320fd",
+      "size_in_bytes": 3213
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMAttrImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "51b51e97b676da4b90d39b568acff0aeabaf6c3a9feb64fc67c9e9bf2c4b53aa",
+      "size_in_bytes": 4499
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMAttrMapImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "99d6eaed64cb3e62f44cf3e54445408b3f23e0d4477df302cc2d50e1764a7acb",
+      "size_in_bytes": 4623
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMAttrNSImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "0a391357fdef52bd04a5de60669a449ca56f63fe03a3e353d30b76073745cc03",
+      "size_in_bytes": 3375
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMCDATASectionImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "c77f72ed42e2f453c41589f6f825f4657367e018687a575a798acf224913edbc",
+      "size_in_bytes": 3719
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMCasts.hpp",
+      "path_type": "hardlink",
+      "sha256": "cc7474c168d78d2e64f0f79dd4a4f17ba95cd4689564ea076c32b7ac841fd988",
+      "size_in_bytes": 3956
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMCharacterDataImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "5ed9bfbc9875029365c3299598a9342d806ddb900bc86c6b6d62df770ffdfa65",
+      "size_in_bytes": 3518
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMChildNode.hpp",
+      "path_type": "hardlink",
+      "sha256": "58a5ac61f8dc357334be2d1a5ea8bc3cfbde8f4d5be678d76a7e0334c9c1f22e",
+      "size_in_bytes": 2224
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMCommentImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "261ee59b0a300e32bf06b4aa7870b5ca375d6310b592caac54bf0812f3b6d868",
+      "size_in_bytes": 3089
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMConfigurationImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "1e2caa1d5f09b9b82cc65a0dd34570503f4473e4f857990ae9be2368e79ba186",
+      "size_in_bytes": 5372
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMDeepNodeListImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "cdfd9f2e5e364b907cc08f1db34e0eb0da4ee13bbfeecc27db3312cfed193241",
+      "size_in_bytes": 2795
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMDeepNodeListPool.c",
+      "path_type": "hardlink",
+      "sha256": "f4acbd5a2418d161774ba7353b78288f36f0f04291227b86987614b20ce758c5",
+      "size_in_bytes": 14949
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMDeepNodeListPool.hpp",
+      "path_type": "hardlink",
+      "sha256": "dd8441c5ff4aff166def24aedcf8bfa77e30feb248d8027314f799a9cab0ef0f",
+      "size_in_bytes": 7547
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMDocumentFragmentImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "f79aaed1ac79c14ebb46ec8cb65a68f2e8709d84982b570085cda5b699b28beb",
+      "size_in_bytes": 2477
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMDocumentImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "c9f36a2d5a593312553c897d306a3cd66a4da2a421d8f2c5e7a1ba1f021fa14b",
+      "size_in_bytes": 21256
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMDocumentTypeImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "1f9e3985ce1319c0416ee61f2227f97be00aff5a3750f93311609b5d85b2ee0e",
+      "size_in_bytes": 3921
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMElementImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "2c5f7a2bd24ec7ab882c08edefc5981308ee33877c074cce5b50abaa70208f93",
+      "size_in_bytes": 6029
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMElementNSImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "c5f90fdb9bf6ebac2b3647dc9bfe67d4e85c1b4f6eda800fc3fb30c86c2710b6",
+      "size_in_bytes": 3573
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMEntityImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "a1d0dbcaef43e3a00a771741005eab83ef4ec931bdc935233a97177d6a7f0508",
+      "size_in_bytes": 3838
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMEntityReferenceImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "9a3737f717a4e4f42ce8652f6d77ff62ac3b4f81aa7dfe435479bdf36570cae6",
+      "size_in_bytes": 2822
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMErrorImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "7be8e9e852b0da282e6b09ec7b081e66e852ade9bfb340d5a2caceb26433825f",
+      "size_in_bytes": 4734
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMImplementationImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "6634e60674867c1450942302fa87028030c7390c28b93cdcdb42fd335dd06fe7",
+      "size_in_bytes": 4486
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMImplementationListImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "4134f92ec2eb601835e479be6be51e440813a33b9d70e29678c5435469d9206c",
+      "size_in_bytes": 1892
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMLSInputImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "1c1d07cd124c43f051f38facf9cb30242f0f651a43e63bc6ce3706f3c0fdb98a",
+      "size_in_bytes": 3732
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMLSOutputImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "fa1cef87df5ff2befde783efd339b7ae0b25db6099922ee9caec836487f959f7",
+      "size_in_bytes": 2640
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMLSSerializerImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "516a837cb255cf114e5746ce5d84a219dcac9bc067c7da54730a307de4949a9b",
+      "size_in_bytes": 8644
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMLocatorImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "311c8c4f79c1b935f7393a9911d47dd927219e95d4945bd217e68f07edb237d1",
+      "size_in_bytes": 4921
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMNamedNodeMapImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "d3599689f52b55b4d9d0599591f76dbd6c208b2b849f375a6d1fa180a83638b1",
+      "size_in_bytes": 2969
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMNodeBase.hpp",
+      "path_type": "hardlink",
+      "sha256": "bb474bb50a7e4dbbced4d75557459ac6287e8aab6314b27e7cad3d38b17b7773",
+      "size_in_bytes": 8383
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMNodeIDMap.hpp",
+      "path_type": "hardlink",
+      "sha256": "991031d8a83e1bda555d29ec9291dc262471ea449d25428452f6edcb3276189b",
+      "size_in_bytes": 3318
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMNodeImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "9fbdd3f504f389d0835261b45b5bc091bdafed02261a39bd0756cb669784e920",
+      "size_in_bytes": 17914
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMNodeIteratorImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "4b982985dcf40582efa5e9a99af15f22ce1a65dc8ec1f48bf632e956596ee62a",
+      "size_in_bytes": 4119
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMNodeListImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "4a27d93657004edc6eec155cf2f698f100addc8ab1609288728ba4c1e7f6a549",
+      "size_in_bytes": 2427
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMNodeVector.hpp",
+      "path_type": "hardlink",
+      "sha256": "fa9e442ab003bb0d9d8a2e69ea776d80ae6fd999786137d34d17806ae2458ff7",
+      "size_in_bytes": 2620
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMNormalizer.hpp",
+      "path_type": "hardlink",
+      "sha256": "d8d298691e72eeda346a7b19c3e6e0f9220e44ac8bcb33f9510c64ac1e77c8a4",
+      "size_in_bytes": 5649
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMNotationImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "d0eb5bc5ddddc9f62f1f29ab3ee73419845b7d716dcb2c84a28ca6cf4933de25",
+      "size_in_bytes": 2959
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMParentNode.hpp",
+      "path_type": "hardlink",
+      "sha256": "04a9861f3dbb8fc820239137c1e81b1c5d9f2d7ef7e92f710e8d42d63bde4c9d",
+      "size_in_bytes": 4188
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMProcessingInstructionImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "0d1e0c7c2042a2d5015ef1c7766df5ce2d374725b25e301ac1e7d12df633f2a4",
+      "size_in_bytes": 3346
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMRangeImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "577e29420663fbd7c18aeb9d300c8602cb368374af47bf13e8cd56d1be198bf3",
+      "size_in_bytes": 6731
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMStringListImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "532dfeebc2f1dc968f5dd92ca81eb46a18d58dae8a67bf47dde519bdc72c2b73",
+      "size_in_bytes": 1868
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMStringPool.hpp",
+      "path_type": "hardlink",
+      "sha256": "3020196563a9be52875da8d3cd51833df2c5fb4db5b9f5db7482d1f7db2810c1",
+      "size_in_bytes": 6538
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMTextImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "0e394622845ed6625611c90daef56530f2b5c0b3c2663bd23b732449cad21fcc",
+      "size_in_bytes": 3914
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMTreeWalkerImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "047a5699f96a17e15f0b7b07a54d740d9d808b2fea9d97cb898f56610a8c4939",
+      "size_in_bytes": 5514
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMTypeInfoImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "fdf55385b389309059ce6725353ca1897ada163879b86ca2048bab709c6ea980",
+      "size_in_bytes": 4457
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMXPathExpressionImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "7ad67bc42b275c4a3c6afc72d9f142511ffc3abcd57907fbaefa53bb6596c4d3",
+      "size_in_bytes": 2345
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMXPathNSResolverImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "72f573f686274c93b33611c6e130ed3e3b6a8aeb9f12a8429d772b4af07c4cce",
+      "size_in_bytes": 2046
+    },
+    {
+      "_path": "include/xercesc/dom/impl/DOMXPathResultImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "545fc1f9c392800302c5e651f0d5b5323ed33bb8e021ac0fa01ebd327c359b30",
+      "size_in_bytes": 2234
+    },
+    {
+      "_path": "include/xercesc/dom/impl/XSDElementNSImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "ef2a6fa68164abbdbd36dd0e2b9e470aee8a8783ccbe7cbd6c67bf8df4922d38",
+      "size_in_bytes": 2495
+    },
+    {
+      "_path": "include/xercesc/framework/BinOutputStream.hpp",
+      "path_type": "hardlink",
+      "sha256": "aef6ccc3240447c60ca76f87e523d1b14155f56f03ca39539f22126191b5ce19",
+      "size_in_bytes": 2304
+    },
+    {
+      "_path": "include/xercesc/framework/LocalFileFormatTarget.hpp",
+      "path_type": "hardlink",
+      "sha256": "16ce35274ecf3e091a5670df83161660adfa0b85682c1ef44652304d152ed46b",
+      "size_in_bytes": 3485
+    },
+    {
+      "_path": "include/xercesc/framework/LocalFileInputSource.hpp",
+      "path_type": "hardlink",
+      "sha256": "536e7c6555cbd09d99075e8521cccd9cffa98be9517dbd3aedfe032152aa59ca",
+      "size_in_bytes": 5873
+    },
+    {
+      "_path": "include/xercesc/framework/MemBufFormatTarget.hpp",
+      "path_type": "hardlink",
+      "sha256": "c97f23284148588a0d570cd97d6914587f8887f845447d36f6f6299223b361a7",
+      "size_in_bytes": 4518
+    },
+    {
+      "_path": "include/xercesc/framework/MemBufInputSource.hpp",
+      "path_type": "hardlink",
+      "sha256": "56a8c5dc182b93bede864db5f59ddff0cbed6a1378e2b9e554734d22d5b15de7",
+      "size_in_bytes": 8961
+    },
+    {
+      "_path": "include/xercesc/framework/MemoryManager.hpp",
+      "path_type": "hardlink",
+      "sha256": "28da3e19b3a963a2dc74788d9aa39668809e1972838be1e3e76602afa3a94e48",
+      "size_in_bytes": 3718
+    },
+    {
+      "_path": "include/xercesc/framework/StdInInputSource.hpp",
+      "path_type": "hardlink",
+      "sha256": "3b064bb42ed906644f58106e2c8a177f43e72a67275afe26965c96499d381993",
+      "size_in_bytes": 3398
+    },
+    {
+      "_path": "include/xercesc/framework/StdOutFormatTarget.hpp",
+      "path_type": "hardlink",
+      "sha256": "a4c7eb4d5cb2684e16dcc8c6fecbcdb30c5bd54a58d6fe092f1e0bf5434eaeb1",
+      "size_in_bytes": 2030
+    },
+    {
+      "_path": "include/xercesc/framework/URLInputSource.hpp",
+      "path_type": "hardlink",
+      "sha256": "1ed5a2f08aac3bfd955d8403b26fb44ca474c1c518f67c821dd507371d1e8178",
+      "size_in_bytes": 8433
+    },
+    {
+      "_path": "include/xercesc/framework/ValidationContext.hpp",
+      "path_type": "hardlink",
+      "sha256": "de9a1d0519a3bb6f52ca5316a21e8e3e96e9fe2e629db760ac48dd4f69ca7451",
+      "size_in_bytes": 4526
+    },
+    {
+      "_path": "include/xercesc/framework/Wrapper4DOMLSInput.hpp",
+      "path_type": "hardlink",
+      "sha256": "ee1b98d54e2ede9d462f8042b05eefb00fd8fb7a8fbf6df0c95b92bc440cca47",
+      "size_in_bytes": 7429
+    },
+    {
+      "_path": "include/xercesc/framework/Wrapper4InputSource.hpp",
+      "path_type": "hardlink",
+      "sha256": "b83afd61ec1e3791b8a69ff09cbd9da56835a695c6fca7b085b9079b122b5aff",
+      "size_in_bytes": 9352
+    },
+    {
+      "_path": "include/xercesc/framework/XMLAttDef.hpp",
+      "path_type": "hardlink",
+      "sha256": "823a2fe0d14f8bee861ba37a3ee1c31f6922fc8faf593b38c6e2fb429cda2a6a",
+      "size_in_bytes": 17782
+    },
+    {
+      "_path": "include/xercesc/framework/XMLAttDefList.hpp",
+      "path_type": "hardlink",
+      "sha256": "9ee79e5905d1bc30de891df97c3e4096237f154f4393fe52bd20acf8d367a249",
+      "size_in_bytes": 5513
+    },
+    {
+      "_path": "include/xercesc/framework/XMLAttr.hpp",
+      "path_type": "hardlink",
+      "sha256": "41de57825dc2bfeed59b0a6c2a1e66f228f969a426a59a4dc2d26881ef536a62",
+      "size_in_bytes": 18554
+    },
+    {
+      "_path": "include/xercesc/framework/XMLBuffer.hpp",
+      "path_type": "hardlink",
+      "sha256": "ad20a75a2788ea61ecab49b4be14503716a0793b5b662593f94030b622460711",
+      "size_in_bytes": 9150
+    },
+    {
+      "_path": "include/xercesc/framework/XMLBufferMgr.hpp",
+      "path_type": "hardlink",
+      "sha256": "239d739990fe1476272a05a0d73650abb8b2c94334a22ac07ef5b70b94d03284",
+      "size_in_bytes": 6247
+    },
+    {
+      "_path": "include/xercesc/framework/XMLContentModel.hpp",
+      "path_type": "hardlink",
+      "sha256": "43789bef126716e964c33b4c4adb7e9de42c9e8820fa23ee0aeac90e5fdfacd1",
+      "size_in_bytes": 5403
+    },
+    {
+      "_path": "include/xercesc/framework/XMLDTDDescription.hpp",
+      "path_type": "hardlink",
+      "sha256": "0831d1987ebd601b40233db2ebdd9bfcdee1a201331d13819456595e712e7487",
+      "size_in_bytes": 3285
+    },
+    {
+      "_path": "include/xercesc/framework/XMLDocumentHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "0ce85c85206418f013c8c04992fd10464373a5fd6123ad81217ea974851350f8",
+      "size_in_bytes": 10845
+    },
+    {
+      "_path": "include/xercesc/framework/XMLElementDecl.hpp",
+      "path_type": "hardlink",
+      "sha256": "3db68f3dcf97ec94ec40a3ecd56d54486837062e01550d73b4d496c62902df45",
+      "size_in_bytes": 19569
+    },
+    {
+      "_path": "include/xercesc/framework/XMLEntityDecl.hpp",
+      "path_type": "hardlink",
+      "sha256": "f84ef77785012b03273a0660c99a984367dfec20d4c92a7148faf77ae00d114f",
+      "size_in_bytes": 15611
+    },
+    {
+      "_path": "include/xercesc/framework/XMLEntityHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "a3d8f2047d4e24d377b56fa05375c13f7ebd45b9813bd6f291d3405944174e90",
+      "size_in_bytes": 5351
+    },
+    {
+      "_path": "include/xercesc/framework/XMLErrorCodes.hpp",
+      "path_type": "hardlink",
+      "sha256": "30f6f779ee9be876759492b7ab7ffa5a047a75bc62b547696cd626d00acd602c",
+      "size_in_bytes": 15951
+    },
+    {
+      "_path": "include/xercesc/framework/XMLErrorReporter.hpp",
+      "path_type": "hardlink",
+      "sha256": "48308b1ba811577d162d6211cb0713904023950e28318eb492a603307c0958bb",
+      "size_in_bytes": 5767
+    },
+    {
+      "_path": "include/xercesc/framework/XMLFormatter.hpp",
+      "path_type": "hardlink",
+      "sha256": "4f0be941ef4691d94fabd522981dc67f104385dbcd25e578a65ac3d696a52bb4",
+      "size_in_bytes": 17177
+    },
+    {
+      "_path": "include/xercesc/framework/XMLGrammarDescription.hpp",
+      "path_type": "hardlink",
+      "sha256": "d3891d8ea36fc0b89f3ba15df465643cbf7c8f6b1362317db9e48ff37dfb5380",
+      "size_in_bytes": 3451
+    },
+    {
+      "_path": "include/xercesc/framework/XMLGrammarPool.hpp",
+      "path_type": "hardlink",
+      "sha256": "5ead252336e4e60677fbcfee5bbfcc0800b79d07e4d0189171bc5bf7dd3e31bb",
+      "size_in_bytes": 11475
+    },
+    {
+      "_path": "include/xercesc/framework/XMLGrammarPoolImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "7cf6674675a177c5eb6e28913475d0b181c72896026e675fa551dcecafc4693d",
+      "size_in_bytes": 9920
+    },
+    {
+      "_path": "include/xercesc/framework/XMLNotationDecl.hpp",
+      "path_type": "hardlink",
+      "sha256": "67c3295fbc71bc4ac342f7d091098f8bfb14a4750ab37248b6d651077879d873",
+      "size_in_bytes": 7039
+    },
+    {
+      "_path": "include/xercesc/framework/XMLPScanToken.hpp",
+      "path_type": "hardlink",
+      "sha256": "1690d752c4b5e4099e5d7af16df3befb02fe0a4118f942a10d0c7fe104f153d3",
+      "size_in_bytes": 4874
+    },
+    {
+      "_path": "include/xercesc/framework/XMLRecognizer.hpp",
+      "path_type": "hardlink",
+      "sha256": "2b5e9e20288d7ad7c0ad0d299653443e0e8f08ec04715c00f0c73873a52a0400",
+      "size_in_bytes": 5106
+    },
+    {
+      "_path": "include/xercesc/framework/XMLRefInfo.hpp",
+      "path_type": "hardlink",
+      "sha256": "afaf3f610fdba9ee0fc4f2704f03796c7a3619dda2cbd7b1d768832bcc1a6d79",
+      "size_in_bytes": 5862
+    },
+    {
+      "_path": "include/xercesc/framework/XMLSchemaDescription.hpp",
+      "path_type": "hardlink",
+      "sha256": "a0cc1ebb3e0be3d286fa64564563412bdbf5b783e70c4583ba5cadf2e44d1865",
+      "size_in_bytes": 4934
+    },
+    {
+      "_path": "include/xercesc/framework/XMLValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "1fae2f338bb08b2e2905682d9d299486f0df96d53629b026aaafa43f4a5649b1",
+      "size_in_bytes": 14644
+    },
+    {
+      "_path": "include/xercesc/framework/XMLValidityCodes.hpp",
+      "path_type": "hardlink",
+      "sha256": "73ff57c012d7fdef4240df78097778701a631a99d6a631a58ffcaefe92a46313",
+      "size_in_bytes": 5962
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/PSVIAttribute.hpp",
+      "path_type": "hardlink",
+      "sha256": "55b1adac851e1d1cc8161bb2ca31172056225d71b7d4770d5cd8b74efc96f602",
+      "size_in_bytes": 5386
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/PSVIAttributeList.hpp",
+      "path_type": "hardlink",
+      "sha256": "5b36ecfd25501fcc72b31016e4cbac1f5a6d0d516123e83fa6db1cb0ed1b5459",
+      "size_in_bytes": 6458
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/PSVIElement.hpp",
+      "path_type": "hardlink",
+      "sha256": "b27174010f6df439fe1cb2eb3845232bde31c5ec29913a9e46888330bedee1a7",
+      "size_in_bytes": 5419
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/PSVIHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "4d47a39e01e6d16bdb7fc19a5c5fb703c869a6fac7bc7eaa9402371d9b06086f",
+      "size_in_bytes": 5315
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/PSVIItem.hpp",
+      "path_type": "hardlink",
+      "sha256": "08e60b3a664f2802f7bf64a53a9d05eb2ac2e84dd5df8e6322c4869ca0857f31",
+      "size_in_bytes": 10089
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSAnnotation.hpp",
+      "path_type": "hardlink",
+      "sha256": "8d5bbd4986b2531a810cff43bce01146ae240a292dc471b7609f0dc21c15504b",
+      "size_in_bytes": 5357
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSAttributeDeclaration.hpp",
+      "path_type": "hardlink",
+      "sha256": "e6ed917168eedb3ae394e0c4803c923d55738503b8e2e722201f65bf99d20d28",
+      "size_in_bytes": 5907
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSAttributeGroupDefinition.hpp",
+      "path_type": "hardlink",
+      "sha256": "13b9ba2da8e36a0233c69c58edb2d6196872497b4c7a003fa6dad764ab0d38ed",
+      "size_in_bytes": 4541
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSAttributeUse.hpp",
+      "path_type": "hardlink",
+      "sha256": "da653024852c7d74f0fc1256c5d5d8f9fc6042b2784a4954e9af41097d7d5b74",
+      "size_in_bytes": 4171
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSComplexTypeDefinition.hpp",
+      "path_type": "hardlink",
+      "sha256": "518cc8e0611dec3bd4d2bb17efff687fd72e98344e512473398ca782debb8007",
+      "size_in_bytes": 8522
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSConstants.hpp",
+      "path_type": "hardlink",
+      "sha256": "1847f78e3ef8b61755c7a6a31d750808ffdce2ba5012422f48e4a1acabe51282",
+      "size_in_bytes": 5750
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSElementDeclaration.hpp",
+      "path_type": "hardlink",
+      "sha256": "f45d388d2cc09e2e5cfddb4495982003c0f71b348d246d7c7d8f7a2652e2276a",
+      "size_in_bytes": 9635
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSFacet.hpp",
+      "path_type": "hardlink",
+      "sha256": "3fcda5e2f18b3de30e6cf86eefa85c001ff35bb8b6c3901bcfb4e51afa493905",
+      "size_in_bytes": 3936
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSIDCDefinition.hpp",
+      "path_type": "hardlink",
+      "sha256": "1038129a7ee0a10283e35c4d2e2275f387a0a549b223f2a7222c7b3508819746",
+      "size_in_bytes": 4889
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSModel.hpp",
+      "path_type": "hardlink",
+      "sha256": "d1cecad821dda032e0e2aaecb2e200fcfafc7b0f4c70d27f492ef7e6e154da25",
+      "size_in_bytes": 12529
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSModelGroup.hpp",
+      "path_type": "hardlink",
+      "sha256": "f2e80738bb1b0d5d2baf22288f49076a37d78759515f9c6e80f5512ca5045666",
+      "size_in_bytes": 4173
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSModelGroupDefinition.hpp",
+      "path_type": "hardlink",
+      "sha256": "671dc06c9cf7173fd9cf5c81f78eca2c7dda3a16559fb79eb24d2fd1f6ba058e",
+      "size_in_bytes": 3970
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSMultiValueFacet.hpp",
+      "path_type": "hardlink",
+      "sha256": "b1165e28d13ea439f9aef1f6f97c6040d58d2e768418cfbb6e8a90084101262f",
+      "size_in_bytes": 4180
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSNamedMap.c",
+      "path_type": "hardlink",
+      "sha256": "25a3f7e5193638bb2466380795f67ac8bede43c7a47e2cfe4e9b2a18fbdfecb9",
+      "size_in_bytes": 4189
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSNamedMap.hpp",
+      "path_type": "hardlink",
+      "sha256": "2a07844c2d05d170b9523dd737aea982061d483c8febc8c871ea3efc7c4ced42",
+      "size_in_bytes": 4616
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSNamespaceItem.hpp",
+      "path_type": "hardlink",
+      "sha256": "818c825099f71a24a3d6eaa5ebe2503b1bc15d4a395810b0faf9b01b5cc64858",
+      "size_in_bytes": 8236
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSNotationDeclaration.hpp",
+      "path_type": "hardlink",
+      "sha256": "025ec0952499f8961ec44b6873b1092a61a1dbc363750a884598856f9d052575",
+      "size_in_bytes": 4124
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSObject.hpp",
+      "path_type": "hardlink",
+      "sha256": "fea8d48c91a8146e7148a548b35eb074c8904904f9e7858215d401778a75f5d3",
+      "size_in_bytes": 4439
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSParticle.hpp",
+      "path_type": "hardlink",
+      "sha256": "214acbb04ce1d64e77e2cac08ed2b03c789ed76de98de650b3ec7b118b935a63",
+      "size_in_bytes": 5465
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSSimpleTypeDefinition.hpp",
+      "path_type": "hardlink",
+      "sha256": "a61b3a69a44fb5831187fd2ec0884d18b2a118b6b03e088aba05b7c2b234de91",
+      "size_in_bytes": 12296
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSTypeDefinition.hpp",
+      "path_type": "hardlink",
+      "sha256": "b3878348499e1c4f73206a505e80b5b47f2c12fc9dd14032eaef963e4270bac5",
+      "size_in_bytes": 6457
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSValue.hpp",
+      "path_type": "hardlink",
+      "sha256": "3f13ce62b6096cb942bdeeb50e285c51045555d2bc5fe22b213b1b4cae4a69b1",
+      "size_in_bytes": 13384
+    },
+    {
+      "_path": "include/xercesc/framework/psvi/XSWildcard.hpp",
+      "path_type": "hardlink",
+      "sha256": "ee23c48b4818f0ec93af2ebc98f48cf4aaa30e602941a523e6c112d750d09a9c",
+      "size_in_bytes": 5535
+    },
+    {
+      "_path": "include/xercesc/internal/BinFileOutputStream.hpp",
+      "path_type": "hardlink",
+      "sha256": "6c005296c4ef5ac859c9684400863997186f787dd7ea81de5cb9a2a4c15267a4",
+      "size_in_bytes": 3461
+    },
+    {
+      "_path": "include/xercesc/internal/BinMemOutputStream.hpp",
+      "path_type": "hardlink",
+      "sha256": "c775e387e4f5eb48e573bb7f6d3ca01ca0e825243e180bc6b72564cc8b443cbd",
+      "size_in_bytes": 3638
+    },
+    {
+      "_path": "include/xercesc/internal/CharTypeTables.hpp",
+      "path_type": "hardlink",
+      "sha256": "6c3644f4623b6d25b2dfc65b0b6d22fd09c8a50c75bb811e3bcb7e512fb81309",
+      "size_in_bytes": 8997
+    },
+    {
+      "_path": "include/xercesc/internal/DGXMLScanner.hpp",
+      "path_type": "hardlink",
+      "sha256": "e4160d9a69e26e7250da75649b6704ed738215f6fddc30757f4c8734589a0f28",
+      "size_in_bytes": 7151
+    },
+    {
+      "_path": "include/xercesc/internal/ElemStack.hpp",
+      "path_type": "hardlink",
+      "sha256": "75c30978642316b61cd1c40bd3c2a986d344903a80f33f7df25061f5f10167cb",
+      "size_in_bytes": 20815
+    },
+    {
+      "_path": "include/xercesc/internal/EndOfEntityException.hpp",
+      "path_type": "hardlink",
+      "sha256": "bf7922bcc7df3d98a9fb141eae59d4a7cd7443bfc7b97a348801fabda90ffbef",
+      "size_in_bytes": 3731
+    },
+    {
+      "_path": "include/xercesc/internal/IANAEncodings.hpp",
+      "path_type": "hardlink",
+      "sha256": "e37140a9b8190ccf7f1e79d449f4d36b4eab05faaf6e7bbc0b343ae8ba5d464e",
+      "size_in_bytes": 68536
+    },
+    {
+      "_path": "include/xercesc/internal/IGXMLScanner.hpp",
+      "path_type": "hardlink",
+      "sha256": "1d9a5ae5f524092e72d302270c737c7a4f024f6967c23cc33cb88fd2407a56dd",
+      "size_in_bytes": 12014
+    },
+    {
+      "_path": "include/xercesc/internal/MemoryManagerImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "b663b9f954166b5113e5b2b201e1f8f22d4f9b95876210c2107a6190259bba9b",
+      "size_in_bytes": 2727
+    },
+    {
+      "_path": "include/xercesc/internal/ReaderMgr.hpp",
+      "path_type": "hardlink",
+      "sha256": "f2f1798c3f17bca7d15df381b3da360ec1be77c6a389817c2cf93cb42bbc7c88",
+      "size_in_bytes": 15502
+    },
+    {
+      "_path": "include/xercesc/internal/SGXMLScanner.hpp",
+      "path_type": "hardlink",
+      "sha256": "8316fdfe234a1de52e50c6efb91149db25c790d85e3d21fbcc42507611bed1c0",
+      "size_in_bytes": 12060
+    },
+    {
+      "_path": "include/xercesc/internal/ValidationContextImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "23d5127fec0996c5c65bc7c0b1a392be2a4a75c79f1f2651257e87a966a1a04d",
+      "size_in_bytes": 5928
+    },
+    {
+      "_path": "include/xercesc/internal/VecAttrListImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "32e677d8a5f4e8a66c700a1d9a0635b12d74016992f48578cec7f120d7db47bc",
+      "size_in_bytes": 3696
+    },
+    {
+      "_path": "include/xercesc/internal/VecAttributesImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "d91a4cb7b54321eae78a3ab396c51dfd748e661e972f828d1a6c2b1b4e7eff1f",
+      "size_in_bytes": 4714
+    },
+    {
+      "_path": "include/xercesc/internal/WFXMLScanner.hpp",
+      "path_type": "hardlink",
+      "sha256": "d77ef43978cc9b6ee30a74ee7fe715cb404254b23dde2f6ae115beb8633c6b99",
+      "size_in_bytes": 5633
+    },
+    {
+      "_path": "include/xercesc/internal/XMLInternalErrorHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "ca889cf258087f8ab803cd6939d0fb27004802ebd8e782a9e35b64b7418aac47",
+      "size_in_bytes": 4326
+    },
+    {
+      "_path": "include/xercesc/internal/XMLReader.hpp",
+      "path_type": "hardlink",
+      "sha256": "ed88be21705c138a398120c73fa297681dcda37fe36f3bbcd6fcdc60c37fe6b9",
+      "size_in_bytes": 26917
+    },
+    {
+      "_path": "include/xercesc/internal/XMLScanner.hpp",
+      "path_type": "hardlink",
+      "sha256": "ea0deecd12ed67abc087f87cd9a3a35d8870ec444e23be61ffd652d2bfec66d0",
+      "size_in_bytes": 46706
+    },
+    {
+      "_path": "include/xercesc/internal/XMLScannerResolver.hpp",
+      "path_type": "hardlink",
+      "sha256": "7be54d728de789755fd8ce01abf3d4ad77d7c004183dab3515209197a6fb5d5c",
+      "size_in_bytes": 2690
+    },
+    {
+      "_path": "include/xercesc/internal/XProtoType.hpp",
+      "path_type": "hardlink",
+      "sha256": "49dfcc1e4854f1dbea5448fcdcecf9ce5cd236556d75463e1a71938669d80cd2",
+      "size_in_bytes": 2892
+    },
+    {
+      "_path": "include/xercesc/internal/XSAXMLScanner.hpp",
+      "path_type": "hardlink",
+      "sha256": "39cf8148ced8fddadd3842c7c1ed435c67d5d1eba998f42ff7e8dce4532687c8",
+      "size_in_bytes": 3698
+    },
+    {
+      "_path": "include/xercesc/internal/XSObjectFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "ae1210065b67a2a88088e04ddd5bee60e99d80cce9ee51c5233c0453980c9e73",
+      "size_in_bytes": 6521
+    },
+    {
+      "_path": "include/xercesc/internal/XSerializable.hpp",
+      "path_type": "hardlink",
+      "sha256": "1e851ef021d8883907651f1bfec3dd1377e7cef3664e42911df6bf02dc176972",
+      "size_in_bytes": 3730
+    },
+    {
+      "_path": "include/xercesc/internal/XSerializationException.hpp",
+      "path_type": "hardlink",
+      "sha256": "6b6a1ecc891fd387fa7e52851b243017102e5515fa1cd90332923faa104b219c",
+      "size_in_bytes": 1215
+    },
+    {
+      "_path": "include/xercesc/internal/XSerializeEngine.hpp",
+      "path_type": "hardlink",
+      "sha256": "168be14dcdb89560768491e6e028e36be6f076b257511c35a02398b72f74ebd0",
+      "size_in_bytes": 23339
+    },
+    {
+      "_path": "include/xercesc/internal/XTemplateSerializer.hpp",
+      "path_type": "hardlink",
+      "sha256": "a3ffd66543357fe69b1aca267c807f24e43f25e46b2a546585b25264d86daaec",
+      "size_in_bytes": 19018
+    },
+    {
+      "_path": "include/xercesc/parsers/AbstractDOMParser.hpp",
+      "path_type": "hardlink",
+      "sha256": "b0eec08b94b9cb2279854e9c705c51e2b9ccc840743fcf4a0d49a82f223db4be",
+      "size_in_bytes": 68745
+    },
+    {
+      "_path": "include/xercesc/parsers/DOMLSParserImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "56b0f6471dc27880fec46291f90c92723cb3891f509c179b5b8c4e0254a775c7",
+      "size_in_bytes": 26729
+    },
+    {
+      "_path": "include/xercesc/parsers/SAX2XMLFilterImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "a2bd537c15d15f965ec18850398d342fc3a0d7d5b9039a63eb1cd43a16339059",
+      "size_in_bytes": 55372
+    },
+    {
+      "_path": "include/xercesc/parsers/SAX2XMLReaderImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "052eb2a73c53eba1eae9dd96fbff629903d171088fbd6d06c0b00875b327bb41",
+      "size_in_bytes": 67310
+    },
+    {
+      "_path": "include/xercesc/parsers/SAXParser.hpp",
+      "path_type": "hardlink",
+      "sha256": "1c1227dac7029504bfadc8f3883a5fb860762e2bf3ad4c5e35f9ea1c00744f67",
+      "size_in_bytes": 81518
+    },
+    {
+      "_path": "include/xercesc/parsers/XercesDOMParser.hpp",
+      "path_type": "hardlink",
+      "sha256": "914555bd9e4c3c0f7f04768ae0f2b25980d94182c2874522e1bfcd0bf6fe90e6",
+      "size_in_bytes": 25661
+    },
+    {
+      "_path": "include/xercesc/sax/AttributeList.hpp",
+      "path_type": "hardlink",
+      "sha256": "f07b994c2b579bd78bc2df0118813e92e40085d42bf11826d00a7522b8b90ad6",
+      "size_in_bytes": 7716
+    },
+    {
+      "_path": "include/xercesc/sax/DTDHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "c6d1133f940ef3147a10de6602b1a0c6d3837052765bc63671697140a4792076",
+      "size_in_bytes": 5096
+    },
+    {
+      "_path": "include/xercesc/sax/DocumentHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "0f52e6c4cc6c6ea99bdf38d3cb951d9ab03335855c316a9350a8008dcff2f805",
+      "size_in_bytes": 10367
+    },
+    {
+      "_path": "include/xercesc/sax/EntityResolver.hpp",
+      "path_type": "hardlink",
+      "sha256": "b8efb5079b1ced9c8f6e2c8ce42cecdea6126b9d5b2d7b5d10893a638ba26c93",
+      "size_in_bytes": 5753
+    },
+    {
+      "_path": "include/xercesc/sax/ErrorHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "f4a124974baaae10f5190482b61824cc5c6747c21ea968596d27a858cbb93ea3",
+      "size_in_bytes": 5838
+    },
+    {
+      "_path": "include/xercesc/sax/HandlerBase.hpp",
+      "path_type": "hardlink",
+      "sha256": "f85ea0bae26573616fc258d3937ec91834c305e50520b9ce8b5840d4b10a7461",
+      "size_in_bytes": 14561
+    },
+    {
+      "_path": "include/xercesc/sax/InputSource.hpp",
+      "path_type": "hardlink",
+      "sha256": "af30daf9ab9c7c50c9154420e81034b96a800bd60a3b9740f5b8dd54711ff273",
+      "size_in_bytes": 11375
+    },
+    {
+      "_path": "include/xercesc/sax/Locator.hpp",
+      "path_type": "hardlink",
+      "sha256": "ffa614b863b0e42e345f014a90aa4e7a47441525dad37ad6d3531ee3c6baa01c",
+      "size_in_bytes": 4022
+    },
+    {
+      "_path": "include/xercesc/sax/Parser.hpp",
+      "path_type": "hardlink",
+      "sha256": "2b137e1d06d6aabe65ecbc7919541ef301c6f9710158ca27c799c05729a41d1d",
+      "size_in_bytes": 8338
+    },
+    {
+      "_path": "include/xercesc/sax/SAXException.hpp",
+      "path_type": "hardlink",
+      "sha256": "621d6b10570613fdf19ca745c8320fd609d77d6dd9275f078de336b0cd80fa74",
+      "size_in_bytes": 6796
+    },
+    {
+      "_path": "include/xercesc/sax/SAXParseException.hpp",
+      "path_type": "hardlink",
+      "sha256": "1f46857aa7454b44288b737224ae7be2fd6051098b292e9b659d2af292ec026e",
+      "size_in_bytes": 5972
+    },
+    {
+      "_path": "include/xercesc/sax2/Attributes.hpp",
+      "path_type": "hardlink",
+      "sha256": "f7dd892602f89e4e7632a683601d902222d943723967bfc982528c26a5dad7e0",
+      "size_in_bytes": 11306
+    },
+    {
+      "_path": "include/xercesc/sax2/ContentHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "373b37e70ccd6596af213a71da3ec961d068258bfde2496ce0dc406f71538a61",
+      "size_in_bytes": 12324
+    },
+    {
+      "_path": "include/xercesc/sax2/DeclHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "f03e18464e3f89616d13abdc7c8f121dda66e95e7cd2ae071865aae1612e348e",
+      "size_in_bytes": 5592
+    },
+    {
+      "_path": "include/xercesc/sax2/DefaultHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "5e173a2e9bf47157d12c0de7db3bd3c734834df9e12ec99b84f5ddd0467d9d83",
+      "size_in_bytes": 25039
+    },
+    {
+      "_path": "include/xercesc/sax2/LexicalHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "cdffd8d4bf7c8b8bc563f601ad0b706d1e2e5d4131ff2cd38c88d35f9864b492",
+      "size_in_bytes": 5299
+    },
+    {
+      "_path": "include/xercesc/sax2/SAX2XMLFilter.hpp",
+      "path_type": "hardlink",
+      "sha256": "95894b050c2e2dacf9d77f1a979593779b1e351c1b9996cce374d30d4c46b7ad",
+      "size_in_bytes": 2577
+    },
+    {
+      "_path": "include/xercesc/sax2/SAX2XMLReader.hpp",
+      "path_type": "hardlink",
+      "sha256": "810d20b2ade7a38f3cb0ed5c4fa20f8bd359ca24af7e1c9fcd3473ac0dea3a18",
+      "size_in_bytes": 35499
+    },
+    {
+      "_path": "include/xercesc/sax2/XMLReaderFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "2048125fe50689b678f45c981622cc687565fd1565a89ddca4c3a67978f1c4a4",
+      "size_in_bytes": 2427
+    },
+    {
+      "_path": "include/xercesc/util/ArrayIndexOutOfBoundsException.hpp",
+      "path_type": "hardlink",
+      "sha256": "b58749256eaebfe6cbbb4ead77e77e53e8709034bd8ccabe59548bc7dd265ee1",
+      "size_in_bytes": 1202
+    },
+    {
+      "_path": "include/xercesc/util/Base64.hpp",
+      "path_type": "hardlink",
+      "sha256": "5128496a2d132e3284c5269f0679bef4b2bf898fe48aca660d1d29b50c7d6988",
+      "size_in_bytes": 9776
+    },
+    {
+      "_path": "include/xercesc/util/BaseRefVectorOf.c",
+      "path_type": "hardlink",
+      "sha256": "f8515d772abe07fb174df9581d77b2b8fc7ae2e00ad72beb9953864daa519a8e",
+      "size_in_bytes": 10108
+    },
+    {
+      "_path": "include/xercesc/util/BaseRefVectorOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "a3c0951245756224f00ce73359b86810e99ce2fa5cf2c0938e2dd7f783a298f9",
+      "size_in_bytes": 5884
+    },
+    {
+      "_path": "include/xercesc/util/BinFileInputStream.hpp",
+      "path_type": "hardlink",
+      "sha256": "92e571e9b92d43eba9ab9f5a3a9b0be64b5883da7539a13f0921d8d6766f0f1c",
+      "size_in_bytes": 3649
+    },
+    {
+      "_path": "include/xercesc/util/BinInputStream.hpp",
+      "path_type": "hardlink",
+      "sha256": "7b750983ddb753d995f51c54703695fdc0d49bf8da2294e5c3af86a6cbc4f13a",
+      "size_in_bytes": 4238
+    },
+    {
+      "_path": "include/xercesc/util/BinMemInputStream.hpp",
+      "path_type": "hardlink",
+      "sha256": "99f460d39eaaa07c3b81e725f913db20f35269f237d4e34e3a5ef690c35952ae",
+      "size_in_bytes": 4481
+    },
+    {
+      "_path": "include/xercesc/util/BitOps.hpp",
+      "path_type": "hardlink",
+      "sha256": "035f52a9c7951adf54c25537ca2a8b95f4d89d6fa9606b66c1eb7d93e4ba2add",
+      "size_in_bytes": 2223
+    },
+    {
+      "_path": "include/xercesc/util/BitSet.hpp",
+      "path_type": "hardlink",
+      "sha256": "d2e085a642b621fdd556ec580080b990294020a01b0ed551590595c233f2a8b3",
+      "size_in_bytes": 3831
+    },
+    {
+      "_path": "include/xercesc/util/CountedPointer.c",
+      "path_type": "hardlink",
+      "sha256": "45bab6c0fb1b8b57f078c59f16ab0055acab781e4e90506110bf9b21517b5a21",
+      "size_in_bytes": 2873
+    },
+    {
+      "_path": "include/xercesc/util/CountedPointer.hpp",
+      "path_type": "hardlink",
+      "sha256": "68a457c88f69792f0bd16f09b649505689be85d0aac21a3dc38fc7edd3799b93",
+      "size_in_bytes": 2343
+    },
+    {
+      "_path": "include/xercesc/util/DefaultPanicHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "5537ed3820349136177f84f07913eb0133a8634dbb885f617288b29b3dbe47dd",
+      "size_in_bytes": 2266
+    },
+    {
+      "_path": "include/xercesc/util/EmptyStackException.hpp",
+      "path_type": "hardlink",
+      "sha256": "3fa34e8ef11e26440e5ffedea2ae3b2eae58e2f82d94c6755dfd77ec4423eb2f",
+      "size_in_bytes": 1197
+    },
+    {
+      "_path": "include/xercesc/util/EncodingValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "897ea365e7a5f5e63a463d6d1c66a06c650cacce9f974c62148feab3555f725f",
+      "size_in_bytes": 2964
+    },
+    {
+      "_path": "include/xercesc/util/FileManagers/PosixFileMgr.hpp",
+      "path_type": "hardlink",
+      "sha256": "da9ca1735d781392f75bd57398da24a0429531251fef02e5d49efc19645d9f69",
+      "size_in_bytes": 2458
+    },
+    {
+      "_path": "include/xercesc/util/FlagJanitor.c",
+      "path_type": "hardlink",
+      "sha256": "2fc73eb783773c1cb9965ce08bf35785f4e967027241733de6b725dfa639185f",
+      "size_in_bytes": 2019
+    },
+    {
+      "_path": "include/xercesc/util/FlagJanitor.hpp",
+      "path_type": "hardlink",
+      "sha256": "9aaf2039fc026ade47f5ddeb979c978061e3fafff0793b9972c3fe908023b143",
+      "size_in_bytes": 2426
+    },
+    {
+      "_path": "include/xercesc/util/Hash2KeysSetOf.c",
+      "path_type": "hardlink",
+      "sha256": "79299c9741f6312335868aa97461a56065e80f45ad351eb838b8fb6f037e68e9",
+      "size_in_bytes": 17470
+    },
+    {
+      "_path": "include/xercesc/util/Hash2KeysSetOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "7fcbae3e694ebd37287cf91cbfed3080d38f34fa11c1e1aabbcd771eed0cdb19",
+      "size_in_bytes": 8394
+    },
+    {
+      "_path": "include/xercesc/util/Hashers.hpp",
+      "path_type": "hardlink",
+      "sha256": "ebfc96350e8d986e3e18d4b7e785c34911b5f7130b9bd904e8d53856ed617484",
+      "size_in_bytes": 2491
+    },
+    {
+      "_path": "include/xercesc/util/HexBin.hpp",
+      "path_type": "hardlink",
+      "sha256": "ee291b18255487a886fdf8d0789ee85a2dd98faf1ac534722f6e6bec497d4a35",
+      "size_in_bytes": 4051
+    },
+    {
+      "_path": "include/xercesc/util/IOException.hpp",
+      "path_type": "hardlink",
+      "sha256": "5a745855d5d91a459ccd452a553c109074375d29ca6303547c5dcc63fcfb9a6f",
+      "size_in_bytes": 1165
+    },
+    {
+      "_path": "include/xercesc/util/IllegalArgumentException.hpp",
+      "path_type": "hardlink",
+      "sha256": "9c728f406794fc96fd4a13cec41c878abadeab794ea4a72c99e5b00cd90f675e",
+      "size_in_bytes": 1217
+    },
+    {
+      "_path": "include/xercesc/util/InvalidCastException.hpp",
+      "path_type": "hardlink",
+      "sha256": "96c38d44636f4006d3e0efe522d5592cd3272fa9b8f3c88fe1f6eb4e84bedc89",
+      "size_in_bytes": 1201
+    },
+    {
+      "_path": "include/xercesc/util/Janitor.c",
+      "path_type": "hardlink",
+      "sha256": "2355425afaa309162ea2dd0252b5efe5cd205377ebbb3c11c23c3632e95e933e",
+      "size_in_bytes": 4735
+    },
+    {
+      "_path": "include/xercesc/util/Janitor.hpp",
+      "path_type": "hardlink",
+      "sha256": "6d3500951a6833edf31b63f5da3f080a0c3cfb5b22339decffe2724cabe202e0",
+      "size_in_bytes": 5521
+    },
+    {
+      "_path": "include/xercesc/util/KVStringPair.hpp",
+      "path_type": "hardlink",
+      "sha256": "d5f947f87a97f79784dfba4c15c714d46311b5c6c0990505b9780e392e30693a",
+      "size_in_bytes": 6940
+    },
+    {
+      "_path": "include/xercesc/util/KeyRefPair.c",
+      "path_type": "hardlink",
+      "sha256": "5a2e8b33b713a4e12037cfd6beaedb131f168d7410f4e86d549a0bb27f40202b",
+      "size_in_bytes": 3087
+    },
+    {
+      "_path": "include/xercesc/util/KeyRefPair.hpp",
+      "path_type": "hardlink",
+      "sha256": "9c0d4b86eb2ad43139853ef5b81c5f83c334576b7d2f5ef49297209b5775babe",
+      "size_in_bytes": 2763
+    },
+    {
+      "_path": "include/xercesc/util/KeyValuePair.c",
+      "path_type": "hardlink",
+      "sha256": "970351f320ebcac397d6eeddcc797ec53869cac6927caab0fef9f85d149d44f3",
+      "size_in_bytes": 2977
+    },
+    {
+      "_path": "include/xercesc/util/KeyValuePair.hpp",
+      "path_type": "hardlink",
+      "sha256": "b2cc6d2a18805ba76e2cd46b6ad2006d1a3d8b240ac24d19c27ea5e31d90b100",
+      "size_in_bytes": 2743
+    },
+    {
+      "_path": "include/xercesc/util/LogicalPath.c",
+      "path_type": "hardlink",
+      "sha256": "6c34b6ea7f2fe571adf415d66254bba0e478ec328bb74a3ff2d1bade60fe38a0",
+      "size_in_bytes": 8396
+    },
+    {
+      "_path": "include/xercesc/util/MsgLoaders/InMemory/InMemMsgLoader.hpp",
+      "path_type": "hardlink",
+      "sha256": "1586686a5e20c2743a11bc663c9c3efacacea6071b04f7f6ac0d5e51e87340bf",
+      "size_in_bytes": 3763
+    },
+    {
+      "_path": "include/xercesc/util/MsgLoaders/InMemory/XercesMessages_en_US.hpp",
+      "path_type": "hardlink",
+      "sha256": "0537359adf4497a25a8b5bc136066a5540aeb434639dcd21f88c6ed731dda275",
+      "size_in_bytes": 279541
+    },
+    {
+      "_path": "include/xercesc/util/MutexManagers/StdMutexMgr.hpp",
+      "path_type": "hardlink",
+      "sha256": "5073660b877633b45f65b2ae320326800232f420087df1740b6754007251d2ea",
+      "size_in_bytes": 1415
+    },
+    {
+      "_path": "include/xercesc/util/Mutexes.hpp",
+      "path_type": "hardlink",
+      "sha256": "4d47cd75b26fa37002940124b5b035a1d166b0316cc9d16177ea518031359e79",
+      "size_in_bytes": 3780
+    },
+    {
+      "_path": "include/xercesc/util/NameIdPool.c",
+      "path_type": "hardlink",
+      "sha256": "a2538326d57cc50f5aaa6203c72da4e16d177bd7b2187aac6fdcf11619ebd19e",
+      "size_in_bytes": 9012
+    },
+    {
+      "_path": "include/xercesc/util/NameIdPool.hpp",
+      "path_type": "hardlink",
+      "sha256": "463b8b6632d7a68c494ff87eb6af8d05d5bc24910b8c4e3b6b8312a07e494498",
+      "size_in_bytes": 7726
+    },
+    {
+      "_path": "include/xercesc/util/NetAccessors/BinHTTPInputStreamCommon.hpp",
+      "path_type": "hardlink",
+      "sha256": "b873da25c533f7f33818705636c7b6674877d9b9e23144b0df1e560a66efb48a",
+      "size_in_bytes": 6853
+    },
+    {
+      "_path": "include/xercesc/util/NetAccessors/Socket/SocketNetAccessor.hpp",
+      "path_type": "hardlink",
+      "sha256": "2c855c169c810da5cb969af85ab9cf56a8f815f434be3cbe5f27a45a803bfb6e",
+      "size_in_bytes": 1917
+    },
+    {
+      "_path": "include/xercesc/util/NetAccessors/Socket/UnixHTTPURLInputStream.hpp",
+      "path_type": "hardlink",
+      "sha256": "37e564ffba33b67be49d54556083c1c76321a8bd420033f8377afabcb603c8ff",
+      "size_in_bytes": 2237
+    },
+    {
+      "_path": "include/xercesc/util/NoSuchElementException.hpp",
+      "path_type": "hardlink",
+      "sha256": "f280c071b4b84b73e63ae9a0f43f6c4a54f440b0b020de3470d8ff5c6249d0bd",
+      "size_in_bytes": 1209
+    },
+    {
+      "_path": "include/xercesc/util/NullPointerException.hpp",
+      "path_type": "hardlink",
+      "sha256": "6e1e1ec79ea6e0b11416bb7b52fad7b0ecc1622199521764883fdde6f2353cdf",
+      "size_in_bytes": 1202
+    },
+    {
+      "_path": "include/xercesc/util/NumberFormatException.hpp",
+      "path_type": "hardlink",
+      "sha256": "45bbf4f9c8a9b8ad6dd84a019c8defbd8958c70d15e41116d9121f0af859f615",
+      "size_in_bytes": 1205
+    },
+    {
+      "_path": "include/xercesc/util/OutOfMemoryException.hpp",
+      "path_type": "hardlink",
+      "sha256": "1258ead2b6525f66973e8ac726dae3120c14c11f0c8a6d5813b8f6e219328586",
+      "size_in_bytes": 3075
+    },
+    {
+      "_path": "include/xercesc/util/PSVIUni.hpp",
+      "path_type": "hardlink",
+      "sha256": "a7a329d4d801eec9e6817636ec27c36032155cb69b12fc8f3712718d7935a5fb",
+      "size_in_bytes": 8811
+    },
+    {
+      "_path": "include/xercesc/util/PanicHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "1e875035606b29407af52ab30bc8ae2c6b1f4a6bfd1ce7ed8d0f88d432105a3f",
+      "size_in_bytes": 3126
+    },
+    {
+      "_path": "include/xercesc/util/ParseException.hpp",
+      "path_type": "hardlink",
+      "sha256": "c22314f0a65db4dd335f639923d0ed1536c06c7dd3a5392299b9bc8d8d5a5b04",
+      "size_in_bytes": 1177
+    },
+    {
+      "_path": "include/xercesc/util/PlatformUtils.hpp",
+      "path_type": "hardlink",
+      "sha256": "bafeb7aea83483d84b212c5586135ec01266d2e1a8f365cc912b9c1a197dfb95",
+      "size_in_bytes": 32790
+    },
+    {
+      "_path": "include/xercesc/util/QName.hpp",
+      "path_type": "hardlink",
+      "sha256": "157a7be2a1cfaf23a286e9525bb4670aaa3bbd8dfa9b33da29a9beee12e42702",
+      "size_in_bytes": 6704
+    },
+    {
+      "_path": "include/xercesc/util/RefArrayOf.c",
+      "path_type": "hardlink",
+      "sha256": "b6419da012a862a7aef15f1d35caef768e208053c1d79202799b612b6d737b90",
+      "size_in_bytes": 8049
+    },
+    {
+      "_path": "include/xercesc/util/RefArrayOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "5d994ee71a0bf13617ae163a450de347b1b50a31e5827fabbbd5c2cbbffc8fab",
+      "size_in_bytes": 5317
+    },
+    {
+      "_path": "include/xercesc/util/RefArrayVectorOf.c",
+      "path_type": "hardlink",
+      "sha256": "720477b23942b94c35200a558a6c513eab1c22b29769b389be4a70a11a88ff6b",
+      "size_in_bytes": 4149
+    },
+    {
+      "_path": "include/xercesc/util/RefArrayVectorOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "8c4b097b1f2e34fa6e46f8d407cc78ae2887421bb77cec90a84c9fa433cd6146",
+      "size_in_bytes": 2703
+    },
+    {
+      "_path": "include/xercesc/util/RefHash2KeysTableOf.c",
+      "path_type": "hardlink",
+      "sha256": "3b8c4438b8a8ee94d541516e63443001edc644b9b8ce1f45f314a53ec64b2723",
+      "size_in_bytes": 21650
+    },
+    {
+      "_path": "include/xercesc/util/RefHash2KeysTableOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "a3cf65efa7c4334d1b4100852667dffb123af30517d1f16900c4b5b72bcd71d7",
+      "size_in_bytes": 10104
+    },
+    {
+      "_path": "include/xercesc/util/RefHash3KeysIdPool.c",
+      "path_type": "hardlink",
+      "sha256": "8656517873feba52b2ec313d3087d99acd6e1e00d365d32842f6ca42ea433f6a",
+      "size_in_bytes": 18656
+    },
+    {
+      "_path": "include/xercesc/util/RefHash3KeysIdPool.hpp",
+      "path_type": "hardlink",
+      "sha256": "50c360f30fbaa512ca5b8eb236ca19c3161ed1c597c3ebbd90e584d88e04cbee",
+      "size_in_bytes": 10812
+    },
+    {
+      "_path": "include/xercesc/util/RefHashTableOf.c",
+      "path_type": "hardlink",
+      "sha256": "93d3e417658a3fe840d26de88e1183e86d7a14bfaedc52dcc337a8197332234b",
+      "size_in_bytes": 19962
+    },
+    {
+      "_path": "include/xercesc/util/RefHashTableOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "7fca33a971b58bb642426df11ec3f33fe485da5ada589af597a6c9ec0ccc0a96",
+      "size_in_bytes": 9668
+    },
+    {
+      "_path": "include/xercesc/util/RefStackOf.c",
+      "path_type": "hardlink",
+      "sha256": "0c6aebe263ef1cfeb8f35b824a9993094cfffad6aad2c907667b409b65fb1476",
+      "size_in_bytes": 5012
+    },
+    {
+      "_path": "include/xercesc/util/RefStackOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "85fb7beaad8ada4a6daa2668f2cab71cf9d96e4eb76987e1a4ec00889ac3e529",
+      "size_in_bytes": 5371
+    },
+    {
+      "_path": "include/xercesc/util/RefVectorOf.c",
+      "path_type": "hardlink",
+      "sha256": "90016ee36e694e77eea7f7a9faba9c340d4ceee1c3f0fc18dd8a8de2e1fe636d",
+      "size_in_bytes": 1942
+    },
+    {
+      "_path": "include/xercesc/util/RefVectorOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "de3224c0d7cd50eccd07401d0d43176eb001dd92dd24c8d942ce5cf18f0fa39a",
+      "size_in_bytes": 2229
+    },
+    {
+      "_path": "include/xercesc/util/RuntimeException.hpp",
+      "path_type": "hardlink",
+      "sha256": "cb005647fb62c60fe60b4da3c3b62b43855a8cd853b520b721beca5b2d86e497",
+      "size_in_bytes": 1186
+    },
+    {
+      "_path": "include/xercesc/util/SchemaDateTimeException.hpp",
+      "path_type": "hardlink",
+      "sha256": "68f94a1f610df5a3918782d62593e07ab85e1b06a7040d2706b491cf1fac11a2",
+      "size_in_bytes": 1174
+    },
+    {
+      "_path": "include/xercesc/util/SecurityManager.hpp",
+      "path_type": "hardlink",
+      "sha256": "0adf48cfc02ac172453485337e1a6cd748be505376be296971fe81f554ff0699",
+      "size_in_bytes": 3588
+    },
+    {
+      "_path": "include/xercesc/util/StringPool.hpp",
+      "path_type": "hardlink",
+      "sha256": "34ec5bd403ad980803d9b917d0e01cea5348f98eb131e31687920fb05d24782d",
+      "size_in_bytes": 6106
+    },
+    {
+      "_path": "include/xercesc/util/SynchronizedStringPool.hpp",
+      "path_type": "hardlink",
+      "sha256": "7dbd8a39a22ce05f965b3c673da6a044d55b38c509024bd367ab781c3741fb0a",
+      "size_in_bytes": 3433
+    },
+    {
+      "_path": "include/xercesc/util/TransENameMap.c",
+      "path_type": "hardlink",
+      "sha256": "f984bad1a731af740dda9875e4cfa5134a187cc98ce25003015d384181e7e514",
+      "size_in_bytes": 2873
+    },
+    {
+      "_path": "include/xercesc/util/TransENameMap.hpp",
+      "path_type": "hardlink",
+      "sha256": "b8f8a042a54ab646b3a6efc0114b493cb87bab3fdf8eeef18455ffa2983316dd",
+      "size_in_bytes": 5911
+    },
+    {
+      "_path": "include/xercesc/util/TransService.hpp",
+      "path_type": "hardlink",
+      "sha256": "688b863ebc433fcd4d81514f3c6222189d4af2426ed810431fef8f452beb328a",
+      "size_in_bytes": 25458
+    },
+    {
+      "_path": "include/xercesc/util/Transcoders/ICU/ICUTransService.hpp",
+      "path_type": "hardlink",
+      "sha256": "0d389a22709152781d26df31e77714c63439119fc20b847e8c5335ba46452073",
+      "size_in_bytes": 8410
+    },
+    {
+      "_path": "include/xercesc/util/TranscodingException.hpp",
+      "path_type": "hardlink",
+      "sha256": "ace596f5a238e6ff944fafafed91232983c7ae884a6e967ada006b93045b17f8",
+      "size_in_bytes": 1201
+    },
+    {
+      "_path": "include/xercesc/util/UTFDataFormatException.hpp",
+      "path_type": "hardlink",
+      "sha256": "ed833ce9f014d67fa48602cddfd15504284bbbe581b76fb4c2069d7013474e0e",
+      "size_in_bytes": 1210
+    },
+    {
+      "_path": "include/xercesc/util/UnexpectedEOFException.hpp",
+      "path_type": "hardlink",
+      "sha256": "80e03cc2c6607d12e0464e7f648c9767df8e6c4586a655c409fa177336a07ef2",
+      "size_in_bytes": 1209
+    },
+    {
+      "_path": "include/xercesc/util/UnsupportedEncodingException.hpp",
+      "path_type": "hardlink",
+      "sha256": "307f1b1f9cc5b840301b8f7727f8d37e1d19dcdec54db246c5f213a2f5288823",
+      "size_in_bytes": 1233
+    },
+    {
+      "_path": "include/xercesc/util/ValueArrayOf.c",
+      "path_type": "hardlink",
+      "sha256": "1b0d99496aca4d28436b7ce70fc317e5ea10586ac49020ef14e5d5b8153dac07",
+      "size_in_bytes": 7563
+    },
+    {
+      "_path": "include/xercesc/util/ValueArrayOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "fe1e3c9b5da345e7a731f68889feec8fbda797a9e0098a8bd9009c3cd0340493",
+      "size_in_bytes": 5332
+    },
+    {
+      "_path": "include/xercesc/util/ValueHashTableOf.c",
+      "path_type": "hardlink",
+      "sha256": "36204eb788c1708adf366bd61da0d4cdb037b28115189014b0e75e9f0851799f",
+      "size_in_bytes": 15206
+    },
+    {
+      "_path": "include/xercesc/util/ValueHashTableOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "a43d31226942785c2d80a31706f7791c5d0674e92053c422c58574d91f6033aa",
+      "size_in_bytes": 8772
+    },
+    {
+      "_path": "include/xercesc/util/ValueStackOf.c",
+      "path_type": "hardlink",
+      "sha256": "824f5fd35ee32d1e58f8e2acb32f3c9de5b41c5acf8a6e7c7a12c37d3916fa15",
+      "size_in_bytes": 4466
+    },
+    {
+      "_path": "include/xercesc/util/ValueStackOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "77d991669278366e58d6776534f0d8d03999cbd8b72d655c9bfdb8c132c0f31b",
+      "size_in_bytes": 5368
+    },
+    {
+      "_path": "include/xercesc/util/ValueVectorOf.c",
+      "path_type": "hardlink",
+      "sha256": "c56ad6c06bdf46666dc46ce2c38b45590b4fc43113b84243cb18b322b48a9934",
+      "size_in_bytes": 9003
+    },
+    {
+      "_path": "include/xercesc/util/ValueVectorOf.hpp",
+      "path_type": "hardlink",
+      "sha256": "7c2e979a41081a7c3f49a459ace7b872180a4823c72f0b4dbcfa9ff67e9ec32a",
+      "size_in_bytes": 5853
+    },
+    {
+      "_path": "include/xercesc/util/XML256TableTranscoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "b4a4eb9ccdc889cfd3db89c73453ff23a12e0ecb5b5b5462740ad3e0d98d32cb",
+      "size_in_bytes": 5757
+    },
+    {
+      "_path": "include/xercesc/util/XML88591Transcoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "c26d0dae443f23e978a4ea9da4f10c7618445be7deb967b1c62e6d8d6fae6a17",
+      "size_in_bytes": 3301
+    },
+    {
+      "_path": "include/xercesc/util/XMLASCIITranscoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "52b8cb4d55e3ed477d3c136f7486e789ee1db8cd3449c8af897eba64aa225673",
+      "size_in_bytes": 3293
+    },
+    {
+      "_path": "include/xercesc/util/XMLAbstractDoubleFloat.hpp",
+      "path_type": "hardlink",
+      "sha256": "6ab3e57d14881d796b0a9f77e11ce9563dc83762d8d5fecfc20d7aad8f8e28d6",
+      "size_in_bytes": 6590
+    },
+    {
+      "_path": "include/xercesc/util/XMLBigDecimal.hpp",
+      "path_type": "hardlink",
+      "sha256": "26124f1be868b64cc89e77d9be37b7e169e27aee457695339e45eab3eef39906",
+      "size_in_bytes": 5967
+    },
+    {
+      "_path": "include/xercesc/util/XMLBigInteger.hpp",
+      "path_type": "hardlink",
+      "sha256": "9808213487b450bd32664b579143247750cd7b595482d450abaada7742b6a40d",
+      "size_in_bytes": 6082
+    },
+    {
+      "_path": "include/xercesc/util/XMLChTranscoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "26de94c5162d8cab0ea222dd6708c37728869b7aaf0629ac5d673661307b9ea2",
+      "size_in_bytes": 3085
+    },
+    {
+      "_path": "include/xercesc/util/XMLChar.hpp",
+      "path_type": "hardlink",
+      "sha256": "c0b549bbe0e9fd0f2fdd45db6fa399126a49790b58ce0dd8701141410c37f231",
+      "size_in_bytes": 15458
+    },
+    {
+      "_path": "include/xercesc/util/XMLDOMMsg.hpp",
+      "path_type": "hardlink",
+      "sha256": "271292fa0be6c897c77d218dac9ff0535d425723749d35488fd6886017fdc7eb",
+      "size_in_bytes": 3907
+    },
+    {
+      "_path": "include/xercesc/util/XMLDateTime.hpp",
+      "path_type": "hardlink",
+      "sha256": "8d8f724b772f77c21b782223e1bf68910aa13bd40deb2f2d8eec719d2c23eeed",
+      "size_in_bytes": 11857
+    },
+    {
+      "_path": "include/xercesc/util/XMLDouble.hpp",
+      "path_type": "hardlink",
+      "sha256": "f6a81377559d7cd715dd99fadc26edad4b65a2f167df5b7bb511fe2e763c57a0",
+      "size_in_bytes": 3296
+    },
+    {
+      "_path": "include/xercesc/util/XMLEBCDICTranscoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "b099a52d29379528a26b6d4cb7c6d4d464b5cdac6f6d6d7f9875143c5c012b20",
+      "size_in_bytes": 2733
+    },
+    {
+      "_path": "include/xercesc/util/XMLEntityResolver.hpp",
+      "path_type": "hardlink",
+      "sha256": "2f94e8f48603186c4339afc2461e12626b10a7a861e3714f318ca34e89146a3b",
+      "size_in_bytes": 6670
+    },
+    {
+      "_path": "include/xercesc/util/XMLEnumerator.hpp",
+      "path_type": "hardlink",
+      "sha256": "8c500ae76343a9c45dcb548e0c675d52183497eec05009fbf79cc095e50370b5",
+      "size_in_bytes": 1997
+    },
+    {
+      "_path": "include/xercesc/util/XMLExceptMsgs.hpp",
+      "path_type": "hardlink",
+      "sha256": "df6f2c90e45196e08b5148eb349a931cde9ceefb084c337855eb03ffd433c92e",
+      "size_in_bytes": 18793
+    },
+    {
+      "_path": "include/xercesc/util/XMLException.hpp",
+      "path_type": "hardlink",
+      "sha256": "85a35acdef41c8a772e963c211846a9bc3497bd2b4678629b9beae7f736cc495",
+      "size_in_bytes": 9954
+    },
+    {
+      "_path": "include/xercesc/util/XMLFileMgr.hpp",
+      "path_type": "hardlink",
+      "sha256": "9dfc0900dcf5d51fbb50555d3bb11edf112370a722a0efede7325f9e66216533",
+      "size_in_bytes": 2590
+    },
+    {
+      "_path": "include/xercesc/util/XMLFloat.hpp",
+      "path_type": "hardlink",
+      "sha256": "59c52d6d6ea825b1aac8e949737a6c7d617f394d7d7e640f4637882ed7043518",
+      "size_in_bytes": 3220
+    },
+    {
+      "_path": "include/xercesc/util/XMLIBM1047Transcoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "a26eed8230b0e8fba3e8a8b39c4b3efb88d3d70fdd4dd4ecd1a917f7fb9f94f6",
+      "size_in_bytes": 2661
+    },
+    {
+      "_path": "include/xercesc/util/XMLIBM1140Transcoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "4884174eef99c58d85318fb67370dcd938f5b71c36f436cdfbf3386b7383eb47",
+      "size_in_bytes": 2676
+    },
+    {
+      "_path": "include/xercesc/util/XMLInitializer.hpp",
+      "path_type": "hardlink",
+      "sha256": "00e775babfca9543fbbe57717503b5adbfdd40aaecd50b79d4e1df8a6f25bf60",
+      "size_in_bytes": 4470
+    },
+    {
+      "_path": "include/xercesc/util/XMLInteger.hpp",
+      "path_type": "hardlink",
+      "sha256": "ebcd457f24abe7196615350747f081e0e612661007aa32b188dd706fa0f626af",
+      "size_in_bytes": 2119
+    },
+    {
+      "_path": "include/xercesc/util/XMLMsgLoader.hpp",
+      "path_type": "hardlink",
+      "sha256": "4bc0b62f4fc51377a806fe5599156e1c0edda127e00b988d3a9dff9c92586d4b",
+      "size_in_bytes": 6425
+    },
+    {
+      "_path": "include/xercesc/util/XMLMutexMgr.hpp",
+      "path_type": "hardlink",
+      "sha256": "2442379964d0f7a8338563999a67761bde073d8ed42af4647dd6ef7b1c10ae87",
+      "size_in_bytes": 1599
+    },
+    {
+      "_path": "include/xercesc/util/XMLNetAccessor.hpp",
+      "path_type": "hardlink",
+      "sha256": "7c7895676525066bc7e4ea8685bc663f59b8a03c7d062ff59eeae311e395a4f0",
+      "size_in_bytes": 4370
+    },
+    {
+      "_path": "include/xercesc/util/XMLNumber.hpp",
+      "path_type": "hardlink",
+      "sha256": "dde5fa2ef5506c9e88f818eb2a12b618415fffc71c9ebbd87cbc9ebf27d59ea0",
+      "size_in_bytes": 2824
+    },
+    {
+      "_path": "include/xercesc/util/XMLResourceIdentifier.hpp",
+      "path_type": "hardlink",
+      "sha256": "12964a66e7f5aefcde061739f8752235eb91e9789038e360f99c8fea932044df",
+      "size_in_bytes": 6848
+    },
+    {
+      "_path": "include/xercesc/util/XMLString.hpp",
+      "path_type": "hardlink",
+      "sha256": "79dbe47906b0d13e271a7328e8e8b7aa5545173db958c71e7082721202c9b0ac",
+      "size_in_bytes": 61443
+    },
+    {
+      "_path": "include/xercesc/util/XMLStringTokenizer.hpp",
+      "path_type": "hardlink",
+      "sha256": "db5514dcffd676b1a4dc9294d2a3a9753a197300e9ccee5d87c958fe3afece7d",
+      "size_in_bytes": 7099
+    },
+    {
+      "_path": "include/xercesc/util/XMLUCS4Transcoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "43bd7d8f58beed51d830f3deec0a7d786725effd74e5082b213ff98e35dccdc8",
+      "size_in_bytes": 3685
+    },
+    {
+      "_path": "include/xercesc/util/XMLURL.hpp",
+      "path_type": "hardlink",
+      "sha256": "a8576d3fd1c7c7b579f99c6a63c90881a3c1a56988a9d7ded968b2497ca0750a",
+      "size_in_bytes": 8819
+    },
+    {
+      "_path": "include/xercesc/util/XMLUTF16Transcoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "89760f315051ab2b4080bfd15f5ef63097d8ea26ff6e0a49cef13f31eacac9b0",
+      "size_in_bytes": 3684
+    },
+    {
+      "_path": "include/xercesc/util/XMLUTF8Transcoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "11719f2b1955ed4846e16188458b43cda74647a8f320e3f3d0286d74c6d880e6",
+      "size_in_bytes": 4192
+    },
+    {
+      "_path": "include/xercesc/util/XMLUni.hpp",
+      "path_type": "hardlink",
+      "sha256": "400d914f1935fccf4c096bc8f439a1353cf1012285afdc2dadb83926b5d07262",
+      "size_in_bytes": 14655
+    },
+    {
+      "_path": "include/xercesc/util/XMLUniDefs.hpp",
+      "path_type": "hardlink",
+      "sha256": "b9a954bacc2691c7a8f41dc2a062bebc163690f88b9e8bfccb4e1107f4af01c6",
+      "size_in_bytes": 6333
+    },
+    {
+      "_path": "include/xercesc/util/XMLUri.hpp",
+      "path_type": "hardlink",
+      "sha256": "26f4d47bfc8a85b77f263ac1ba4b93473fc8c0bf66aab7dbc8900ec63798c3d0",
+      "size_in_bytes": 21810
+    },
+    {
+      "_path": "include/xercesc/util/XMLWin1252Transcoder.hpp",
+      "path_type": "hardlink",
+      "sha256": "b4bafcaa0113c8a19a6eeea2c3bbf270d1b73b4f3f88aa465b1301d781f48e6e",
+      "size_in_bytes": 2239
+    },
+    {
+      "_path": "include/xercesc/util/XMemory.hpp",
+      "path_type": "hardlink",
+      "sha256": "1506de35d59870063ccd5f6ebd70ae52c7b38f3df27ccaaad73372dbab86a378",
+      "size_in_bytes": 4404
+    },
+    {
+      "_path": "include/xercesc/util/XercesDefs.hpp",
+      "path_type": "hardlink",
+      "sha256": "ae2b9991a9b92ffa1964b03def7e0a50fb9a53311e3aaea124f180b447f5157c",
+      "size_in_bytes": 6758
+    },
+    {
+      "_path": "include/xercesc/util/XercesVersion.hpp",
+      "path_type": "hardlink",
+      "sha256": "222ba84c22f9810aa027f6712e4cf3171720c8a923b2d02265acbec19d286439",
+      "size_in_bytes": 9194
+    },
+    {
+      "_path": "include/xercesc/util/Xerces_autoconf_config.hpp",
+      "path_type": "hardlink",
+      "sha256": "f6b636959047b026c9c8439872449141b450b5f616c22c71f748de68de4d7c06",
+      "size_in_bytes": 5685
+    },
+    {
+      "_path": "include/xercesc/util/regx/ASCIIRangeFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "636499fb9f07d13647585a41c18d344d50025c8a37085c0bf805f88d0d2fed06",
+      "size_in_bytes": 2474
+    },
+    {
+      "_path": "include/xercesc/util/regx/BMPattern.hpp",
+      "path_type": "hardlink",
+      "sha256": "9615db752d8e1eabca817aecc59ba0c18900824e2cb7a777d08dfcf77bd21eca",
+      "size_in_bytes": 5065
+    },
+    {
+      "_path": "include/xercesc/util/regx/BlockRangeFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "8793bdf7c7dabd8a0d198c8f6046995d5a0201506cf12cfcc458c064875483fd",
+      "size_in_bytes": 2474
+    },
+    {
+      "_path": "include/xercesc/util/regx/CharToken.hpp",
+      "path_type": "hardlink",
+      "sha256": "9f6444a9ee783773b707fe5af2b3f08730ecad72d5a25b723aa7efca220632c9",
+      "size_in_bytes": 3156
+    },
+    {
+      "_path": "include/xercesc/util/regx/ClosureToken.hpp",
+      "path_type": "hardlink",
+      "sha256": "d82a324ead1a41224d9a330497b7be519559d3ae782516b6031aaf90a820dae4",
+      "size_in_bytes": 3630
+    },
+    {
+      "_path": "include/xercesc/util/regx/ConcatToken.hpp",
+      "path_type": "hardlink",
+      "sha256": "c63465a84a0145c51f888064a052f1c1d4c990e48fc7fb2b0431ef2d9c7d58b3",
+      "size_in_bytes": 2861
+    },
+    {
+      "_path": "include/xercesc/util/regx/Match.hpp",
+      "path_type": "hardlink",
+      "sha256": "cf8366c614a09a58202239d6c6cf7db506953fb99aaee8190de0a3f2a9db5f3e",
+      "size_in_bytes": 5581
+    },
+    {
+      "_path": "include/xercesc/util/regx/Op.hpp",
+      "path_type": "hardlink",
+      "sha256": "543f6ddbbeeac5244a8cfc7c3958609c79884541d52254f4d027eea2887aae65",
+      "size_in_bytes": 11274
+    },
+    {
+      "_path": "include/xercesc/util/regx/OpFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "62bda7591c1fd57305f30f3bd5c04d205b8662595ae228bd8e7bd7238ced14ee",
+      "size_in_bytes": 4170
+    },
+    {
+      "_path": "include/xercesc/util/regx/ParenToken.hpp",
+      "path_type": "hardlink",
+      "sha256": "8bf58c78b772c57bbfed1e583a6ddc98eb749538193ce1e583433b6f26da3508",
+      "size_in_bytes": 2941
+    },
+    {
+      "_path": "include/xercesc/util/regx/ParserForXMLSchema.hpp",
+      "path_type": "hardlink",
+      "sha256": "568cabeb7fac2019120a563e43fa1928726696580de0dc42e090c439005ff785",
+      "size_in_bytes": 3373
+    },
+    {
+      "_path": "include/xercesc/util/regx/RangeFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "cd556082d7c274545d720e780f4c10513dee8ee9a23c20cd240b5f873b20064f",
+      "size_in_bytes": 3287
+    },
+    {
+      "_path": "include/xercesc/util/regx/RangeToken.hpp",
+      "path_type": "hardlink",
+      "sha256": "94d8ba772a4bad2a052d6514b85e819240eff7f0ad35544d2cd9ace4fbd984a8",
+      "size_in_bytes": 5193
+    },
+    {
+      "_path": "include/xercesc/util/regx/RangeTokenMap.hpp",
+      "path_type": "hardlink",
+      "sha256": "b05ae4f3381616c828acff044c8d0d662aa0843075afdccad991a2b82e222755",
+      "size_in_bytes": 8124
+    },
+    {
+      "_path": "include/xercesc/util/regx/RegularExpression.hpp",
+      "path_type": "hardlink",
+      "sha256": "944f0b03c673c83735c39b7f69789982193a5b407f1d9466463eab39b032a09d",
+      "size_in_bytes": 31877
+    },
+    {
+      "_path": "include/xercesc/util/regx/RegxDefs.hpp",
+      "path_type": "hardlink",
+      "sha256": "c164adfd0f78df13df6e8397f483995f9ad43a5cf88030a6f2449ffd8528f8e2",
+      "size_in_bytes": 5969
+    },
+    {
+      "_path": "include/xercesc/util/regx/RegxParser.hpp",
+      "path_type": "hardlink",
+      "sha256": "7634f6e94a53d9f850af7383bc4de4e76cb6bfcb7dccf01c4d364118c549fea9",
+      "size_in_bytes": 9697
+    },
+    {
+      "_path": "include/xercesc/util/regx/RegxUtil.hpp",
+      "path_type": "hardlink",
+      "sha256": "738906c871b4d1e1abf9cb4078c3df74291ca790c1de81ef75cf4b42a7a4664c",
+      "size_in_bytes": 3571
+    },
+    {
+      "_path": "include/xercesc/util/regx/StringToken.hpp",
+      "path_type": "hardlink",
+      "sha256": "258c3279652229163355d5ab9937aaba100b62b89ad08bdc347ad890b125d78f",
+      "size_in_bytes": 3591
+    },
+    {
+      "_path": "include/xercesc/util/regx/Token.hpp",
+      "path_type": "hardlink",
+      "sha256": "b6bb5221b14b4c3e84adf5ad2ed2aca8680451b787c2ff73e900b71591f4800a",
+      "size_in_bytes": 8306
+    },
+    {
+      "_path": "include/xercesc/util/regx/TokenFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "4847733a022039fa7a16aec8ebe915d389d3908b0f4dea9a58f04cc5d69894c0",
+      "size_in_bytes": 4855
+    },
+    {
+      "_path": "include/xercesc/util/regx/TokenInc.hpp",
+      "path_type": "hardlink",
+      "sha256": "03675dfa9faf38717258b7982705bc0bac0e37a41f3464beafeb2444cfec1730",
+      "size_in_bytes": 1549
+    },
+    {
+      "_path": "include/xercesc/util/regx/UniCharTable.hpp",
+      "path_type": "hardlink",
+      "sha256": "7684f4fe541bf984b51687810605711b5bee985b1619f66c918c2177647e4c69",
+      "size_in_bytes": 415147
+    },
+    {
+      "_path": "include/xercesc/util/regx/UnicodeRangeFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "f3a01ef4fd9e8f547f203dc37c846ce6c8923208905e654931481ca99eb91bfd",
+      "size_in_bytes": 3243
+    },
+    {
+      "_path": "include/xercesc/util/regx/UnionToken.hpp",
+      "path_type": "hardlink",
+      "sha256": "5b97239c319feb3b75a522b282c894aa21777f9bc567cee76914bd94b8f0ba2b",
+      "size_in_bytes": 3398
+    },
+    {
+      "_path": "include/xercesc/util/regx/XMLRangeFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "3255e6b52a333ee850dd9d905c037e8b38f9b182e7a0f6ec12801bc9c14f0307",
+      "size_in_bytes": 2454
+    },
+    {
+      "_path": "include/xercesc/util/regx/XMLUniCharacter.hpp",
+      "path_type": "hardlink",
+      "sha256": "147cbd2385fb14fae397b3cf01156c2bcabb39a649c90970c220ad4f1c228e03",
+      "size_in_bytes": 3086
+    },
+    {
+      "_path": "include/xercesc/validators/DTD/DTDAttDef.hpp",
+      "path_type": "hardlink",
+      "sha256": "f7840aff1dfff0676c7f7000837d648842af5932b946c48f3b08785e388d4cf6",
+      "size_in_bytes": 5186
+    },
+    {
+      "_path": "include/xercesc/validators/DTD/DTDAttDefList.hpp",
+      "path_type": "hardlink",
+      "sha256": "c704a669ccf380c0f0874e8edb93e09eceb3ab2127a8fb51228750974509695c",
+      "size_in_bytes": 5545
+    },
+    {
+      "_path": "include/xercesc/validators/DTD/DTDElementDecl.hpp",
+      "path_type": "hardlink",
+      "sha256": "172a232425ff67910a16c3a600499e066c3d422af201d58b8643c39255809211",
+      "size_in_bytes": 9146
+    },
+    {
+      "_path": "include/xercesc/validators/DTD/DTDEntityDecl.hpp",
+      "path_type": "hardlink",
+      "sha256": "72a8f45eb82646ba3c592fd0d40377aaf2843307a780c35c46997657da4bb8b5",
+      "size_in_bytes": 6898
+    },
+    {
+      "_path": "include/xercesc/validators/DTD/DTDGrammar.hpp",
+      "path_type": "hardlink",
+      "sha256": "694e546305a80a927a400288de856c9566b5c5f2caed6f2f7ed88961818d2fd3",
+      "size_in_bytes": 12983
+    },
+    {
+      "_path": "include/xercesc/validators/DTD/DTDScanner.hpp",
+      "path_type": "hardlink",
+      "sha256": "79f0246a97e9823904d088119aa16f16861bf82c70fa9319747d14cdd1e68bb7",
+      "size_in_bytes": 9787
+    },
+    {
+      "_path": "include/xercesc/validators/DTD/DTDValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "0d7975e0aef2ea0f123d6ab02fae3c3f9d3345b7f64bbe9ed01912441d7393fb",
+      "size_in_bytes": 5633
+    },
+    {
+      "_path": "include/xercesc/validators/DTD/DocTypeHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "83847c0fcb13310b625bbf0134fd0aacd1d5391873789f1efd9b184b8027230d",
+      "size_in_bytes": 4060
+    },
+    {
+      "_path": "include/xercesc/validators/DTD/XMLDTDDescriptionImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "eec4f2be7f3a0634319920f215930847c84542da8eb40352b9d9cadc20c4df6c",
+      "size_in_bytes": 3485
+    },
+    {
+      "_path": "include/xercesc/validators/common/AllContentModel.hpp",
+      "path_type": "hardlink",
+      "sha256": "ae4d369c27ad6b0a55051162a227b1943b7bd1755698dd8cc7c9b43a89a96b34",
+      "size_in_bytes": 6624
+    },
+    {
+      "_path": "include/xercesc/validators/common/CMAny.hpp",
+      "path_type": "hardlink",
+      "sha256": "2da8bfaddd7fdaa8285a1604f30d069c76b53eaf7b2069d2e7da013eb9945b7f",
+      "size_in_bytes": 3650
+    },
+    {
+      "_path": "include/xercesc/validators/common/CMBinaryOp.hpp",
+      "path_type": "hardlink",
+      "sha256": "1fc5bfd9b93232f13c27ff0bb34db522a549c3e90904c5a5f11990e9f6e74db3",
+      "size_in_bytes": 3244
+    },
+    {
+      "_path": "include/xercesc/validators/common/CMLeaf.hpp",
+      "path_type": "hardlink",
+      "sha256": "db89639d09f318479020768777a15b030306dc6d4caef782ca11a8306e151db9",
+      "size_in_bytes": 7883
+    },
+    {
+      "_path": "include/xercesc/validators/common/CMNode.hpp",
+      "path_type": "hardlink",
+      "sha256": "178a1791151b040c0f9a0cbac370b425d4f1c4a95ead9bc9a1717f52eff11cfe",
+      "size_in_bytes": 6136
+    },
+    {
+      "_path": "include/xercesc/validators/common/CMRepeatingLeaf.hpp",
+      "path_type": "hardlink",
+      "sha256": "8a639917e17734af1191d680e77eb226f3d8f3d13440a1e1eb4ce35f34172e57",
+      "size_in_bytes": 4866
+    },
+    {
+      "_path": "include/xercesc/validators/common/CMStateSet.hpp",
+      "path_type": "hardlink",
+      "sha256": "2572faf02f37e1446c1f96002a0f7eb8c25c5c74e0fcebe13db5a6b2ec24653c",
+      "size_in_bytes": 23499
+    },
+    {
+      "_path": "include/xercesc/validators/common/CMUnaryOp.hpp",
+      "path_type": "hardlink",
+      "sha256": "9b0500529aa33977762e9b82f8f772237810afd9a9f7b9dee395b608bdb6e7bb",
+      "size_in_bytes": 3089
+    },
+    {
+      "_path": "include/xercesc/validators/common/ContentLeafNameTypeVector.hpp",
+      "path_type": "hardlink",
+      "sha256": "fe3d756d7e6b636beb97440cf3e1c1118c3e5e893cf2a1078db9b39610dcf5e9",
+      "size_in_bytes": 4491
+    },
+    {
+      "_path": "include/xercesc/validators/common/ContentSpecNode.hpp",
+      "path_type": "hardlink",
+      "sha256": "89f2a9d2a03fbab7eb8680e1f062d2ed8a9aa80c827b3128b04001a485e8afca",
+      "size_in_bytes": 13095
+    },
+    {
+      "_path": "include/xercesc/validators/common/DFAContentModel.hpp",
+      "path_type": "hardlink",
+      "sha256": "4c6795da93d9281226b878c1c0dd7c097ce313f4c6d967f5d97de1eb0b982831",
+      "size_in_bytes": 10786
+    },
+    {
+      "_path": "include/xercesc/validators/common/Grammar.hpp",
+      "path_type": "hardlink",
+      "sha256": "dd7fcd37e457edcee40a16834eea748b3a4f6a540b11bc524f3fb8d04f92f682",
+      "size_in_bytes": 6527
+    },
+    {
+      "_path": "include/xercesc/validators/common/GrammarResolver.hpp",
+      "path_type": "hardlink",
+      "sha256": "254152440ee136301868945d59ccf156e040d59e2f75ba9de54c95b02a97cf69",
+      "size_in_bytes": 8401
+    },
+    {
+      "_path": "include/xercesc/validators/common/MixedContentModel.hpp",
+      "path_type": "hardlink",
+      "sha256": "dd9f8655b5b164954888e69c8a0d3fde7ba13f81aa75c48228d080632403ac98",
+      "size_in_bytes": 7876
+    },
+    {
+      "_path": "include/xercesc/validators/common/SimpleContentModel.hpp",
+      "path_type": "hardlink",
+      "sha256": "1b6aa73bdd328fd4154ec1c35792aa146aefc3781c6ef7a30cff08743b1c06af",
+      "size_in_bytes": 7835
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/AbstractNumericFacetValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "99173a94e05e0681e10ae1d9a4d0d5a97bbec134653953b93d12ce9d989bd942",
+      "size_in_bytes": 6499
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/AbstractNumericValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "adff0570ddab942faf2bb38459d83a2c4a456265cf7b97136df4c084ce2399b0",
+      "size_in_bytes": 3701
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/AbstractStringValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "9b4827e582bfa50ba1dc21a4aa6e7d0b14517db6ee5c7efd2fcf7af6be388939",
+      "size_in_bytes": 7789
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/AnySimpleTypeDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "5291118b96f924ed0eb64a48318fe53964a26aeee17839a71df115f354eb11a2",
+      "size_in_bytes": 5679
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/AnyURIDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "00ed63637dd94a8ef8939045613924abf23608bf3a00e6953ffec9cb257604c7",
+      "size_in_bytes": 3120
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/Base64BinaryDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "996182a19912d0c94a6bbb0f146a659d9cb219bbb2570b7b1f67697846bc9f96",
+      "size_in_bytes": 3324
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/BooleanDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "b696ab8bc45ee5c28a6e0dece5cf934854bd6142e801b5d338c46a36f1687219",
+      "size_in_bytes": 6405
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/DatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "aeb285807c9ee7a78963d0b2f74a0d40dfb84c3d8abe660c545df5b62f71ae36",
+      "size_in_bytes": 20125
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/DatatypeValidatorFactory.hpp",
+      "path_type": "hardlink",
+      "sha256": "ce6e2b0b80eac9d236a77844b36493e2f858a918d2f6e6551750f5d81c42917b",
+      "size_in_bytes": 9991
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/DateDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "ee8423345b9e45bcda111c112b8a2b9b0d7dce21cb73872ee9974ec74269a0b4",
+      "size_in_bytes": 3487
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/DateTimeDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "30a54cdbfc84798b99201c982fa76fa7540a53dcd15f02f8c2129d21c1bc7f67",
+      "size_in_bytes": 3540
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/DateTimeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "906bb4ff4eef6a8edda1ebd44421ab10a4759e80a7e4eb6f77d85c0ec7c8392f",
+      "size_in_bytes": 4334
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/DayDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "af03bccd5bb1e6617b2fb695a3af68f05047323b81dee9edb31c23f320a228de",
+      "size_in_bytes": 3165
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/DecimalDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "6e740765d3cdecf4ed8f94250c8847615c99282a4c0919f26b73cf7edd6ccf29",
+      "size_in_bytes": 7398
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/DoubleDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "67278e0a7330b6a8a2aa35119d518bed0b247d7368bc75831c9d23252e594f4b",
+      "size_in_bytes": 5015
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/DurationDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "9b23910d0fc07b1ddadf99c82446f0ed30d788fea668027a92244028c15ff49c",
+      "size_in_bytes": 3452
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/ENTITYDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "8780d940175f38f5d78025d0fe0b4aadef008cc446fd2e7fc427e3f7074ea829",
+      "size_in_bytes": 4692
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/FloatDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "f0b70d41729a23f610db4ddca1208e3b944a127893d7dfcb48d2ca3af2e55576",
+      "size_in_bytes": 5022
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/HexBinaryDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "39a0b3c45dd13207d988fb669d954a24a490396d99c7b7bc948e30d8225f5106",
+      "size_in_bytes": 3337
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/IDDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "c9e9afddbf700e713751ca326420c98853e33094f530410bb1a79dd2919442ed",
+      "size_in_bytes": 4380
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/IDREFDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "b55cfec70d012124fd0b3dd3da43597d4727593db575c303642fe41f6c025301",
+      "size_in_bytes": 4309
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/InvalidDatatypeFacetException.hpp",
+      "path_type": "hardlink",
+      "sha256": "be0173c4201e6a16ca08bd8a47177dfce862884aac8920d3a8078a974b35cbc9",
+      "size_in_bytes": 1237
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/InvalidDatatypeValueException.hpp",
+      "path_type": "hardlink",
+      "sha256": "60cdf24699fe38c81b45f6a9e09e4d2fcc0928e4877a2bb6ddf0ff106f23eac1",
+      "size_in_bytes": 1237
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/ListDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "a6c557188bf2f452d0b55d5a5360313476fd6bf273f85e36ab2ec12fef6bf7b5",
+      "size_in_bytes": 7354
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/MonthDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "7ef3c99c45344e935bb474ac3256c7d2a8da63bf6f6cccd4c5405a89b709e494",
+      "size_in_bytes": 3192
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/MonthDayDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "a23f8a2f3af0012aa55f346fde6cdc5721dabf40a8ebac59c1a86eed9e051387",
+      "size_in_bytes": 3231
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/NCNameDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "55456c250d7f9c4518f070bbbfe57184ee088013e4cba2cedb884d7b0e28d85c",
+      "size_in_bytes": 4762
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/NOTATIONDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "42f0cf6adf5488c5283abff01b5df722cd0876df9501ad0042de4132373fba12",
+      "size_in_bytes": 3462
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/NameDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "74b3a55a9297fcb30e94566faf83c0e8c4ee31b340d2904c135d9ca65278125b",
+      "size_in_bytes": 4757
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/QNameDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "72871eb6d95243d02bc1a347bc28eeaadee30e4f53af3b43da75a5ac3ed58b2c",
+      "size_in_bytes": 3545
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/StringDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "b6cfa794a7a04a636bcf3fe0683da75d4893ab23d5a542543e05f5476352beea",
+      "size_in_bytes": 3766
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/TimeDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "37080be6937e5a3264c601dc05d1800067d2245cdd19f064d48cf337205f9588",
+      "size_in_bytes": 3533
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/UnionDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "bebb47cd2ce1831737fd7de23261ec2ee987c77fb6a54c4c6e1b1115b9fb8896",
+      "size_in_bytes": 10083
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/XMLCanRepGroup.hpp",
+      "path_type": "hardlink",
+      "sha256": "efdafc91b58da421abca7d4e2f6fc68a1bd893ab34c32866a028ca14264a63a0",
+      "size_in_bytes": 1969
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/YearDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "d415fba161f76f1b0656b1a65b91f2309c6fd2c6208d6cf02813a86b366e10ff",
+      "size_in_bytes": 3179
+    },
+    {
+      "_path": "include/xercesc/validators/datatype/YearMonthDatatypeValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "b83ba651114d32816e1d654fd4348cbc2d4c7ce1befd0137c99c996231491d69",
+      "size_in_bytes": 3244
+    },
+    {
+      "_path": "include/xercesc/validators/schema/ComplexTypeInfo.hpp",
+      "path_type": "hardlink",
+      "sha256": "a99e350ce65ac604668b8b99d7252f1564868de0f54b18d822defe869ec09775",
+      "size_in_bytes": 16449
+    },
+    {
+      "_path": "include/xercesc/validators/schema/GeneralAttributeCheck.hpp",
+      "path_type": "hardlink",
+      "sha256": "b41eb67b6ee9941245de3e25b84f25fa74cd0d5fc10087b6b57becd6c1f9657a",
+      "size_in_bytes": 8085
+    },
+    {
+      "_path": "include/xercesc/validators/schema/NamespaceScope.hpp",
+      "path_type": "hardlink",
+      "sha256": "2db5a0ce0917e1d8430627891ef8178da49b5a6133bdd22a4c6cb02dcf4e74ba",
+      "size_in_bytes": 6063
+    },
+    {
+      "_path": "include/xercesc/validators/schema/PSVIDefs.hpp",
+      "path_type": "hardlink",
+      "sha256": "c195b716036fcf3d9a057dceb2160b8ebeb20b948d47ab2506a156f7fd4028d4",
+      "size_in_bytes": 1252
+    },
+    {
+      "_path": "include/xercesc/validators/schema/SchemaAttDef.hpp",
+      "path_type": "hardlink",
+      "sha256": "f8170dbed2fa4299f80c067d9a26c37862047d0b28d28e0af046aa28cb547958",
+      "size_in_bytes": 8386
+    },
+    {
+      "_path": "include/xercesc/validators/schema/SchemaAttDefList.hpp",
+      "path_type": "hardlink",
+      "sha256": "4c714011518ae881e9f6d900883b9b67dc69e6d9dbb5776639c63f0781a3adb7",
+      "size_in_bytes": 6279
+    },
+    {
+      "_path": "include/xercesc/validators/schema/SchemaElementDecl.hpp",
+      "path_type": "hardlink",
+      "sha256": "c7ca0ed01afa0cee2993faf701782f32257cfd78351c3fa8cb558ecfb29e69bc",
+      "size_in_bytes": 13771
+    },
+    {
+      "_path": "include/xercesc/validators/schema/SchemaGrammar.hpp",
+      "path_type": "hardlink",
+      "sha256": "03df05cffa20351f1d7ae259f53e75fe54abf1003420c012cb7f3e4937771d80",
+      "size_in_bytes": 20621
+    },
+    {
+      "_path": "include/xercesc/validators/schema/SchemaInfo.hpp",
+      "path_type": "hardlink",
+      "sha256": "3d2df24a7be15f32d2ca4f09f1678c8d2c1a93532509440c258726e9cf2caaa6",
+      "size_in_bytes": 15018
+    },
+    {
+      "_path": "include/xercesc/validators/schema/SchemaSymbols.hpp",
+      "path_type": "hardlink",
+      "sha256": "f2d28da6497f3247eeef7e3e4f32ce7865f1bd02631d734f91f392a132212c21",
+      "size_in_bytes": 9336
+    },
+    {
+      "_path": "include/xercesc/validators/schema/SchemaValidator.hpp",
+      "path_type": "hardlink",
+      "sha256": "b525826b9c518fcba0a6cf3c0e10b2713aa50b2f88962e3b10fa715ba33f5d82",
+      "size_in_bytes": 18618
+    },
+    {
+      "_path": "include/xercesc/validators/schema/SubstitutionGroupComparator.hpp",
+      "path_type": "hardlink",
+      "sha256": "97d9bf2e4312ffa787d92429c12548b75ba94ba2d0e6f0157e3b5e3f5897e07e",
+      "size_in_bytes": 4377
+    },
+    {
+      "_path": "include/xercesc/validators/schema/TraverseSchema.hpp",
+      "path_type": "hardlink",
+      "sha256": "151842f22c03edcc869093dd2b3a0dc796ac95411eeb931635cec1612db7a128",
+      "size_in_bytes": 40999
+    },
+    {
+      "_path": "include/xercesc/validators/schema/XMLSchemaDescriptionImpl.hpp",
+      "path_type": "hardlink",
+      "sha256": "efc24b0a0f8b02b9c3d7bf3e2961a87b762b3ea75bbcae0d57a012564f6ff7eb",
+      "size_in_bytes": 5421
+    },
+    {
+      "_path": "include/xercesc/validators/schema/XSDDOMParser.hpp",
+      "path_type": "hardlink",
+      "sha256": "9d3a0243b893954e11e45031fc98627bc8ca790219ab772d1a62a7e218da7da0",
+      "size_in_bytes": 12398
+    },
+    {
+      "_path": "include/xercesc/validators/schema/XSDErrorReporter.hpp",
+      "path_type": "hardlink",
+      "sha256": "065c5fc2596a705a44ef45eb104199e41e2056357c068dfe1f4eee9d90767918",
+      "size_in_bytes": 4293
+    },
+    {
+      "_path": "include/xercesc/validators/schema/XSDLocator.hpp",
+      "path_type": "hardlink",
+      "sha256": "6a21a66719db0e61f6d016a959791b5d9cf71cbcf149ee54d829fb5b07f97de4",
+      "size_in_bytes": 4313
+    },
+    {
+      "_path": "include/xercesc/validators/schema/XUtil.hpp",
+      "path_type": "hardlink",
+      "sha256": "4d3b095600326a0e069526529649c69d221a288dbfc73a3e604e3392bb13dbf1",
+      "size_in_bytes": 2513
+    },
+    {
+      "_path": "include/xercesc/validators/schema/XercesAttGroupInfo.hpp",
+      "path_type": "hardlink",
+      "sha256": "942beb3f08a85f391eb104d93f1f0bce7e605e3aa1309171a20f365a9a822570",
+      "size_in_bytes": 7906
+    },
+    {
+      "_path": "include/xercesc/validators/schema/XercesElementWildcard.hpp",
+      "path_type": "hardlink",
+      "sha256": "74acc76c44492a28732901b6ff9af592dec7d376dfc7af33e6576bad6c0d76ce",
+      "size_in_bytes": 3219
+    },
+    {
+      "_path": "include/xercesc/validators/schema/XercesGroupInfo.hpp",
+      "path_type": "hardlink",
+      "sha256": "ede9d42d997498ca12d91ae8dc835f9a2d1ec73960e6671e14fb0cf955bc95d2",
+      "size_in_bytes": 6562
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/FieldActivator.hpp",
+      "path_type": "hardlink",
+      "sha256": "4875718df3b80f14916269885b625c45385033a626dfdb24a01a1487d72952b6",
+      "size_in_bytes": 5183
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/FieldValueMap.hpp",
+      "path_type": "hardlink",
+      "sha256": "41da0f699320f78d9daad41b9e00d9b7236448def488530965bec8ae40266118",
+      "size_in_bytes": 6619
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/IC_Field.hpp",
+      "path_type": "hardlink",
+      "sha256": "ef11fe4f247bcec08c063d39b73d64a6c21a8a146734c8d5198180fb5121dc9c",
+      "size_in_bytes": 5831
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/IC_Key.hpp",
+      "path_type": "hardlink",
+      "sha256": "55236a66e5aec22d5f6e07bb6211b7cbe72529d12abe08b48d819140b9c58b9e",
+      "size_in_bytes": 2699
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/IC_KeyRef.hpp",
+      "path_type": "hardlink",
+      "sha256": "a58ab2dce76e02e00f13ae3d96aac33f42cbb24dddf01464b0227c3f665bd903",
+      "size_in_bytes": 3126
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/IC_Selector.hpp",
+      "path_type": "hardlink",
+      "sha256": "03372d8ad7623abab7f8e994ee9d2c77adf0a08087eea536564ca8c6f6b80f07",
+      "size_in_bytes": 6323
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/IC_Unique.hpp",
+      "path_type": "hardlink",
+      "sha256": "1cb12481557de4d11264ef224b7f848f651c4934a354fc0e1854e2ef50f82550",
+      "size_in_bytes": 2801
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/IdentityConstraint.hpp",
+      "path_type": "hardlink",
+      "sha256": "791b2872666fcd8a896c4f78cb38e6ea50322dfa3c214ca91246d9af44a08485",
+      "size_in_bytes": 7337
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/IdentityConstraintHandler.hpp",
+      "path_type": "hardlink",
+      "sha256": "c6d9df05a6eb41496832abf8ecaf8056b9926b3a8eab14b2edbaea8d74bd6b5d",
+      "size_in_bytes": 6132
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/ValueStore.hpp",
+      "path_type": "hardlink",
+      "sha256": "ee505f0f458620eae5eee6dd9aadc777fc508c70da96007e816061b054a97a1b",
+      "size_in_bytes": 5733
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/ValueStoreCache.hpp",
+      "path_type": "hardlink",
+      "sha256": "62badc957a24015f354c38856f537ed776d4323c654f3d01e132088dd0ccd9ae",
+      "size_in_bytes": 7134
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/XPathException.hpp",
+      "path_type": "hardlink",
+      "sha256": "4414ea7b11a4223abd1ae7ce46402daf34fc39f6565fe4ebeb0aaf01a81087d6",
+      "size_in_bytes": 1180
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/XPathMatcher.hpp",
+      "path_type": "hardlink",
+      "sha256": "f67910991417d97b51fb798eff0ec5d3946b008411cbcd5c4799ce6944fc2a3e",
+      "size_in_bytes": 7108
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/XPathMatcherStack.hpp",
+      "path_type": "hardlink",
+      "sha256": "d57bf6c2a7c3e58ac4dda076e70976b25f0751fafaa05287492605863ccfc233",
+      "size_in_bytes": 4901
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/XPathSymbols.hpp",
+      "path_type": "hardlink",
+      "sha256": "30f3c4a3772f06101277589f2ad955b05f3c984dcfba2c3151b765fa22f62c8d",
+      "size_in_bytes": 2577
+    },
+    {
+      "_path": "include/xercesc/validators/schema/identity/XercesXPath.hpp",
+      "path_type": "hardlink",
+      "sha256": "b5cd5896926fc08c778c0d52c95e7a79469122b91b911b52138e97b33c528e77",
+      "size_in_bytes": 20217
+    },
+    {
+      "_path": "include/xercesc/xinclude/XIncludeDOMDocumentProcessor.hpp",
+      "path_type": "hardlink",
+      "sha256": "814c686d918411971eab5450cbb4a2d82c941a430615fa5b73b18e21d860988b",
+      "size_in_bytes": 2172
+    },
+    {
+      "_path": "include/xercesc/xinclude/XIncludeLocation.hpp",
+      "path_type": "hardlink",
+      "sha256": "a38f6f44b2abb90c16f73ec229660d23a8cc5564c46eadc06f591686591e8341",
+      "size_in_bytes": 2718
+    },
+    {
+      "_path": "include/xercesc/xinclude/XIncludeUtils.hpp",
+      "path_type": "hardlink",
+      "sha256": "3e4213a70c91f14cc24a4b30f29bf4c935a9ba4b864b3967cb49153143ba3b7f",
+      "size_in_bytes": 10093
+    },
+    {
+      "_path": "lib/libxerces-c-3.2.so",
+      "path_type": "hardlink",
+      "sha256": "409bf11834eb564072707233039b18ebe8d39eac7533e1dcd8203c053458f2ba",
+      "size_in_bytes": 4569296
+    },
+    {
+      "_path": "lib/libxerces-c.so",
+      "path_type": "softlink",
+      "sha256": "409bf11834eb564072707233039b18ebe8d39eac7533e1dcd8203c053458f2ba",
+      "size_in_bytes": 4569296
+    },
+    {
+      "_path": "lib/pkgconfig/xerces-c.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "c3971134dce6e3a994302ecf19d46c6b0c0d0bb6670655eb614a20caad43126a",
+      "size_in_bytes": 292
+    }
+  ],
+  "paths_version": 1
+}

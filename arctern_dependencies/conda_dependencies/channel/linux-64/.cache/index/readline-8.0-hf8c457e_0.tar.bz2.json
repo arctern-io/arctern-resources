@@ -1,0 +1,1 @@
+{"build": "hf8c457e_0", "build_number": 0, "depends": ["libgcc-ng >=7.3.0", "ncurses >=6.1,<6.2.0a0"], "license": "GPL-3.0", "name": "readline", "subdir": "linux-64", "timestamp": 1547846199066, "version": "8.0", "size": 451643, "md5": "c0499d26d9e2fe8bbb06e4e1bae8a089", "sha256": "c96d1589c80651bda38bfc93cdc835365cc62d7be5db61504744c7539687bb0e"}

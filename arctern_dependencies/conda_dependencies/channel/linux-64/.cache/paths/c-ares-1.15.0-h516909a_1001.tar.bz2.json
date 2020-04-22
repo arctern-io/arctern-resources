@@ -1,0 +1,103 @@
+{
+  "paths": [
+    {
+      "_path": "bin/acountry",
+      "path_type": "hardlink",
+      "sha256": "90301966801101b8e3b104daff15ed31ea37d4ce4339966636f1886154e35cde",
+      "size_in_bytes": 38168
+    },
+    {
+      "_path": "bin/adig",
+      "path_type": "hardlink",
+      "sha256": "05f94c4b6d79fc04effa4ff85927577df5f198e5b348735a28b78c6fa59963cc",
+      "size_in_bytes": 34360
+    },
+    {
+      "_path": "bin/ahost",
+      "path_type": "hardlink",
+      "sha256": "37dca25138ce41a2236797916984014e67573bab4e99be77926128ad1e5a028d",
+      "size_in_bytes": 25528
+    },
+    {
+      "_path": "include/ares.h",
+      "path_type": "hardlink",
+      "sha256": "49766fcdc026a7392c86c56585cd0b71467b02e626c88b144f06718fb2f4e6d5",
+      "size_in_bytes": 23628
+    },
+    {
+      "_path": "include/ares_build.h",
+      "path_type": "hardlink",
+      "sha256": "37363ea835be8380f7022e316bf5676de6ce8ebada42a463a957c13fe615b280",
+      "size_in_bytes": 959
+    },
+    {
+      "_path": "include/ares_dns.h",
+      "path_type": "hardlink",
+      "sha256": "9cf404a4a546a2b67a319a0be1a8380bcca0c86631a095c14136193c3b844e04",
+      "size_in_bytes": 5306
+    },
+    {
+      "_path": "include/ares_rules.h",
+      "path_type": "hardlink",
+      "sha256": "4aa7066caf638c44286eb424e581c895ff0797cdaf006eda3a1b49c8601a6bed",
+      "size_in_bytes": 4274
+    },
+    {
+      "_path": "include/ares_version.h",
+      "path_type": "hardlink",
+      "sha256": "3a907b6f90579c9f3322e3d161a486e15e64adcbb4162af13985756f67c4a007",
+      "size_in_bytes": 648
+    },
+    {
+      "_path": "lib/cmake/c-ares/c-ares-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "4131abf0c96fd56252d683a18a0feb9e34be59ee40d5a258d1d85825e9e61149",
+      "size_in_bytes": 1238
+    },
+    {
+      "_path": "lib/cmake/c-ares/c-ares-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "4dd41b21e818b9ee1a6358f6db3c78ce9d6ca77207dfc71f1edd59fae661e4c3",
+      "size_in_bytes": 1323
+    },
+    {
+      "_path": "lib/cmake/c-ares/c-ares-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "8ea5788adf493cbb7e8384761547e37467c8cdce5d2942081f02ff9617a9bff6",
+      "size_in_bytes": 3738
+    },
+    {
+      "_path": "lib/libcares.so",
+      "path_type": "softlink",
+      "sha256": "fd6e1b11b9dbf1423b0ddb037f4d2ca1ca53c7e5f5e7495f0d4bb80b96d3c18d",
+      "size_in_bytes": 98496
+    },
+    {
+      "_path": "lib/libcares.so.2",
+      "path_type": "softlink",
+      "sha256": "fd6e1b11b9dbf1423b0ddb037f4d2ca1ca53c7e5f5e7495f0d4bb80b96d3c18d",
+      "size_in_bytes": 98496
+    },
+    {
+      "_path": "lib/libcares.so.2.3.0",
+      "path_type": "hardlink",
+      "sha256": "fd6e1b11b9dbf1423b0ddb037f4d2ca1ca53c7e5f5e7495f0d4bb80b96d3c18d",
+      "size_in_bytes": 98496
+    },
+    {
+      "_path": "lib/libcares_static.a",
+      "path_type": "hardlink",
+      "sha256": "0f795c8e7091603dfc791531601f4dac6b116fe5659bf62cfdc7224dce3e5322",
+      "size_in_bytes": 191910
+    },
+    {
+      "_path": "lib/pkgconfig/libcares.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "5f3cf137e35f49e2d2dec3a7a0b84a974360093751d483a8b70ae1a992d32f2f",
+      "size_in_bytes": 583
+    }
+  ],
+  "paths_version": 1
+}

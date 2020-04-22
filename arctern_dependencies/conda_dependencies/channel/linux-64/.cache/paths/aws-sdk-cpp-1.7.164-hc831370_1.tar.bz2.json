@@ -1,0 +1,4533 @@
+{
+  "paths": [
+    {
+      "_path": "include/aws/checksums/crc.h",
+      "path_type": "hardlink",
+      "sha256": "7bbd49d4170b5e0e30f805f7d511e5b47d03de41da0c2faca93b49dceb1acd47",
+      "size_in_bytes": 1582
+    },
+    {
+      "_path": "include/aws/checksums/crc_jni.h",
+      "path_type": "hardlink",
+      "sha256": "8d51ee539e550c286e986cc28dbe7d0fd3a33613cfee7b7ac11bdfa0e5da5498",
+      "size_in_bytes": 1343
+    },
+    {
+      "_path": "include/aws/checksums/exports.h",
+      "path_type": "hardlink",
+      "sha256": "d3435f4c06062871bad4f10a396115dd8dcaef77283aca177f19aa48fd69246d",
+      "size_in_bytes": 1237
+    },
+    {
+      "_path": "include/aws/common/array_list.h",
+      "path_type": "hardlink",
+      "sha256": "d27943defb7d296419b99f46b66e9234a738e7a7d73bfcb2725997df5d883d8f",
+      "size_in_bytes": 7435
+    },
+    {
+      "_path": "include/aws/common/array_list.inl",
+      "path_type": "hardlink",
+      "sha256": "ecf2fb34193a3d38bb663029b760da125a9b9f0a0a54b6a5a395b109ef5dba36",
+      "size_in_bytes": 12260
+    },
+    {
+      "_path": "include/aws/common/assert.inl",
+      "path_type": "hardlink",
+      "sha256": "9a31966f439d1123195f0f9b783a83730c4ef62f4f7ee3d17f5c66d5e21912b6",
+      "size_in_bytes": 3062
+    },
+    {
+      "_path": "include/aws/common/atomics.h",
+      "path_type": "hardlink",
+      "sha256": "c631cf30e0e997bababf9708457c462940394b9a2f97bdde151310223b14d3b3",
+      "size_in_bytes": 14615
+    },
+    {
+      "_path": "include/aws/common/atomics_fallback.inl",
+      "path_type": "hardlink",
+      "sha256": "7c8108da13618edc36bca9575586e5ed01b915a8758224baf596331413e62ebf",
+      "size_in_bytes": 920
+    },
+    {
+      "_path": "include/aws/common/atomics_gnu.inl",
+      "path_type": "hardlink",
+      "sha256": "f415762608bd021b2e8c62885eb1ee1a7ef1031e365ee114f81552fd194929e9",
+      "size_in_bytes": 7945
+    },
+    {
+      "_path": "include/aws/common/atomics_gnu_old.inl",
+      "path_type": "hardlink",
+      "sha256": "8f30885791aaa7bc52fb4a7f808b202ac1c8692cd1332b63d9d04eb850352152",
+      "size_in_bytes": 9088
+    },
+    {
+      "_path": "include/aws/common/atomics_msvc.inl",
+      "path_type": "hardlink",
+      "sha256": "c205b3589ca7c262ab68f5be57a660c09dafae64524c2bee6fcb1c011d7c7af8",
+      "size_in_bytes": 13011
+    },
+    {
+      "_path": "include/aws/common/byte_buf.h",
+      "path_type": "hardlink",
+      "sha256": "1329a7eabe889e893e1a259ffbd7dce39211a34ac5e11b29f1e2e540f410393a",
+      "size_in_bytes": 34189
+    },
+    {
+      "_path": "include/aws/common/byte_order.h",
+      "path_type": "hardlink",
+      "sha256": "a01c7f782228d2bcbd91013dc83ce1bb0cfb529c21e04af91ff3a2699a9afd36",
+      "size_in_bytes": 3403
+    },
+    {
+      "_path": "include/aws/common/clock.h",
+      "path_type": "hardlink",
+      "sha256": "ea1fe0f207be5dab2cd7da5d4e473114c972db608a52d9094c888727781705e3",
+      "size_in_bytes": 2696
+    },
+    {
+      "_path": "include/aws/common/command_line_parser.h",
+      "path_type": "hardlink",
+      "sha256": "6fa2c60cd85f32d42094312af318db45363e69b03cd5dc19dc29d1ad67a455fe",
+      "size_in_bytes": 2518
+    },
+    {
+      "_path": "include/aws/common/common.h",
+      "path_type": "hardlink",
+      "sha256": "0a1132ef27c91af5870e21d5acc8221cd42bfb675491a93daa8f66295db46343",
+      "size_in_bytes": 14616
+    },
+    {
+      "_path": "include/aws/common/condition_variable.h",
+      "path_type": "hardlink",
+      "sha256": "6e2547829345cab69e522e0cae6850dae474cc322585173b305b07738ff86470",
+      "size_in_bytes": 3652
+    },
+    {
+      "_path": "include/aws/common/config.h",
+      "path_type": "hardlink",
+      "sha256": "06ffb2f44e66edf2120e4022b010715eb09de221ca8e6dbf4b2e872b07085d8c",
+      "size_in_bytes": 1036
+    },
+    {
+      "_path": "include/aws/common/date_time.h",
+      "path_type": "hardlink",
+      "sha256": "f34d4baf82dca393b3c955ca516af9e622815bae78e838f225f8ae22d26e9fab",
+      "size_in_bytes": 6144
+    },
+    {
+      "_path": "include/aws/common/device_random.h",
+      "path_type": "hardlink",
+      "sha256": "d6be20aed49ffa665f57febe32795da6f877d87d22d661e74e81f19054b009b4",
+      "size_in_bytes": 1533
+    },
+    {
+      "_path": "include/aws/common/encoding.h",
+      "path_type": "hardlink",
+      "sha256": "a68cce55f93343800eda99936b31397dd8eb2bfddca89510dbc9223e2e9eda5e",
+      "size_in_bytes": 6141
+    },
+    {
+      "_path": "include/aws/common/environment.h",
+      "path_type": "hardlink",
+      "sha256": "12a0e3ef4cad6cd65a6d8698d0a41b9a3a89fc4a12c974f8038ee95eaa376f6c",
+      "size_in_bytes": 1689
+    },
+    {
+      "_path": "include/aws/common/error.h",
+      "path_type": "hardlink",
+      "sha256": "7a8ac4ce69585016fcb6b5b64f92f25c8bcac5cb4f7181a20362bc70df0e9950",
+      "size_in_bytes": 4129
+    },
+    {
+      "_path": "include/aws/common/exports.h",
+      "path_type": "hardlink",
+      "sha256": "51577a35964d0d69d3a8ce55acfee1ccefa4f80190e72bbbcfe9c432cb7c9487",
+      "size_in_bytes": 1513
+    },
+    {
+      "_path": "include/aws/common/hash_table.h",
+      "path_type": "hardlink",
+      "sha256": "203c8caa0bf8e1b3a3c3a09f042fed18a9784d947539b22199390497fbe8f46e",
+      "size_in_bytes": 15147
+    },
+    {
+      "_path": "include/aws/common/linked_list.h",
+      "path_type": "hardlink",
+      "sha256": "3bbc6c650959d16067b86ee3e0b7c9588bf7c05fa9f81a4a8f29207fb5492ff7",
+      "size_in_bytes": 6286
+    },
+    {
+      "_path": "include/aws/common/logging.h",
+      "path_type": "hardlink",
+      "sha256": "ed08a2f3a90778eef89f351983da823fd7e96a18e38058a78421692fa1a77d93",
+      "size_in_bytes": 8117
+    },
+    {
+      "_path": "include/aws/common/lru_cache.h",
+      "path_type": "hardlink",
+      "sha256": "f1888bc720fc12b2e20e791dabd3ed2b9e6b1ddd9edb2fd42061fcd69718a987",
+      "size_in_bytes": 3448
+    },
+    {
+      "_path": "include/aws/common/math.cbmc.inl",
+      "path_type": "hardlink",
+      "sha256": "d123ca9d7fdd973cf90c2adf1c446f519cdbde1d0fa27bad495d4cb7472de125",
+      "size_in_bytes": 3315
+    },
+    {
+      "_path": "include/aws/common/math.fallback.inl",
+      "path_type": "hardlink",
+      "sha256": "11fe2386777420a152514ad27ca627bcbc0bb2e4008733978effd7ee7cf0b8f4",
+      "size_in_bytes": 3110
+    },
+    {
+      "_path": "include/aws/common/math.gcc_overflow.inl",
+      "path_type": "hardlink",
+      "sha256": "c771f909884f523b61f1cf7fa6f61fb5913156b76ecaa66a765dbdc94b69783f",
+      "size_in_bytes": 3169
+    },
+    {
+      "_path": "include/aws/common/math.gcc_x64_asm.inl",
+      "path_type": "hardlink",
+      "sha256": "80a70661e2f7351e9add6bbba69c5079a3ad55f291e82dcf5d0fb4fc520e5f27",
+      "size_in_bytes": 6873
+    },
+    {
+      "_path": "include/aws/common/math.h",
+      "path_type": "hardlink",
+      "sha256": "b76897205f4e50337793c7d71c075e903f825e058c1358c523f24adece598f95",
+      "size_in_bytes": 6185
+    },
+    {
+      "_path": "include/aws/common/math.msvc.inl",
+      "path_type": "hardlink",
+      "sha256": "3b04855065fa11a63b466cfcda5ce80447809ebf8443bdb1bc0ca3bbfa8aa475",
+      "size_in_bytes": 3232
+    },
+    {
+      "_path": "include/aws/common/mutex.h",
+      "path_type": "hardlink",
+      "sha256": "a01cf1c40063fd8cfe5833df010e11baaf3f05d547b2b6e1250da6d9238aa5c7",
+      "size_in_bytes": 2300
+    },
+    {
+      "_path": "include/aws/common/posix/common.inl",
+      "path_type": "hardlink",
+      "sha256": "35ab5db88eef4fedf0b0fbdfac7a115c02151a19682192bf51f34066cd4c5f26",
+      "size_in_bytes": 1450
+    },
+    {
+      "_path": "include/aws/common/priority_queue.h",
+      "path_type": "hardlink",
+      "sha256": "ff65bd287518af1813521c8bcaf3e0ba45b7ab9525dc4da4549c7a9b2c817c65",
+      "size_in_bytes": 6482
+    },
+    {
+      "_path": "include/aws/common/ring_buffer.h",
+      "path_type": "hardlink",
+      "sha256": "8499b6fbdb7f9d8b6b0650b2f3425e5588b9d2e5429d23854482aaf4e68d9a0d",
+      "size_in_bytes": 3454
+    },
+    {
+      "_path": "include/aws/common/rw_lock.h",
+      "path_type": "hardlink",
+      "sha256": "a98117e2c735a90f1505224bb666046c14318773fe3bdc2b796f6956d68d8440",
+      "size_in_bytes": 2536
+    },
+    {
+      "_path": "include/aws/common/string.h",
+      "path_type": "hardlink",
+      "sha256": "dbb09b43c320459cd83e152564b3c81151a5ed18d0b389d741a9a85ad6cb5d4e",
+      "size_in_bytes": 10040
+    },
+    {
+      "_path": "include/aws/common/system_info.h",
+      "path_type": "hardlink",
+      "sha256": "49425ce43ab2e5eb33093f61bdf5c0cc6fe7508245b06a3dd677f74591852f31",
+      "size_in_bytes": 1124
+    },
+    {
+      "_path": "include/aws/common/task_scheduler.h",
+      "path_type": "hardlink",
+      "sha256": "1bc91491fd800aa61c40ff6153580adfd463f1aea3b7aac0739e316f183d699b",
+      "size_in_bytes": 4082
+    },
+    {
+      "_path": "include/aws/common/thread.h",
+      "path_type": "hardlink",
+      "sha256": "d2c0437f88fded0fabd29c5139c5b1ef5a1869e7f37ee2d62f7440cb0007f84d",
+      "size_in_bytes": 3293
+    },
+    {
+      "_path": "include/aws/common/time.h",
+      "path_type": "hardlink",
+      "sha256": "83231ac099593a3cf023429550cf4f8a184083584b462f7664d01bbabb0f1230",
+      "size_in_bytes": 1100
+    },
+    {
+      "_path": "include/aws/common/uuid.h",
+      "path_type": "hardlink",
+      "sha256": "16a0bedef6af860536263671878c8bdfc9e5084c84375452bdb09162c8adabb4",
+      "size_in_bytes": 1277
+    },
+    {
+      "_path": "include/aws/config/ConfigServiceClient.h",
+      "path_type": "hardlink",
+      "sha256": "3f3f8cebda7e2a90ed990cd93dfba889b6e6c4043705a8dcad1c45f0c347873f",
+      "size_in_bytes": 226660
+    },
+    {
+      "_path": "include/aws/config/ConfigServiceEndpoint.h",
+      "path_type": "hardlink",
+      "sha256": "4827b2190a92221010c277902f422f39d1b6f81c9c020407365f267b429e97fc",
+      "size_in_bytes": 979
+    },
+    {
+      "_path": "include/aws/config/ConfigServiceErrorMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "07ccdd825e80d4b737161830f8979d4be01d2c38001411f25477efec1428d12b",
+      "size_in_bytes": 983
+    },
+    {
+      "_path": "include/aws/config/ConfigServiceErrors.h",
+      "path_type": "hardlink",
+      "sha256": "3a0f3792ddd56cc1ff746e7d84f205a86864c88683e2d5843cf3a9814d22f3f7",
+      "size_in_bytes": 3239
+    },
+    {
+      "_path": "include/aws/config/ConfigServiceRequest.h",
+      "path_type": "hardlink",
+      "sha256": "8db60ff270af72d51e50a7fc8e6bc1775ef5b9b1994948aafdc44ae1a7709efd",
+      "size_in_bytes": 1786
+    },
+    {
+      "_path": "include/aws/config/ConfigService_EXPORTS.h",
+      "path_type": "hardlink",
+      "sha256": "66bc9ecf20a1c047e4575379ff74f7612f6cd2ff9d05e6d38e50920d46f267ce",
+      "size_in_bytes": 1368
+    },
+    {
+      "_path": "include/aws/config/model/AccountAggregationSource.h",
+      "path_type": "hardlink",
+      "sha256": "fc1b0a2daf589d5ffb29375a8a6c011194add2111464a7bc8fcf121dc08ca5d9",
+      "size_in_bytes": 6246
+    },
+    {
+      "_path": "include/aws/config/model/AggregateComplianceByConfigRule.h",
+      "path_type": "hardlink",
+      "sha256": "96a770c77f728542e63bd476c1a752230d0c883e392d14c6103c393aa7ff8b4b",
+      "size_in_bytes": 8176
+    },
+    {
+      "_path": "include/aws/config/model/AggregateComplianceCount.h",
+      "path_type": "hardlink",
+      "sha256": "f2e3e54c2ca2f80ac156568e5d91b0d18c0a12c3c197b7555e8adb96c628bced",
+      "size_in_bytes": 4643
+    },
+    {
+      "_path": "include/aws/config/model/AggregateEvaluationResult.h",
+      "path_type": "hardlink",
+      "sha256": "bd489d9ab130914ce617079a541c3277fb18c0578176569c3fb714412d112100",
+      "size_in_bytes": 14104
+    },
+    {
+      "_path": "include/aws/config/model/AggregateResourceIdentifier.h",
+      "path_type": "hardlink",
+      "sha256": "c7f738dbd166e7942e611b3a61390dfb472498f8f36f6bee07a9b99b519de3a8",
+      "size_in_bytes": 8871
+    },
+    {
+      "_path": "include/aws/config/model/AggregatedSourceStatus.h",
+      "path_type": "hardlink",
+      "sha256": "6c71e11ca05710d778dcda2613067924c69f3d5e52f256600ea153e999ded33a",
+      "size_in_bytes": 13865
+    },
+    {
+      "_path": "include/aws/config/model/AggregatedSourceStatusType.h",
+      "path_type": "hardlink",
+      "sha256": "5df8803d5b40c5515fa34c2bbb7edc3e4727f6335ef5e1e41377f9dda8dad6a7",
+      "size_in_bytes": 1229
+    },
+    {
+      "_path": "include/aws/config/model/AggregatedSourceType.h",
+      "path_type": "hardlink",
+      "sha256": "384de3e4ef42643bfeccdd8140a806795b0a7b9776ab6ce3085752a32ad6a50b",
+      "size_in_bytes": 1177
+    },
+    {
+      "_path": "include/aws/config/model/AggregationAuthorization.h",
+      "path_type": "hardlink",
+      "sha256": "69af037d11c1dcf60d2571d829f7d8351d7ca3d98291ced5987b9cdd166240ef",
+      "size_in_bytes": 8551
+    },
+    {
+      "_path": "include/aws/config/model/BaseConfigurationItem.h",
+      "path_type": "hardlink",
+      "sha256": "688aa92654aee0aee073f6db7d28ce6a68c12b54417528e7afe8ae529e5ce01d",
+      "size_in_bytes": 26525
+    },
+    {
+      "_path": "include/aws/config/model/BatchGetAggregateResourceConfigRequest.h",
+      "path_type": "hardlink",
+      "sha256": "f187c7c36fd2554238e5af0588e57e5e8c37f1ba84f3d91e7fa00805b6e7c91a",
+      "size_in_bytes": 5792
+    },
+    {
+      "_path": "include/aws/config/model/BatchGetAggregateResourceConfigResult.h",
+      "path_type": "hardlink",
+      "sha256": "13574312ed4894bf095ce3d6cb2fe5a2d1af720a3f4ce8c63286ce2015818cf8",
+      "size_in_bytes": 5883
+    },
+    {
+      "_path": "include/aws/config/model/BatchGetResourceConfigRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d09e6d0d927c0d862aba8198dc3ae22a81b7b370179bbd321736d9e21664bef2",
+      "size_in_bytes": 4244
+    },
+    {
+      "_path": "include/aws/config/model/BatchGetResourceConfigResult.h",
+      "path_type": "hardlink",
+      "sha256": "e1d1083062c567749131d630ada4066c5eccb87406d2ea2b89ce45f9a8eddb93",
+      "size_in_bytes": 7143
+    },
+    {
+      "_path": "include/aws/config/model/ChronologicalOrder.h",
+      "path_type": "hardlink",
+      "sha256": "c97ed4207a57813379c3f054e25e5a47314b999dcb1bce6d6730097fe7a9fe65",
+      "size_in_bytes": 1158
+    },
+    {
+      "_path": "include/aws/config/model/Compliance.h",
+      "path_type": "hardlink",
+      "sha256": "86c8c94d842ca06e13af01f93ad6dec3d03d22330d81cb9dda37aea5baf144c1",
+      "size_in_bytes": 9868
+    },
+    {
+      "_path": "include/aws/config/model/ComplianceByConfigRule.h",
+      "path_type": "hardlink",
+      "sha256": "ea4f31f59d49be86029b1a5ab0383ddd1c6e372ef344797ae1c489e08316cde0",
+      "size_in_bytes": 4363
+    },
+    {
+      "_path": "include/aws/config/model/ComplianceByResource.h",
+      "path_type": "hardlink",
+      "sha256": "67dee22258b8f2384f816667cb85860543f7b4849f8314221284f917268b19c0",
+      "size_in_bytes": 6337
+    },
+    {
+      "_path": "include/aws/config/model/ComplianceContributorCount.h",
+      "path_type": "hardlink",
+      "sha256": "a96184e7da4604e90ae0210901cfc78d64af979afaaae6e5c4ad79c09049f089",
+      "size_in_bytes": 3202
+    },
+    {
+      "_path": "include/aws/config/model/ComplianceSummary.h",
+      "path_type": "hardlink",
+      "sha256": "5a57f6d629ea6f5b5f9272ab376fe9d72a6a65f8fd9042b75cdac7d5d7f3255e",
+      "size_in_bytes": 6974
+    },
+    {
+      "_path": "include/aws/config/model/ComplianceSummaryByResourceType.h",
+      "path_type": "hardlink",
+      "sha256": "8ea3f1cab63e303101a52ae201b74bee4429bf456c8253b34bbf1aea5dc311e9",
+      "size_in_bytes": 4740
+    },
+    {
+      "_path": "include/aws/config/model/ComplianceType.h",
+      "path_type": "hardlink",
+      "sha256": "0475c85f27a6299aa36e922d0480dc4fd031be7c1d66396eeadab34598400046",
+      "size_in_bytes": 1181
+    },
+    {
+      "_path": "include/aws/config/model/ConfigExportDeliveryInfo.h",
+      "path_type": "hardlink",
+      "sha256": "725baf249d9ccbeee33d8ecaf1971d46e8e082712d6254ec5fa5dc03bd855720",
+      "size_in_bytes": 10047
+    },
+    {
+      "_path": "include/aws/config/model/ConfigRule.h",
+      "path_type": "hardlink",
+      "sha256": "e6458d3f5663545b563761e3a37b550bd4a52e0be42d86fc66f054d2f17fa3c9",
+      "size_in_bytes": 30824
+    },
+    {
+      "_path": "include/aws/config/model/ConfigRuleComplianceFilters.h",
+      "path_type": "hardlink",
+      "sha256": "88a1242d65a5dd7a54f964f609f0bde2a8dacbe5ba203d7c9b07e558c24d3b25",
+      "size_in_bytes": 9019
+    },
+    {
+      "_path": "include/aws/config/model/ConfigRuleComplianceSummaryFilters.h",
+      "path_type": "hardlink",
+      "sha256": "02264e5500968e7a4b11cca6a502becedfed26590474fa8daa6349b1d4a538c0",
+      "size_in_bytes": 4654
+    },
+    {
+      "_path": "include/aws/config/model/ConfigRuleComplianceSummaryGroupKey.h",
+      "path_type": "hardlink",
+      "sha256": "ba3b95459b927c5aadd039490685c097817f956af0292f933c6eb9fadc34f3e1",
+      "size_in_bytes": 1283
+    },
+    {
+      "_path": "include/aws/config/model/ConfigRuleEvaluationStatus.h",
+      "path_type": "hardlink",
+      "sha256": "14975ff50cb8755370c3fedf80e93cc9ebff15e6d4374cb7ea243049c8bc18f0",
+      "size_in_bytes": 20769
+    },
+    {
+      "_path": "include/aws/config/model/ConfigRuleState.h",
+      "path_type": "hardlink",
+      "sha256": "9fbb7f85846c506713685ad6cd4d61c9e29a31d6f4ca18731a1df6ebee48e8cf",
+      "size_in_bytes": 1175
+    },
+    {
+      "_path": "include/aws/config/model/ConfigSnapshotDeliveryProperties.h",
+      "path_type": "hardlink",
+      "sha256": "fc448b24fdad9927f824a5ec962a2d42be9b3ad188c73b92137b5ccaf95069c2",
+      "size_in_bytes": 5158
+    },
+    {
+      "_path": "include/aws/config/model/ConfigStreamDeliveryInfo.h",
+      "path_type": "hardlink",
+      "sha256": "a1e4054122a7daa10bf9abd2e5789e1dad45ab84386b414df581cec7b28276f7",
+      "size_in_bytes": 9189
+    },
+    {
+      "_path": "include/aws/config/model/ConfigurationAggregator.h",
+      "path_type": "hardlink",
+      "sha256": "6da21e5897da8cab67c329be88b9a03db32665f7fbadda84dee91cd8cc0f790f",
+      "size_in_bytes": 11891
+    },
+    {
+      "_path": "include/aws/config/model/ConfigurationItem.h",
+      "path_type": "hardlink",
+      "sha256": "ed20f7e3f17792b9fbd1d2b4abd7994457c1dbd5ab036d0c9c8a19aa69d679b1",
+      "size_in_bytes": 39935
+    },
+    {
+      "_path": "include/aws/config/model/ConfigurationItemStatus.h",
+      "path_type": "hardlink",
+      "sha256": "ddc86a69524e3b0d61a10757d50d3acc8335381ccbc0be7f936f791e4e4c9aba",
+      "size_in_bytes": 1277
+    },
+    {
+      "_path": "include/aws/config/model/ConfigurationRecorder.h",
+      "path_type": "hardlink",
+      "sha256": "bce055827a25adc610b4e4e683f18c213ccc48654dcd0eac58a694003f234936",
+      "size_in_bytes": 7583
+    },
+    {
+      "_path": "include/aws/config/model/ConfigurationRecorderStatus.h",
+      "path_type": "hardlink",
+      "sha256": "3b45c5aa445d2d1fbe1e51b17fcadecbe1530c09df44c9384ac6bdc34be1172f",
+      "size_in_bytes": 12168
+    },
+    {
+      "_path": "include/aws/config/model/DeleteAggregationAuthorizationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "2d65a6c78e92ea9e0631d8508cb51c38c6df0fb7ac02271298dc82684d6410bc",
+      "size_in_bytes": 5397
+    },
+    {
+      "_path": "include/aws/config/model/DeleteConfigRuleRequest.h",
+      "path_type": "hardlink",
+      "sha256": "866f51241377e8bccdcebbae8dcff635dbad730f570e9ab05fe74fa3eacd6cb9",
+      "size_in_bytes": 3481
+    },
+    {
+      "_path": "include/aws/config/model/DeleteConfigurationAggregatorRequest.h",
+      "path_type": "hardlink",
+      "sha256": "467d40174cd25188506e9f0b121e4921264d37893c984315b0d51c7842e1dd64",
+      "size_in_bytes": 3552
+    },
+    {
+      "_path": "include/aws/config/model/DeleteConfigurationRecorderRequest.h",
+      "path_type": "hardlink",
+      "sha256": "95e76872dc29451400c2a0024862ac34971df4bec381e34fc88cc97d4cf154eb",
+      "size_in_bytes": 4936
+    },
+    {
+      "_path": "include/aws/config/model/DeleteDeliveryChannelRequest.h",
+      "path_type": "hardlink",
+      "sha256": "549b587905ddf00252b96b98a2e79afe4cb789f7d6bf8f6bfc0fc07b780706bf",
+      "size_in_bytes": 3635
+    },
+    {
+      "_path": "include/aws/config/model/DeleteEvaluationResultsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "9c7e4dfed5390846a048a6716e0d1371b04f03bc4aa9d6c819680f8ba963b3a2",
+      "size_in_bytes": 3810
+    },
+    {
+      "_path": "include/aws/config/model/DeleteEvaluationResultsResult.h",
+      "path_type": "hardlink",
+      "sha256": "5e126856b21064a5b783b5e3bff4ae5e64738f29f39d944880e6216ec6a050e0",
+      "size_in_bytes": 1537
+    },
+    {
+      "_path": "include/aws/config/model/DeleteOrganizationConfigRuleRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d4c90fff5d5410dc8f083e83b3f7ccf9dcab4bdd26f0eb60f0b98e949364955a",
+      "size_in_bytes": 2989
+    },
+    {
+      "_path": "include/aws/config/model/DeletePendingAggregationRequestRequest.h",
+      "path_type": "hardlink",
+      "sha256": "0d9d8b60952f98f43ff422fc3ec315189eb5aa2ac660ba7782a7884820e46d97",
+      "size_in_bytes": 5292
+    },
+    {
+      "_path": "include/aws/config/model/DeleteRemediationConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "433650f7043194ea5f0767a6072741fbec63185340a98b75efe33379e2c4af85",
+      "size_in_bytes": 5145
+    },
+    {
+      "_path": "include/aws/config/model/DeleteRemediationConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "6b0388a6e233975fb085b9b9371795bafdd17954a3afefcf649d4a8b0ded01e6",
+      "size_in_bytes": 1293
+    },
+    {
+      "_path": "include/aws/config/model/DeleteRetentionConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "ed5857a1d80d1e2b579395e9df5f020389e8002c7ea801896bf9e50f740ede8f",
+      "size_in_bytes": 3597
+    },
+    {
+      "_path": "include/aws/config/model/DeliverConfigSnapshotRequest.h",
+      "path_type": "hardlink",
+      "sha256": "1c1e369415b50dd89b01146b4f8f378c86c61b8939dd22946ee7d3839d0c04ff",
+      "size_in_bytes": 3819
+    },
+    {
+      "_path": "include/aws/config/model/DeliverConfigSnapshotResult.h",
+      "path_type": "hardlink",
+      "sha256": "49f593aab1b700680cf496cf0459ae61a9ecf6207a6ad6421bdc5ff06545309e",
+      "size_in_bytes": 2940
+    },
+    {
+      "_path": "include/aws/config/model/DeliveryChannel.h",
+      "path_type": "hardlink",
+      "sha256": "7927ce4ac482972bd8ea69be3ee0e1d11bef4df4c8c6583744d5e859e7340167",
+      "size_in_bytes": 19143
+    },
+    {
+      "_path": "include/aws/config/model/DeliveryChannelStatus.h",
+      "path_type": "hardlink",
+      "sha256": "aa4c16b91347e8c7d7de2ff558c925f8f6b6fb8700ecad5942e5bf3f538c077b",
+      "size_in_bytes": 8620
+    },
+    {
+      "_path": "include/aws/config/model/DeliveryStatus.h",
+      "path_type": "hardlink",
+      "sha256": "64eb512d75bd393d8e62b819f53e2f762a3b3d372687bb493473f55f13f3615e",
+      "size_in_bytes": 1150
+    },
+    {
+      "_path": "include/aws/config/model/DescribeAggregateComplianceByConfigRulesRequest.h",
+      "path_type": "hardlink",
+      "sha256": "02390b5164f985286763580fc99a168f25146116bf4659e334f8ffc88ba02f53",
+      "size_in_bytes": 8286
+    },
+    {
+      "_path": "include/aws/config/model/DescribeAggregateComplianceByConfigRulesResult.h",
+      "path_type": "hardlink",
+      "sha256": "9a5a66f4426b0c7a8471b2a14a01bef51c7a2869e5ef85aff229b199f8e83cb8",
+      "size_in_bytes": 5437
+    },
+    {
+      "_path": "include/aws/config/model/DescribeAggregationAuthorizationsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "075b1abdfabb9c1c180ea8c06665a8b9d23290408ac108978f02ccfdd7e8ff42",
+      "size_in_bytes": 4949
+    },
+    {
+      "_path": "include/aws/config/model/DescribeAggregationAuthorizationsResult.h",
+      "path_type": "hardlink",
+      "sha256": "78c22409ff3be4c7ad2a205fbf4cfd497edf962738a58479fb8a5d2bf59a6efc",
+      "size_in_bytes": 5430
+    },
+    {
+      "_path": "include/aws/config/model/DescribeComplianceByConfigRuleRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d8dc7cb455aae4be0dac29e2ecd99fbb1797e95f4e3922eaa4a74f0c8c09623f",
+      "size_in_bytes": 9132
+    },
+    {
+      "_path": "include/aws/config/model/DescribeComplianceByConfigRuleResult.h",
+      "path_type": "hardlink",
+      "sha256": "92f688b0ffc9e00d8eef32314c879327da4636b2872924ddc8bac54373969b62",
+      "size_in_bytes": 5291
+    },
+    {
+      "_path": "include/aws/config/model/DescribeComplianceByResourceRequest.h",
+      "path_type": "hardlink",
+      "sha256": "dbc17c61d256b18baac9c0cd053c799f37636a174a44a7f72144ad5eb9a4e2ad",
+      "size_in_bytes": 14471
+    },
+    {
+      "_path": "include/aws/config/model/DescribeComplianceByResourceResult.h",
+      "path_type": "hardlink",
+      "sha256": "7ef4f26e3a5017e8fb3603103a08943e14a52050aeedf90d2a47d9df580c5bd2",
+      "size_in_bytes": 5506
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigRuleEvaluationStatusRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d865038a756d89b77bb4ca6f2ad59e654d4d33de63f08d898103915e682b7f68",
+      "size_in_bytes": 10049
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigRuleEvaluationStatusResult.h",
+      "path_type": "hardlink",
+      "sha256": "032401a0430ce493cf5636989bb0efd0a0f3b845772cfe518a5bce60ad3c9037",
+      "size_in_bytes": 5330
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigRulesRequest.h",
+      "path_type": "hardlink",
+      "sha256": "e8f0443e430a25bdcc7787f6738f168cf2965e6232c5fe15270c8a5488a4430e",
+      "size_in_bytes": 7098
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigRulesResult.h",
+      "path_type": "hardlink",
+      "sha256": "6aabf76a3f3a8b1e1e36626bd9cc152be6a5daf986b8ac4131dc8ab3ac5ce7ea",
+      "size_in_bytes": 4661
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigurationAggregatorSourcesStatusRequest.h",
+      "path_type": "hardlink",
+      "sha256": "ac53df9a67455ac8397fb88c4892f38bf78594b32b19a35f5270a7172d0796de",
+      "size_in_bytes": 11028
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigurationAggregatorSourcesStatusResult.h",
+      "path_type": "hardlink",
+      "sha256": "b45c37b25eb7666e846670517f44588cb12f6041ed69d07d6d3d2894e1088a62",
+      "size_in_bytes": 5205
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigurationAggregatorsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "11f70db85c2b8055e228466e7839e1cbe657e1cb0ee0cfee560e6a995e4403af",
+      "size_in_bytes": 7423
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigurationAggregatorsResult.h",
+      "path_type": "hardlink",
+      "sha256": "1af71f1e29552997b3cb64c7176f3c2cb1fe49cccb6c144fc87347016500c7c0",
+      "size_in_bytes": 5052
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigurationRecorderStatusRequest.h",
+      "path_type": "hardlink",
+      "sha256": "8788183c6192d95e6b614173be3a8ca2bcec7d36a70fe946c7f32f95f087f05d",
+      "size_in_bytes": 5693
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigurationRecorderStatusResult.h",
+      "path_type": "hardlink",
+      "sha256": "e2278d1d7b91b8bbe8d11edcd8868d01493691a8772e7a4c9043d40db05f3ec6",
+      "size_in_bytes": 3664
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigurationRecordersRequest.h",
+      "path_type": "hardlink",
+      "sha256": "e48da1910e90cba7a5a59573ba27a6fe7d56e985f3d2b68ea7e1198f3d8e12e5",
+      "size_in_bytes": 4302
+    },
+    {
+      "_path": "include/aws/config/model/DescribeConfigurationRecordersResult.h",
+      "path_type": "hardlink",
+      "sha256": "aab361b9a1a5602717d1c159b1e3d19342ae70103689a51960798f6fdb523788",
+      "size_in_bytes": 3671
+    },
+    {
+      "_path": "include/aws/config/model/DescribeDeliveryChannelStatusRequest.h",
+      "path_type": "hardlink",
+      "sha256": "25582030806411ba66090af3d08f75c78e70d40de184cfceb4c658bb6252dba7",
+      "size_in_bytes": 4080
+    },
+    {
+      "_path": "include/aws/config/model/DescribeDeliveryChannelStatusResult.h",
+      "path_type": "hardlink",
+      "sha256": "6d7eee2beae616a869365c80006605cfb2a51baf579cc32dc8e9cd3652995409",
+      "size_in_bytes": 3507
+    },
+    {
+      "_path": "include/aws/config/model/DescribeDeliveryChannelsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "49365ba950116d46b293fd63848512fc24e90815a2480f2db51394e53f5f25d7",
+      "size_in_bytes": 4038
+    },
+    {
+      "_path": "include/aws/config/model/DescribeDeliveryChannelsResult.h",
+      "path_type": "hardlink",
+      "sha256": "a00c92e55dbbec533a16c32d65144e6732ae0a5929bd09b7c12ef76d45c4e3d4",
+      "size_in_bytes": 3369
+    },
+    {
+      "_path": "include/aws/config/model/DescribeOrganizationConfigRuleStatusesRequest.h",
+      "path_type": "hardlink",
+      "sha256": "03aba32752784f376bed3003fa9d47dcc5646d16de9234da7d1217b7afabc5ae",
+      "size_in_bytes": 4954
+    },
+    {
+      "_path": "include/aws/config/model/DescribeOrganizationConfigRuleStatusesResult.h",
+      "path_type": "hardlink",
+      "sha256": "40e41eddd266d4c74bc9bb8b292b8365fdd924233b7816fcc33996b4dada0b0a",
+      "size_in_bytes": 3720
+    },
+    {
+      "_path": "include/aws/config/model/DescribeOrganizationConfigRulesRequest.h",
+      "path_type": "hardlink",
+      "sha256": "961393c48c1ec31d2c2f0fb6416a82c9aaed1c238d6e3d8263b518e07508e33b",
+      "size_in_bytes": 4870
+    },
+    {
+      "_path": "include/aws/config/model/DescribeOrganizationConfigRulesResult.h",
+      "path_type": "hardlink",
+      "sha256": "7a6f016c6a4d50462e4597b91e2585a729e76d01df85dd5bf1f72101b346ecf9",
+      "size_in_bytes": 3484
+    },
+    {
+      "_path": "include/aws/config/model/DescribePendingAggregationRequestsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "30188b8a5f711cdb3132e4d97143776dd18c20cbb25582113f520281ea101365",
+      "size_in_bytes": 4928
+    },
+    {
+      "_path": "include/aws/config/model/DescribePendingAggregationRequestsResult.h",
+      "path_type": "hardlink",
+      "sha256": "cc1f21ae11d1ad14d09b2f83600bab4619a68429a7abe4da4adf17aa4a5c13b3",
+      "size_in_bytes": 5136
+    },
+    {
+      "_path": "include/aws/config/model/DescribeRemediationConfigurationsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "c7e7e8e233a6b33f6079880706f27bbfed88560a052e21dba2786f055ff123a0",
+      "size_in_bytes": 4328
+    },
+    {
+      "_path": "include/aws/config/model/DescribeRemediationConfigurationsResult.h",
+      "path_type": "hardlink",
+      "sha256": "2fec19e3078b4f9ab4864c790631c5950c0a4c6947f84b5b6a9a79ad41edc63a",
+      "size_in_bytes": 3207
+    },
+    {
+      "_path": "include/aws/config/model/DescribeRemediationExecutionStatusRequest.h",
+      "path_type": "hardlink",
+      "sha256": "f04ff7346f725642a3c4cd5e56b39c5d07d96786971bd7b634724c8659e86584",
+      "size_in_bytes": 9348
+    },
+    {
+      "_path": "include/aws/config/model/DescribeRemediationExecutionStatusResult.h",
+      "path_type": "hardlink",
+      "sha256": "e4f8ed0ac9b60127a95a75dd492e4bfc18ae8cfc3032d2a0e2bc32f39a014523",
+      "size_in_bytes": 5357
+    },
+    {
+      "_path": "include/aws/config/model/DescribeRetentionConfigurationsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "50a96061538e97bc5788d8a6c13a9865a13e1fb6130f8612e677da250fe77de1",
+      "size_in_bytes": 8905
+    },
+    {
+      "_path": "include/aws/config/model/DescribeRetentionConfigurationsResult.h",
+      "path_type": "hardlink",
+      "sha256": "a01bd26a39486e72846084fc2627217c62f70246542fe4aaf4dbc8de276650ed",
+      "size_in_bytes": 5108
+    },
+    {
+      "_path": "include/aws/config/model/Evaluation.h",
+      "path_type": "hardlink",
+      "sha256": "f8fb29519927669c289880465abf2dec801a627b0844857be9f036bdfb336596",
+      "size_in_bytes": 15284
+    },
+    {
+      "_path": "include/aws/config/model/EvaluationResult.h",
+      "path_type": "hardlink",
+      "sha256": "a5a15a058d25d0198d319650537ee3d077fa42ac699640956f76ce0029a0ac8c",
+      "size_in_bytes": 14052
+    },
+    {
+      "_path": "include/aws/config/model/EvaluationResultIdentifier.h",
+      "path_type": "hardlink",
+      "sha256": "b7363c8e9d9d356b9ea216434fe5bb775d06cbb85759debc4a6cd0172ca4d8df",
+      "size_in_bytes": 6411
+    },
+    {
+      "_path": "include/aws/config/model/EvaluationResultQualifier.h",
+      "path_type": "hardlink",
+      "sha256": "36cc87df6706128120667a5c620aab1c90792d2f760002e2536818d3204e5971",
+      "size_in_bytes": 6392
+    },
+    {
+      "_path": "include/aws/config/model/EventSource.h",
+      "path_type": "hardlink",
+      "sha256": "a3a278bcbe788825b069d148345519f719bb13612000df6006fd10e3262e1943",
+      "size_in_bytes": 1099
+    },
+    {
+      "_path": "include/aws/config/model/FailedRemediationBatch.h",
+      "path_type": "hardlink",
+      "sha256": "c817854a8f59bdb15dc64bb4452f68446d68fd4ab74ceb2aacacb1a275a37eef",
+      "size_in_bytes": 5401
+    },
+    {
+      "_path": "include/aws/config/model/FieldInfo.h",
+      "path_type": "hardlink",
+      "sha256": "26a51d169e026751411bc5d3b978aa5137d46936cafc44c8b6c2a51f431623d6",
+      "size_in_bytes": 2557
+    },
+    {
+      "_path": "include/aws/config/model/GetAggregateComplianceDetailsByConfigRuleRequest.h",
+      "path_type": "hardlink",
+      "sha256": "705d687e5c715c52da9fa3f0e1beca487d3bbacc1ad4e94a2403fe07aac5fc42",
+      "size_in_bytes": 15454
+    },
+    {
+      "_path": "include/aws/config/model/GetAggregateComplianceDetailsByConfigRuleResult.h",
+      "path_type": "hardlink",
+      "sha256": "5b8b35125f0ba29b4a43649a62d8a77fd70e3e4d45110403fb971984fe0fd60c",
+      "size_in_bytes": 5220
+    },
+    {
+      "_path": "include/aws/config/model/GetAggregateConfigRuleComplianceSummaryRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d8107743abd2e21dfb63c7eff94b50aa2ce833e97daa65b0bf2dcf8514d79ab5",
+      "size_in_bytes": 10116
+    },
+    {
+      "_path": "include/aws/config/model/GetAggregateConfigRuleComplianceSummaryResult.h",
+      "path_type": "hardlink",
+      "sha256": "ead71a7a6a6850d6b10676daf799f8dea2ea0431673a79e4718668fcfe1a0dcb",
+      "size_in_bytes": 6576
+    },
+    {
+      "_path": "include/aws/config/model/GetAggregateDiscoveredResourceCountsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "4677dde3eb6185ab75f8954145d82b41c679bf568f8312e417f0834ca4ae14df",
+      "size_in_bytes": 9962
+    },
+    {
+      "_path": "include/aws/config/model/GetAggregateDiscoveredResourceCountsResult.h",
+      "path_type": "hardlink",
+      "sha256": "41a5f9cc083b91e2502877458ce55f18d91de683b780ccec9a49e76d11a167d6",
+      "size_in_bytes": 7754
+    },
+    {
+      "_path": "include/aws/config/model/GetAggregateResourceConfigRequest.h",
+      "path_type": "hardlink",
+      "sha256": "ac3f84be8d8947ad9bd49bc5bb25243543beeb0ba56a47f2307a33443de74ef4",
+      "size_in_bytes": 4989
+    },
+    {
+      "_path": "include/aws/config/model/GetAggregateResourceConfigResult.h",
+      "path_type": "hardlink",
+      "sha256": "35074c1120017ba8537aa776a06eef6676f9405515b6d1bb44597a952e4df938",
+      "size_in_bytes": 2402
+    },
+    {
+      "_path": "include/aws/config/model/GetComplianceDetailsByConfigRuleRequest.h",
+      "path_type": "hardlink",
+      "sha256": "95c711605514845201287c0d8282b49996ccd2a7868b1478d944de2411ed1e62",
+      "size_in_bytes": 10273
+    },
+    {
+      "_path": "include/aws/config/model/GetComplianceDetailsByConfigRuleResult.h",
+      "path_type": "hardlink",
+      "sha256": "0bb314b1b3b8c57506623d63c9f6fa2aa5af88fb95ff6647b07eb8356ad5e8bf",
+      "size_in_bytes": 5283
+    },
+    {
+      "_path": "include/aws/config/model/GetComplianceDetailsByResourceRequest.h",
+      "path_type": "hardlink",
+      "sha256": "6e10ad191cae25c39d5dbfc32aacc87fa8fcf921d28f2b64c09a93e3f8284071",
+      "size_in_bytes": 10643
+    },
+    {
+      "_path": "include/aws/config/model/GetComplianceDetailsByResourceResult.h",
+      "path_type": "hardlink",
+      "sha256": "4361762ae6c4a7f4b7e55a5ce7b986cd5a86a66d18aea61556eb3326e47d7711",
+      "size_in_bytes": 5231
+    },
+    {
+      "_path": "include/aws/config/model/GetComplianceSummaryByConfigRuleResult.h",
+      "path_type": "hardlink",
+      "sha256": "d1ff2a4751ae864f70431d73c3bd8e3588fe8d3578f5353dc5e727d5716cf453",
+      "size_in_bytes": 3017
+    },
+    {
+      "_path": "include/aws/config/model/GetComplianceSummaryByResourceTypeRequest.h",
+      "path_type": "hardlink",
+      "sha256": "96b413e76c107914629e5eee524e31d3b23257bfd029a5041adb57af76a7ac1b",
+      "size_in_bytes": 6975
+    },
+    {
+      "_path": "include/aws/config/model/GetComplianceSummaryByResourceTypeResult.h",
+      "path_type": "hardlink",
+      "sha256": "8ad070d25dab189448f6d287998fa17c9fe13b3c1eec0e54130a1dc08ff4da08",
+      "size_in_bytes": 5024
+    },
+    {
+      "_path": "include/aws/config/model/GetDiscoveredResourceCountsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "265bc9bffe77b18bf2b2e0990fb57fcbc0beed77f4aca9e74f3ea81bb194f616",
+      "size_in_bytes": 13294
+    },
+    {
+      "_path": "include/aws/config/model/GetDiscoveredResourceCountsResult.h",
+      "path_type": "hardlink",
+      "sha256": "b7d8b8dc7cba61b4b52485c53ef37816fa452e5bb07614d02b53a439f8b96d90",
+      "size_in_bytes": 8033
+    },
+    {
+      "_path": "include/aws/config/model/GetOrganizationConfigRuleDetailedStatusRequest.h",
+      "path_type": "hardlink",
+      "sha256": "0b56f04239b494e500c729604601d087006a88bfe4b9334d95b0090170d0fbc9",
+      "size_in_bytes": 5275
+    },
+    {
+      "_path": "include/aws/config/model/GetOrganizationConfigRuleDetailedStatusResult.h",
+      "path_type": "hardlink",
+      "sha256": "12a29c62fb5f5aad2579016e51c5918c1938422d0226485edaef25e6e547a29f",
+      "size_in_bytes": 3740
+    },
+    {
+      "_path": "include/aws/config/model/GetResourceConfigHistoryRequest.h",
+      "path_type": "hardlink",
+      "sha256": "7bed92a95ad7dac9860beb3f305a98899aa48d3e779fea8c70b625799a9a1728",
+      "size_in_bytes": 13790
+    },
+    {
+      "_path": "include/aws/config/model/GetResourceConfigHistoryResult.h",
+      "path_type": "hardlink",
+      "sha256": "69b6c26f620a64425ebd9a39a9eeb9e7f1d57fb7b310fe0df7add2055b793706",
+      "size_in_bytes": 5179
+    },
+    {
+      "_path": "include/aws/config/model/GroupedResourceCount.h",
+      "path_type": "hardlink",
+      "sha256": "34bcc79759c6ac290fd8cc271c2349f48e721cb5fb252832bb35b96a5f8084e8",
+      "size_in_bytes": 4690
+    },
+    {
+      "_path": "include/aws/config/model/ListAggregateDiscoveredResourcesRequest.h",
+      "path_type": "hardlink",
+      "sha256": "464c75a79c3fa06d173c7561bff7710f0b0867a4cfa18ad66581b7de8b6e614c",
+      "size_in_bytes": 9904
+    },
+    {
+      "_path": "include/aws/config/model/ListAggregateDiscoveredResourcesResult.h",
+      "path_type": "hardlink",
+      "sha256": "430d0c7c21871cb239f307004b1c137d02b053677743557b4f5d7cd1113d12db",
+      "size_in_bytes": 5223
+    },
+    {
+      "_path": "include/aws/config/model/ListDiscoveredResourcesRequest.h",
+      "path_type": "hardlink",
+      "sha256": "bc06675a4c6db5a6664fc7563c4dc73c4c675606ae8cdeb4b23070e3f53af011",
+      "size_in_bytes": 14411
+    },
+    {
+      "_path": "include/aws/config/model/ListDiscoveredResourcesResult.h",
+      "path_type": "hardlink",
+      "sha256": "7c7df7da9715c5ccbae010c8d6af8b826c6e8c94f0b49bb3b7cb66bdcd0b2cb8",
+      "size_in_bytes": 5755
+    },
+    {
+      "_path": "include/aws/config/model/ListTagsForResourceRequest.h",
+      "path_type": "hardlink",
+      "sha256": "6cc163b7ee26a434c6a34e90d9544ff3b03facc0bd1110facb850bc5b1b32917",
+      "size_in_bytes": 8197
+    },
+    {
+      "_path": "include/aws/config/model/ListTagsForResourceResult.h",
+      "path_type": "hardlink",
+      "sha256": "5d66166cd264d11aa0bdea10847bef4a6921806c163ccbf5c8bcf264dcf05971",
+      "size_in_bytes": 4324
+    },
+    {
+      "_path": "include/aws/config/model/MaximumExecutionFrequency.h",
+      "path_type": "hardlink",
+      "sha256": "1af2c65262e78a23978979de7048f90a5ac7982c5c44c352bf0e5922429cd3ad",
+      "size_in_bytes": 1267
+    },
+    {
+      "_path": "include/aws/config/model/MemberAccountRuleStatus.h",
+      "path_type": "hardlink",
+      "sha256": "633d2a7e3942dac2438156bead35f31d88db66c088af792263bf4da8df0a218d",
+      "size_in_bytes": 1365
+    },
+    {
+      "_path": "include/aws/config/model/MemberAccountStatus.h",
+      "path_type": "hardlink",
+      "sha256": "d705ae77594a8b87d6397309a1747c2194cc79ada212b2deaf4bcf028ac22389",
+      "size_in_bytes": 7045
+    },
+    {
+      "_path": "include/aws/config/model/MessageType.h",
+      "path_type": "hardlink",
+      "sha256": "624b29fe98d6bb860209850d5fcbb79bc5049c2c44caa9392e39de94e68c4dd5",
+      "size_in_bytes": 1245
+    },
+    {
+      "_path": "include/aws/config/model/OrganizationAggregationSource.h",
+      "path_type": "hardlink",
+      "sha256": "1f21d7040e3f55df04f428880bbd08ac619ddb26fe3b5680c4ece0cc42e8725a",
+      "size_in_bytes": 6317
+    },
+    {
+      "_path": "include/aws/config/model/OrganizationConfigRule.h",
+      "path_type": "hardlink",
+      "sha256": "e34660812f1a40fabd55e320b2910a47ff741987b93bd20f01526f5942505775",
+      "size_in_bytes": 8646
+    },
+    {
+      "_path": "include/aws/config/model/OrganizationConfigRuleStatus.h",
+      "path_type": "hardlink",
+      "sha256": "d9a585e242e1601e3164092dc0d172cfeed181e274b0b4aae2a2b8cd63629871",
+      "size_in_bytes": 6500
+    },
+    {
+      "_path": "include/aws/config/model/OrganizationConfigRuleTriggerType.h",
+      "path_type": "hardlink",
+      "sha256": "f68b0a505f23d358c580e83b8258926b2a255cfed0a0b8f84a49ec6941771380",
+      "size_in_bytes": 1355
+    },
+    {
+      "_path": "include/aws/config/model/OrganizationCustomRuleMetadata.h",
+      "path_type": "hardlink",
+      "sha256": "2c11bb7512b102f890a4f32dd87357cdc3fedecb2284043d08ff50aaa03d8ad6",
+      "size_in_bytes": 12260
+    },
+    {
+      "_path": "include/aws/config/model/OrganizationManagedRuleMetadata.h",
+      "path_type": "hardlink",
+      "sha256": "b549ae2665fcc48f04057c7b05efe1cf02f161499cbf31e5cd3defd4c2680269",
+      "size_in_bytes": 10295
+    },
+    {
+      "_path": "include/aws/config/model/OrganizationRuleStatus.h",
+      "path_type": "hardlink",
+      "sha256": "9e27b1bd801e403080b3f6a421ca7b8ca528f391fd638380111db8cef3020310",
+      "size_in_bytes": 1358
+    },
+    {
+      "_path": "include/aws/config/model/Owner.h",
+      "path_type": "hardlink",
+      "sha256": "b72c9cdff298a8d17a7df09c8feda24bf62fb7cda1c378b6a4b1016bbac132e6",
+      "size_in_bytes": 1069
+    },
+    {
+      "_path": "include/aws/config/model/PendingAggregationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "3c2fc7bf373c83ab76dba21dfc7fa180e692cb6b58afa952f46d857218b7f09f",
+      "size_in_bytes": 5145
+    },
+    {
+      "_path": "include/aws/config/model/PutAggregationAuthorizationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "eb6d5c7b1628b773a12ccfc39f4319f79f4df18feb3f9de12fe0a046c106753a",
+      "size_in_bytes": 6436
+    },
+    {
+      "_path": "include/aws/config/model/PutAggregationAuthorizationResult.h",
+      "path_type": "hardlink",
+      "sha256": "7c3e9a458fd25dccbaba7b60094c44fae38b6b173591860fa2812cabe9ecb531",
+      "size_in_bytes": 2514
+    },
+    {
+      "_path": "include/aws/config/model/PutConfigRuleRequest.h",
+      "path_type": "hardlink",
+      "sha256": "f81ab21a48a3c530ab6ce819252ca8af236f53933fa559a8078c1b42d8fc4732",
+      "size_in_bytes": 3761
+    },
+    {
+      "_path": "include/aws/config/model/PutConfigurationAggregatorRequest.h",
+      "path_type": "hardlink",
+      "sha256": "dcf438773e16dd69687cebb0cdb7b215150fae08152283d9af08af1ecc17083e",
+      "size_in_bytes": 8427
+    },
+    {
+      "_path": "include/aws/config/model/PutConfigurationAggregatorResult.h",
+      "path_type": "hardlink",
+      "sha256": "4538a92501543da73695209bf62fba660c38a7180fb8543d65214fb6cab6d62f",
+      "size_in_bytes": 2475
+    },
+    {
+      "_path": "include/aws/config/model/PutConfigurationRecorderRequest.h",
+      "path_type": "hardlink",
+      "sha256": "41729194f08c5ac9a8705ed3e442a93d3252808eaf9ec5247d298ea2f07114e6",
+      "size_in_bytes": 3628
+    },
+    {
+      "_path": "include/aws/config/model/PutDeliveryChannelRequest.h",
+      "path_type": "hardlink",
+      "sha256": "f714a0ff86c5c745ca98027f187b895381d6ab3ff47456958a9bdd4ab88b2ba8",
+      "size_in_bytes": 3693
+    },
+    {
+      "_path": "include/aws/config/model/PutEvaluationsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "fbd6d03276e7e0f7c504e5002226f6534c0a6147373f9e46dd975a4142005edf",
+      "size_in_bytes": 9768
+    },
+    {
+      "_path": "include/aws/config/model/PutEvaluationsResult.h",
+      "path_type": "hardlink",
+      "sha256": "faa4d6338ae08e63cfda1a0261c50849081143afdd8a0243f40df074975aa6a4",
+      "size_in_bytes": 3078
+    },
+    {
+      "_path": "include/aws/config/model/PutOrganizationConfigRuleRequest.h",
+      "path_type": "hardlink",
+      "sha256": "df99249688c35c957922cbe246820202de6937747471767444e9e3ab2214ebe7",
+      "size_in_bytes": 7008
+    },
+    {
+      "_path": "include/aws/config/model/PutOrganizationConfigRuleResult.h",
+      "path_type": "hardlink",
+      "sha256": "2b17a2d2a4f15db732a5a3c9f60c44dd0d4f74459ded129c9e3527ec5cf869c7",
+      "size_in_bytes": 2349
+    },
+    {
+      "_path": "include/aws/config/model/PutRemediationConfigurationsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "c2a4bcad7ff27c7d2a175294e0688a943c42ea0f399dfb363a1c442e7d33c396",
+      "size_in_bytes": 3889
+    },
+    {
+      "_path": "include/aws/config/model/PutRemediationConfigurationsResult.h",
+      "path_type": "hardlink",
+      "sha256": "b7bb391a4ac99cdfb0cf343120420ed689b7661f6ba2117367f8d426c495a48a",
+      "size_in_bytes": 3025
+    },
+    {
+      "_path": "include/aws/config/model/PutRetentionConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "8480baaccbed1c2682035848b849e6e284da6f2da02a0456578f692f580c93f9",
+      "size_in_bytes": 2843
+    },
+    {
+      "_path": "include/aws/config/model/PutRetentionConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "0f53093da4bd21287d2c22279e4ef9fee587bfabee508039afd83c58d3efdceb",
+      "size_in_bytes": 2451
+    },
+    {
+      "_path": "include/aws/config/model/QueryInfo.h",
+      "path_type": "hardlink",
+      "sha256": "be5b8b6d6f82f2b118b364e20d6ba816f6ec83709a2b3de9a3cdb64a39ac264d",
+      "size_in_bytes": 3062
+    },
+    {
+      "_path": "include/aws/config/model/RecorderStatus.h",
+      "path_type": "hardlink",
+      "sha256": "8e703a1c9cfbb4bd7c54ab1344db681a797da0bd4ffabc2831e4ae89bbd89e5e",
+      "size_in_bytes": 1143
+    },
+    {
+      "_path": "include/aws/config/model/RecordingGroup.h",
+      "path_type": "hardlink",
+      "sha256": "5e65315f5b2e1189ce407c54ceb80152c08207250103b567ababc46b3c7bb6f6",
+      "size_in_bytes": 17650
+    },
+    {
+      "_path": "include/aws/config/model/Relationship.h",
+      "path_type": "hardlink",
+      "sha256": "b48eccd3688fd7dc93d350f0be642db13171926d5bbb2ab3a31c5702c2e7942f",
+      "size_in_bytes": 7604
+    },
+    {
+      "_path": "include/aws/config/model/RemediationConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "8929917549e1bcb4f4728fd2f9fb6baa7bf5b38ac236d73b9506f76d55c64322",
+      "size_in_bytes": 12388
+    },
+    {
+      "_path": "include/aws/config/model/RemediationExecutionState.h",
+      "path_type": "hardlink",
+      "sha256": "8276e80a78ddd9866676d05f0e5b41baff814ea15f28e45bec406295cdd49728",
+      "size_in_bytes": 1237
+    },
+    {
+      "_path": "include/aws/config/model/RemediationExecutionStatus.h",
+      "path_type": "hardlink",
+      "sha256": "d4703cabae46245288ac390aa93d8e759eb126fb35de54a046667375dffe2e05",
+      "size_in_bytes": 7789
+    },
+    {
+      "_path": "include/aws/config/model/RemediationExecutionStep.h",
+      "path_type": "hardlink",
+      "sha256": "21b2696f80cdf24c38f873b10bf82bd4e4ff56732b5d9f14f4cd367e83829ce5",
+      "size_in_bytes": 7809
+    },
+    {
+      "_path": "include/aws/config/model/RemediationExecutionStepState.h",
+      "path_type": "hardlink",
+      "sha256": "3376cc9aab0d7c73041e41197b7c496fc36e7756786474ff95c827bcfc472b8f",
+      "size_in_bytes": 1249
+    },
+    {
+      "_path": "include/aws/config/model/RemediationParameterValue.h",
+      "path_type": "hardlink",
+      "sha256": "5efe23bcddaa5115a1c1db05be2908ce74c84276b692b09348cfef277449ee6a",
+      "size_in_bytes": 4040
+    },
+    {
+      "_path": "include/aws/config/model/RemediationTargetType.h",
+      "path_type": "hardlink",
+      "sha256": "d0ac47d3299fd7781792387f11860a86753e4b7adfa0a6e480a488b5827698f5",
+      "size_in_bytes": 1171
+    },
+    {
+      "_path": "include/aws/config/model/ResourceCount.h",
+      "path_type": "hardlink",
+      "sha256": "c95ae42e040075bff05fc4f354ca05bb2173d269e5c4f559b18ec2ab79207ae3",
+      "size_in_bytes": 3335
+    },
+    {
+      "_path": "include/aws/config/model/ResourceCountFilters.h",
+      "path_type": "hardlink",
+      "sha256": "63dd5a9de8303ec38c23f1bcafc2d3946874b41c28b536ba1887b8c17a77a379",
+      "size_in_bytes": 5410
+    },
+    {
+      "_path": "include/aws/config/model/ResourceCountGroupKey.h",
+      "path_type": "hardlink",
+      "sha256": "134d93ffed6b5c898fa07ac6158bcca782ec2fb54a3812f78ce2a9a69a46a6d0",
+      "size_in_bytes": 1204
+    },
+    {
+      "_path": "include/aws/config/model/ResourceFilters.h",
+      "path_type": "hardlink",
+      "sha256": "e70043e68d8184a72a91939e4dbfa9d944d8b500c515eb918685fb4d9cb3bcd8",
+      "size_in_bytes": 6770
+    },
+    {
+      "_path": "include/aws/config/model/ResourceIdentifier.h",
+      "path_type": "hardlink",
+      "sha256": "0eba182863b085970ad912d937316460c97aa87537ded726e04241de7d3ad46b",
+      "size_in_bytes": 7216
+    },
+    {
+      "_path": "include/aws/config/model/ResourceKey.h",
+      "path_type": "hardlink",
+      "sha256": "b5d7b5c7457f454ccdf742c0d5caad31458c57968a757bce8acc4b87d87d210a",
+      "size_in_bytes": 4058
+    },
+    {
+      "_path": "include/aws/config/model/ResourceType.h",
+      "path_type": "hardlink",
+      "sha256": "3bac24014e799fb3caadc59dd636a3dbf190e8d05640db93d728f3ddaea69e63",
+      "size_in_bytes": 2946
+    },
+    {
+      "_path": "include/aws/config/model/ResourceValue.h",
+      "path_type": "hardlink",
+      "sha256": "fd49ea3deb317ea6b1fa68397bdeb24d487dab192d2cd6404db548b954064f92",
+      "size_in_bytes": 2397
+    },
+    {
+      "_path": "include/aws/config/model/ResourceValueType.h",
+      "path_type": "hardlink",
+      "sha256": "12c40f7afa9fcf5c0295691feb73f447ceeb5c84be5161133032c8bf164e35aa",
+      "size_in_bytes": 1142
+    },
+    {
+      "_path": "include/aws/config/model/RetentionConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "7112b4f8104229e3aaca94f357bf024162a9c2ed25db659ac87fac5649f25af2",
+      "size_in_bytes": 4264
+    },
+    {
+      "_path": "include/aws/config/model/Scope.h",
+      "path_type": "hardlink",
+      "sha256": "4981a3aa22fb34a5d34fd8f202e8eac04a332b47cc3f18d3c6d5880cb3c85281",
+      "size_in_bytes": 13287
+    },
+    {
+      "_path": "include/aws/config/model/SelectResourceConfigRequest.h",
+      "path_type": "hardlink",
+      "sha256": "8117ece6abcd52fc06ee2c1fbede9c1fe6321417386fa4b39996a11feecc44d4",
+      "size_in_bytes": 6186
+    },
+    {
+      "_path": "include/aws/config/model/SelectResourceConfigResult.h",
+      "path_type": "hardlink",
+      "sha256": "f4c3a38b90584593dd6ab75efd8a1ad7fc8f56a12b9a6761681ccb24ed31f91c",
+      "size_in_bytes": 5728
+    },
+    {
+      "_path": "include/aws/config/model/Source.h",
+      "path_type": "hardlink",
+      "sha256": "c44f33ce20e2bca82810e0fa8b087470a7c00e0ffde9e8ef53e5e0f974bbd455",
+      "size_in_bytes": 10611
+    },
+    {
+      "_path": "include/aws/config/model/SourceDetail.h",
+      "path_type": "hardlink",
+      "sha256": "bfcc711170f13fbe7b23ce1044e54ba5713d79a67036b9fa9a16736767aca25a",
+      "size_in_bytes": 17832
+    },
+    {
+      "_path": "include/aws/config/model/StartConfigRulesEvaluationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "ad024ea33fd47d7ec229a3edb2823754aae3d49ac9cc4afb607df6fc0ae41f57",
+      "size_in_bytes": 4307
+    },
+    {
+      "_path": "include/aws/config/model/StartConfigRulesEvaluationResult.h",
+      "path_type": "hardlink",
+      "sha256": "4023193cb3948873df3e2491a85fc099550f6e933dd42d05ad0f61ba292d6a2e",
+      "size_in_bytes": 1543
+    },
+    {
+      "_path": "include/aws/config/model/StartConfigurationRecorderRequest.h",
+      "path_type": "hardlink",
+      "sha256": "2b02473789952d00cd469250dc78c0b9804212185d4bf30ab3ef33a172c196ce",
+      "size_in_bytes": 4201
+    },
+    {
+      "_path": "include/aws/config/model/StartRemediationExecutionRequest.h",
+      "path_type": "hardlink",
+      "sha256": "7cbc456db5f5754deec8476b830708c1974d3f73d91bec4e274a853f9fa04277",
+      "size_in_bytes": 6337
+    },
+    {
+      "_path": "include/aws/config/model/StartRemediationExecutionResult.h",
+      "path_type": "hardlink",
+      "sha256": "ddf242daa75facc2f54b9160b9f7e102ee7a5781e1f74594876d407e9e281fe3",
+      "size_in_bytes": 4817
+    },
+    {
+      "_path": "include/aws/config/model/StaticValue.h",
+      "path_type": "hardlink",
+      "sha256": "480a92e2c7b2aed0b070b1381bb8b6f147a960b6dc8f3d072f332fa527cfc723",
+      "size_in_bytes": 3359
+    },
+    {
+      "_path": "include/aws/config/model/StatusDetailFilters.h",
+      "path_type": "hardlink",
+      "sha256": "8cbc91cfd73ea3741aa690792162ee6fca62291332f9b08990182bc5144e1caf",
+      "size_in_bytes": 3222
+    },
+    {
+      "_path": "include/aws/config/model/StopConfigurationRecorderRequest.h",
+      "path_type": "hardlink",
+      "sha256": "438f621c6ac16cde8df2e6ce8eec6eba8173c0fddc285c4ac7134eb9b07b3961",
+      "size_in_bytes": 4193
+    },
+    {
+      "_path": "include/aws/config/model/Tag.h",
+      "path_type": "hardlink",
+      "sha256": "dea06c15eeb9fd1383207510dcb3a18e4f4adc252b1086410a8f89fe4023c9e1",
+      "size_in_bytes": 5691
+    },
+    {
+      "_path": "include/aws/config/model/TagResourceRequest.h",
+      "path_type": "hardlink",
+      "sha256": "0078e73db1fffa16d149668cb290be82a92b64719287b98a73f2d6de3aefa873",
+      "size_in_bytes": 6182
+    },
+    {
+      "_path": "include/aws/config/model/UntagResourceRequest.h",
+      "path_type": "hardlink",
+      "sha256": "c85fcf117fa97f6191234ec898d2437cbdbca15c21128053a7854559c6530276",
+      "size_in_bytes": 6598
+    },
+    {
+      "_path": "include/aws/core/AmazonSerializableWebServiceRequest.h",
+      "path_type": "hardlink",
+      "sha256": "2391cf5f1238647cae34b3c021084f25c1991f334c3597f89ab597182a9d3c44",
+      "size_in_bytes": 2557
+    },
+    {
+      "_path": "include/aws/core/AmazonStreamingWebServiceRequest.h",
+      "path_type": "hardlink",
+      "sha256": "8a7b5c8963592f01386f21d33bb5b7771e52238b1e29ce10dd48fe7982bcbb93",
+      "size_in_bytes": 3287
+    },
+    {
+      "_path": "include/aws/core/AmazonWebServiceRequest.h",
+      "path_type": "hardlink",
+      "sha256": "022ec66a0b4f20a4c937d550bcede3b2d725ed6e98162408c95acb8150db91f5",
+      "size_in_bytes": 7885
+    },
+    {
+      "_path": "include/aws/core/AmazonWebServiceResult.h",
+      "path_type": "hardlink",
+      "sha256": "f594391c602d21083b757d365c14dde16433829579560037a34577985011b31a",
+      "size_in_bytes": 3194
+    },
+    {
+      "_path": "include/aws/core/Aws.h",
+      "path_type": "hardlink",
+      "sha256": "80eae49a79710e00a63410dc9469b6b0490cbdd2e7efcd0e9e18a699c93de249",
+      "size_in_bytes": 10374
+    },
+    {
+      "_path": "include/aws/core/Core_EXPORTS.h",
+      "path_type": "hardlink",
+      "sha256": "a99b27fdb44cddf4cd2f40ca6345c365b2e7fc35ff673e53a981844f62146f4b",
+      "size_in_bytes": 3205
+    },
+    {
+      "_path": "include/aws/core/Globals.h",
+      "path_type": "hardlink",
+      "sha256": "9c3642ab0b1e1e6a80d0952b1cccc937b8684f3ef75e7e0b873a3d3fb6e55215",
+      "size_in_bytes": 1459
+    },
+    {
+      "_path": "include/aws/core/NoResult.h",
+      "path_type": "hardlink",
+      "sha256": "27c869065350f8ca3fcef0e036e481ee3cda15837332158401b8680bf38404ae",
+      "size_in_bytes": 721
+    },
+    {
+      "_path": "include/aws/core/Region.h",
+      "path_type": "hardlink",
+      "sha256": "381fd211ab539ce567a9262ee05bc9845044f8fb13bcc1c8b304d7041817aa3e",
+      "size_in_bytes": 1922
+    },
+    {
+      "_path": "include/aws/core/SDKConfig.h",
+      "path_type": "hardlink",
+      "sha256": "41d4a9ce22a20ec67d7e2fd6dd7ff7de256f24d11c8ca111258eb0a8cfb50e06",
+      "size_in_bytes": 634
+    },
+    {
+      "_path": "include/aws/core/Version.h",
+      "path_type": "hardlink",
+      "sha256": "d50151ae27f4752430d50d16742a1d13eac3cf516548192b027a12c55a6be9c5",
+      "size_in_bytes": 1001
+    },
+    {
+      "_path": "include/aws/core/VersionConfig.h",
+      "path_type": "hardlink",
+      "sha256": "008b27886df5e4960fd1c201fc7808ed19102cf08e0b98faa30b6e6a194be0d3",
+      "size_in_bytes": 640
+    },
+    {
+      "_path": "include/aws/core/auth/AWSAuthSigner.h",
+      "path_type": "hardlink",
+      "sha256": "2073ccac5e138e4459b288bd6f66dc7177e35bc5c5b49b32dec171fa8f3b55d4",
+      "size_in_bytes": 17211
+    },
+    {
+      "_path": "include/aws/core/auth/AWSAuthSignerProvider.h",
+      "path_type": "hardlink",
+      "sha256": "ef87bbfd87a7a839f9b4dfe5f916de279e3f526b0a1a93f163c9c3f93aaf3475",
+      "size_in_bytes": 2498
+    },
+    {
+      "_path": "include/aws/core/auth/AWSCredentials.h",
+      "path_type": "hardlink",
+      "sha256": "7b0e8dfff24b2efcc6f97e5e99f72f48f981998cd99bac0ab43d38273bdddeff",
+      "size_in_bytes": 4306
+    },
+    {
+      "_path": "include/aws/core/auth/AWSCredentialsProvider.h",
+      "path_type": "hardlink",
+      "sha256": "986ab706d3570174c66425b0c43137284504a75e0b469f615f325b988a64b666",
+      "size_in_bytes": 13900
+    },
+    {
+      "_path": "include/aws/core/auth/AWSCredentialsProviderChain.h",
+      "path_type": "hardlink",
+      "sha256": "8290100764a9a9298890292f6b16cd63e3f6a30c579202ae7870ec66d29281aa",
+      "size_in_bytes": 3035
+    },
+    {
+      "_path": "include/aws/core/auth/STSCredentialsProvider.h",
+      "path_type": "hardlink",
+      "sha256": "f724ec1af85c9fa522f99ad073007b2525b5c4aac8049adf6a2973d51ca92af5",
+      "size_in_bytes": 2132
+    },
+    {
+      "_path": "include/aws/core/client/AWSClient.h",
+      "path_type": "hardlink",
+      "sha256": "bd2f9f5e78f55cb6773030fea63cfa787bb7bd9464714c2bb73ea618f7f9999c",
+      "size_in_bytes": 20272
+    },
+    {
+      "_path": "include/aws/core/client/AWSError.h",
+      "path_type": "hardlink",
+      "sha256": "822c425723034d4252f8f184334d31f13e7de9f9927d8a5630cc37a6b63fbb50",
+      "size_in_bytes": 5787
+    },
+    {
+      "_path": "include/aws/core/client/AWSErrorMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "cf0b95749bcf7235fd50931b5e4723393d5859cfb651aa4116bd3a4bb9ec2233",
+      "size_in_bytes": 2973
+    },
+    {
+      "_path": "include/aws/core/client/AsyncCallerContext.h",
+      "path_type": "hardlink",
+      "sha256": "3677ac68fa84f269bbb1aeacf266f3994411c6c81e6c69e3cd2f18e97fbbd91b",
+      "size_in_bytes": 2121
+    },
+    {
+      "_path": "include/aws/core/client/ClientConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "8e5576255b61f4bce90426626a36ac398aa77aba531322c628ac81bedb0090c4",
+      "size_in_bytes": 10964
+    },
+    {
+      "_path": "include/aws/core/client/CoreErrors.h",
+      "path_type": "hardlink",
+      "sha256": "76bf2e7b63ef99fb293fc5f3376e1937e255947ac2861f882ea7f3a71106fe4b",
+      "size_in_bytes": 3250
+    },
+    {
+      "_path": "include/aws/core/client/DefaultRetryStrategy.h",
+      "path_type": "hardlink",
+      "sha256": "9753c0ab2cbe3391199c773ef44bf4f38375f6751d5d9b4cbedee7461da474ac",
+      "size_in_bytes": 1261
+    },
+    {
+      "_path": "include/aws/core/client/RetryStrategy.h",
+      "path_type": "hardlink",
+      "sha256": "39d2ed791c7a79a4a8586e7707f0159a93a6bcca92baa18ee92fa8ec0b1c71fb",
+      "size_in_bytes": 1662
+    },
+    {
+      "_path": "include/aws/core/client/SpecifiedRetryableErrorsRetryStrategy.h",
+      "path_type": "hardlink",
+      "sha256": "591d6dcaec7254d774639b5832d9c0bad85f75f5be8c3e2b585aecd9a08f8e0f",
+      "size_in_bytes": 1648
+    },
+    {
+      "_path": "include/aws/core/config/AWSProfileConfigLoader.h",
+      "path_type": "hardlink",
+      "sha256": "5e5abe143bd2573ad64f34be71452083085caad62acf1cee3dd18b263198f7b4",
+      "size_in_bytes": 6452
+    },
+    {
+      "_path": "include/aws/core/external/cjson/cJSON.h",
+      "path_type": "hardlink",
+      "sha256": "9ee66445f91b81c042c1d6b1092f91a925e58642dbf525cd7cce0245f256d0f0",
+      "size_in_bytes": 14851
+    },
+    {
+      "_path": "include/aws/core/external/tinyxml2/tinyxml2.h",
+      "path_type": "hardlink",
+      "sha256": "2dccaf69a9a09a86c8cff47b82d106dbd5fb270f97a15b4468f56c50ab05cf7b",
+      "size_in_bytes": 70372
+    },
+    {
+      "_path": "include/aws/core/http/HttpClient.h",
+      "path_type": "hardlink",
+      "sha256": "070befb2077e9c48a0d07eb5ea6b0fbf4b7490815949ae722316af2da6eb1577",
+      "size_in_bytes": 3604
+    },
+    {
+      "_path": "include/aws/core/http/HttpClientFactory.h",
+      "path_type": "hardlink",
+      "sha256": "c9a1af6ea71f4ce0eb080605209fe8cb71cf065b577ac35e1f8d07b8c7052274",
+      "size_in_bytes": 3263
+    },
+    {
+      "_path": "include/aws/core/http/HttpRequest.h",
+      "path_type": "hardlink",
+      "sha256": "1b552a82156c5e00355007b763b81a8d957df2031cf93012f0b0840480f879d7",
+      "size_in_bytes": 20367
+    },
+    {
+      "_path": "include/aws/core/http/HttpResponse.h",
+      "path_type": "hardlink",
+      "sha256": "076ab1a7f231361a4202787a3cd46836f91f184b48a990d1ba32d67811042b08",
+      "size_in_bytes": 8913
+    },
+    {
+      "_path": "include/aws/core/http/HttpTypes.h",
+      "path_type": "hardlink",
+      "sha256": "9c654ed182bdc19dc02f9e350c2a3f2c6b76ec3bb5fb30cdbbb5d7af79557bcc",
+      "size_in_bytes": 1809
+    },
+    {
+      "_path": "include/aws/core/http/Scheme.h",
+      "path_type": "hardlink",
+      "sha256": "590cb2d1a3a12ea866a099626a849bfe864e84ac233d57ae81786bcda52d0d60",
+      "size_in_bytes": 1325
+    },
+    {
+      "_path": "include/aws/core/http/URI.h",
+      "path_type": "hardlink",
+      "sha256": "a4e6934de6d78917db5bdfb58a4771c1026535ef4d883bf35cd0940881a85e00",
+      "size_in_bytes": 6464
+    },
+    {
+      "_path": "include/aws/core/http/curl/CurlHandleContainer.h",
+      "path_type": "hardlink",
+      "sha256": "aa890fa86185b3f62eaab44410b79d020106733d642d330148cfe8f033117414",
+      "size_in_bytes": 2789
+    },
+    {
+      "_path": "include/aws/core/http/curl/CurlHttpClient.h",
+      "path_type": "hardlink",
+      "sha256": "d128d429222427153011c2be8d327784bc6cc933d02148aff4db4aae2c848b88",
+      "size_in_bytes": 2984
+    },
+    {
+      "_path": "include/aws/core/http/standard/StandardHttpRequest.h",
+      "path_type": "hardlink",
+      "sha256": "00310e1bd5098b79c6393228f77ca097a518338b5bee7edb3161d892cc5db122",
+      "size_in_bytes": 4241
+    },
+    {
+      "_path": "include/aws/core/http/standard/StandardHttpResponse.h",
+      "path_type": "hardlink",
+      "sha256": "84e5e512f602ec1d65bed0649a8c5f78bc77e23ab0d295d2429f9962065d3086",
+      "size_in_bytes": 3512
+    },
+    {
+      "_path": "include/aws/core/internal/AWSHttpResourceClient.h",
+      "path_type": "hardlink",
+      "sha256": "0650cd03e78e3258c9a9ab749462aaa390da7d401ff282488ca27de1c70601f8",
+      "size_in_bytes": 8718
+    },
+    {
+      "_path": "include/aws/core/monitoring/CoreMetrics.h",
+      "path_type": "hardlink",
+      "sha256": "34986738123f030948320e5623368b0d75d516dff47c23b93bef49898f0528fa",
+      "size_in_bytes": 1171
+    },
+    {
+      "_path": "include/aws/core/monitoring/DefaultMonitoring.h",
+      "path_type": "hardlink",
+      "sha256": "9362a8ae87b744418665fa99aba7124345a37b5720dff93a1ca5c19d7db27b46",
+      "size_in_bytes": 4101
+    },
+    {
+      "_path": "include/aws/core/monitoring/HttpClientMetrics.h",
+      "path_type": "hardlink",
+      "sha256": "15d1864de58af0b355647fc7baddf8701606f97577fd962c9c1c47da278ef629",
+      "size_in_bytes": 4492
+    },
+    {
+      "_path": "include/aws/core/monitoring/MonitoringFactory.h",
+      "path_type": "hardlink",
+      "sha256": "c2b647eb395ad161bb06d85819126fedc8a479ad7db9b7fe76121b01fb3e5760",
+      "size_in_bytes": 1070
+    },
+    {
+      "_path": "include/aws/core/monitoring/MonitoringInterface.h",
+      "path_type": "hardlink",
+      "sha256": "b050aa546fa47a0f0117a0d077173cf47f07a6e7dd6ec967e0e012db3bb3d4e0",
+      "size_in_bytes": 6054
+    },
+    {
+      "_path": "include/aws/core/monitoring/MonitoringManager.h",
+      "path_type": "hardlink",
+      "sha256": "0d6e81c333b19a1c300c367ac7127f31a0ab815e1a75066a1d036d513818fbec",
+      "size_in_bytes": 3443
+    },
+    {
+      "_path": "include/aws/core/net/Net.h",
+      "path_type": "hardlink",
+      "sha256": "bdd2c38da1345b7de6dfb9d6d5705dced4d4d87eae6a300a55d3f5ac5d36c0b6",
+      "size_in_bytes": 897
+    },
+    {
+      "_path": "include/aws/core/net/SimpleUDP.h",
+      "path_type": "hardlink",
+      "sha256": "c28b2f95f28f0c4d5855ebcdd6fa8fd588dcdca7cf0eed27484b608580a4ca50",
+      "size_in_bytes": 9365
+    },
+    {
+      "_path": "include/aws/core/platform/Android.h",
+      "path_type": "hardlink",
+      "sha256": "b3de3c29d539316923066063c9f333825f0ad64dd05c92abc2ba22a06f35d4c0",
+      "size_in_bytes": 1151
+    },
+    {
+      "_path": "include/aws/core/platform/Environment.h",
+      "path_type": "hardlink",
+      "sha256": "082e4854cc3f63685bbde27d186021642c910871d424c111532d1ae1a7fbf003",
+      "size_in_bytes": 878
+    },
+    {
+      "_path": "include/aws/core/platform/FileSystem.h",
+      "path_type": "hardlink",
+      "sha256": "027e040ec785cabf67cbc0407f54631605c98b1dbb554702fa8631887f9f7340",
+      "size_in_bytes": 8242
+    },
+    {
+      "_path": "include/aws/core/platform/OSVersionInfo.h",
+      "path_type": "hardlink",
+      "sha256": "5734998283d97e83983fab5f167b79014fa1fd7ac2146ca7f2d9a9545a55834d",
+      "size_in_bytes": 1116
+    },
+    {
+      "_path": "include/aws/core/platform/Platform.h",
+      "path_type": "hardlink",
+      "sha256": "739719730635b51391ce003c1631bd6e5b7a2c3a1891c337e94a5622abc8f63c",
+      "size_in_bytes": 675
+    },
+    {
+      "_path": "include/aws/core/platform/Security.h",
+      "path_type": "hardlink",
+      "sha256": "0cedb0b45c496082a8423912684c33a94ab5e8f214b73b6e760961ee665664ba",
+      "size_in_bytes": 881
+    },
+    {
+      "_path": "include/aws/core/platform/Time.h",
+      "path_type": "hardlink",
+      "sha256": "a202bfe107898fbd42fc915cb920787a1fa83aaf1c8cef4fc3e7413c22e5e603",
+      "size_in_bytes": 1222
+    },
+    {
+      "_path": "include/aws/core/utils/Array.h",
+      "path_type": "hardlink",
+      "sha256": "54ae056c74f3f8cd5271a8f656793ed240f5d605aeb43f075f7bcb98db18299d",
+      "size_in_bytes": 8146
+    },
+    {
+      "_path": "include/aws/core/utils/Cache.h",
+      "path_type": "hardlink",
+      "sha256": "b49726f518ecda82f0012c356f7ea586441a3bcc699eec19cb9723f2844b5952",
+      "size_in_bytes": 5443
+    },
+    {
+      "_path": "include/aws/core/utils/ConcurrentCache.h",
+      "path_type": "hardlink",
+      "sha256": "a9c23c1d89ac142f9306ac80e1f1f35a2f92e8edbf18e61aa894febcbdd22edd",
+      "size_in_bytes": 1923
+    },
+    {
+      "_path": "include/aws/core/utils/DNS.h",
+      "path_type": "hardlink",
+      "sha256": "b1212ae8526f965ccc8d673c12ef3055232d0f3e0dccabe4ee3fe83f9a7a70be",
+      "size_in_bytes": 847
+    },
+    {
+      "_path": "include/aws/core/utils/DateTime.h",
+      "path_type": "hardlink",
+      "sha256": "797fb9a5a69d8d2e297df9f60e9c521a6f65dbb3ba63c883f7a55f49b892a8cc",
+      "size_in_bytes": 8759
+    },
+    {
+      "_path": "include/aws/core/utils/EnumParseOverflowContainer.h",
+      "path_type": "hardlink",
+      "sha256": "03e4c697adbd928cd50ec2d1ca7832119e5c41cd3142872171345f7108530e0a",
+      "size_in_bytes": 1492
+    },
+    {
+      "_path": "include/aws/core/utils/FileSystemUtils.h",
+      "path_type": "hardlink",
+      "sha256": "875e945aae50af9ba57bc921822c1cde6822dcc821604efb883ad2af7836688a",
+      "size_in_bytes": 2952
+    },
+    {
+      "_path": "include/aws/core/utils/GetTheLights.h",
+      "path_type": "hardlink",
+      "sha256": "14f44db1fa7d0090c86f22f14e4f744cd0bb63420788484b34d88751970832cf",
+      "size_in_bytes": 1421
+    },
+    {
+      "_path": "include/aws/core/utils/HashingUtils.h",
+      "path_type": "hardlink",
+      "sha256": "90a45b40ab1c525a4a0e2ca41ecbe835bc8e2e51f4dc2149b3783a250cc9bdea",
+      "size_in_bytes": 2979
+    },
+    {
+      "_path": "include/aws/core/utils/Outcome.h",
+      "path_type": "hardlink",
+      "sha256": "e96c92f6a54dd740867ad91b25a7791015d27840e430218d45820b83a6762aee",
+      "size_in_bytes": 3590
+    },
+    {
+      "_path": "include/aws/core/utils/ResourceManager.h",
+      "path_type": "hardlink",
+      "sha256": "5d5a155e8ba96f8350252caf125c106d25426b13c8e23af42ad06d31f08d93bf",
+      "size_in_bytes": 5177
+    },
+    {
+      "_path": "include/aws/core/utils/StringUtils.h",
+      "path_type": "hardlink",
+      "sha256": "3bbbce5a7fd46a6a2a61d8a3978e8a93119ffe57bcb07c213d1766a84075447e",
+      "size_in_bytes": 6065
+    },
+    {
+      "_path": "include/aws/core/utils/UUID.h",
+      "path_type": "hardlink",
+      "sha256": "1936528f68ceb667caa9e47e6047e8263fa8c6665bd7571f624d9fb3dbe92453",
+      "size_in_bytes": 1964
+    },
+    {
+      "_path": "include/aws/core/utils/UnreferencedParam.h",
+      "path_type": "hardlink",
+      "sha256": "8042413fd2bd76769fc835e098f9a43e34717d962e6b937059f3fcdf245755a5",
+      "size_in_bytes": 977
+    },
+    {
+      "_path": "include/aws/core/utils/base64/Base64.h",
+      "path_type": "hardlink",
+      "sha256": "1934739198da8631113a061851ebfb6895ed5333d0da17e6af47c8fd8da4e46a",
+      "size_in_bytes": 2380
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/Cipher.h",
+      "path_type": "hardlink",
+      "sha256": "91e5271adca2da15fbd00abdd1a47b627e3aa192754727eb0803859a35a7ee89",
+      "size_in_bytes": 9725
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/ContentCryptoMaterial.h",
+      "path_type": "hardlink",
+      "sha256": "ab76244adf868049c4ab67ac43452d146fc7d887d4eb4d1a9972abb9c0e664fa",
+      "size_in_bytes": 7100
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/ContentCryptoScheme.h",
+      "path_type": "hardlink",
+      "sha256": "7ccde9d5ec1bf374ec83227cee6a9ef73a91a7d0040fc13455674dded6a2378a",
+      "size_in_bytes": 1258
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/CryptoBuf.h",
+      "path_type": "hardlink",
+      "sha256": "6b0543cb80720d0a3433cd5df564146d268779afcd9cc4537ef2a8df530f0fcc",
+      "size_in_bytes": 7173
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/CryptoStream.h",
+      "path_type": "hardlink",
+      "sha256": "a4898d9c18ac5ace9aa9a98cb8ea0656fa634cca0df17fa7677483f049590a82",
+      "size_in_bytes": 4170
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/EncryptionMaterials.h",
+      "path_type": "hardlink",
+      "sha256": "2364563917f8012c858d4ba961996cfc692daf4b496d6b00a7d8d21e99c10c19",
+      "size_in_bytes": 1913
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/Factories.h",
+      "path_type": "hardlink",
+      "sha256": "e52bb9a92af217185708cb31cac767ef93ebd1e9fa053290fc283a0de26298d7",
+      "size_in_bytes": 7234
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/HMAC.h",
+      "path_type": "hardlink",
+      "sha256": "261e079c32c649a3b6cdbcdf1eb34bfc449eb189159aab0666ab0516234cfa62",
+      "size_in_bytes": 2441
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/Hash.h",
+      "path_type": "hardlink",
+      "sha256": "a6e4998d1053c821646d7cd2c95f2da079724de32a1ac48284e460f40fa4bed7",
+      "size_in_bytes": 2721
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/HashResult.h",
+      "path_type": "hardlink",
+      "sha256": "69c783662fb82c14c90a52ce0c798716f2713db967d99931c6c0e8fc52098f94",
+      "size_in_bytes": 956
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/KeyWrapAlgorithm.h",
+      "path_type": "hardlink",
+      "sha256": "88c148d59e7046929797f4fb86456f6bc05ffe2bf7617b2b599ac82f35c6a956",
+      "size_in_bytes": 1229
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/MD5.h",
+      "path_type": "hardlink",
+      "sha256": "5292214a81cc5ce401170fbc691baf9f3a78defa916f430b495776819bb1c24f",
+      "size_in_bytes": 1958
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/SecureRandom.h",
+      "path_type": "hardlink",
+      "sha256": "1c0ace895d5f9d6320f6564cf93e818ed63cd0343731c7dcd2d0e87a31f139bf",
+      "size_in_bytes": 4493
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/Sha256.h",
+      "path_type": "hardlink",
+      "sha256": "2ac7da587c3542a9cd17480e5366738bec7b7802cb8959d5154049f9e507e0d1",
+      "size_in_bytes": 1958
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/Sha256HMAC.h",
+      "path_type": "hardlink",
+      "sha256": "876c49c7165c6bbfbf8b13d7b5618a8913f5973c2abd376368e17078d28f7a9d",
+      "size_in_bytes": 1832
+    },
+    {
+      "_path": "include/aws/core/utils/crypto/openssl/CryptoImpl.h",
+      "path_type": "hardlink",
+      "sha256": "cf4552fba302053cb5231894c077dcfd679175468df4c20a7c6b71985d78873d",
+      "size_in_bytes": 14035
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventDecoderStream.h",
+      "path_type": "hardlink",
+      "sha256": "7b6a1d162bb8e165e8bbb7f1ca1d0394c6c077d9225b2ba904d6f6fa1fe2b235",
+      "size_in_bytes": 2069
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventEncoderStream.h",
+      "path_type": "hardlink",
+      "sha256": "f29de2b35d5b22419867821f3db9719e32ce9a95fbf82ec3ff3910e0292fc5bc",
+      "size_in_bytes": 2893
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventHeader.h",
+      "path_type": "hardlink",
+      "sha256": "5204e9cb97e6677155c47715a1cbbab29dd9fec8084d9aed411ebe35880712b2",
+      "size_in_bytes": 14559
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventMessage.h",
+      "path_type": "hardlink",
+      "sha256": "072c8ce7b5819ff9d075413e364b3ebc7a6ec72b0c4d08bb8ed4567bb0f94b8a",
+      "size_in_bytes": 5384
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventStream.h",
+      "path_type": "hardlink",
+      "sha256": "887b9b0f79211e5c61544338c7abafd98d82c1b1117c1f06841aa97a5c0f134b",
+      "size_in_bytes": 705
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventStreamBuf.h",
+      "path_type": "hardlink",
+      "sha256": "f8def718a9421f8189fdf4ca4efa9c508900fc46d8a7a7defb0f8319eed3ada1",
+      "size_in_bytes": 2326
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventStreamDecoder.h",
+      "path_type": "hardlink",
+      "sha256": "7441b8e28c4c78791673b9d7c0264a5712d6518a6e8298f7efb0b91ba6321f05",
+      "size_in_bytes": 5320
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventStreamEncoder.h",
+      "path_type": "hardlink",
+      "sha256": "9a7ab98262e09c756f7122398739cc3709be0200648f62c350ea4cb1b24a1452",
+      "size_in_bytes": 2084
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventStreamErrors.h",
+      "path_type": "hardlink",
+      "sha256": "701d9ea046d9f9edf00462f19ff5abdcb4990c8bad787f302c90881579e65927",
+      "size_in_bytes": 2263
+    },
+    {
+      "_path": "include/aws/core/utils/event/EventStreamHandler.h",
+      "path_type": "hardlink",
+      "sha256": "fee4bd8b064cb0e6af53b8be1fcf854974b30c9991b4554ffeb16b53d3784fe3",
+      "size_in_bytes": 6476
+    },
+    {
+      "_path": "include/aws/core/utils/json/JsonSerializer.h",
+      "path_type": "hardlink",
+      "sha256": "2c194cddda3ae8f0ba4ebf631ed292409e1ff9d3448ddf8e76be56203fece8e5",
+      "size_in_bytes": 14629
+    },
+    {
+      "_path": "include/aws/core/utils/logging/AWSLogging.h",
+      "path_type": "hardlink",
+      "sha256": "336d75adf8db3e2fb89d35b9401a921ca6d4793232665ca8dd6adeb4218c1f1f",
+      "size_in_bytes": 1969
+    },
+    {
+      "_path": "include/aws/core/utils/logging/ConsoleLogSystem.h",
+      "path_type": "hardlink",
+      "sha256": "1816e5594dd88d9ebd106110fb92ff2d447c3f534b97bd2f4423864287cab82f",
+      "size_in_bytes": 1533
+    },
+    {
+      "_path": "include/aws/core/utils/logging/DefaultLogSystem.h",
+      "path_type": "hardlink",
+      "sha256": "c66f7b4882f6c34f3d2619f525be83bbbd2d885512f81d710f819cc3e4e83104",
+      "size_in_bytes": 3615
+    },
+    {
+      "_path": "include/aws/core/utils/logging/FormattedLogSystem.h",
+      "path_type": "hardlink",
+      "sha256": "db081118481188d994da33dbeb6efdbc639944810f555f8cbea024c3a4635b24",
+      "size_in_bytes": 2788
+    },
+    {
+      "_path": "include/aws/core/utils/logging/LogLevel.h",
+      "path_type": "hardlink",
+      "sha256": "be2388e0fae7fa89a63938cb2889bfc42e78a119ace6982b3124072fe57f0dac",
+      "size_in_bytes": 1280
+    },
+    {
+      "_path": "include/aws/core/utils/logging/LogMacros.h",
+      "path_type": "hardlink",
+      "sha256": "fb11d12e59f826072166b41683f361200d8a76c7600bb35320f3ea44cf2c6ffa",
+      "size_in_bytes": 8711
+    },
+    {
+      "_path": "include/aws/core/utils/logging/LogSystemInterface.h",
+      "path_type": "hardlink",
+      "sha256": "66beb15dabe54912096db85d40689dfdae29b2ceda35fc43aad99d1b4712d790",
+      "size_in_bytes": 2295
+    },
+    {
+      "_path": "include/aws/core/utils/logging/NullLogSystem.h",
+      "path_type": "hardlink",
+      "sha256": "56fb28742355aa257e381221cc6144fc7bf526eca27ccb70b96e0c7dcc0d5050",
+      "size_in_bytes": 1936
+    },
+    {
+      "_path": "include/aws/core/utils/memory/AWSMemory.h",
+      "path_type": "hardlink",
+      "sha256": "c4375c96a28e73da2e4518c5eb2989bfc90d5482fcf3407448a7741f0d47fbfa",
+      "size_in_bytes": 9824
+    },
+    {
+      "_path": "include/aws/core/utils/memory/MemorySystemInterface.h",
+      "path_type": "hardlink",
+      "sha256": "af4f9e174f1f907b4e715fa36076f38dd0e715eff7d9fcd7d1de076d632dd617",
+      "size_in_bytes": 2210
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSAllocator.h",
+      "path_type": "hardlink",
+      "sha256": "4acc0451df9c49d5bb03cc778f1f80cc41191d78aee4393b2c059aaed1217f33",
+      "size_in_bytes": 2857
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSDeque.h",
+      "path_type": "hardlink",
+      "sha256": "1c7c23db2a3c3148914af43bb6c15b04ab4f45d62c5d12779f06c792170fc986",
+      "size_in_bytes": 822
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSList.h",
+      "path_type": "hardlink",
+      "sha256": "49bf50d433d854bec69cc0e3324ef9d62666762f3e0e3c59272abd8765a4964d",
+      "size_in_bytes": 819
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSMap.h",
+      "path_type": "hardlink",
+      "sha256": "72089305b891d08b3056f54910ad007335648808e2bfcf77d3d3769d3bdcab3f",
+      "size_in_bytes": 1472
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSMultiMap.h",
+      "path_type": "hardlink",
+      "sha256": "3d764cf831860ee507941f53103e8b7d3b1ad685b0e6af09ac9829a7e9cc42f8",
+      "size_in_bytes": 879
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSQueue.h",
+      "path_type": "hardlink",
+      "sha256": "db77986a5fc0c31791b46f269b6757d128a2e1b28495dceffde0be81db96e4ad",
+      "size_in_bytes": 878
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSSet.h",
+      "path_type": "hardlink",
+      "sha256": "86050d187b5389833e2286c61ee929f7fb6813b5166082e7823c0a93a12094ed",
+      "size_in_bytes": 832
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSStack.h",
+      "path_type": "hardlink",
+      "sha256": "010a51f73036e303b2bdc28cd725cf4de4e529417f1ef1f8a928725cd95b295d",
+      "size_in_bytes": 878
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSStreamFwd.h",
+      "path_type": "hardlink",
+      "sha256": "5ae86672172f6ea90300f583e78301f706325b198cc9a14d5a17c9193ea59640",
+      "size_in_bytes": 1359
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSString.h",
+      "path_type": "hardlink",
+      "sha256": "9686505cb614ac98fb291003f38f2451ef7b22e00899f3e12933086e2982aa7d",
+      "size_in_bytes": 5863
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSStringStream.h",
+      "path_type": "hardlink",
+      "sha256": "0c6e39eb4100780348c8f1fe38b85fec6c54462bb4edc3e7aa782c2d050f899b",
+      "size_in_bytes": 1728
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/AWSVector.h",
+      "path_type": "hardlink",
+      "sha256": "d17877f2962c7b0521688b563be96818b6295adddd7f25e8054fa4e708b3e5eb",
+      "size_in_bytes": 825
+    },
+    {
+      "_path": "include/aws/core/utils/memory/stl/SimpleStringStream.h",
+      "path_type": "hardlink",
+      "sha256": "c1e797346b04d468266593d7bc92dfd71d8ce12bf447ff708c739879ae7f1ff2",
+      "size_in_bytes": 4366
+    },
+    {
+      "_path": "include/aws/core/utils/ratelimiter/DefaultRateLimiter.h",
+      "path_type": "hardlink",
+      "sha256": "4ecd14ba6723fb9ab09d3dd3829519560dded5a532846b24b30b580001901674",
+      "size_in_bytes": 9879
+    },
+    {
+      "_path": "include/aws/core/utils/ratelimiter/RateLimiterInterface.h",
+      "path_type": "hardlink",
+      "sha256": "18645dc373c3f46307160a9f884217f1b6cd84ef4c14a1b536777e5deadaf991",
+      "size_in_bytes": 1895
+    },
+    {
+      "_path": "include/aws/core/utils/stream/ConcurrentStreamBuf.h",
+      "path_type": "hardlink",
+      "sha256": "112a457769680f909c367cb5a2c8fb8fd3f07c69bfcf7e406df2f6300cc229fc",
+      "size_in_bytes": 2523
+    },
+    {
+      "_path": "include/aws/core/utils/stream/PreallocatedStreamBuf.h",
+      "path_type": "hardlink",
+      "sha256": "e315c6f1bb1d6d5c8a635e8e4c29a861dc12d59cddf73a00c4ca25df4c1cd040",
+      "size_in_bytes": 2683
+    },
+    {
+      "_path": "include/aws/core/utils/stream/ResponseStream.h",
+      "path_type": "hardlink",
+      "sha256": "7c6d04f6b6561a8803d67541e07622c0dd189e34b91dbfaf94c0abc9e3d7e0b3",
+      "size_in_bytes": 2836
+    },
+    {
+      "_path": "include/aws/core/utils/stream/SimpleStreamBuf.h",
+      "path_type": "hardlink",
+      "sha256": "ba02cbe4332bb84f1ebd16b997a3f9f9f9e28b1deacbc5e68001e701a0b7d092",
+      "size_in_bytes": 2210
+    },
+    {
+      "_path": "include/aws/core/utils/threading/Executor.h",
+      "path_type": "hardlink",
+      "sha256": "26f86e1714f8fffe3243bf6dc364bd2ec657aad16699986a222a0ebe80bcb095",
+      "size_in_bytes": 4524
+    },
+    {
+      "_path": "include/aws/core/utils/threading/ReaderWriterLock.h",
+      "path_type": "hardlink",
+      "sha256": "ad9d7e5896c35606d2c9f5286cb2a20492d4de58a08c3b6fad783653b5e48d55",
+      "size_in_bytes": 4157
+    },
+    {
+      "_path": "include/aws/core/utils/threading/Semaphore.h",
+      "path_type": "hardlink",
+      "sha256": "54352cb0e9875cf4aed64c0d0d95c9f9210c04c181899ba4ffeecb8e31187d32",
+      "size_in_bytes": 1833
+    },
+    {
+      "_path": "include/aws/core/utils/threading/ThreadTask.h",
+      "path_type": "hardlink",
+      "sha256": "e227d8675b0a0a7401a7984d169481e8afbd9e79f83a5cb8a7b7a248aef2c6be",
+      "size_in_bytes": 1647
+    },
+    {
+      "_path": "include/aws/core/utils/xml/XmlSerializer.h",
+      "path_type": "hardlink",
+      "sha256": "7370c9ebac31d06e152c52e9b0d5126656bad1266b7852fcf9a7036d4b8165c3",
+      "size_in_bytes": 7919
+    },
+    {
+      "_path": "include/aws/event-stream/event_stream.h",
+      "path_type": "hardlink",
+      "sha256": "221ee10f716c0cf0e63252fd67d9cc04f3638df878866bfd1b1b6078aabc3b7c",
+      "size_in_bytes": 14954
+    },
+    {
+      "_path": "include/aws/event-stream/event_stream_exports.h",
+      "path_type": "hardlink",
+      "sha256": "0713f8f417b45db8df9824ae15b6d46aaa84f495f8b03c8e8ec90353ef3b8a69",
+      "size_in_bytes": 1603
+    },
+    {
+      "_path": "include/aws/s3/S3Client.h",
+      "path_type": "hardlink",
+      "sha256": "31d25414d315f9eb10b26ec38b16827a4c80ef58558e9048a3ad82010f9b9941",
+      "size_in_bytes": 217191
+    },
+    {
+      "_path": "include/aws/s3/S3Endpoint.h",
+      "path_type": "hardlink",
+      "sha256": "877115e4763d0a64da22d1287329906ba9693d4f39cfd01a6a7fb98d438850a8",
+      "size_in_bytes": 909
+    },
+    {
+      "_path": "include/aws/s3/S3ErrorMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "4254f1333d2b9b74ba68b3c80f07d6bc27d5921d4401d0c15ac82efc11abacdb",
+      "size_in_bytes": 945
+    },
+    {
+      "_path": "include/aws/s3/S3Errors.h",
+      "path_type": "hardlink",
+      "sha256": "bc8c990596a0d4571d0ef3aa4418e994749081daf10d70a6156cee9b26dc1fd4",
+      "size_in_bytes": 2131
+    },
+    {
+      "_path": "include/aws/s3/S3Request.h",
+      "path_type": "hardlink",
+      "sha256": "e4cb6881a2fe1e4939649f3225a49a405e0464129e729c0f7aa914f5946b3b95",
+      "size_in_bytes": 1834
+    },
+    {
+      "_path": "include/aws/s3/S3_EXPORTS.h",
+      "path_type": "hardlink",
+      "sha256": "044829816400a0ec285a88b85cef8d13aae87d455b896efe709b7a18fd47d212",
+      "size_in_bytes": 1302
+    },
+    {
+      "_path": "include/aws/s3/model/AbortIncompleteMultipartUpload.h",
+      "path_type": "hardlink",
+      "sha256": "14ed01884204a577c5bdb5d7d28f40bbec180a9c51ec38564b1ce4eb46dfa22f",
+      "size_in_bytes": 2823
+    },
+    {
+      "_path": "include/aws/s3/model/AbortMultipartUploadRequest.h",
+      "path_type": "hardlink",
+      "sha256": "80eafacc01ea3775f03b3d145f234922f6a6e3647b5d5a31ebf04f8654763a04",
+      "size_in_bytes": 9867
+    },
+    {
+      "_path": "include/aws/s3/model/AbortMultipartUploadResult.h",
+      "path_type": "hardlink",
+      "sha256": "a7b5f1e65520075157cc70527c110a88dbfaa2b0e7509d5db6bcf3d2b57ed832",
+      "size_in_bytes": 1892
+    },
+    {
+      "_path": "include/aws/s3/model/AccelerateConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "f38f6d2d676c3564fee55e53b218c191b5796431847c30af126b60733b3f83a3",
+      "size_in_bytes": 2903
+    },
+    {
+      "_path": "include/aws/s3/model/AccessControlPolicy.h",
+      "path_type": "hardlink",
+      "sha256": "3250ca75cf3da112d92bf036771b8184b2b6ffb23f8d88b63f0f7c607c2e73bb",
+      "size_in_bytes": 3911
+    },
+    {
+      "_path": "include/aws/s3/model/AccessControlTranslation.h",
+      "path_type": "hardlink",
+      "sha256": "1fed792947215311990a3326fe9c834c3ecf18f64fbfdf80473b8e0b92856f34",
+      "size_in_bytes": 3827
+    },
+    {
+      "_path": "include/aws/s3/model/AnalyticsAndOperator.h",
+      "path_type": "hardlink",
+      "sha256": "242092b4d5da2445311841a0015c831cf538320905674075480fa50030ace6c8",
+      "size_in_bytes": 5417
+    },
+    {
+      "_path": "include/aws/s3/model/AnalyticsConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "ba5d1f087d289277527c4a21f59e9a98458fdf2840edd05de2494d0a545cae23",
+      "size_in_bytes": 7416
+    },
+    {
+      "_path": "include/aws/s3/model/AnalyticsExportDestination.h",
+      "path_type": "hardlink",
+      "sha256": "1a68cca5a92d30aa55ec2759040bd4a39facfcae6f84dd9699e126c9ddab17d9",
+      "size_in_bytes": 2864
+    },
+    {
+      "_path": "include/aws/s3/model/AnalyticsFilter.h",
+      "path_type": "hardlink",
+      "sha256": "a499a14ea049a015631a48050ce8e3a44df14a6676f79375fff3e5f3a9798a33",
+      "size_in_bytes": 5605
+    },
+    {
+      "_path": "include/aws/s3/model/AnalyticsS3BucketDestination.h",
+      "path_type": "hardlink",
+      "sha256": "54807f377861d16d5a2cad19e9b463dff0d9a8abd79cf7082f8eb84e1b9c4e38",
+      "size_in_bytes": 8636
+    },
+    {
+      "_path": "include/aws/s3/model/AnalyticsS3ExportFileFormat.h",
+      "path_type": "hardlink",
+      "sha256": "5cf0cda4d2d4ec7d9f652c703c65704c2f1f3c0077defd3740c9fbb3103ebe52",
+      "size_in_bytes": 1145
+    },
+    {
+      "_path": "include/aws/s3/model/Bucket.h",
+      "path_type": "hardlink",
+      "sha256": "580d31ce09014b03c0de977ac588837a95a8bb0ca35d6f59f0bd06dcd2b3eb8b",
+      "size_in_bytes": 3608
+    },
+    {
+      "_path": "include/aws/s3/model/BucketAccelerateStatus.h",
+      "path_type": "hardlink",
+      "sha256": "6ea497668c153c498475e2f3efabfee629fb89738171f408b275d135a7a57aa4",
+      "size_in_bytes": 1129
+    },
+    {
+      "_path": "include/aws/s3/model/BucketCannedACL.h",
+      "path_type": "hardlink",
+      "sha256": "ceb23804583ca568409f78b14fa765fd6240ebeda530f6739eed79e2ecc94e81",
+      "size_in_bytes": 1130
+    },
+    {
+      "_path": "include/aws/s3/model/BucketLifecycleConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "a2d20d7804d0e6459cfd6d7aac86be985020ea60915f0eb4a7994a302a3c2416",
+      "size_in_bytes": 3516
+    },
+    {
+      "_path": "include/aws/s3/model/BucketLocationConstraint.h",
+      "path_type": "hardlink",
+      "sha256": "8782923d27ce7ef68ba6f54d6c51de84ddb55e93f3675521f15910e91fdf528f",
+      "size_in_bytes": 1430
+    },
+    {
+      "_path": "include/aws/s3/model/BucketLoggingStatus.h",
+      "path_type": "hardlink",
+      "sha256": "9d02c461f903600bf1a3e572a521641208b6d2290431f6a8bf0da3a8e85b58fc",
+      "size_in_bytes": 2289
+    },
+    {
+      "_path": "include/aws/s3/model/BucketLogsPermission.h",
+      "path_type": "hardlink",
+      "sha256": "428ba1996e7aaa74287bee535d35dc3e91dcad58070c1e3d3e8bda9f1714f262",
+      "size_in_bytes": 1126
+    },
+    {
+      "_path": "include/aws/s3/model/BucketVersioningStatus.h",
+      "path_type": "hardlink",
+      "sha256": "5b9e81d15be456f77c863e9720f09b59c688322f9fd97ab2855686b0111db04e",
+      "size_in_bytes": 1129
+    },
+    {
+      "_path": "include/aws/s3/model/CORSConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "8766ac21ebdeb5840d2420e262c11fbbea1f01c9429db88e781661f42fcb6a30",
+      "size_in_bytes": 3256
+    },
+    {
+      "_path": "include/aws/s3/model/CORSRule.h",
+      "path_type": "hardlink",
+      "sha256": "987b37d61a783926b4fcbe1654cafd8d5c47fec6187be111f8aa455b3bbb3d4a",
+      "size_in_bytes": 15043
+    },
+    {
+      "_path": "include/aws/s3/model/CSVInput.h",
+      "path_type": "hardlink",
+      "sha256": "11ca20fd7cefce7eea2b2047c0a47ce0985951e19727472863b4a935b0ce806f",
+      "size_in_bytes": 13267
+    },
+    {
+      "_path": "include/aws/s3/model/CSVOutput.h",
+      "path_type": "hardlink",
+      "sha256": "c6a3bd53338ebfb1ee57faa6f51a17c249bec9df984817221d70c01da9606561",
+      "size_in_bytes": 9873
+    },
+    {
+      "_path": "include/aws/s3/model/CloudFunctionConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "7900455494afb8fa7397d7f96099966a27520ce91d2108240460cef1bf0d2cd8",
+      "size_in_bytes": 5923
+    },
+    {
+      "_path": "include/aws/s3/model/CommonPrefix.h",
+      "path_type": "hardlink",
+      "sha256": "2207812eb9ab026f22d9f2dacc5b64bf7db538b928d642aa53576639d72d378e",
+      "size_in_bytes": 2350
+    },
+    {
+      "_path": "include/aws/s3/model/CompleteMultipartUploadRequest.h",
+      "path_type": "hardlink",
+      "sha256": "cb6e177aa4ce7c0c01e8b03d1156796f91de6f89e9f064560adaba4352422ea7",
+      "size_in_bytes": 9568
+    },
+    {
+      "_path": "include/aws/s3/model/CompleteMultipartUploadResult.h",
+      "path_type": "hardlink",
+      "sha256": "bba37e87a9d355ae1811e55660b6f7e0d9f0e0510d559987beec8e32bdfc20e3",
+      "size_in_bytes": 11990
+    },
+    {
+      "_path": "include/aws/s3/model/CompletedMultipartUpload.h",
+      "path_type": "hardlink",
+      "sha256": "883a23e5cb5a8b983b3ca7be36f007108f1ac8fb7b812f53b3cf513d4962a985",
+      "size_in_bytes": 2652
+    },
+    {
+      "_path": "include/aws/s3/model/CompletedPart.h",
+      "path_type": "hardlink",
+      "sha256": "6625ad91a9670d229a97b3fdc2852f82e4e8b915ae18843a660001009d15b7f0",
+      "size_in_bytes": 3603
+    },
+    {
+      "_path": "include/aws/s3/model/CompressionType.h",
+      "path_type": "hardlink",
+      "sha256": "056fc99fb3470f90320330b2163e6619b206c01ed1b054ad855df4047e5bd51f",
+      "size_in_bytes": 1083
+    },
+    {
+      "_path": "include/aws/s3/model/Condition.h",
+      "path_type": "hardlink",
+      "sha256": "16ac25595cc7bdf8c1b851c1d9bf99d4c53ee3f0f757c7b6a232141629ef89c5",
+      "size_in_bytes": 12070
+    },
+    {
+      "_path": "include/aws/s3/model/CopyObjectRequest.h",
+      "path_type": "hardlink",
+      "sha256": "2b2edf26f796da83f968b6e9bbf5011bf2c1b0187e372c69dda706f2f15cb5ba",
+      "size_in_bytes": 79667
+    },
+    {
+      "_path": "include/aws/s3/model/CopyObjectResult.h",
+      "path_type": "hardlink",
+      "sha256": "62f911149d3dc4b97a8144adf7e4498e76a4afdc91e33d6ae49087233c76167d",
+      "size_in_bytes": 17112
+    },
+    {
+      "_path": "include/aws/s3/model/CopyObjectResultDetails.h",
+      "path_type": "hardlink",
+      "sha256": "c41da15610c1ae36eb137b5750318765b3e8be1795c6d02c388a1808bea4c169",
+      "size_in_bytes": 3377
+    },
+    {
+      "_path": "include/aws/s3/model/CopyPartResult.h",
+      "path_type": "hardlink",
+      "sha256": "a9660561ea9a28945d4ac53badbdb303c5fab3919069a7b4d8285776c0e7e3db",
+      "size_in_bytes": 3818
+    },
+    {
+      "_path": "include/aws/s3/model/CreateBucketConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "36273bb253c7eb9a7f43aad9d37cd5081fb0a1d33a06f3ef943a60bab939cc76",
+      "size_in_bytes": 3437
+    },
+    {
+      "_path": "include/aws/s3/model/CreateBucketRequest.h",
+      "path_type": "hardlink",
+      "sha256": "a0204f16ea116a605ae57d0d2e498b152aea95179606b8faacfed16c2f3006a0",
+      "size_in_bytes": 17149
+    },
+    {
+      "_path": "include/aws/s3/model/CreateBucketResult.h",
+      "path_type": "hardlink",
+      "sha256": "17c02547c399e1beb0d517068501c190db0fc913e2e222852b6d76ebab104acf",
+      "size_in_bytes": 2118
+    },
+    {
+      "_path": "include/aws/s3/model/CreateMultipartUploadRequest.h",
+      "path_type": "hardlink",
+      "sha256": "f257d1a210bd2600311d6fab4aab13c2ae1efad4d163a119c682ee327a483a8e",
+      "size_in_bytes": 58584
+    },
+    {
+      "_path": "include/aws/s3/model/CreateMultipartUploadResult.h",
+      "path_type": "hardlink",
+      "sha256": "0e99205acc7d674d7ce06162838d77983d7a692f31b76d633d8fa563a71d8728",
+      "size_in_bytes": 19296
+    },
+    {
+      "_path": "include/aws/s3/model/DefaultRetention.h",
+      "path_type": "hardlink",
+      "sha256": "bafa91cdb8dff87ca6eefb15c4dc9c485913b0d62a18ca2949ddc7efd3ea3753",
+      "size_in_bytes": 4580
+    },
+    {
+      "_path": "include/aws/s3/model/Delete.h",
+      "path_type": "hardlink",
+      "sha256": "617c154815c7e1186d51e848def79a518b11df27a468caad3912911e41be934b",
+      "size_in_bytes": 3462
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketAnalyticsConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "720cc2fa91381f16a457f68f53a29246e185ce2c0b093600c7ac74f9b9b42580",
+      "size_in_bytes": 7666
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketCorsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "139c44cc4208192a87c5401043e3ea8fbffe3bf4431a50103759fbd756dd4d43",
+      "size_in_bytes": 5334
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketEncryptionRequest.h",
+      "path_type": "hardlink",
+      "sha256": "48a6e1c4b80c9320de06c2610841cadd7cb84f62fc2c398a9e6e25822cdb1572",
+      "size_in_bytes": 6184
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketInventoryConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "8fe4d3c68030baded6b6992dbeddaefe420eeda83e3b9a94840ae993d04eda1c",
+      "size_in_bytes": 7674
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketLifecycleRequest.h",
+      "path_type": "hardlink",
+      "sha256": "86e7f1dd8033b9919399f2b7481abf1bd72ffa24822376285f0a19f077a0bdf3",
+      "size_in_bytes": 5409
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketMetricsConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "0d4afc8ec1401f5bbadf61ce6dd710386a99ac1593bbda795f21e27a173a34ac",
+      "size_in_bytes": 7606
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketPolicyRequest.h",
+      "path_type": "hardlink",
+      "sha256": "9efe0b61f25537b090f893a652b9fc65dbb253f32b060a119eafd8587520fb91",
+      "size_in_bytes": 5364
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketReplicationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "da434d268339f0e9a27915d1a4d55039b2aa2cd96bcdb0e9a3883f1295a5c1b9",
+      "size_in_bytes": 6663
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketRequest.h",
+      "path_type": "hardlink",
+      "sha256": "c19c7cac5379d0983de6bee9e8df517cde28f348b74bb7f6d6e0368d9cadeae0",
+      "size_in_bytes": 5274
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketTaggingRequest.h",
+      "path_type": "hardlink",
+      "sha256": "4229fc1582b0b589a33e22b4ad4e18bc3bb330ee1ab56580af653276ce9a1606",
+      "size_in_bytes": 5379
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteBucketWebsiteRequest.h",
+      "path_type": "hardlink",
+      "sha256": "a2d703d5c46bd5bbf69a251d5f6874b239923dca9d6fd221b5684ad49829f535",
+      "size_in_bytes": 5379
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteMarkerEntry.h",
+      "path_type": "hardlink",
+      "sha256": "10f36d708b3f4eb1b0b3c185be4d2c0cfcf8944307a2c7600438361f487386cb",
+      "size_in_bytes": 6698
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteMarkerReplication.h",
+      "path_type": "hardlink",
+      "sha256": "bbf96590881305692ec23373778a8c9d86e963e3d1dc1401b921e0a4692e2f13",
+      "size_in_bytes": 3597
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteMarkerReplicationStatus.h",
+      "path_type": "hardlink",
+      "sha256": "47af0c21c3fa88b0f515e5880794d53cb4fadc201e47ce25aef5785c50571d82",
+      "size_in_bytes": 1177
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteObjectRequest.h",
+      "path_type": "hardlink",
+      "sha256": "b96108c4efbaa5a9d5a46f7f803bcc16f6067222289dba7093b1c1d16d77b868",
+      "size_in_bytes": 12059
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteObjectResult.h",
+      "path_type": "hardlink",
+      "sha256": "f8b83f84480b20cbc05c76768c700c80b140ffd56acc0419c5c205cf93dfcf50",
+      "size_in_bytes": 4183
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteObjectTaggingRequest.h",
+      "path_type": "hardlink",
+      "sha256": "3e9085c10806d1a0e55a0ecc16b7820850ac9f9ffcf6978a3a355d3323abdd96",
+      "size_in_bytes": 8069
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteObjectTaggingResult.h",
+      "path_type": "hardlink",
+      "sha256": "edbdcd080ca17d3f78ccc1bcfb2e2836619da541e2f590ffee85775c3240b303",
+      "size_in_bytes": 2602
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteObjectsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "ad0f03f641dac851141e0b83b74d1fd3bd4607d61cd0540d7a0abd2226274812",
+      "size_in_bytes": 10605
+    },
+    {
+      "_path": "include/aws/s3/model/DeleteObjectsResult.h",
+      "path_type": "hardlink",
+      "sha256": "797ba302e5281152782ea37967b2eb186db71cfc53ed536901a841a1567e252a",
+      "size_in_bytes": 3908
+    },
+    {
+      "_path": "include/aws/s3/model/DeletePublicAccessBlockRequest.h",
+      "path_type": "hardlink",
+      "sha256": "21e48901a874cfcdca24d1ec16a47de1b9218ee5ab6f6b92014de4a0c14f10a0",
+      "size_in_bytes": 6255
+    },
+    {
+      "_path": "include/aws/s3/model/DeletedObject.h",
+      "path_type": "hardlink",
+      "sha256": "e1745ec2e587b9b1707a8a5d3f50ad8f3d508e13bcc19fcc50a6fb1883a2c7db",
+      "size_in_bytes": 5262
+    },
+    {
+      "_path": "include/aws/s3/model/Destination.h",
+      "path_type": "hardlink",
+      "sha256": "e10274d99030c45d782dd5b22902cf1b5701a26df5b302d998a29efa21c2f636",
+      "size_in_bytes": 20411
+    },
+    {
+      "_path": "include/aws/s3/model/EncodingType.h",
+      "path_type": "hardlink",
+      "sha256": "78f1af84b111cfa0d8c3a576d2797e985d8ace26d24bc918f94dda1721e36472",
+      "size_in_bytes": 1040
+    },
+    {
+      "_path": "include/aws/s3/model/Encryption.h",
+      "path_type": "hardlink",
+      "sha256": "98f266eb98d94d6747ebb90ea8cff81c088d9f85f5affbbe3b4cb65c8d6f56f8",
+      "size_in_bytes": 7386
+    },
+    {
+      "_path": "include/aws/s3/model/EncryptionConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "41c48991223294bbda43b7ae0ee80e8fd1057d1b66af67c879cb2a94d745d56b",
+      "size_in_bytes": 3873
+    },
+    {
+      "_path": "include/aws/s3/model/Error.h",
+      "path_type": "hardlink",
+      "sha256": "ec779ac2ea66d8fb3791eb69444abf3acc5af9f4a8b398aa485573a0fe5d6a26",
+      "size_in_bytes": 5291
+    },
+    {
+      "_path": "include/aws/s3/model/ErrorDocument.h",
+      "path_type": "hardlink",
+      "sha256": "6eef41db13ef077f9b872182686654c7b07bedbfe552b9d7b84e1349679c47c5",
+      "size_in_bytes": 2775
+    },
+    {
+      "_path": "include/aws/s3/model/Event.h",
+      "path_type": "hardlink",
+      "sha256": "b4b1d7ae98a42c1577bdea55b3ba6b9dfb3d760519cb7c7c7884a043971ca71d",
+      "size_in_bytes": 1318
+    },
+    {
+      "_path": "include/aws/s3/model/ExpirationStatus.h",
+      "path_type": "hardlink",
+      "sha256": "31a9e10c88f2fa98f1ee048341ecf0babe75f3bedf395a39b71ff3b5a589b13c",
+      "size_in_bytes": 1086
+    },
+    {
+      "_path": "include/aws/s3/model/ExpressionType.h",
+      "path_type": "hardlink",
+      "sha256": "b7a31fcbf5e4b3f9e6e83bc085d316c7dc66eb53ac29901cd7c670a146ffd596",
+      "size_in_bytes": 1054
+    },
+    {
+      "_path": "include/aws/s3/model/FileHeaderInfo.h",
+      "path_type": "hardlink",
+      "sha256": "057f171e1b9e48bd95e8b5a33b5e320524494f23e3e35313fd94efe0a8d06cc0",
+      "size_in_bytes": 1076
+    },
+    {
+      "_path": "include/aws/s3/model/FilterRule.h",
+      "path_type": "hardlink",
+      "sha256": "2fe04cea720631706edecfee8629c5b407d7ed761e69fddf155b796681a47bfc",
+      "size_in_bytes": 6374
+    },
+    {
+      "_path": "include/aws/s3/model/FilterRuleName.h",
+      "path_type": "hardlink",
+      "sha256": "8dab12ba499c382c4641913ebc90a0ede1a9a8f55144f80019d464a8afab8014",
+      "size_in_bytes": 1069
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketAccelerateConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "59d0ca5c0a382487c2cdbe42e675379c67c2071558436cb7913fef217d50144e",
+      "size_in_bytes": 6166
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketAccelerateConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "7e8fe757847a0772ffcdb0f661692abe33b2ec9863588586d98a1ea88333c39f",
+      "size_in_bytes": 2277
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketAclRequest.h",
+      "path_type": "hardlink",
+      "sha256": "5191c0542f5e8702ca5f896f6a9e73d7e137703cfa265e2424815b48e5bbf2a8",
+      "size_in_bytes": 5274
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketAclResult.h",
+      "path_type": "hardlink",
+      "sha256": "c141ea53200f35b3203c42b64d139ee72c575c3114eed522e4fcbf1ae6c527e1",
+      "size_in_bytes": 2943
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketAnalyticsConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d4fab5132c7a3cf7168a1b74bb7b514272b5793552de52bd43220f376050cb33",
+      "size_in_bytes": 7684
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketAnalyticsConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "f53fceef19c519949d2f15504a3e4793d2fb80798603bd7a0edf56eee2031c97",
+      "size_in_bytes": 2532
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketCorsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "5fd6c96ad973f4a173931954b9fadf2e8be2ee403a2ef12aeb9e267bbc1ee0b4",
+      "size_in_bytes": 5289
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketCorsResult.h",
+      "path_type": "hardlink",
+      "sha256": "2950f186db9648c4611c42ed5338ffc9c1514dda40a873e792a888ccc6f70916",
+      "size_in_bytes": 2291
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketEncryptionRequest.h",
+      "path_type": "hardlink",
+      "sha256": "b98740f4b3e9259f3e9bfdea746de9d59636cdecc2e28e68bc049549b813f5f2",
+      "size_in_bytes": 6163
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketEncryptionResult.h",
+      "path_type": "hardlink",
+      "sha256": "f603f0be313f97d4f986e6a99c28a45c025ba2f32ab42803435d11a6ccb46a91",
+      "size_in_bytes": 2343
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketInventoryConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "93587aa127d7ae6cfeba5299b3a020f71654425ae74279522939e2d62fca53c8",
+      "size_in_bytes": 7692
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketInventoryConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "7a0b3474034302c909722a0653d962cefb17859e2c23a5973b47b9768fc40170",
+      "size_in_bytes": 2422
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketLifecycleConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d361ea528d0202d7b540faeabb6ae3e803ee723f76f8389b05086742c6bcdf26",
+      "size_in_bytes": 5559
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketLifecycleConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "dfe25a5683d28803611a6e209fb4eee0041aafd99808475c61667f1f28ade905",
+      "size_in_bytes": 2420
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketLocationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "60fbfdca4a6a242ca9c6df9193398049a8b5ce898ddbb406bf19fa173f3eb9cd",
+      "size_in_bytes": 5349
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketLocationResult.h",
+      "path_type": "hardlink",
+      "sha256": "6d9486edd42ba0ef9ac007fcd9bb7ae36ed5f1d8032d947143d6db37423e952b",
+      "size_in_bytes": 2103
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketLoggingRequest.h",
+      "path_type": "hardlink",
+      "sha256": "33e4b55e515f711f30964192c0987a7e46528ae81aac5ff73a6f9d38b8ebd5ee",
+      "size_in_bytes": 5334
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketLoggingResult.h",
+      "path_type": "hardlink",
+      "sha256": "2863202099a4e0eb49bfd9a86a9356b5582fe3a7b4bc08921942e2f68f24d44e",
+      "size_in_bytes": 1983
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketMetricsConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "030efbe33eca031756862c53213bab5e202bc3cf56a30cc5d80dae3b3fa47044",
+      "size_in_bytes": 7568
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketMetricsConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "af7afa7bb793d15c4924b252776319d7c1c535d41dd0d08d871782e85893be78",
+      "size_in_bytes": 2364
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketNotificationConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "71e27d1c0ec5f92db45de6844780370908b3cdd1544cc4c058c85364b5f4745a",
+      "size_in_bytes": 6116
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketNotificationConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "3eb7729bf629443b0f653c5bd73120269b475230569d54d889e970834e9e3b77",
+      "size_in_bytes": 8174
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketPolicyRequest.h",
+      "path_type": "hardlink",
+      "sha256": "8aa4b85655cbfabdc130fc5842d051228e124871207eb48d49a7d1b43c476e6c",
+      "size_in_bytes": 5319
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketPolicyResult.h",
+      "path_type": "hardlink",
+      "sha256": "aa4fff0a34c14eff08a1d24c74df3ab91ccb4792a24c92e79cf830d7f9ca6db2",
+      "size_in_bytes": 2083
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketPolicyStatusRequest.h",
+      "path_type": "hardlink",
+      "sha256": "1f758ab75e7c7ceb389b811d6da45d8a56f4fa59f6cd153ba15e7cd08d7981dd",
+      "size_in_bytes": 6081
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketPolicyStatusResult.h",
+      "path_type": "hardlink",
+      "sha256": "812a7ae9313025788693777aed8227d9bfa0b2cbb41c8285c5ed874671ffdd14",
+      "size_in_bytes": 2207
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketReplicationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d8536980f148122e0bcd33953e2aa5cb629b7f001aed3cddc5c66cdb8f81dfea",
+      "size_in_bytes": 5394
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketReplicationResult.h",
+      "path_type": "hardlink",
+      "sha256": "3c90b9dda726877ed543f4a5c142d49afec96887550091b916e0bb5d303b6d29",
+      "size_in_bytes": 2187
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketRequestPaymentRequest.h",
+      "path_type": "hardlink",
+      "sha256": "cef394d58fcaf78ce2c16fd2efe0e9d4964f80f3ff2364e3bc32ef18214d2639",
+      "size_in_bytes": 5439
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketRequestPaymentResult.h",
+      "path_type": "hardlink",
+      "sha256": "d75ac916e1c056a459031d9b708e0728107db641a8a35a1680d449cd00f39a3e",
+      "size_in_bytes": 2143
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketTaggingRequest.h",
+      "path_type": "hardlink",
+      "sha256": "007c76999e1b8f9f5f32dc82fb3e2ae8c34d62b0b798bfd9c8bce2a0f9f05933",
+      "size_in_bytes": 5334
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketTaggingResult.h",
+      "path_type": "hardlink",
+      "sha256": "34431dd7d440dd1d7c916af997db876c858d87a8e1065675f78339d23a081bed",
+      "size_in_bytes": 2225
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketVersioningRequest.h",
+      "path_type": "hardlink",
+      "sha256": "dc10c6f0b3df7612edf59f2da6cfe80a7954337c11d2f41b4fb42759e003ced7",
+      "size_in_bytes": 5379
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketVersioningResult.h",
+      "path_type": "hardlink",
+      "sha256": "54440ce33c8d1b01a282efb660b1637683dc90592328503b318aad9e1c57ec99",
+      "size_in_bytes": 4169
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketWebsiteRequest.h",
+      "path_type": "hardlink",
+      "sha256": "3aba838b72250cdcee530d9dc0b4596b8be5ae7e71c21f2b80526a3ddfde4aa6",
+      "size_in_bytes": 5334
+    },
+    {
+      "_path": "include/aws/s3/model/GetBucketWebsiteResult.h",
+      "path_type": "hardlink",
+      "sha256": "0676eecabc4b2dc3a034ace2e4e9ecb780772723617b7650392e3070bddc803a",
+      "size_in_bytes": 4763
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectAclRequest.h",
+      "path_type": "hardlink",
+      "sha256": "48f2c7b3376733f65ab46c4023f3cb57582ef60b97de169e84b0a0e3fe534dfb",
+      "size_in_bytes": 8760
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectAclResult.h",
+      "path_type": "hardlink",
+      "sha256": "ee3fe6355d2829f4af0e60e10f37cbe3feb9de9b0c3820469c1dce3ff714a92c",
+      "size_in_bytes": 3582
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectLegalHoldRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d6a0d16dede41b33c218a2a3b4dfc98e74ff07611f9ef31784ea4699600d9750",
+      "size_in_bytes": 10370
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectLegalHoldResult.h",
+      "path_type": "hardlink",
+      "sha256": "f11bf9758b74b3cbd1b23ca41c40fcda27d6f17ed54e845058cfa47258269ed6",
+      "size_in_bytes": 2265
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectLockConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "8369c6ed748cbfb6f450aa704c8d03375bfdaecbdb700e404a2cf079d200be06",
+      "size_in_bytes": 6020
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectLockConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "1cb3b78b8f1514da331f64df6803788412371a87f4daec6224bd079d6ab83f81",
+      "size_in_bytes": 2465
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectRequest.h",
+      "path_type": "hardlink",
+      "sha256": "3beeb8f6a0620dffba687309352cc9bc2cbe52c4e6649e65358986d43a953b09",
+      "size_in_bytes": 39749
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectResult.h",
+      "path_type": "hardlink",
+      "sha256": "880f92866a0bfe0010db6b09ba9de0b1a3a34c65bfc8d9feb5f83e224d61a819",
+      "size_in_bytes": 44976
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectRetentionRequest.h",
+      "path_type": "hardlink",
+      "sha256": "66b0abddddea374b4c6416e73507e3c2a3463564e639ca0e0bb460bb229a0918",
+      "size_in_bytes": 10458
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectRetentionResult.h",
+      "path_type": "hardlink",
+      "sha256": "89045efa74e2dab8436c88b9664d0aac4f8a3a303ca6f35fe2384686267c8ff3",
+      "size_in_bytes": 2275
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectTaggingRequest.h",
+      "path_type": "hardlink",
+      "sha256": "f87091764b3494b16b134f91dc1ce5b52cb34c895e3a14f748ea606e3b6f29df",
+      "size_in_bytes": 7454
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectTaggingResult.h",
+      "path_type": "hardlink",
+      "sha256": "c6b3544592c458aa78316e3229fde647076ed35014099e7145dd84fb33eed590",
+      "size_in_bytes": 3165
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectTorrentRequest.h",
+      "path_type": "hardlink",
+      "sha256": "9516e81470a652deafe938ab8c67ffc42e985b0aa8ef4f994b47d04fd117b6ff",
+      "size_in_bytes": 7217
+    },
+    {
+      "_path": "include/aws/s3/model/GetObjectTorrentResult.h",
+      "path_type": "hardlink",
+      "sha256": "916291bfd0c341516065cb534512b3dd14353fd2f8a8af04365f2bd55c025e84",
+      "size_in_bytes": 2639
+    },
+    {
+      "_path": "include/aws/s3/model/GetPublicAccessBlockRequest.h",
+      "path_type": "hardlink",
+      "sha256": "2c47ba34a777bd0966cfedade250cf2a6338f83a0fe41dc7af3f2aa99362ff96",
+      "size_in_bytes": 6322
+    },
+    {
+      "_path": "include/aws/s3/model/GetPublicAccessBlockResult.h",
+      "path_type": "hardlink",
+      "sha256": "5dda6f76fc4dae385e2c650bdfe6f5f1f7d6f4d3e22a88f1af4a9b8118b742aa",
+      "size_in_bytes": 2820
+    },
+    {
+      "_path": "include/aws/s3/model/GlacierJobParameters.h",
+      "path_type": "hardlink",
+      "sha256": "e98d7e9d83ca0fa92839c19245f889f39c176ebdf28ee5f85e928d49acdd3cd3",
+      "size_in_bytes": 2456
+    },
+    {
+      "_path": "include/aws/s3/model/Grant.h",
+      "path_type": "hardlink",
+      "sha256": "ddd080effc91a523774c31b38e1f1647561e92df9a279cd8e33ee25168cd13d6",
+      "size_in_bytes": 3184
+    },
+    {
+      "_path": "include/aws/s3/model/Grantee.h",
+      "path_type": "hardlink",
+      "sha256": "0fc3796977bc6278034227cf0344c60f41171a60c3c0cc2a7aeb5f714956df56",
+      "size_in_bytes": 7304
+    },
+    {
+      "_path": "include/aws/s3/model/HeadBucketRequest.h",
+      "path_type": "hardlink",
+      "sha256": "fde2d6123640509988b2700c2bea668ddfab3538cd56a81eb0f6e2eb6a74ebb4",
+      "size_in_bytes": 5244
+    },
+    {
+      "_path": "include/aws/s3/model/HeadObjectRequest.h",
+      "path_type": "hardlink",
+      "sha256": "9bf283fe649b97215f2856cfe47bf5f95129ba70ae9385e169f9042c5fafd4cd",
+      "size_in_bytes": 29784
+    },
+    {
+      "_path": "include/aws/s3/model/HeadObjectResult.h",
+      "path_type": "hardlink",
+      "sha256": "f18b0886e8e59f73741913f08931885081bd8a1b01e4312bf222dbf340587113",
+      "size_in_bytes": 40689
+    },
+    {
+      "_path": "include/aws/s3/model/IndexDocument.h",
+      "path_type": "hardlink",
+      "sha256": "94a80831385199c97df969c8f5009027d887e4aa40af984bb12210de347a7741",
+      "size_in_bytes": 5182
+    },
+    {
+      "_path": "include/aws/s3/model/Initiator.h",
+      "path_type": "hardlink",
+      "sha256": "7d0ba4d70badbabc5132ce0415e863a3ec2e5b81424c1cbf114d02dc84927e06",
+      "size_in_bytes": 4709
+    },
+    {
+      "_path": "include/aws/s3/model/InputSerialization.h",
+      "path_type": "hardlink",
+      "sha256": "68577f45de2c3ffb51699b7198106f9be6fbae4dfd025ae85f819da4c7dd2fbb",
+      "size_in_bytes": 6401
+    },
+    {
+      "_path": "include/aws/s3/model/InventoryConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "0a09c0a3f5d965e77284096d0eaa400b5f2e0501f563d3c99ca23181d90a7570",
+      "size_in_bytes": 14161
+    },
+    {
+      "_path": "include/aws/s3/model/InventoryDestination.h",
+      "path_type": "hardlink",
+      "sha256": "a6016dbcc1bc76ae03e9d215198f99c865e8ef6d04f76d9697557f7ace37ec46",
+      "size_in_bytes": 3278
+    },
+    {
+      "_path": "include/aws/s3/model/InventoryEncryption.h",
+      "path_type": "hardlink",
+      "sha256": "a334f871ccae0fb1e149fbd3fd11693a7328b8056b07a83279dee7dd46ec8e76",
+      "size_in_bytes": 3814
+    },
+    {
+      "_path": "include/aws/s3/model/InventoryFilter.h",
+      "path_type": "hardlink",
+      "sha256": "63eb112f2d411bb22de919159655c2ea31d655bf301f891488f7abccc200d8e8",
+      "size_in_bytes": 3062
+    },
+    {
+      "_path": "include/aws/s3/model/InventoryFormat.h",
+      "path_type": "hardlink",
+      "sha256": "298b8d1301aef73f57103006101eb733561d3ed86369ef6ec3252eaf098fd4a4",
+      "size_in_bytes": 1083
+    },
+    {
+      "_path": "include/aws/s3/model/InventoryFrequency.h",
+      "path_type": "hardlink",
+      "sha256": "b5eb37b324b6f4dbb1bd50feae69a11a75f5d6b09a3d035ad5858a345929ae32",
+      "size_in_bytes": 1096
+    },
+    {
+      "_path": "include/aws/s3/model/InventoryIncludedObjectVersions.h",
+      "path_type": "hardlink",
+      "sha256": "36693b32635df6d0887bf1b0649b8282e5df1eb8fe14e028b3529fe5ce80553a",
+      "size_in_bytes": 1186
+    },
+    {
+      "_path": "include/aws/s3/model/InventoryOptionalField.h",
+      "path_type": "hardlink",
+      "sha256": "c1f863292be2c5dd090c457119895682708ddbaefa80b677d004b5ff17be52c4",
+      "size_in_bytes": 1313
+    },
+    {
+      "_path": "include/aws/s3/model/InventoryS3BucketDestination.h",
+      "path_type": "hardlink",
+      "sha256": "bf121d3c6c4aadaaef9c912dba2adcbb444f225a640f592d7b7a5880f091f43e",
+      "size_in_bytes": 9121
+    },
+    {
+      "_path": "include/aws/s3/model/InventorySchedule.h",
+      "path_type": "hardlink",
+      "sha256": "0ffb99a8d04c54aa24317930a8187b9be3d04aa962df37df8a370272e56780e8",
+      "size_in_bytes": 2577
+    },
+    {
+      "_path": "include/aws/s3/model/JSONInput.h",
+      "path_type": "hardlink",
+      "sha256": "e6bcf2275bc75d10a345a8e522f14eaf1392a3aab04c423f188a981eb79df213",
+      "size_in_bytes": 2323
+    },
+    {
+      "_path": "include/aws/s3/model/JSONOutput.h",
+      "path_type": "hardlink",
+      "sha256": "b4ab44c2813301a5119397ad49b2920d3feab4dd1502afa48dee3625cf63ba3f",
+      "size_in_bytes": 3027
+    },
+    {
+      "_path": "include/aws/s3/model/JSONType.h",
+      "path_type": "hardlink",
+      "sha256": "2a00de8a72f3940dbff8b899518154743909b851b22937e65808f6ed3a02d366",
+      "size_in_bytes": 1028
+    },
+    {
+      "_path": "include/aws/s3/model/LambdaFunctionConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "56d9c0201a2609ef9240566864cc724c4bf8056e7285aafdd276630d29923920",
+      "size_in_bytes": 9190
+    },
+    {
+      "_path": "include/aws/s3/model/LifecycleConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "ce2635a3d95ffdf86b2fcc273e941dfc36a982b0e2d69cdcc227c5afe2afbfb5",
+      "size_in_bytes": 2553
+    },
+    {
+      "_path": "include/aws/s3/model/LifecycleExpiration.h",
+      "path_type": "hardlink",
+      "sha256": "90364764ed0674b93d8908a3b5bc0ff3ff9774349cba216368706b43c40bc0ae",
+      "size_in_bytes": 5562
+    },
+    {
+      "_path": "include/aws/s3/model/LifecycleRule.h",
+      "path_type": "hardlink",
+      "sha256": "4d472f5fa70f35cf3c173abc05ac649ca9b894a565fa6209f0f24ecae2c06a93",
+      "size_in_bytes": 12189
+    },
+    {
+      "_path": "include/aws/s3/model/LifecycleRuleAndOperator.h",
+      "path_type": "hardlink",
+      "sha256": "54b9cbfb618b990e44c9dbe635150e131560fb367f16b897d3109396194d6484",
+      "size_in_bytes": 4617
+    },
+    {
+      "_path": "include/aws/s3/model/LifecycleRuleFilter.h",
+      "path_type": "hardlink",
+      "sha256": "bb269de46524b9ca49a6e45acccf2c5b78e4ad091ce2b2606e8aa389ebb8c6d2",
+      "size_in_bytes": 5211
+    },
+    {
+      "_path": "include/aws/s3/model/ListBucketAnalyticsConfigurationsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "f0e58b09836b2abfd41878e671c0a48016d6e5727fd58e3327164936804d2965",
+      "size_in_bytes": 8331
+    },
+    {
+      "_path": "include/aws/s3/model/ListBucketAnalyticsConfigurationsResult.h",
+      "path_type": "hardlink",
+      "sha256": "6b8e39c009be3aff54bcde16c3d4ed8f8f207968d17fca0f5ee9646823a6b17b",
+      "size_in_bytes": 8737
+    },
+    {
+      "_path": "include/aws/s3/model/ListBucketInventoryConfigurationsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "0d108a8212d1915d4533ac4e62d18edc810d2fdb61ea787fc9613119734295d0",
+      "size_in_bytes": 9835
+    },
+    {
+      "_path": "include/aws/s3/model/ListBucketInventoryConfigurationsResult.h",
+      "path_type": "hardlink",
+      "sha256": "65ecf94a63cd8ad6e750b03c3cfa5ae1d7f63370fb3411998a9a997179386191",
+      "size_in_bytes": 8951
+    },
+    {
+      "_path": "include/aws/s3/model/ListBucketMetricsConfigurationsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "c3c9d0f8c1f3d10759a7acd3fed423ca6aea71b7bd9a1197712c46581d6b482e",
+      "size_in_bytes": 9767
+    },
+    {
+      "_path": "include/aws/s3/model/ListBucketMetricsConfigurationsResult.h",
+      "path_type": "hardlink",
+      "sha256": "9f84faa7721f994ec3a08c27a549ae5e3a5eb4df8452caa661f0e5bce0c78f90",
+      "size_in_bytes": 9360
+    },
+    {
+      "_path": "include/aws/s3/model/ListBucketsResult.h",
+      "path_type": "hardlink",
+      "sha256": "e1d7f16d33e22c9077566b3e73e2ceeac17443123656cdf4944b39f3d57db11a",
+      "size_in_bytes": 2817
+    },
+    {
+      "_path": "include/aws/s3/model/ListMultipartUploadsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "ea594862b546ddf6de8ff59dc0c29ae5ae522d1d005dbec496c2ef1fa35c1dd2",
+      "size_in_bytes": 15497
+    },
+    {
+      "_path": "include/aws/s3/model/ListMultipartUploadsResult.h",
+      "path_type": "hardlink",
+      "sha256": "516bf7cda5b756db73eba1358971ab5e023896cc83f8bdff3b8f443ce040cd95",
+      "size_in_bytes": 17288
+    },
+    {
+      "_path": "include/aws/s3/model/ListObjectVersionsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "a90c6d8abb9a4edf630ff057d638fce7cf94ff76dd3a419857147dfad55cb594",
+      "size_in_bytes": 13777
+    },
+    {
+      "_path": "include/aws/s3/model/ListObjectVersionsResult.h",
+      "path_type": "hardlink",
+      "sha256": "dd2a552b19dfc2773abd223180960d0e32b7005e81ec34bb134160a6584729b4",
+      "size_in_bytes": 15685
+    },
+    {
+      "_path": "include/aws/s3/model/ListObjectsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "2adb91f9509cbc5a8b9c4159e3e61eaeaf017b25b619d4c48e9a7d9cace23fdd",
+      "size_in_bytes": 13836
+    },
+    {
+      "_path": "include/aws/s3/model/ListObjectsResult.h",
+      "path_type": "hardlink",
+      "sha256": "e553af6d8515e90f8433c1cc41b5f8790981e39636f4f78fa92a2a0554572134",
+      "size_in_bytes": 13662
+    },
+    {
+      "_path": "include/aws/s3/model/ListObjectsV2Request.h",
+      "path_type": "hardlink",
+      "sha256": "ef9c6c63a9ce01bd19ac1138a4478924c1eef96cc7708537e79e944f2e77458c",
+      "size_in_bytes": 19510
+    },
+    {
+      "_path": "include/aws/s3/model/ListObjectsV2Result.h",
+      "path_type": "hardlink",
+      "sha256": "d9f3751a03a91c9ea087ffdb4b2a8875f702dacdef6be535af414afaadcbb7ef",
+      "size_in_bytes": 19070
+    },
+    {
+      "_path": "include/aws/s3/model/ListPartsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "5210ec8fd3cfad4e94a6e73c79b96e6fac7d8cdab748f216f5f99faeb6543f18",
+      "size_in_bytes": 10454
+    },
+    {
+      "_path": "include/aws/s3/model/ListPartsResult.h",
+      "path_type": "hardlink",
+      "sha256": "71af59053f7c1df27ec660de8ac5963f5bded0e275f5f72f498c8a7d1695f4e5",
+      "size_in_bytes": 14388
+    },
+    {
+      "_path": "include/aws/s3/model/LoggingEnabled.h",
+      "path_type": "hardlink",
+      "sha256": "31a75904ca1ee6a67fa2682d887f6b4a05de07bbe1298ea5a6c0ac377846ac25",
+      "size_in_bytes": 10594
+    },
+    {
+      "_path": "include/aws/s3/model/MFADelete.h",
+      "path_type": "hardlink",
+      "sha256": "3b779842865d371e83105d00d76126dec8c7a4b1e7a135629cb1a34d35cb158f",
+      "size_in_bytes": 1037
+    },
+    {
+      "_path": "include/aws/s3/model/MFADeleteStatus.h",
+      "path_type": "hardlink",
+      "sha256": "32082e9d8715233e24da28675babe4b1c59710b99ce242079fc08ef9a12abcd6",
+      "size_in_bytes": 1079
+    },
+    {
+      "_path": "include/aws/s3/model/MetadataDirective.h",
+      "path_type": "hardlink",
+      "sha256": "d99c12e461cf87552d656d48b87464bcdb474e4be25e1695ebba75b6582bb90d",
+      "size_in_bytes": 1089
+    },
+    {
+      "_path": "include/aws/s3/model/MetadataEntry.h",
+      "path_type": "hardlink",
+      "sha256": "f1a4cd7857fa0975fc6c070470e778bf4a12d9b2c243ff5e8f57b230a134238d",
+      "size_in_bytes": 3378
+    },
+    {
+      "_path": "include/aws/s3/model/MetricsAndOperator.h",
+      "path_type": "hardlink",
+      "sha256": "41c679d3b71486d896ecea094e29783ffc954d175203712766af98aa4e348aae",
+      "size_in_bytes": 4460
+    },
+    {
+      "_path": "include/aws/s3/model/MetricsConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "2eb22c0a54028fc1319cad402fb33f2a2f1ebbd7dbe69c7e285bbad9002c1499",
+      "size_in_bytes": 5477
+    },
+    {
+      "_path": "include/aws/s3/model/MetricsFilter.h",
+      "path_type": "hardlink",
+      "sha256": "5ff8c7c9ef9ab0d363a8165f68241f435f8c4422889e247cc3d34a8248ff78b5",
+      "size_in_bytes": 6007
+    },
+    {
+      "_path": "include/aws/s3/model/MultipartUpload.h",
+      "path_type": "hardlink",
+      "sha256": "ef6f62abdc1786fb349a81ed698b54f484efb87a131bdc3443595660a70b3645",
+      "size_in_bytes": 8743
+    },
+    {
+      "_path": "include/aws/s3/model/NoncurrentVersionExpiration.h",
+      "path_type": "hardlink",
+      "sha256": "9bf1598ee21abefd0c550b1c394aa884e639f71c6420a68dc3e1fcb37e7cc1e6",
+      "size_in_bytes": 3980
+    },
+    {
+      "_path": "include/aws/s3/model/NoncurrentVersionTransition.h",
+      "path_type": "hardlink",
+      "sha256": "97bc86e3e186c92d4e2be995586cf920347e3b7f5031a388efca71cd9829164f",
+      "size_in_bytes": 5491
+    },
+    {
+      "_path": "include/aws/s3/model/NotificationConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "f6101f44064b048f931f24e49323417d4ea7dd30e4aa0e9f2d01f2f45bd53f48",
+      "size_in_bytes": 9237
+    },
+    {
+      "_path": "include/aws/s3/model/NotificationConfigurationDeprecated.h",
+      "path_type": "hardlink",
+      "sha256": "127ffa343be3ac7a43d1997c4bb0e5423e0c7c725848970f5a2769f6f5004e5e",
+      "size_in_bytes": 4845
+    },
+    {
+      "_path": "include/aws/s3/model/NotificationConfigurationFilter.h",
+      "path_type": "hardlink",
+      "sha256": "2516eddedbb37b0571276d8e86227d78d3734f9955cd18a7fbcf60b8097b432c",
+      "size_in_bytes": 2465
+    },
+    {
+      "_path": "include/aws/s3/model/Object.h",
+      "path_type": "hardlink",
+      "sha256": "e4abc1af8bb88229ea80da8fcfbf866074f33efd07480519ee5babbcb4b0e606",
+      "size_in_bytes": 6605
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectCannedACL.h",
+      "path_type": "hardlink",
+      "sha256": "6f10abd8502b1e22c86b63f83bb56840f99a401fe0e61ca2506b49664a31e341",
+      "size_in_bytes": 1203
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectIdentifier.h",
+      "path_type": "hardlink",
+      "sha256": "9867952fe151c2aef5e5ac4102e48171025b76960e9a72ddf113b9633c4e244c",
+      "size_in_bytes": 4205
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectLockConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "da93444f50ccf360e60884ef24e58c307e399bbd69ec238978c0a9706661636a",
+      "size_in_bytes": 4077
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectLockEnabled.h",
+      "path_type": "hardlink",
+      "sha256": "5c49eea2a2c8660e67bebdc65d05fe527d97f014b803431ad21ef4df2fe53148",
+      "size_in_bytes": 1079
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectLockLegalHold.h",
+      "path_type": "hardlink",
+      "sha256": "7517b540517fdbb2158a414889dea0107764506c0433f17d5793e0f08d623af3",
+      "size_in_bytes": 2690
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectLockLegalHoldStatus.h",
+      "path_type": "hardlink",
+      "sha256": "2521e67e6c26348b91f5105a38658ec512407921a3b0d1c06183dc45c512f096",
+      "size_in_bytes": 1139
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectLockMode.h",
+      "path_type": "hardlink",
+      "sha256": "a4ec10c70ed7bad1cfccb9d1feaef7d7019234d43229bac2f06286ddf55e6c26",
+      "size_in_bytes": 1077
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectLockRetention.h",
+      "path_type": "hardlink",
+      "sha256": "dd831dffb6797579c166870ed93e9ba7ed9dcdabc11e561b8c207e867434810f",
+      "size_in_bytes": 3941
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectLockRetentionMode.h",
+      "path_type": "hardlink",
+      "sha256": "567004b7be21f31b40f753bc970c25ec4b1e0da40b9347200a869b23381296b1",
+      "size_in_bytes": 1140
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectLockRule.h",
+      "path_type": "hardlink",
+      "sha256": "f88bee3c32415d46bb05c3a2273d36bdcb9b368e228f12f78fd8af972ab8c920",
+      "size_in_bytes": 2997
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectStorageClass.h",
+      "path_type": "hardlink",
+      "sha256": "d8bf1ac2a3fa177f3cf528ca74c7c5bff545292498ac6913143c380a5767783e",
+      "size_in_bytes": 1200
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectVersion.h",
+      "path_type": "hardlink",
+      "sha256": "d5bdf8620e9aafd6a5f107469348e62c0b71a477b78a3560ba53a8e056ecb8d8",
+      "size_in_bytes": 9514
+    },
+    {
+      "_path": "include/aws/s3/model/ObjectVersionStorageClass.h",
+      "path_type": "hardlink",
+      "sha256": "36929c71675669b0c181728d305f6a2de7567ef9973b684fc86d35a1b3a10baa",
+      "size_in_bytes": 1136
+    },
+    {
+      "_path": "include/aws/s3/model/OutputLocation.h",
+      "path_type": "hardlink",
+      "sha256": "5750d034840ebb302c886405da96d78c2ce2bfa4d16da0c8152d432bf4b780b2",
+      "size_in_bytes": 2634
+    },
+    {
+      "_path": "include/aws/s3/model/OutputSerialization.h",
+      "path_type": "hardlink",
+      "sha256": "16f3083d71ac518cbf0d9c5c0d2ffeb2a98cc86cf2ad9333cfa6fa01aad7d1c9",
+      "size_in_bytes": 3653
+    },
+    {
+      "_path": "include/aws/s3/model/Owner.h",
+      "path_type": "hardlink",
+      "sha256": "d65fa6fd76eb3f69dbb73706281d22ca9897c3a9791307ec8a1b41f8e8826c53",
+      "size_in_bytes": 3321
+    },
+    {
+      "_path": "include/aws/s3/model/OwnerOverride.h",
+      "path_type": "hardlink",
+      "sha256": "3c1411f21292b68e5ca12939ed02bef99e22857bd54f57f50c95efc8a651a78f",
+      "size_in_bytes": 1055
+    },
+    {
+      "_path": "include/aws/s3/model/ParquetInput.h",
+      "path_type": "hardlink",
+      "sha256": "a7d27e9a14dd7ba7dd88f7be1e9c6ada31ca1c3e5bb93ad2af2ddb185e05e88d",
+      "size_in_bytes": 1244
+    },
+    {
+      "_path": "include/aws/s3/model/Part.h",
+      "path_type": "hardlink",
+      "sha256": "813fbf141ee8885491e472e38ab2b91ee226edc78632ef4592fc1d1fbcce4379",
+      "size_in_bytes": 5368
+    },
+    {
+      "_path": "include/aws/s3/model/Payer.h",
+      "path_type": "hardlink",
+      "sha256": "22c363ad838e230ff3d6791c7b6348900f19b987c5511238042e27a732dcc1f4",
+      "size_in_bytes": 1014
+    },
+    {
+      "_path": "include/aws/s3/model/Permission.h",
+      "path_type": "hardlink",
+      "sha256": "b7491860a63ff7cd042ff02e73e3ec1a817fd7b9e6a1d1e2485344941f16d9b4",
+      "size_in_bytes": 1085
+    },
+    {
+      "_path": "include/aws/s3/model/PolicyStatus.h",
+      "path_type": "hardlink",
+      "sha256": "e540827f4697b6bb9e3a3916167f89018153b06838f0b8d3cba21bb94eb02618",
+      "size_in_bytes": 2460
+    },
+    {
+      "_path": "include/aws/s3/model/Progress.h",
+      "path_type": "hardlink",
+      "sha256": "430c9cc97551e8a56a22d27d6a57242e696185c4e745fc2cf006c5fbf748b047",
+      "size_in_bytes": 3584
+    },
+    {
+      "_path": "include/aws/s3/model/ProgressEvent.h",
+      "path_type": "hardlink",
+      "sha256": "2a386c760d5b5e6ccf54d090af15056ea40a490dd2b7b5e2e5fa19c53d8a5f2e",
+      "size_in_bytes": 2273
+    },
+    {
+      "_path": "include/aws/s3/model/Protocol.h",
+      "path_type": "hardlink",
+      "sha256": "611ea863739fdff17438d3d22a88681a082e15f77fc3de7068a6bfface571cdb",
+      "size_in_bytes": 1024
+    },
+    {
+      "_path": "include/aws/s3/model/PublicAccessBlockConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "f96edc7ecb7d6925d9348503ce90512491e299e1a468da0a5ffdd25854434666",
+      "size_in_bytes": 10716
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketAccelerateConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "3ab2ec8bda5628080594c1857246698961fa191ee49905a0f9aaa9fb02a33a29",
+      "size_in_bytes": 7783
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketAclRequest.h",
+      "path_type": "hardlink",
+      "sha256": "8e3c71280e1c3ad73b4526285e0004a0acc5166901376f3eeea4af74fee2d50e",
+      "size_in_bytes": 17608
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketAnalyticsConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "c57754329f78a771102f4690b3a1f0357641a5fa5e993225ee1c164780280f43",
+      "size_in_bytes": 9168
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketCorsRequest.h",
+      "path_type": "hardlink",
+      "sha256": "49e81b52dbc6f2c93adaa8d627f2b75fa4e0a60e7e50ec1b27072704127340bd",
+      "size_in_bytes": 7632
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketEncryptionRequest.h",
+      "path_type": "hardlink",
+      "sha256": "9a9a4f20c1fa385224a91bf4a6f58f360523cd580ada9f67841667ce81e649c3",
+      "size_in_bytes": 12837
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketInventoryConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "c8c6dbe1a9d430304c5a8b6073321a143137da72f25e4c0206701b04c8916877",
+      "size_in_bytes": 9068
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketLifecycleConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "2aeb71fa4d29d8323e4cb076ab26823c06a27f559b276c6cd712be61b678f9da",
+      "size_in_bytes": 6878
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketLoggingRequest.h",
+      "path_type": "hardlink",
+      "sha256": "c1c811ca1e4e198591e6c69f720e308ab20310756aeac4c476f3c2aa1d0a66f8",
+      "size_in_bytes": 7663
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketMetricsConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "d8e3da5d62e19927ac9742457f140045d90c450d7cf1aef522798fbefbe84ab3",
+      "size_in_bytes": 8906
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketNotificationConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "62b4b0d304456b817e1acfca938b6925097bd3779e8b59bc4e6bdae23b03df3f",
+      "size_in_bytes": 6881
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketPolicyRequest.h",
+      "path_type": "hardlink",
+      "sha256": "97c8da9682177075d2df3f17a6ab20611b43db0b85008605d5342ea28f207722",
+      "size_in_bytes": 7828
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketReplicationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "87eaac4f020ee5abc6cd199edb487f3dc241bff8d11581a601d52936522edf68",
+      "size_in_bytes": 11085
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketRequestPaymentRequest.h",
+      "path_type": "hardlink",
+      "sha256": "f41551dd76f01fd707a654c5129ab8558435bc834975cc8e5e89d276bd74a678",
+      "size_in_bytes": 7987
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketTaggingRequest.h",
+      "path_type": "hardlink",
+      "sha256": "a37ca5a70c58df334e940409c5403e54771b0ba4673a19b3f3f4abc071c634a3",
+      "size_in_bytes": 7462
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketVersioningRequest.h",
+      "path_type": "hardlink",
+      "sha256": "03347a4965adea25cb85c006cf59e367f2711a45b9130b3c580fb7233410b5a0",
+      "size_in_bytes": 9981
+    },
+    {
+      "_path": "include/aws/s3/model/PutBucketWebsiteRequest.h",
+      "path_type": "hardlink",
+      "sha256": "2f315cfcdf7ff65152ecccbfc7f66fafbae9aedef0614299c2c2741270ceb1d8",
+      "size_in_bytes": 7686
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectAclRequest.h",
+      "path_type": "hardlink",
+      "sha256": "3853e3949c396d962ee70aa7e3b5eb75ccee9b05092a1fb5eeb187fca97dac83",
+      "size_in_bytes": 21012
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectAclResult.h",
+      "path_type": "hardlink",
+      "sha256": "82b7ac6bdebf8eb73395d15a905390c7a64a31ff0ee65d8ec35461cc12996006",
+      "size_in_bytes": 1844
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectLegalHoldRequest.h",
+      "path_type": "hardlink",
+      "sha256": "c4dff4a2b16eb4661cb3346c018f80d28ff6eeb97532eb39990524f01988147e",
+      "size_in_bytes": 13200
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectLegalHoldResult.h",
+      "path_type": "hardlink",
+      "sha256": "d64fdbb6786cb65da4bc0016d6c20f195e979721446cdd66a4094473f9ddef3f",
+      "size_in_bytes": 1880
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectLockConfigurationRequest.h",
+      "path_type": "hardlink",
+      "sha256": "cffca9f30ef7a7f382ee5ed684c842239e1d9c496dcc0d12b13d1b16e084c70b",
+      "size_in_bytes": 12037
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectLockConfigurationResult.h",
+      "path_type": "hardlink",
+      "sha256": "f35504e1f7ad02942e7f2a705b3478c326001033827f88973d12731da9af9ec4",
+      "size_in_bytes": 1928
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectRequest.h",
+      "path_type": "hardlink",
+      "sha256": "e6cd9cc633955af9bb48f8969da7e125b011aa6c3952e9ca643507770c8cdc6d",
+      "size_in_bytes": 60702
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectResult.h",
+      "path_type": "hardlink",
+      "sha256": "1f31f415cf91720b27f8e50669111f0950866cabb2360a5badd070e3d25c4968",
+      "size_in_bytes": 16646
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectRetentionRequest.h",
+      "path_type": "hardlink",
+      "sha256": "4b8d49e9fddcd28c8fd4be74164dbe835269cfd7a93128803e8785e2c6e2bbb8",
+      "size_in_bytes": 14710
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectRetentionResult.h",
+      "path_type": "hardlink",
+      "sha256": "b9e4c816f35cd604b172899cc1e1bdd2f01fc63f01ea08bcfa7c4fb9036744c3",
+      "size_in_bytes": 1880
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectTaggingRequest.h",
+      "path_type": "hardlink",
+      "sha256": "1bbe2b5bd9c21a0156810c932a7a885267c7543055448decafd8b6fbc0445f8d",
+      "size_in_bytes": 9507
+    },
+    {
+      "_path": "include/aws/s3/model/PutObjectTaggingResult.h",
+      "path_type": "hardlink",
+      "sha256": "4efb325e08dfa3f9144ebc1ce2a7f09ea5bd13756be733251ff71145d548ff9e",
+      "size_in_bytes": 2161
+    },
+    {
+      "_path": "include/aws/s3/model/PutPublicAccessBlockRequest.h",
+      "path_type": "hardlink",
+      "sha256": "5cdae53bab839a39717927d4c5a7f14b90544875214607b6dfd1ad5b1db46e4f",
+      "size_in_bytes": 12576
+    },
+    {
+      "_path": "include/aws/s3/model/QueueConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "3a4154c9ec9dc06213baf19b2d87f94b586364d26085da27db2b86349ac3c030",
+      "size_in_bytes": 6780
+    },
+    {
+      "_path": "include/aws/s3/model/QueueConfigurationDeprecated.h",
+      "path_type": "hardlink",
+      "sha256": "a37049eda465742780dc4e819e4def20a84d6003df9eecfff563a8f237bece18",
+      "size_in_bytes": 4548
+    },
+    {
+      "_path": "include/aws/s3/model/QuoteFields.h",
+      "path_type": "hardlink",
+      "sha256": "390661f6d680343ac5adfb1cb91840feb918bb95ed03b49cc526dfd542e4b9dd",
+      "size_in_bytes": 1050
+    },
+    {
+      "_path": "include/aws/s3/model/RecordsEvent.h",
+      "path_type": "hardlink",
+      "sha256": "dfcb7fea7921d0b42f4299ffe63aaa1e3be54a3e31b40f0a977ad109c98eb5cf",
+      "size_in_bytes": 2371
+    },
+    {
+      "_path": "include/aws/s3/model/Redirect.h",
+      "path_type": "hardlink",
+      "sha256": "39d196404df1fbfcd7d3c8bbe3462ea0dc9e63e5d8036e623a7ea86c59a6c321",
+      "size_in_bytes": 15335
+    },
+    {
+      "_path": "include/aws/s3/model/RedirectAllRequestsTo.h",
+      "path_type": "hardlink",
+      "sha256": "0c5c48900539091d2259289616f5877a7f5c89f4967525020b18d9f011d6d01f",
+      "size_in_bytes": 4519
+    },
+    {
+      "_path": "include/aws/s3/model/ReplicationConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "b713c1ceabc87b932963e16aecf23fa8b199131aa4f8ed8957e8099ed4801f16",
+      "size_in_bytes": 8126
+    },
+    {
+      "_path": "include/aws/s3/model/ReplicationRule.h",
+      "path_type": "hardlink",
+      "sha256": "59c14b025713a2344c846edf966df756ce94be5bf4939e58004e1647f8d7c7a7",
+      "size_in_bytes": 14391
+    },
+    {
+      "_path": "include/aws/s3/model/ReplicationRuleAndOperator.h",
+      "path_type": "hardlink",
+      "sha256": "280cc8f795477728071fb92e57f132fb5963eb21812a15577c597cdd36df8524",
+      "size_in_bytes": 3676
+    },
+    {
+      "_path": "include/aws/s3/model/ReplicationRuleFilter.h",
+      "path_type": "hardlink",
+      "sha256": "c7adb7e69b42841e3038995098ec52e017eff5061ff8257858918515d068bf91",
+      "size_in_bytes": 8956
+    },
+    {
+      "_path": "include/aws/s3/model/ReplicationRuleStatus.h",
+      "path_type": "hardlink",
+      "sha256": "eea3c5ce515ae20bffecf5930259e1577ea97c6fe2727712635f8de62218265b",
+      "size_in_bytes": 1121
+    },
+    {
+      "_path": "include/aws/s3/model/ReplicationStatus.h",
+      "path_type": "hardlink",
+      "sha256": "3f13ca27055ace13e8a042d65ac5f991b9c39f8d9d1e5b8b7e4495a1922c3895",
+      "size_in_bytes": 1119
+    },
+    {
+      "_path": "include/aws/s3/model/RequestCharged.h",
+      "path_type": "hardlink",
+      "sha256": "c6187201e2362344115a6ff27a5104474732a58b938c0f4c9dd9e0f28b26d7c1",
+      "size_in_bytes": 1060
+    },
+    {
+      "_path": "include/aws/s3/model/RequestPayer.h",
+      "path_type": "hardlink",
+      "sha256": "f0a0716f08d823b17944ab049684d839ead04d614418a03b764c3c21cb7a28bd",
+      "size_in_bytes": 1046
+    },
+    {
+      "_path": "include/aws/s3/model/RequestPaymentConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "c0bb276ff6a63507dd1026ba5821737ce1a26f6a63481620c4e4e200f9a83eee",
+      "size_in_bytes": 2474
+    },
+    {
+      "_path": "include/aws/s3/model/RequestProgress.h",
+      "path_type": "hardlink",
+      "sha256": "426475161881422d7a57af05458edb97d2c36d87699e33af259830cf079d9d6c",
+      "size_in_bytes": 2234
+    },
+    {
+      "_path": "include/aws/s3/model/RestoreObjectRequest.h",
+      "path_type": "hardlink",
+      "sha256": "b09db54735189f3a1109df69a09d49f66517cb0aa8d84efaef32d91339d2164d",
+      "size_in_bytes": 9253
+    },
+    {
+      "_path": "include/aws/s3/model/RestoreObjectResult.h",
+      "path_type": "hardlink",
+      "sha256": "70b12e0d73d216b27e82b899beda1accc5edd764b71a5201846b1924bca95c48",
+      "size_in_bytes": 3636
+    },
+    {
+      "_path": "include/aws/s3/model/RestoreRequest.h",
+      "path_type": "hardlink",
+      "sha256": "6258fd4496b01ae4fba60ec995d77024c8ab871eab3dae4774d167aa51507735",
+      "size_in_bytes": 10273
+    },
+    {
+      "_path": "include/aws/s3/model/RestoreRequestType.h",
+      "path_type": "hardlink",
+      "sha256": "6d993db721d5e53db1f7b5db65683a2083f139595092676f66b61ac200735b16",
+      "size_in_bytes": 1085
+    },
+    {
+      "_path": "include/aws/s3/model/RoutingRule.h",
+      "path_type": "hardlink",
+      "sha256": "5c32c76400ee797ea1eb12b3b92e974686f0d30345725ca1307a3f7ec285bf7f",
+      "size_in_bytes": 6423
+    },
+    {
+      "_path": "include/aws/s3/model/Rule.h",
+      "path_type": "hardlink",
+      "sha256": "168d15b67c3ae8f19a41214e82adb982e39a2e7bf126a6d8797c3a0e2491ca13",
+      "size_in_bytes": 12165
+    },
+    {
+      "_path": "include/aws/s3/model/S3KeyFilter.h",
+      "path_type": "hardlink",
+      "sha256": "732780465bd9ed0e2f60e4032b630de63e98979e29685df7687578822480faf3",
+      "size_in_bytes": 2714
+    },
+    {
+      "_path": "include/aws/s3/model/S3Location.h",
+      "path_type": "hardlink",
+      "sha256": "78e7196183c86c76f516c5c683d2cb3719c20c275bb18447207d860a4af2f2b2",
+      "size_in_bytes": 12898
+    },
+    {
+      "_path": "include/aws/s3/model/SSEKMS.h",
+      "path_type": "hardlink",
+      "sha256": "16e1a524e463d924abe0c9eba3789c4e0e99842b90dc17c502979f8e0724558d",
+      "size_in_bytes": 3389
+    },
+    {
+      "_path": "include/aws/s3/model/SSES3.h",
+      "path_type": "hardlink",
+      "sha256": "f8208ac8ce133466fcdb39344b5bcb0a3ac67a8aafb5069b2f425f2d0420084d",
+      "size_in_bytes": 1284
+    },
+    {
+      "_path": "include/aws/s3/model/SelectObjectContentHandler.h",
+      "path_type": "hardlink",
+      "sha256": "84e2faf84fa0793bd52ea39c9189c5c1fa2f4819a569b07ea3680c0c239c6aaa",
+      "size_in_bytes": 3334
+    },
+    {
+      "_path": "include/aws/s3/model/SelectObjectContentRequest.h",
+      "path_type": "hardlink",
+      "sha256": "6e027c8a7c066b7a77af2d2e5f68b1f7ad7d6beef0b2aad7b20d372e69579fc7",
+      "size_in_bytes": 25753
+    },
+    {
+      "_path": "include/aws/s3/model/SelectParameters.h",
+      "path_type": "hardlink",
+      "sha256": "cea8626ab61c0d4c3762e9aab297d9bbcc71006b198d85a2581832e2af61312d",
+      "size_in_bytes": 7042
+    },
+    {
+      "_path": "include/aws/s3/model/ServerSideEncryption.h",
+      "path_type": "hardlink",
+      "sha256": "2b8681b5a5168c91f4c7867d2fa0dba67861bc3a6f8a8d3c980444a8eee8cc06",
+      "size_in_bytes": 1112
+    },
+    {
+      "_path": "include/aws/s3/model/ServerSideEncryptionByDefault.h",
+      "path_type": "hardlink",
+      "sha256": "4c20d9c7b682be084dfe0e639afab456a78435a2a37626e8c673a4634f041e1e",
+      "size_in_bytes": 5846
+    },
+    {
+      "_path": "include/aws/s3/model/ServerSideEncryptionConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "7b96a05615f904f4593a792c040bd4a97f1542e1441df69d24289966b852b5b4",
+      "size_in_bytes": 3675
+    },
+    {
+      "_path": "include/aws/s3/model/ServerSideEncryptionRule.h",
+      "path_type": "hardlink",
+      "sha256": "329e6956b6d7252b08c9a92db8bbed2d419f174b11c7e56e95d443c358a724a9",
+      "size_in_bytes": 4070
+    },
+    {
+      "_path": "include/aws/s3/model/SourceSelectionCriteria.h",
+      "path_type": "hardlink",
+      "sha256": "00cc9a7e32274ee41abdd0ccc4c66a548986695d6646a1111598c0ce23dcd889",
+      "size_in_bytes": 4225
+    },
+    {
+      "_path": "include/aws/s3/model/SseKmsEncryptedObjects.h",
+      "path_type": "hardlink",
+      "sha256": "beaff0d4c3e5657ccc565d6090e58113e3386ee943efab7bde2d9df0c3938f23",
+      "size_in_bytes": 3110
+    },
+    {
+      "_path": "include/aws/s3/model/SseKmsEncryptedObjectsStatus.h",
+      "path_type": "hardlink",
+      "sha256": "03d549761da1e2cceac45622f5ce0832a477c553a34013573fde0314e443aac5",
+      "size_in_bytes": 1170
+    },
+    {
+      "_path": "include/aws/s3/model/Stats.h",
+      "path_type": "hardlink",
+      "sha256": "d26239b7e853a7a3ef79d3c3f38ec1e168fa279df422cea7b5a50e7a542d6b21",
+      "size_in_bytes": 3536
+    },
+    {
+      "_path": "include/aws/s3/model/StatsEvent.h",
+      "path_type": "hardlink",
+      "sha256": "e033eee136954d60398ad6f366e2685b11ab880dc46249ae06ea93828d033a6b",
+      "size_in_bytes": 2213
+    },
+    {
+      "_path": "include/aws/s3/model/StorageClass.h",
+      "path_type": "hardlink",
+      "sha256": "01ec95d2e2db1ec92400e36f5332afcb7a53e6597f9a35889ed89e0798ac4052",
+      "size_in_bytes": 1158
+    },
+    {
+      "_path": "include/aws/s3/model/StorageClassAnalysis.h",
+      "path_type": "hardlink",
+      "sha256": "64efec0774e7d2c395b0af0dc98e5782f41553d84388a7a2f48fb5ca971c4cdb",
+      "size_in_bytes": 3177
+    },
+    {
+      "_path": "include/aws/s3/model/StorageClassAnalysisDataExport.h",
+      "path_type": "hardlink",
+      "sha256": "034139668fee4353f83e5b1b937bec90a8cbff2fc062b4b21af719cac12ff328",
+      "size_in_bytes": 4475
+    },
+    {
+      "_path": "include/aws/s3/model/StorageClassAnalysisSchemaVersion.h",
+      "path_type": "hardlink",
+      "sha256": "55222be1a0211af650213cbac4171313c42f9809d818bdd3e77d95b13d82cf6e",
+      "size_in_bytes": 1187
+    },
+    {
+      "_path": "include/aws/s3/model/Tag.h",
+      "path_type": "hardlink",
+      "sha256": "a9b57a2a9a0d003ba0af20f904eb84f3d5007185ca98e40c160179b853b2ffff",
+      "size_in_bytes": 3506
+    },
+    {
+      "_path": "include/aws/s3/model/Tagging.h",
+      "path_type": "hardlink",
+      "sha256": "e5c6236def0bd3b7ab384073021149700f29c358859c4134c3fabec519488542",
+      "size_in_bytes": 2431
+    },
+    {
+      "_path": "include/aws/s3/model/TaggingDirective.h",
+      "path_type": "hardlink",
+      "sha256": "2a4c5c3aa4561709553dd55010c144282bf7ac0abc6694d251dd1597cf3ffd4c",
+      "size_in_bytes": 1082
+    },
+    {
+      "_path": "include/aws/s3/model/TargetGrant.h",
+      "path_type": "hardlink",
+      "sha256": "e28dc7fb9b057aeaed0dd40561fc3c362fcff388f6441bf53870c50711f1d22f",
+      "size_in_bytes": 3386
+    },
+    {
+      "_path": "include/aws/s3/model/Tier.h",
+      "path_type": "hardlink",
+      "sha256": "b30640cc0311fe4fa55565ba5fef2e81bb4854237d5ccd26c78445bf817c3f3c",
+      "size_in_bytes": 1014
+    },
+    {
+      "_path": "include/aws/s3/model/TopicConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "4a40864b92dce619839ad61e4c751786072f62e0f32884f215d7cb94dd7caf97",
+      "size_in_bytes": 9040
+    },
+    {
+      "_path": "include/aws/s3/model/TopicConfigurationDeprecated.h",
+      "path_type": "hardlink",
+      "sha256": "2efaefe78c6148592cbdbcd0f15e171b760ed5247500e0981eea2538c53f5952",
+      "size_in_bytes": 5468
+    },
+    {
+      "_path": "include/aws/s3/model/Transition.h",
+      "path_type": "hardlink",
+      "sha256": "f48afb4f995ac0f6e86185ad229337b9c318c12c9f72cf62d13ca67af3ea247b",
+      "size_in_bytes": 5530
+    },
+    {
+      "_path": "include/aws/s3/model/TransitionStorageClass.h",
+      "path_type": "hardlink",
+      "sha256": "13bc3e0806375775c0b4aa3182e5867b31eb74d7e94bd9f2a43be3fdc632de8d",
+      "size_in_bytes": 1190
+    },
+    {
+      "_path": "include/aws/s3/model/Type.h",
+      "path_type": "hardlink",
+      "sha256": "cabf4b29fd0d031b183e68c96a33cd6ba7b9a5bf86cbb8553a482e08153539a2",
+      "size_in_bytes": 1032
+    },
+    {
+      "_path": "include/aws/s3/model/UploadPartCopyRequest.h",
+      "path_type": "hardlink",
+      "sha256": "2ebb7b5ebdfc351d420c8fe71c54ac4221d8452d149e6e227fe080834f28b898",
+      "size_in_bytes": 41652
+    },
+    {
+      "_path": "include/aws/s3/model/UploadPartCopyResult.h",
+      "path_type": "hardlink",
+      "sha256": "5325ceb160bf9869047aba18afb267e4e0803098f23a9d6858df253e23df5f9b",
+      "size_in_bytes": 12605
+    },
+    {
+      "_path": "include/aws/s3/model/UploadPartRequest.h",
+      "path_type": "hardlink",
+      "sha256": "469e027164d516fe7a8761f610ce275c066494e52e0cd94641cd4c126d67e7b9",
+      "size_in_bytes": 24353
+    },
+    {
+      "_path": "include/aws/s3/model/UploadPartResult.h",
+      "path_type": "hardlink",
+      "sha256": "3ab17fee8b431c09680d15b9567afa02579d96eee35702790fdf1afd897b5ee9",
+      "size_in_bytes": 11024
+    },
+    {
+      "_path": "include/aws/s3/model/VersioningConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "d0d153f936ad53050393428bf182d3cf062b78652907e58bd89900e7e53b8a15",
+      "size_in_bytes": 5175
+    },
+    {
+      "_path": "include/aws/s3/model/WebsiteConfiguration.h",
+      "path_type": "hardlink",
+      "sha256": "97c22fa6cf9ccfd6b687f2f8ad28c8a05bdd41b181da67e76307609cf1c6e4d8",
+      "size_in_bytes": 8226
+    },
+    {
+      "_path": "include/aws/testing/aws_test_harness.h",
+      "path_type": "hardlink",
+      "sha256": "b7d3175cc44833eb0ed5fe255d7d5459165a911e50296f7f7d723bb60cc04117",
+      "size_in_bytes": 35132
+    },
+    {
+      "_path": "include/aws/transfer/TransferHandle.h",
+      "path_type": "hardlink",
+      "sha256": "839e4e09224fde9e8537631a7df797f569dd22d9f2be85aaf81fbd9cbc6656b2",
+      "size_in_bytes": 18170
+    },
+    {
+      "_path": "include/aws/transfer/TransferManager.h",
+      "path_type": "hardlink",
+      "sha256": "97770987221aea6f49c15dcbd4ae25df7c9f2271e04ec8cf5a6e560ab3e503f4",
+      "size_in_bytes": 20158
+    },
+    {
+      "_path": "include/aws/transfer/Transfer_EXPORTS.h",
+      "path_type": "hardlink",
+      "sha256": "5160dd141e38ca2e842b746a8d87681df00cf1f3fd2fc2220c76a0cbaf5e9d7a",
+      "size_in_bytes": 1327
+    },
+    {
+      "_path": "lib/aws-c-common/cmake/aws-c-common-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "ce71c761b098a21fbd8d8a1551ec3fbc86098957563bc468668d89e3473e6b9e",
+      "size_in_bytes": 63
+    },
+    {
+      "_path": "lib/aws-c-common/cmake/aws-c-common-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "8455ab50bf777a430a4555a720cd279bab1338bfd0ab69a7766aeb86caae2e3a",
+      "size_in_bytes": 879
+    },
+    {
+      "_path": "lib/aws-c-common/cmake/aws-c-common-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "694ed3b4d7c95b101c80266c789a5eddc94b63c444770b718c2dbbf080a11b80",
+      "size_in_bytes": 3556
+    },
+    {
+      "_path": "lib/aws-c-event-stream/cmake/aws-c-event-stream-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "4f88339ac8ad37b4a05c1ee46fab0b3cc90e2249bc850af3259d9e9b891b8746",
+      "size_in_bytes": 165
+    },
+    {
+      "_path": "lib/aws-c-event-stream/cmake/aws-c-event-stream-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "e3415177394753a3f46c81c5ae52206f4749cce387ecb46ab9481d031c136abd",
+      "size_in_bytes": 927
+    },
+    {
+      "_path": "lib/aws-c-event-stream/cmake/aws-c-event-stream-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "dc3bf217df18d95a7657d46e2388a5d569a8189b12c489a0f85fc6c7d99fb961",
+      "size_in_bytes": 3568
+    },
+    {
+      "_path": "lib/aws-checksums/cmake/aws-checksums-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "09ba22436341d25cb180a2ed70c179cf3b229e4fed21034c03cd838f90d3482c",
+      "size_in_bytes": 64
+    },
+    {
+      "_path": "lib/aws-checksums/cmake/aws-checksums-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "1f4dfb6ddf3332719b411804933589dcff8c63a9d350014637b1ad041c781a0d",
+      "size_in_bytes": 865
+    },
+    {
+      "_path": "lib/aws-checksums/cmake/aws-checksums-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "17bfca69b83e9938881109fcc6b3c3ce6f916d8c202cfd82ba406ace61cb76bb",
+      "size_in_bytes": 3275
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/AWSSDKConfig.cmake",
+      "path_type": "hardlink",
+      "sha256": "3b67b5ce06df28053ee8a03f9e722458e46b685c6231dbeecbcd58b2fd000c6c",
+      "size_in_bytes": 12698
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/AWSSDKConfigVersion.cmake",
+      "path_type": "hardlink",
+      "sha256": "4c52b089cb9669e6923f5ab384790ee726a9b65d917d97e495e239d4b357b45f",
+      "size_in_bytes": 1422
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/build_external.cmake",
+      "path_type": "hardlink",
+      "sha256": "6f35afa8138b0296688469cd49244be8994b73cdcc8bf3645ad6abca3b4fbaa3",
+      "size_in_bytes": 8308
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/compiler_settings.cmake",
+      "path_type": "hardlink",
+      "sha256": "c0101183a27ce43dd4b36868e22c1844e812963b53f6006c2c7a2b222e294e88",
+      "size_in_bytes": 6323
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/dependencies.cmake",
+      "path_type": "hardlink",
+      "sha256": "9b4c802881f910e53040e25b9799bb232a5d150102e705027122c8cc4408848c",
+      "size_in_bytes": 3726
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/external_dependencies.cmake",
+      "path_type": "hardlink",
+      "sha256": "a54f4b5b5af088a88497f079d90faec054a3ec761214c8aca411a955a4bee963",
+      "size_in_bytes": 4661
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/initialize_project_version.cmake",
+      "path_type": "hardlink",
+      "sha256": "63f26a56bd62ce2fc084f32ff0ef1ca6b64738d42735bd5a223ee29a2ad31ade",
+      "size_in_bytes": 1613
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/make_uninstall.cmake",
+      "path_type": "hardlink",
+      "sha256": "beb57a7579b517f957bd8565c9f6ffa795777a66e99552e1ff5e7cd1231f78e9",
+      "size_in_bytes": 1251
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/platform/android.cmake",
+      "path_type": "hardlink",
+      "sha256": "cfce100429566bce4648c9a8e5f677d6ade35e768a094111472fe50b8e528ca2",
+      "size_in_bytes": 5076
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/platform/apple.cmake",
+      "path_type": "hardlink",
+      "sha256": "0f8b05f8c7a5d5545e55c24596ca5e098f45e1d22a4fddaf571f5a6423b237bd",
+      "size_in_bytes": 193
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/platform/custom.cmake",
+      "path_type": "hardlink",
+      "sha256": "876fb5896ba2826cd95795269d1b091bbedb210880793f87a198ab4239b4ae09",
+      "size_in_bytes": 999
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/platform/linux.cmake",
+      "path_type": "hardlink",
+      "sha256": "29f809341bee48f6277430a1a39c615428d01708406588ab64ea45da81374b49",
+      "size_in_bytes": 1625
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/platform/unix.cmake",
+      "path_type": "hardlink",
+      "sha256": "c8909cfe732bf65de43b456196b9cf4ce426f401947e29ad6d6ef054797e1019",
+      "size_in_bytes": 74
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/platform/windows.cmake",
+      "path_type": "hardlink",
+      "sha256": "c07949ce3a03051e3d6378e3bef01ed07051e86167fece100f5f689063f2cf64",
+      "size_in_bytes": 598
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/platformDeps.cmake",
+      "path_type": "hardlink",
+      "sha256": "1b6662950cfcd1e640c0ad52dc1af4047a322a6a5df8a6a02ce5c4f85a0d97e4",
+      "size_in_bytes": 843
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/resolve_platform.cmake",
+      "path_type": "hardlink",
+      "sha256": "b2a1740441d8a5e4620bc4723af4353ee8b5167c8b0a5b9b20b311874ecf92b4",
+      "size_in_bytes": 2138
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/sdks.cmake",
+      "path_type": "hardlink",
+      "sha256": "ebafcc980636d2e2e6d068273a0cbc39eba22eb50d26519f30fde5af731fa7e2",
+      "size_in_bytes": 10359
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/sdksCommon.cmake",
+      "path_type": "hardlink",
+      "sha256": "f850165ca4800e9feb84c0e8e10a8e52514ddf663e498caac2003e29766d8843",
+      "size_in_bytes": 9197
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/setup_cmake_find_module.cmake",
+      "path_type": "hardlink",
+      "sha256": "98438d70d900efe7751520d623c99b3866aa6b7907446dcf0acee96364d2ab1f",
+      "size_in_bytes": 4563
+    },
+    {
+      "_path": "lib/cmake/AWSSDK/utilities.cmake",
+      "path_type": "hardlink",
+      "sha256": "589533faef3f0e477ce5cf54ac2885f388096f8f25ee40b53c29304288ee9500",
+      "size_in_bytes": 4201
+    },
+    {
+      "_path": "lib/cmake/AwsCFlags.cmake",
+      "path_type": "hardlink",
+      "sha256": "81c35b5f014e97fa141ae8b60121f24185a7aaef93fb1d89f58a70017096c3a9",
+      "size_in_bytes": 4785
+    },
+    {
+      "_path": "lib/cmake/AwsLibFuzzer.cmake",
+      "path_type": "hardlink",
+      "sha256": "755b576a33dca82526fcc2c58c4e4dfd5e09bc7b9de378b2d8ba9bcc69c6d19a",
+      "size_in_bytes": 2691
+    },
+    {
+      "_path": "lib/cmake/AwsSIMD.cmake",
+      "path_type": "hardlink",
+      "sha256": "b38fe99e02de28a31dab8c9c50bfec277463a8ee82831da496518f23b56f250d",
+      "size_in_bytes": 3216
+    },
+    {
+      "_path": "lib/cmake/AwsSanitizers.cmake",
+      "path_type": "hardlink",
+      "sha256": "f86dbec00c49c57927db1eb3e537c3327448128905762d1839e4b7ebe1d21fd5",
+      "size_in_bytes": 3660
+    },
+    {
+      "_path": "lib/cmake/AwsSharedLibSetup.cmake",
+      "path_type": "hardlink",
+      "sha256": "5aee07d7e866316087f147c6501db94898791ed04ff315bb4a877f3a61589460",
+      "size_in_bytes": 2369
+    },
+    {
+      "_path": "lib/cmake/AwsTestHarness.cmake",
+      "path_type": "hardlink",
+      "sha256": "ac417c4b27c5476a4b26d7a89d3b6c816e3590c67dc6ea38ba9c30ad47b04d50",
+      "size_in_bytes": 2991
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-config/aws-cpp-sdk-config-config-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "337d18fd06b3a3971cb6a6556117e11ce1da192f189bc638ee7230ddb46f3733",
+      "size_in_bytes": 1384
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-config/aws-cpp-sdk-config-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "2dc78505e2d3e6dd0e1633748724502af169e1bd8c41257c8aa3a6ed3c88d79b",
+      "size_in_bytes": 70
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-config/aws-cpp-sdk-config-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "aabd46a535039d106bd88f855d6312b769028dfe261a11d738c1f93efdd193b3",
+      "size_in_bytes": 943
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-config/aws-cpp-sdk-config-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "ee874159a242c4248e377d682081bbfd218009e7120518cd56a47fa11fbfcdb9",
+      "size_in_bytes": 3280
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-core/aws-cpp-sdk-core-config-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "337d18fd06b3a3971cb6a6556117e11ce1da192f189bc638ee7230ddb46f3733",
+      "size_in_bytes": 1384
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-core/aws-cpp-sdk-core-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "46a27aafc1a6ed5426667b9795376ad9feef00b3a1e84d9b21003590cb47bfcd",
+      "size_in_bytes": 138
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-core/aws-cpp-sdk-core-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "015d28f1242e9b27f2b5433fb483a2416d17a41aae48b587e1bd29ea25d3eeba",
+      "size_in_bytes": 864
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-core/aws-cpp-sdk-core-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "54bf79329fb04170fe56c091075b6a513d942cd33dcd114782f3ce98d1097d5c",
+      "size_in_bytes": 3590
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-s3/aws-cpp-sdk-s3-config-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "337d18fd06b3a3971cb6a6556117e11ce1da192f189bc638ee7230ddb46f3733",
+      "size_in_bytes": 1384
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-s3/aws-cpp-sdk-s3-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "7a7ad9e8277187f733ad138d3df7f78fc55c993d8a839e2ca8e9c5d07ac68743",
+      "size_in_bytes": 66
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-s3/aws-cpp-sdk-s3-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "c4674ab17f92acf42201717eaa5a6153b10c53e7811c39b99a1b8d3bda95992e",
+      "size_in_bytes": 911
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-s3/aws-cpp-sdk-s3-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "013c215483749aad749d617a498e7c778ca12d3b7f76eedf788e20ed3bda91a6",
+      "size_in_bytes": 3260
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-transfer/aws-cpp-sdk-transfer-config-version.cmake",
+      "path_type": "hardlink",
+      "sha256": "337d18fd06b3a3971cb6a6556117e11ce1da192f189bc638ee7230ddb46f3733",
+      "size_in_bytes": 1384
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-transfer/aws-cpp-sdk-transfer-config.cmake",
+      "path_type": "hardlink",
+      "sha256": "677e91a5e1d8f47764b5ef96f8e0d1951ebedc616c6c687319573b257e1430f3",
+      "size_in_bytes": 72
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-transfer/aws-cpp-sdk-transfer-targets-release.cmake",
+      "path_type": "hardlink",
+      "sha256": "ec4a52c36d6897a601f5e5ccc6257f75221ded2b6d77d38780dca9c11ffc4320",
+      "size_in_bytes": 974
+    },
+    {
+      "_path": "lib/cmake/aws-cpp-sdk-transfer/aws-cpp-sdk-transfer-targets.cmake",
+      "path_type": "hardlink",
+      "sha256": "a30543da97e5d6db89fe6c82d99df37933f8378489929d766a7d115d3f790f79",
+      "size_in_bytes": 3290
+    },
+    {
+      "_path": "lib/libaws-c-common.so",
+      "path_type": "softlink",
+      "sha256": "a2832266ad258bdcc3ca5231059c2254319b2fe4bd8a169623f7c2453ed44a0b",
+      "size_in_bytes": 167352
+    },
+    {
+      "_path": "lib/libaws-c-common.so.0unstable",
+      "path_type": "softlink",
+      "sha256": "a2832266ad258bdcc3ca5231059c2254319b2fe4bd8a169623f7c2453ed44a0b",
+      "size_in_bytes": 167352
+    },
+    {
+      "_path": "lib/libaws-c-common.so.1.0.0",
+      "path_type": "hardlink",
+      "sha256": "a2832266ad258bdcc3ca5231059c2254319b2fe4bd8a169623f7c2453ed44a0b",
+      "size_in_bytes": 167352
+    },
+    {
+      "_path": "lib/libaws-c-event-stream.so",
+      "path_type": "softlink",
+      "sha256": "c511663988ed9c7942816dd97aae2d293548896da2f9e4d07f43454864cea0e4",
+      "size_in_bytes": 36528
+    },
+    {
+      "_path": "lib/libaws-c-event-stream.so.0unstable",
+      "path_type": "softlink",
+      "sha256": "c511663988ed9c7942816dd97aae2d293548896da2f9e4d07f43454864cea0e4",
+      "size_in_bytes": 36528
+    },
+    {
+      "_path": "lib/libaws-c-event-stream.so.1.0.0",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/aws-sdk-cpp_1585665181993/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "c511663988ed9c7942816dd97aae2d293548896da2f9e4d07f43454864cea0e4",
+      "size_in_bytes": 36528
+    },
+    {
+      "_path": "lib/libaws-checksums.so",
+      "path_type": "hardlink",
+      "sha256": "d647ee01590135636fbe73680b36af7385fd319b34848cbd6896c5d1344765a8",
+      "size_in_bytes": 54912
+    },
+    {
+      "_path": "lib/libaws-cpp-sdk-config.so",
+      "path_type": "hardlink",
+      "sha256": "d161d7658128198f676bab9f540a60f561293152b2f0c491d43fa36653a49207",
+      "size_in_bytes": 3250792
+    },
+    {
+      "_path": "lib/libaws-cpp-sdk-core.so",
+      "path_type": "hardlink",
+      "sha256": "030c16b451efc1903d9c804b0683307a1478fd2f91ecf51555381f0d7c478f66",
+      "size_in_bytes": 1323560
+    },
+    {
+      "_path": "lib/libaws-cpp-sdk-s3.so",
+      "path_type": "hardlink",
+      "sha256": "1c449e746fc83d28bd73b0804295a065d2eca379ea57e2d8f042be8d9f4db6c3",
+      "size_in_bytes": 4042400
+    },
+    {
+      "_path": "lib/libaws-cpp-sdk-transfer.so",
+      "path_type": "hardlink",
+      "sha256": "e277b74bc60ef8522113d19ddab2284ab36ddebb8d20c2bbc342c9755729d94d",
+      "size_in_bytes": 283392
+    },
+    {
+      "_path": "lib/pkgconfig/aws-cpp-sdk-config.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/aws-sdk-cpp_1585665181993/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "303b2e4f635f3660b7b08019f91a3d9164187010eedf54ca2232438d91c44100",
+      "size_in_bytes": 768
+    },
+    {
+      "_path": "lib/pkgconfig/aws-cpp-sdk-core.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/aws-sdk-cpp_1585665181993/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "6b66efd250893932b560907cf7bb97586428e90f15dc53b734a3e0b0a926a26c",
+      "size_in_bytes": 747
+    },
+    {
+      "_path": "lib/pkgconfig/aws-cpp-sdk-s3.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/aws-sdk-cpp_1585665181993/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "a76961321028d49fe81e60efa6e7cd73e8faafcd26e0bf549d9946938cc7e044",
+      "size_in_bytes": 760
+    },
+    {
+      "_path": "lib/pkgconfig/aws-cpp-sdk-transfer.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/aws-sdk-cpp_1585665181993/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+      "sha256": "9f6cc682f255ad32c0374029879a2ffcca70aeac84e8ff7787cf280a76d32fb9",
+      "size_in_bytes": 787
+    }
+  ],
+  "paths_version": 1
+}

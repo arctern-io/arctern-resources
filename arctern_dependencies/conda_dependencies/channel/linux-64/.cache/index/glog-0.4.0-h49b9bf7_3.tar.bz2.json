@@ -1,0 +1,1 @@
+{"build": "h49b9bf7_3", "build_number": 3, "depends": ["gflags >=2.2.2,<2.3.0a0", "libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "BSD-3-Clause", "name": "glog", "subdir": "linux-64", "timestamp": 1587125857265, "version": "0.4.0", "size": 106408, "md5": "d763c0076c32135a4fc8a5857d4fd2ba", "sha256": "f0bf6be249a39a742221a0319b80fc75dbf94f61db7e7155c94cc918db2a63fa"}

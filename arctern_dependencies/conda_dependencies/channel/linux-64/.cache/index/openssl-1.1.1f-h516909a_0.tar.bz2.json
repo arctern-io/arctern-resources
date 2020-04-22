@@ -1,0 +1,1 @@
+{"build": "h516909a_0", "build_number": 0, "depends": ["ca-certificates", "libgcc-ng >=7.3.0"], "license": "OpenSSL", "license_family": "Apache", "name": "openssl", "subdir": "linux-64", "timestamp": 1585668286103, "version": "1.1.1f", "size": 2234875, "md5": "5acd6d5f94005db2464b306be26b4177", "sha256": "c70d551db499961404712d1dc3aa04e744e720ef6d447fd0a0cbc82bd8baacaf"}

@@ -1,0 +1,1 @@
+{"build": "py_0", "build_number": 0, "depends": ["python"], "license": "MIT", "name": "pytz", "noarch": "python", "subdir": "noarch", "timestamp": 1570448565461, "version": "2019.3", "size": 242252, "md5": "50b90b25d004a9d0c90482bbd3fb71d9", "sha256": "46cb9595097b6b4c1040c7438136c93234abfac6f6ac44e20e7ad9ba32fd9ea8"}

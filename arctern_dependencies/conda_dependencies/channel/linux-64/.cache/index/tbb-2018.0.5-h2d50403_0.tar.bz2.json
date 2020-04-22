@@ -1,0 +1,1 @@
+{"build": "h2d50403_0", "build_number": 0, "depends": ["libstdcxx-ng >=4.9"], "license": "Apache 2.0", "name": "tbb", "subdir": "linux-64", "timestamp": 1530117517680, "version": "2018.0.5", "size": 1204500, "md5": "be43b790055916fd6bca1991fe812577", "sha256": "a24fe7ed8506ad4e51e25c6f0dd4603559493d583742c84129a7a3227bfe8c45"}

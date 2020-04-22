@@ -1,0 +1,1 @@
+{"build": "he1b5a44_1", "build_number": 1, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "MIT", "name": "icu", "subdir": "linux-64", "timestamp": 1566795693178, "version": "64.2", "size": 13186721, "md5": "8e881214a23508f1541eb7a3135d6fcb", "sha256": "d5e0e4e08a3e9623ade146c7f285e2011187dec4704b910410a8ae2115d6d3a7"}

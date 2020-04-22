@@ -1,0 +1,1 @@
+{"build": "h516909a_2", "build_number": 2, "depends": ["libgcc-ng >=7.3.0"], "license": "bzip2", "license_family": "BSD", "name": "bzip2", "subdir": "linux-64", "timestamp": 1575750757465, "version": "1.0.8", "size": 405503, "md5": "b3a914cd2f2ba2dc18121e0194143c85", "sha256": "42d713e0fbdab4c2c81990007ec7c7fe6854fe7fca3cafc8bb4c547ba2f9c63a"}

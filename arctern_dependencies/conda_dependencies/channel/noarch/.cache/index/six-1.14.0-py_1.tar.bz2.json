@@ -1,0 +1,1 @@
+{"build": "py_1", "build_number": 1, "depends": ["python"], "license": "MIT", "license_family": "MIT", "name": "six", "noarch": "python", "subdir": "noarch", "timestamp": 1583921682770, "version": "1.14.0", "size": 13426, "md5": "9c032ebdf2b7685ec6332c5c45e1ac72", "sha256": "99cf66d6dcc0428b1a02a241a97754c47799540e7ab9c6e96cc0972af3628082"}
