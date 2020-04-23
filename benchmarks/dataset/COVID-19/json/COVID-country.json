@@ -1,0 +1,41 @@
+{
+    "db_name": "db2",
+    "type": "spark",
+    "spark": {
+        "app_name": "arctern",
+        "master-addr": "local[*]",
+        "PYSPARK_PYTHON": "@./miniconda3/envs/arctern/bin/python",
+       "envs": {
+        }
+    },
+    "tables": [
+        {
+            "name": "COVID_country",
+            "format": "csv",
+            "path": "@./arctern-resources/benchmarks/dataset/COVID-19/data/COVID-country-data.csv",
+            "options": {
+                "header": "True",
+                "delimiter": ","
+            },
+            "schema": [
+                {"continent":  "string"},
+                {"country": "string"},
+                {"locationId": "string"},
+                {"longitude": "double"},
+                {"latitude": "double"},
+                {"currentConfirmedCount": "int"},
+                {"confirmedCount": "int"},
+                {"suspectedCount": "int"},
+                {"curedCount": "int"},
+                {"deadCount": "int"},
+                {"updateTime": "string"}
+            ],
+            "visibility": "False"
+        },
+        {
+            "name": "country",
+            "sql": "select longitude, latitude from COVID_country",
+            "visibility": "True"
+        }
+    ]
+}

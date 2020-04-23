@@ -1,0 +1,38 @@
+{
+    "db_name": "COVID",
+    "type": "spark",
+    "spark": {
+        "app_name": "arctern",
+        "master-addr": "local[*]",
+        "executor-python": "@./miniconda3/envs/arctern/bin/python",
+        "envs": {
+        }
+    },
+    "tables": [
+        {
+            "name": "world_with_city",
+            "format": "csv",
+            "path": "@./arctern-resources/benchmarks/dataset/COVID-19/data/COVID-country-with-city-data.csv",
+            "options": {
+                "header": "True",
+                "delimiter": ","
+            },
+            "schema": [
+                {"Province": "string"},
+                {"Country": "string"},
+                {"Longitude": "double"},
+                {"Latitude": "double"},
+                {"ConfirmedCount": "int"},
+                {"DeadCount": "int"},
+                {"CuredCount": "int"},
+                {"LastUpdate": "string"}
+            ],
+            "visibility": "False"
+        },
+        {
+            "name": "world_with_city",
+            "sql": "select * from world_with_city",
+            "visibility": "True"
+        }
+    ]
+}
