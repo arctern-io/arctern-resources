@@ -1,0 +1,977 @@
+{
+  "paths": [
+    {
+      "_path": "bin/dap-config",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/libdap4_1587529649472/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "6b2d816c0eb5e38a1c698a6e71df39f1663773a04d05a1e85e15d8c551c6e283",
+      "size_in_bytes": 7849
+    },
+    {
+      "_path": "bin/dap-config-pkgconfig",
+      "path_type": "hardlink",
+      "sha256": "01006f690962b9195cf7425ad1859bc025022f2156dc7b43483cc4e9a054b690",
+      "size_in_bytes": 1504
+    },
+    {
+      "_path": "bin/getdap",
+      "path_type": "hardlink",
+      "sha256": "800e673f3d68d2d08cdf7b1af36cf070bae9d94afd697df3affd88c3222e265c",
+      "size_in_bytes": 330240
+    },
+    {
+      "_path": "bin/getdap4",
+      "path_type": "hardlink",
+      "sha256": "03855214fa354481feefecfe90a24f92747cbee1a14fe89e91791f075a4cc274",
+      "size_in_bytes": 399176
+    },
+    {
+      "_path": "include/libdap/AlarmHandler.h",
+      "path_type": "hardlink",
+      "sha256": "69872f25ccdae50ea9c6dceb46cbca5343a276dadd346060b87b9bf40d99eed4",
+      "size_in_bytes": 2905
+    },
+    {
+      "_path": "include/libdap/Ancillary.h",
+      "path_type": "hardlink",
+      "sha256": "d484c227e516a7cf26b21d13308d385ec6e76bac71bd4ffb07ef61104facc4c0",
+      "size_in_bytes": 2114
+    },
+    {
+      "_path": "include/libdap/Array.h",
+      "path_type": "hardlink",
+      "sha256": "155509db66924bac0b754e262fbb02f5ffe8891bb9dfcef91c298f8305b51e4c",
+      "size_in_bytes": 10944
+    },
+    {
+      "_path": "include/libdap/AttrTable.h",
+      "path_type": "hardlink",
+      "sha256": "b50c290d49da31c15a88d8e23ec0c7c2cc7c72a04b2e3b0834854eda8fab4101",
+      "size_in_bytes": 11061
+    },
+    {
+      "_path": "include/libdap/BaseType.h",
+      "path_type": "hardlink",
+      "sha256": "f5bef8342f3e17f0e70c315c87cb0a1e8373ce839db8bb7b49e3f41b1608a671",
+      "size_in_bytes": 23806
+    },
+    {
+      "_path": "include/libdap/BaseTypeFactory.h",
+      "path_type": "hardlink",
+      "sha256": "0def41888d704d58a36c1ae46d388fb3f5c30a1a01af84370323eb9422d877d4",
+      "size_in_bytes": 4519
+    },
+    {
+      "_path": "include/libdap/Byte.h",
+      "path_type": "hardlink",
+      "sha256": "2c49f52b4000c5cab743eed663481422664354155ab5b3def181b0d5d9259105",
+      "size_in_bytes": 3063
+    },
+    {
+      "_path": "include/libdap/Clause.h",
+      "path_type": "hardlink",
+      "sha256": "db211729ce21c05286b0e2d63f7a58829225b45a6981a6d28ca72a0c36a38888",
+      "size_in_bytes": 4138
+    },
+    {
+      "_path": "include/libdap/Connect.h",
+      "path_type": "hardlink",
+      "sha256": "9c0402686c733c9111ac8115d5e9d06e71bbf58ca8ac586faeb19a0d4d81de3c",
+      "size_in_bytes": 7307
+    },
+    {
+      "_path": "include/libdap/ConstraintEvaluator.h",
+      "path_type": "hardlink",
+      "sha256": "768001280f5714d5d527a7dad4d65678644e55f2e8b3e5de2391dfa670ea4ac3",
+      "size_in_bytes": 3396
+    },
+    {
+      "_path": "include/libdap/Constructor.h",
+      "path_type": "hardlink",
+      "sha256": "c123234fe44e8a589c986c288faf31186b467482c32b04d5ce5d418d0897c272",
+      "size_in_bytes": 5677
+    },
+    {
+      "_path": "include/libdap/D4AsyncUtil.h",
+      "path_type": "hardlink",
+      "sha256": "50384db6b271270eada193b6e624c8d34e63567f766ba835a8c6f772b24a4c23",
+      "size_in_bytes": 2364
+    },
+    {
+      "_path": "include/libdap/D4AttributeType.h",
+      "path_type": "hardlink",
+      "sha256": "aa56541cf55e30b42394a9c04193506f7a516c5e231e6e255918952a26b29b84",
+      "size_in_bytes": 1853
+    },
+    {
+      "_path": "include/libdap/D4Attributes.h",
+      "path_type": "hardlink",
+      "sha256": "75a134f31c994b8c89322384ce5119a9b7cd20833c947d6d38e3cd0852ced761",
+      "size_in_bytes": 5247
+    },
+    {
+      "_path": "include/libdap/D4BaseTypeFactory.h",
+      "path_type": "hardlink",
+      "sha256": "ddee18a388a0b321ce87af71d67655edbb33a86a8003e232f27dd1df6d19cc4d",
+      "size_in_bytes": 3364
+    },
+    {
+      "_path": "include/libdap/D4Connect.h",
+      "path_type": "hardlink",
+      "sha256": "59f247a88f244a54167ebb849699255bbce0bacf9a0b9f56d94222f6f7574e5d",
+      "size_in_bytes": 3748
+    },
+    {
+      "_path": "include/libdap/D4ConstraintEvaluator.h",
+      "path_type": "hardlink",
+      "sha256": "e7e4cfc46d825ee304f1c0afb8c9766e57aac36dcd16f0485e302e8e1b7aa97a",
+      "size_in_bytes": 5324
+    },
+    {
+      "_path": "include/libdap/D4Dimensions.h",
+      "path_type": "hardlink",
+      "sha256": "d20f956472a91be84b767c76524be2813228cbaded466edb14368e237755c82c",
+      "size_in_bytes": 6988
+    },
+    {
+      "_path": "include/libdap/D4Enum.h",
+      "path_type": "hardlink",
+      "sha256": "18534c1030302a36cc8d754fd0b90954e6c7b1882f13660d779824353c6ed07c",
+      "size_in_bytes": 6273
+    },
+    {
+      "_path": "include/libdap/D4EnumDefs.h",
+      "path_type": "hardlink",
+      "sha256": "2fa3c504039f254cae01077c15e6127a14d1844250f8b549b171b4cbe389c649",
+      "size_in_bytes": 5314
+    },
+    {
+      "_path": "include/libdap/D4FilterClause.h",
+      "path_type": "hardlink",
+      "sha256": "b473081e066129893156d83eb6e57c7d0057cf25096db6e3c549c65eb4da43fe",
+      "size_in_bytes": 6080
+    },
+    {
+      "_path": "include/libdap/D4Function.h",
+      "path_type": "hardlink",
+      "sha256": "c2ba780ec00d2434595a0fb79c45f5ac7d6d803311200532d1e93a7da4590c02",
+      "size_in_bytes": 1651
+    },
+    {
+      "_path": "include/libdap/D4FunctionEvaluator.h",
+      "path_type": "hardlink",
+      "sha256": "375a75aa605e3c649d5aaab71a1371b173d02058db51e4c4e195f05a6f93130f",
+      "size_in_bytes": 4048
+    },
+    {
+      "_path": "include/libdap/D4Group.h",
+      "path_type": "hardlink",
+      "sha256": "e957ec1a4f0934720cc45f80afbd1f331765a2f7d1814ad27f5b56329f44c823",
+      "size_in_bytes": 4760
+    },
+    {
+      "_path": "include/libdap/D4Maps.h",
+      "path_type": "hardlink",
+      "sha256": "47cb39848f4d7bc8c7b3325cbebc316b08b780191bdcb0111dab977a45dabb6a",
+      "size_in_bytes": 5010
+    },
+    {
+      "_path": "include/libdap/D4Opaque.h",
+      "path_type": "hardlink",
+      "sha256": "5ab40ad41ee38a35b34939496e7b0075c88a5da3f28e3e3ad4de0e9ed45658cc",
+      "size_in_bytes": 3594
+    },
+    {
+      "_path": "include/libdap/D4ParserSax2.h",
+      "path_type": "hardlink",
+      "sha256": "0042390d904a3630d8b3747c2b76de9d1e1485c68d7d171cef7d7a05d310540c",
+      "size_in_bytes": 12506
+    },
+    {
+      "_path": "include/libdap/D4RValue.h",
+      "path_type": "hardlink",
+      "sha256": "e9074097f1d4ad155867d886f4b35278f98b3ff1204f1a1e23715976bda03fb0",
+      "size_in_bytes": 4533
+    },
+    {
+      "_path": "include/libdap/D4Sequence.h",
+      "path_type": "hardlink",
+      "sha256": "7ccbd6a20c68b95a696e43cd8c45144dd2d0c65139d668d07006e2f8b2df3712",
+      "size_in_bytes": 11263
+    },
+    {
+      "_path": "include/libdap/D4StreamMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "eed4d5b8cad9e24463188d7256a8b201d973c9fd6315b059155f3641a797aa84",
+      "size_in_bytes": 5743
+    },
+    {
+      "_path": "include/libdap/D4StreamUnMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "556288feb4a4e8c37b9c19a1b3b310da0722946f6dd84253804e9b5c6173aed5",
+      "size_in_bytes": 5220
+    },
+    {
+      "_path": "include/libdap/DAS.h",
+      "path_type": "hardlink",
+      "sha256": "e606bef3f7e2ca832edf956d2e096267f087b9a2c633896f49d7f909f9a173ca",
+      "size_in_bytes": 6735
+    },
+    {
+      "_path": "include/libdap/DDS.h",
+      "path_type": "hardlink",
+      "sha256": "2dab34a93e11651433247b2dd0440d9ca96c799d45e9a33b4335261e11b0270c",
+      "size_in_bytes": 13748
+    },
+    {
+      "_path": "include/libdap/DDXExceptions.h",
+      "path_type": "hardlink",
+      "sha256": "0d0261e75a3d83b8ab5524d9329085217d73c11d26827d2b0d39e1ca89851522",
+      "size_in_bytes": 1521
+    },
+    {
+      "_path": "include/libdap/DDXParserSAX2.h",
+      "path_type": "hardlink",
+      "sha256": "84dd150d897cd966bf27181e7a81a843f9d0577db1741d20c4fcb5b27debc525",
+      "size_in_bytes": 9174
+    },
+    {
+      "_path": "include/libdap/DMR.h",
+      "path_type": "hardlink",
+      "sha256": "3f836f0a3f5b9dce1f37c19f7203499631d0397c01198d5dd4c5d0bbb781c0dd",
+      "size_in_bytes": 6103
+    },
+    {
+      "_path": "include/libdap/DODSFilter.h",
+      "path_type": "hardlink",
+      "sha256": "c2c59009c55acb054fd553e7dedfb26e016f2297f9d44b110d26fa738cf0c31d",
+      "size_in_bytes": 9118
+    },
+    {
+      "_path": "include/libdap/DapIndent.h",
+      "path_type": "hardlink",
+      "sha256": "ed80852920db2a83f8d5f07b13ac2a48fcfa31e0038de7b9a86b24b16b8fd848",
+      "size_in_bytes": 1879
+    },
+    {
+      "_path": "include/libdap/DapObj.h",
+      "path_type": "hardlink",
+      "sha256": "3c0ee20dd241ac035d59fe38f60805b89dc0c4ed007f5d6d3f4d023dadc7bce7",
+      "size_in_bytes": 2533
+    },
+    {
+      "_path": "include/libdap/DapXmlNamespaces.h",
+      "path_type": "hardlink",
+      "sha256": "80129141a4a7b564ab5d893be29caeb8799719f41be88ef07a83976a52465cf4",
+      "size_in_bytes": 3775
+    },
+    {
+      "_path": "include/libdap/DataDDS.h",
+      "path_type": "hardlink",
+      "sha256": "28eedd415802b0c42c7b9343507c71aee6b8c41785d8a908e6da395ff4faf854",
+      "size_in_bytes": 4673
+    },
+    {
+      "_path": "include/libdap/EncodingType.h",
+      "path_type": "hardlink",
+      "sha256": "f1ec29fcea470c1563a5a5d131cee4447a07336dc32406da5b5801e812e6ff01",
+      "size_in_bytes": 1621
+    },
+    {
+      "_path": "include/libdap/Error.h",
+      "path_type": "hardlink",
+      "sha256": "1bdd5588bca5babe299f85784adafcc6813474ada28715ecf6347090f99817fe",
+      "size_in_bytes": 4276
+    },
+    {
+      "_path": "include/libdap/EventHandler.h",
+      "path_type": "hardlink",
+      "sha256": "9eda1b8e4571fe511d66f2163d02db82bb233cdaaf867df2bb2299b870f49b0b",
+      "size_in_bytes": 2213
+    },
+    {
+      "_path": "include/libdap/Float32.h",
+      "path_type": "hardlink",
+      "sha256": "9c3ebd9af67c40810fe1a7eac18d417b8a7da2452e73685b7021ba26d38378c9",
+      "size_in_bytes": 3038
+    },
+    {
+      "_path": "include/libdap/Float64.h",
+      "path_type": "hardlink",
+      "sha256": "a019e36f3c5e6b93c84496de9f67ed60c52a6b0a30a05210cc2fa7065dd072c7",
+      "size_in_bytes": 3042
+    },
+    {
+      "_path": "include/libdap/GNURegex.h",
+      "path_type": "hardlink",
+      "sha256": "ad78df184d4bbc53a0f9fad9600162460f117a7769ba6e4522239e92787d0760",
+      "size_in_bytes": 2036
+    },
+    {
+      "_path": "include/libdap/GetOpt.h",
+      "path_type": "hardlink",
+      "sha256": "3da45f10fd313fbcbb9f98aa6f5c17515e4dc89ca41dbe3179cd6180435da051",
+      "size_in_bytes": 4724
+    },
+    {
+      "_path": "include/libdap/Grid.h",
+      "path_type": "hardlink",
+      "sha256": "9fb7a0c90d53bb1f229400d78a8aae7a9bc5f7a5662a9c089d93b0ca8f9389fb",
+      "size_in_bytes": 6728
+    },
+    {
+      "_path": "include/libdap/HTTPCache.h",
+      "path_type": "hardlink",
+      "sha256": "05b4ac64df0cbdd7f66864ba6ad859007c518052843fd4ff768eef5250ebc6c5",
+      "size_in_bytes": 9019
+    },
+    {
+      "_path": "include/libdap/HTTPCacheDisconnectedMode.h",
+      "path_type": "hardlink",
+      "sha256": "950c75dee823602eeb1f96ee90690bf9a9d24d470a599ecd24c09062c53b349b",
+      "size_in_bytes": 1991
+    },
+    {
+      "_path": "include/libdap/HTTPCacheInterruptHandler.h",
+      "path_type": "hardlink",
+      "sha256": "2132fd869e28fdbe8c8978440a40be312c91ce30dac94b641d231065efe1e149",
+      "size_in_bytes": 2753
+    },
+    {
+      "_path": "include/libdap/HTTPCacheMacros.h",
+      "path_type": "hardlink",
+      "sha256": "2d9f0689bed4eb2259d7450cd37ec42c7961b69ddb5217f9f1b4832f1de0450f",
+      "size_in_bytes": 1704
+    },
+    {
+      "_path": "include/libdap/HTTPCacheResponse.h",
+      "path_type": "hardlink",
+      "sha256": "4d093edda35b748cabedc8c446101732282155570bfda8834ddf84fd6aa7aabc",
+      "size_in_bytes": 3309
+    },
+    {
+      "_path": "include/libdap/HTTPCacheTable.h",
+      "path_type": "hardlink",
+      "sha256": "50f94538b6595c15cb4d92eb702c0d22c67f0d826b749b332097765675ab80c5",
+      "size_in_bytes": 11313
+    },
+    {
+      "_path": "include/libdap/HTTPConnect.h",
+      "path_type": "hardlink",
+      "sha256": "e4d56a893cc2bd0cd3db024aeaa3badea8873f3b0a99693dbc15753de18ff4a5",
+      "size_in_bytes": 4988
+    },
+    {
+      "_path": "include/libdap/HTTPResponse.h",
+      "path_type": "hardlink",
+      "sha256": "3af8c7264922c7d0a3e1a302c9944687a77eb6e961965732bae6b615f7a9d4aa",
+      "size_in_bytes": 6009
+    },
+    {
+      "_path": "include/libdap/Int16.h",
+      "path_type": "hardlink",
+      "sha256": "4e08a91c0d5a4f078806fc85e64d9e7e11db9d8e122d9c58b7716bff95a28650",
+      "size_in_bytes": 2990
+    },
+    {
+      "_path": "include/libdap/Int32.h",
+      "path_type": "hardlink",
+      "sha256": "779737190147038f4dd34f19a1bfda035da552dfcbab01d64144d341d8125b08",
+      "size_in_bytes": 3039
+    },
+    {
+      "_path": "include/libdap/Int64.h",
+      "path_type": "hardlink",
+      "sha256": "8473d8f5518f368f024f59896540693fa6f2d3728134597cdf217381477d8e03",
+      "size_in_bytes": 2765
+    },
+    {
+      "_path": "include/libdap/Int8.h",
+      "path_type": "hardlink",
+      "sha256": "5818d2d95b43e25fceaf3c011d678921c091c1991eb2125f1be158755ecc901e",
+      "size_in_bytes": 2749
+    },
+    {
+      "_path": "include/libdap/InternalErr.h",
+      "path_type": "hardlink",
+      "sha256": "6ba8a3f0e90f80d12ba5b57cf35fa673db0709ccd7ef0ff51075afc640e39c73",
+      "size_in_bytes": 2793
+    },
+    {
+      "_path": "include/libdap/Keywords2.h",
+      "path_type": "hardlink",
+      "sha256": "81bd4b9acbd493848b5d675f1b643a3f99c6715bb1005c865e94df568002e7f4",
+      "size_in_bytes": 2987
+    },
+    {
+      "_path": "include/libdap/Marshaller.h",
+      "path_type": "hardlink",
+      "sha256": "4a0a8f2dfdd5dff0c48313618f3954d39d0f015bd5c0c041dc6afd8602539f90",
+      "size_in_bytes": 3399
+    },
+    {
+      "_path": "include/libdap/MarshallerThread.h",
+      "path_type": "hardlink",
+      "sha256": "49cc42955cd7a51eec3d83782d2da4e56531747434f61841403d83e1e22f83d9",
+      "size_in_bytes": 5471
+    },
+    {
+      "_path": "include/libdap/ObjectType.h",
+      "path_type": "hardlink",
+      "sha256": "1f7477e6fc56e20b8b7a26b2657146a77395a878ab880fcf9a00b19dedcc3685",
+      "size_in_bytes": 2136
+    },
+    {
+      "_path": "include/libdap/PipeResponse.h",
+      "path_type": "hardlink",
+      "sha256": "61c9f9a5fe5a55a179a9d8256e45033cc154c52395e751da7a3c41c60a479d03",
+      "size_in_bytes": 2518
+    },
+    {
+      "_path": "include/libdap/RCReader.h",
+      "path_type": "hardlink",
+      "sha256": "1f2b2f011fd36eb634d1541f3cea563d88a5fde8e7bc79a3552a9942cb94f9ec",
+      "size_in_bytes": 10293
+    },
+    {
+      "_path": "include/libdap/RValue.h",
+      "path_type": "hardlink",
+      "sha256": "22515b582032a72959b337e499db88047ab7ac05f52e8806fce750922ffe1590",
+      "size_in_bytes": 2776
+    },
+    {
+      "_path": "include/libdap/Resource.h",
+      "path_type": "hardlink",
+      "sha256": "22ae7a1fe4ee79c6c1e13c6f35d8805339715a853b002e6fceb0399913778c4a",
+      "size_in_bytes": 4798
+    },
+    {
+      "_path": "include/libdap/Response.h",
+      "path_type": "hardlink",
+      "sha256": "b0b70d01565feed404ae9ea2624343b1d5da5f553d2f7e693194b20ace0db943",
+      "size_in_bytes": 4525
+    },
+    {
+      "_path": "include/libdap/ResponseTooBigErr.h",
+      "path_type": "hardlink",
+      "sha256": "bae7d16e140401cc071274fbd11aaae0bec06c32ebed186cf62110600c8f63f3",
+      "size_in_bytes": 1593
+    },
+    {
+      "_path": "include/libdap/Sequence.h",
+      "path_type": "hardlink",
+      "sha256": "7720ab9b10cdb102a59139611c8ec7b86377cc7cbbfef6589250459e726919e1",
+      "size_in_bytes": 10820
+    },
+    {
+      "_path": "include/libdap/ServerFunction.h",
+      "path_type": "hardlink",
+      "sha256": "dd85ff1ed26cccfe1151fdeda5c248f82b202bfb0dd47db683f3d46a20cb7225",
+      "size_in_bytes": 5158
+    },
+    {
+      "_path": "include/libdap/ServerFunctionsList.h",
+      "path_type": "hardlink",
+      "sha256": "83d1ce9b6a3e4722a036a49d06019dc4a75bcb628924d089fc1a7e25c79afc89",
+      "size_in_bytes": 2613
+    },
+    {
+      "_path": "include/libdap/SignalHandler.h",
+      "path_type": "hardlink",
+      "sha256": "3b030309be8df21b844e68bbc15bc6adf7ddb0e00937ed7cadb01708dc1b0b26",
+      "size_in_bytes": 4526
+    },
+    {
+      "_path": "include/libdap/SignalHandlerRegisteredErr.h",
+      "path_type": "hardlink",
+      "sha256": "ce421e95dc4a9b9cf85e8bcef3da586ed204a3b54a68293273badc9ead172393",
+      "size_in_bytes": 1813
+    },
+    {
+      "_path": "include/libdap/StdinResponse.h",
+      "path_type": "hardlink",
+      "sha256": "ad63664c351854c1b52ba105cb21575b387aeaaf6f43f618933739953cef57cd",
+      "size_in_bytes": 2522
+    },
+    {
+      "_path": "include/libdap/Str.h",
+      "path_type": "hardlink",
+      "sha256": "6257697c71be5cdc68bdaa3dda479f9a5070f3db25b2a10dbbc0ec7dcb46143d",
+      "size_in_bytes": 3503
+    },
+    {
+      "_path": "include/libdap/Structure.h",
+      "path_type": "hardlink",
+      "sha256": "1a55b5de2951e57da8b26c7d00ab42a34ff27655e64fb84e836829dc7d3c5512",
+      "size_in_bytes": 3712
+    },
+    {
+      "_path": "include/libdap/Type.h",
+      "path_type": "hardlink",
+      "sha256": "362baeb80482dd8b856f99519c2151c2fe87891030ca521fe3bc47c6e0fcf6ff",
+      "size_in_bytes": 2871
+    },
+    {
+      "_path": "include/libdap/UInt16.h",
+      "path_type": "hardlink",
+      "sha256": "1d4262fbdd00c4bf507ffd7bda13d494d0ac475329253dab884bb0dba433b48a",
+      "size_in_bytes": 2950
+    },
+    {
+      "_path": "include/libdap/UInt32.h",
+      "path_type": "hardlink",
+      "sha256": "b6062144c92cc0e83a6caa0d6eb69c11abe75025aaa2e39c12f0a35f7cd47c55",
+      "size_in_bytes": 2982
+    },
+    {
+      "_path": "include/libdap/UInt64.h",
+      "path_type": "hardlink",
+      "sha256": "f0fd30d58fa0093d10b674274fb690b0204b937e6315f510478159de4f283e43",
+      "size_in_bytes": 2796
+    },
+    {
+      "_path": "include/libdap/UnMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "b22a06ed903821d0516de5a760d246331ea900c421739c493584dea933ed7460",
+      "size_in_bytes": 2510
+    },
+    {
+      "_path": "include/libdap/Url.h",
+      "path_type": "hardlink",
+      "sha256": "ae4eeded893b9a03ebe271d12c9e549f0d3598bd713be0e2604a849efcb3d407",
+      "size_in_bytes": 2100
+    },
+    {
+      "_path": "include/libdap/Vector.h",
+      "path_type": "hardlink",
+      "sha256": "541d66632a02670f9de9e9afe52e292c48ec3af5498336c744b5450a79a002da",
+      "size_in_bytes": 10548
+    },
+    {
+      "_path": "include/libdap/XDRFileMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "22c1cfe7c209877a7563f327770761131cf6c088c2cf0f7b6531d17de352e462",
+      "size_in_bytes": 2557
+    },
+    {
+      "_path": "include/libdap/XDRFileUnMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "b52a7cc7f3de537b028384c1976eb8c976d46b5ef1e59e3a101ad6c19e9b706a",
+      "size_in_bytes": 2659
+    },
+    {
+      "_path": "include/libdap/XDRStreamMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "751f4de247a0044bc5331a99fb9666c63fb1797da1e8f5ba9afeecd63852bbc2",
+      "size_in_bytes": 3117
+    },
+    {
+      "_path": "include/libdap/XDRStreamUnMarshaller.h",
+      "path_type": "hardlink",
+      "sha256": "1bf1f6440d29f0b34983652086fb2c06c4e63af53a214790b8f499c7f5ef3aa7",
+      "size_in_bytes": 2921
+    },
+    {
+      "_path": "include/libdap/XDRUtils.h",
+      "path_type": "hardlink",
+      "sha256": "bebd80537e7ece167b369205547a8e597a21620e7a84052afbf5acde68057c7b",
+      "size_in_bytes": 2183
+    },
+    {
+      "_path": "include/libdap/XMLWriter.h",
+      "path_type": "hardlink",
+      "sha256": "59ebd4603857f953c504618a02a5c8fa2ea02dc5a7f89a6a02d296cb917f01d0",
+      "size_in_bytes": 1659
+    },
+    {
+      "_path": "include/libdap/ce_parser.h",
+      "path_type": "hardlink",
+      "sha256": "5f9ae19ea54c7010f66fd24b10da9d51b773efb930ed5cec1da0d42c739886e2",
+      "size_in_bytes": 595
+    },
+    {
+      "_path": "include/libdap/cgi_util.h",
+      "path_type": "hardlink",
+      "sha256": "4a8d9ae63ea1ee638c834e6b3877aa14530e933f451552d35dabde9fae8e4cb6",
+      "size_in_bytes": 225
+    },
+    {
+      "_path": "include/libdap/chunked_istream.h",
+      "path_type": "hardlink",
+      "sha256": "dc3d6102b02810b24ee652c2ac2daac2e6b4099faa79faa345393a55439577b2",
+      "size_in_bytes": 6370
+    },
+    {
+      "_path": "include/libdap/chunked_ostream.h",
+      "path_type": "hardlink",
+      "sha256": "59e3f8e6498da9d495f93cb814a879e29334edc839e2a05ece4330fdb8c4d0dc",
+      "size_in_bytes": 6352
+    },
+    {
+      "_path": "include/libdap/chunked_stream.h",
+      "path_type": "hardlink",
+      "sha256": "862554cc3526c327f5d7e9e859314df08db5b790345d7563dd1813c797a0137a",
+      "size_in_bytes": 643
+    },
+    {
+      "_path": "include/libdap/crc.h",
+      "path_type": "hardlink",
+      "sha256": "562b29af59ad68542880a727db2add49da7df1f35c2be1dee98edecd4ae9aef3",
+      "size_in_bytes": 4497
+    },
+    {
+      "_path": "include/libdap/debug.h",
+      "path_type": "hardlink",
+      "sha256": "67a3919da778a714e1ce022c3de5c345ec4b003a0d8ed025fc835db626d21586",
+      "size_in_bytes": 2311
+    },
+    {
+      "_path": "include/libdap/dods-datatypes.h",
+      "path_type": "hardlink",
+      "sha256": "85ae0fed71db8e1555fc42bf6303534770c3908d2f96fbf145b0f6df122dabd4",
+      "size_in_bytes": 572
+    },
+    {
+      "_path": "include/libdap/dods-limits.h",
+      "path_type": "hardlink",
+      "sha256": "6cb762595f12f587ec8d0fa8f0804ec37d9f13c4966c4cebb195f06c381cb1ff",
+      "size_in_bytes": 3172
+    },
+    {
+      "_path": "include/libdap/escaping.h",
+      "path_type": "hardlink",
+      "sha256": "369af9ffe45e0a89ab2f4f43d8412adff6c73e2c28eeb867bca7481744f6f55e",
+      "size_in_bytes": 2867
+    },
+    {
+      "_path": "include/libdap/expr.h",
+      "path_type": "hardlink",
+      "sha256": "45c6557273b90ef9a21719359984e8c1f35e303fb70c3c50990b6dcdd5b316ee",
+      "size_in_bytes": 6490
+    },
+    {
+      "_path": "include/libdap/media_types.h",
+      "path_type": "hardlink",
+      "sha256": "41c7a0db09fbcbb5324f93f48a02505b63902b0c5bdaca23d9538992e26f6e14",
+      "size_in_bytes": 1990
+    },
+    {
+      "_path": "include/libdap/mime_util.h",
+      "path_type": "hardlink",
+      "sha256": "bcb95c9519fbbdb13f92f9adadb2b0a604af71c566cd8e08611348a36631c1be",
+      "size_in_bytes": 7409
+    },
+    {
+      "_path": "include/libdap/parser-util.h",
+      "path_type": "hardlink",
+      "sha256": "485b5618412f7098de04a1b2e6b382a1439647ce458b988db7fb9971d8c48673",
+      "size_in_bytes": 3153
+    },
+    {
+      "_path": "include/libdap/parser.h",
+      "path_type": "hardlink",
+      "sha256": "21ad733b0fffc49bd8c8b2fb7d3204ca3621a2afab5e6cbfc6d7152e11cca001",
+      "size_in_bytes": 3984
+    },
+    {
+      "_path": "include/libdap/test/D4TestFunction.h",
+      "path_type": "hardlink",
+      "sha256": "e2062bbc82860ed7fc3cb6b4ea185d232a7b21ebacef8d432ace4616cfd225ce",
+      "size_in_bytes": 2137
+    },
+    {
+      "_path": "include/libdap/test/D4TestTypeFactory.h",
+      "path_type": "hardlink",
+      "sha256": "e6b4cb1116cee3b3a6f8c07df5b53c325f456b5a302939f2bfbdbf2a79e6a57d",
+      "size_in_bytes": 2891
+    },
+    {
+      "_path": "include/libdap/test/TestArray.h",
+      "path_type": "hardlink",
+      "sha256": "6ec86764786c9bdc9c9714543e588c05d42ce2195d62862186f77765c7591498",
+      "size_in_bytes": 2615
+    },
+    {
+      "_path": "include/libdap/test/TestByte.h",
+      "path_type": "hardlink",
+      "sha256": "a67f281048a3ef30ddfe64d0c46a9df055f30538b24d65c1072aada947341707",
+      "size_in_bytes": 2667
+    },
+    {
+      "_path": "include/libdap/test/TestCommon.h",
+      "path_type": "hardlink",
+      "sha256": "3a4b22487f6ee24c3642e0f48098a9203a13725be630669bfce9da37616673eb",
+      "size_in_bytes": 2317
+    },
+    {
+      "_path": "include/libdap/test/TestD4Enum.h",
+      "path_type": "hardlink",
+      "sha256": "566e1ad0ead3ba9b58975211bc71b063ed2d89c916411cd70c4cd7b1a5909d9b",
+      "size_in_bytes": 1800
+    },
+    {
+      "_path": "include/libdap/test/TestD4Group.h",
+      "path_type": "hardlink",
+      "sha256": "516ea4234847c653ff329fb0620b995e5e629e4d919352c68e45895ea5429dae",
+      "size_in_bytes": 1756
+    },
+    {
+      "_path": "include/libdap/test/TestD4Opaque.h",
+      "path_type": "hardlink",
+      "sha256": "b58aa80ddcb7dcb686006453fde87bddd10d9ae4ad5a378f72d7437b9eb85b29",
+      "size_in_bytes": 1847
+    },
+    {
+      "_path": "include/libdap/test/TestD4Sequence.h",
+      "path_type": "hardlink",
+      "sha256": "76d743f849627a6d0b9cd8f825393a70a4b1decaf2edd6d4d5e75a03f516d767",
+      "size_in_bytes": 2034
+    },
+    {
+      "_path": "include/libdap/test/TestFloat32.h",
+      "path_type": "hardlink",
+      "sha256": "52c32c48fc3ff4dfad96bd4c42be9a60bffc346449b2852378d1cd3cf15366c9",
+      "size_in_bytes": 2055
+    },
+    {
+      "_path": "include/libdap/test/TestFloat64.h",
+      "path_type": "hardlink",
+      "sha256": "c453c57adefac0434c8b46b6293a46c21e544671ab6057fbceaf5e511fa4aa12",
+      "size_in_bytes": 2061
+    },
+    {
+      "_path": "include/libdap/test/TestFunction.h",
+      "path_type": "hardlink",
+      "sha256": "b83c5d0efde411c9378935a66397982c83ba9e664ea75299a214508803b5febe",
+      "size_in_bytes": 2009
+    },
+    {
+      "_path": "include/libdap/test/TestGrid.h",
+      "path_type": "hardlink",
+      "sha256": "4ac60fd73763a652633e1c93e6795ef15aa371e87cd07b078748388da0bf6d0e",
+      "size_in_bytes": 1995
+    },
+    {
+      "_path": "include/libdap/test/TestInt16.h",
+      "path_type": "hardlink",
+      "sha256": "df3d9dae0ab58ed0f9d9232923601730697db875fc583f34b8f1ce2112ca721e",
+      "size_in_bytes": 2027
+    },
+    {
+      "_path": "include/libdap/test/TestInt32.h",
+      "path_type": "hardlink",
+      "sha256": "3c4bca00ac6b15a58b0c15ebfec5f0f1489057a1d2b1f9a6f0030ccd06628f83",
+      "size_in_bytes": 2052
+    },
+    {
+      "_path": "include/libdap/test/TestInt64.h",
+      "path_type": "hardlink",
+      "sha256": "103a4c67ceaaba0599178e3f74a7144407cf3a53a3674c92db3bb7c9001ad26e",
+      "size_in_bytes": 1781
+    },
+    {
+      "_path": "include/libdap/test/TestInt8.h",
+      "path_type": "hardlink",
+      "sha256": "b05f0149b282bdc4acf873922e8f904b606a167301a57ffe495546f2547e74c9",
+      "size_in_bytes": 1749
+    },
+    {
+      "_path": "include/libdap/test/TestSequence.h",
+      "path_type": "hardlink",
+      "sha256": "7763051c76713c660c67e9b582c98776add221a95ca734059521d05d981bb9ff",
+      "size_in_bytes": 2258
+    },
+    {
+      "_path": "include/libdap/test/TestStr.h",
+      "path_type": "hardlink",
+      "sha256": "7b5d03461790454111b57629aceeb5a4a468eb8a177221c2b8a8cf40eac38fd1",
+      "size_in_bytes": 2061
+    },
+    {
+      "_path": "include/libdap/test/TestStructure.h",
+      "path_type": "hardlink",
+      "sha256": "c41698b2b29ca0a7f61c12dbf56dde95a82c17fc1e9d819f92d8b627d574bb76",
+      "size_in_bytes": 2198
+    },
+    {
+      "_path": "include/libdap/test/TestTypeFactory.h",
+      "path_type": "hardlink",
+      "sha256": "afe83de6f79a6128d14efdf6e01fa5701ed20e884bf31664857901d8d3656374",
+      "size_in_bytes": 2422
+    },
+    {
+      "_path": "include/libdap/test/TestUInt16.h",
+      "path_type": "hardlink",
+      "sha256": "b51d34f7b4282ffa57c07b831dd912ec0927cf385def44de74eb83ad1c390dca",
+      "size_in_bytes": 2042
+    },
+    {
+      "_path": "include/libdap/test/TestUInt32.h",
+      "path_type": "hardlink",
+      "sha256": "691ce92460d77f941b494be954708a667867c2b88c660a08c5c1f36312999f50",
+      "size_in_bytes": 2048
+    },
+    {
+      "_path": "include/libdap/test/TestUInt64.h",
+      "path_type": "hardlink",
+      "sha256": "e5cbf02e101c40b6182144eadee0d92d357bcd4c575e29bf374baeecc71cc029",
+      "size_in_bytes": 1779
+    },
+    {
+      "_path": "include/libdap/test/TestUrl.h",
+      "path_type": "hardlink",
+      "sha256": "bc66bf03ac7afbd2fa1c1e8d214087e3fdc9af76e9f169c3f1522ec5505e9bcc",
+      "size_in_bytes": 1996
+    },
+    {
+      "_path": "include/libdap/util.h",
+      "path_type": "hardlink",
+      "sha256": "a60f2c62e5a7d6e104146a712fb08263ed8c50c00253f9975b9aafd2d68e1b96",
+      "size_in_bytes": 5448
+    },
+    {
+      "_path": "include/libdap/util_mit.h",
+      "path_type": "hardlink",
+      "sha256": "d0fdff6da1c251366448a2057923ade65d74ab606499e3b5d805a7609b5d6d69",
+      "size_in_bytes": 1248
+    },
+    {
+      "_path": "include/libdap/xdr-datatypes.h",
+      "path_type": "hardlink",
+      "sha256": "3c949928e66422b909665c7b790283876fc99a93037771381325d5198bd04db5",
+      "size_in_bytes": 657
+    },
+    {
+      "_path": "lib/libdap.a",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/libdap4_1587529649472/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "ba9c7643b385bbc4c0c733aae69884ecb73d85da8f68a77e9668d86ff16c7a22",
+      "size_in_bytes": 27992134
+    },
+    {
+      "_path": "lib/libdap.so",
+      "path_type": "softlink",
+      "sha256": "d16c5d878bb838b805c4e0e5434a6cf87970b6317ba2642eb1e57a1dd2aa775b",
+      "size_in_bytes": 16629856
+    },
+    {
+      "_path": "lib/libdap.so.25",
+      "path_type": "softlink",
+      "sha256": "d16c5d878bb838b805c4e0e5434a6cf87970b6317ba2642eb1e57a1dd2aa775b",
+      "size_in_bytes": 16629856
+    },
+    {
+      "_path": "lib/libdap.so.25.2.3",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/libdap4_1587529649472/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "d16c5d878bb838b805c4e0e5434a6cf87970b6317ba2642eb1e57a1dd2aa775b",
+      "size_in_bytes": 16629856
+    },
+    {
+      "_path": "lib/libdapclient.a",
+      "path_type": "hardlink",
+      "sha256": "4597f69802e2731db9e43e831f627fcd5949f60132b278f5900fad6e9fd06925",
+      "size_in_bytes": 5088754
+    },
+    {
+      "_path": "lib/libdapclient.so",
+      "path_type": "softlink",
+      "sha256": "1bcc9bab09313e3dc87f69d67e9adc4f7ce3261f40589a520bcd5b2cf818cad9",
+      "size_in_bytes": 3355544
+    },
+    {
+      "_path": "lib/libdapclient.so.6",
+      "path_type": "softlink",
+      "sha256": "1bcc9bab09313e3dc87f69d67e9adc4f7ce3261f40589a520bcd5b2cf818cad9",
+      "size_in_bytes": 3355544
+    },
+    {
+      "_path": "lib/libdapclient.so.6.1.11",
+      "path_type": "hardlink",
+      "sha256": "1bcc9bab09313e3dc87f69d67e9adc4f7ce3261f40589a520bcd5b2cf818cad9",
+      "size_in_bytes": 3355544
+    },
+    {
+      "_path": "lib/libdapserver.a",
+      "path_type": "hardlink",
+      "sha256": "e77d647b44096ac9592651ecbdff0400687a78cb5d58c2911512c2cee702d74e",
+      "size_in_bytes": 821922
+    },
+    {
+      "_path": "lib/libdapserver.so",
+      "path_type": "softlink",
+      "sha256": "a82f65201247e3243192d57f5ba9b51bfca9882ab09b1646630445b0fd72fa89",
+      "size_in_bytes": 542712
+    },
+    {
+      "_path": "lib/libdapserver.so.7",
+      "path_type": "softlink",
+      "sha256": "a82f65201247e3243192d57f5ba9b51bfca9882ab09b1646630445b0fd72fa89",
+      "size_in_bytes": 542712
+    },
+    {
+      "_path": "lib/libdapserver.so.7.6.11",
+      "path_type": "hardlink",
+      "sha256": "a82f65201247e3243192d57f5ba9b51bfca9882ab09b1646630445b0fd72fa89",
+      "size_in_bytes": 542712
+    },
+    {
+      "_path": "lib/libtest-types.a",
+      "path_type": "hardlink",
+      "sha256": "8c2cf3513ec13b54b68a5a4c475e9cbc33a3b36aa82c464c79acbeb46eb310c7",
+      "size_in_bytes": 3774684
+    },
+    {
+      "_path": "lib/pkgconfig/libdap.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/libdap4_1587529649472/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "14e5dddb4e41b9430e7ddf6c51f1037f903964707a655b1ead94dc107ec352f3",
+      "size_in_bytes": 2187
+    },
+    {
+      "_path": "lib/pkgconfig/libdapclient.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/libdap4_1587529649472/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "5b83d20a3bfb6759766dec7381a6919e98af8077b45b3e965f3e00791a9a41fd",
+      "size_in_bytes": 1089
+    },
+    {
+      "_path": "lib/pkgconfig/libdapserver.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/libdap4_1587529649472/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+      "sha256": "bf3ea739a86f5fd50ce4c02ec3c21d495a1fa362c12f54822a5b8b7b150e083c",
+      "size_in_bytes": 787
+    },
+    {
+      "_path": "share/aclocal/libdap.m4",
+      "path_type": "hardlink",
+      "sha256": "8404fe9ba876b93a6ff28c3b9f3a27494941cd308b8186fd29578770710aac7d",
+      "size_in_bytes": 11203
+    },
+    {
+      "_path": "share/man/man1/dap-config.1",
+      "path_type": "hardlink",
+      "sha256": "e4d4edd72696fab06daeef769d04504103ee24bbc7314df5d5402f67a3f1239a",
+      "size_in_bytes": 1291
+    },
+    {
+      "_path": "share/man/man1/getdap.1",
+      "path_type": "hardlink",
+      "sha256": "eb2941dcffce96466e8ae50bd61601ed934b7deac3d5a21924c857a395c8189b",
+      "size_in_bytes": 2665
+    },
+    {
+      "_path": "share/man/man1/getdap4.1",
+      "path_type": "hardlink",
+      "sha256": "6edff94cea1ba24db4c735a44e3bea761a48813a02d465fd53934e504000c259",
+      "size_in_bytes": 2683
+    }
+  ],
+  "paths_version": 1
+}

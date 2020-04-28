@@ -1,0 +1,1 @@
+{"build": "h516909a_0", "build_number": 0, "depends": ["libgcc-ng >=7.3.0"], "license": "BSD-3-Clause", "license_family": "BSD", "name": "tzcode", "subdir": "linux-64", "timestamp": 1587733958931, "version": "2020a", "size": 435147, "md5": "20272a17cfb48266ac46e6e04ad8d21d", "sha256": "08414974a48fb2073f240f0f6c30214c124ef1d9b5760d4bb6249f9d25659f71"}

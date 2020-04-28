@@ -32,59 +32,59 @@
       "timestamp": 1582045300613,
       "version": "4.5"
     },
-    "abseil-cpp-20200225.1-he1b5a44_2.tar.bz2": {
-      "build": "he1b5a44_2",
-      "build_number": 2,
+    "abseil-cpp-20200225.2-he1b5a44_0.tar.bz2": {
+      "build": "he1b5a44_0",
+      "build_number": 0,
       "depends": [
         "libgcc-ng >=7.3.0",
         "libstdcxx-ng >=7.3.0"
       ],
       "license": "Apache-2.0",
       "license_family": "Apache",
-      "md5": "246c5cff778dc8cab7d522601024050a",
+      "md5": "b1f15fc778eeb7c35954b6f20a154028",
       "name": "abseil-cpp",
-      "sha256": "61f5e4c10b579dfdad2166bd3e01e15392e706b92e75e816c22a3278ea535a28",
-      "size": 921315,
+      "sha256": "fea539e4d24d589b7366c26a1a9ba61f9b104c774d09204d77c5eaef94149fc6",
+      "size": 930807,
       "subdir": "linux-64",
-      "timestamp": 1584365268733,
-      "version": "20200225.1"
+      "timestamp": 1587588470376,
+      "version": "20200225.2"
     },
-    "arctern-0.0.0.dev-0.tar.bz2": {
-      "build": "0",
-      "build_number": 0,
+    "arctern-0.1.0-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
       "depends": [
-        "libarctern 0.0.0.dev.*",
+        "libarctern 0.1.0.*",
         "pyarrow 0.16.0",
         "python >=3.7,<3.8.0a0",
         "python_abi 3.7.* *_cp37m"
       ],
       "license": "Apache-2.0",
       "license_family": "Apache",
-      "md5": "51f00c33f663c596fb0719d6e7963dee",
+      "md5": "6bcf19f1ca17b8c15b2bd5509a5aa27b",
       "name": "arctern",
-      "sha256": "f90c0a837fdc3bf1860d92ffd68d6093fe75e89b0ae3490fdcd50f00cf32c1bb",
-      "size": 411092,
+      "sha256": "4e4620551f12583f0ee3c8e447ea1e90ac10aa8bdea23aef118cecad3b989e80",
+      "size": 407499,
       "subdir": "linux-64",
-      "timestamp": 1587347806815,
-      "version": "0.0.0.dev"
+      "timestamp": 1587962371563,
+      "version": "0.1.0"
     },
-    "arctern-spark-0.0.0.dev-0.tar.bz2": {
-      "build": "0",
-      "build_number": 0,
+    "arctern-spark-0.1.0-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
       "depends": [
-        "arctern 0.0.0.dev.*",
+        "arctern 0.1.0.*",
         "python >=3.7,<3.8.0a0",
         "python_abi 3.7.* *_cp37m"
       ],
       "license": "Apache-2.0",
       "license_family": "Apache",
-      "md5": "778e8ec0d047bde09244f92aa4c9ba48",
+      "md5": "35e5033d19c5ea69c487a94b902455d0",
       "name": "arctern-spark",
-      "sha256": "dbf752d7126392a4a63fa4af01caeba136d224bd4210fa54310368c845cf061a",
-      "size": 37988,
+      "sha256": "ff3ddb69d4bf7c9c93837803409ef5251998fe769bcbd00b54b9d8a106eae225",
+      "size": 37958,
       "subdir": "linux-64",
-      "timestamp": 1587347951443,
-      "version": "0.0.0.dev"
+      "timestamp": 1587962492754,
+      "version": "0.1.0"
     },
     "arrow-cpp-0.16.0-py37h989c1cb_2.tar.bz2": {
       "build": "py37h989c1cb_2",
@@ -268,22 +268,23 @@
       "timestamp": 1586119820233,
       "version": "2020.4.5.1"
     },
-    "cfitsio-3.470-hb60a0a2_2.tar.bz2": {
-      "build": "hb60a0a2_2",
-      "build_number": 2,
+    "cfitsio-3.470-h00dd3da_3.tar.bz2": {
+      "build": "h00dd3da_3",
+      "build_number": 3,
       "depends": [
         "bzip2 >=1.0.8,<2.0a0",
-        "libcurl >=7.64.1,<8.0a0",
+        "libcurl >=7.69.1,<8.0a0",
         "libgcc-ng >=7.3.0",
-        "libgfortran-ng >=7,<8.0a0"
+        "libgfortran-ng >=7,<8.0a0",
+        "zlib >=1.2.11,<1.3.0a0"
       ],
       "license": "fitsio",
-      "md5": "573a70e5dde7885a2a110546d569f6cd",
+      "md5": "ef08428625c9f34e364a0f986a710691",
       "name": "cfitsio",
-      "sha256": "be1bab7ebbca50e484b370dc8a020a92aa5fd12f95a2bb808a15649bb597a0f4",
-      "size": 1437782,
+      "sha256": "d99fa852142e11a3e23927b7b9dddfb021faeaca4f2806cbabd99ca10f01eada",
+      "size": 1349753,
       "subdir": "linux-64",
-      "timestamp": 1565986116068,
+      "timestamp": 1587992736796,
       "version": "3.470"
     },
     "curl-7.69.1-h33f0ec9_0.tar.bz2": {
@@ -517,26 +518,26 @@
       "timestamp": 1587125857265,
       "version": "0.4.0"
     },
-    "grpc-cpp-1.28.1-h740d8f9_1.tar.bz2": {
-      "build": "h740d8f9_1",
-      "build_number": 1,
+    "grpc-cpp-1.28.1-h8e748ff_2.tar.bz2": {
+      "build": "h8e748ff_2",
+      "build_number": 2,
       "depends": [
-        "abseil-cpp >=20200225.1,<20200225.2.0a0",
+        "abseil-cpp >=20200225.2,<20200225.3.0a0",
         "gflags >=2.2.2,<2.3.0a0",
         "libgcc-ng >=7.3.0",
         "libprotobuf >=3.11.4,<3.12.0a0",
         "libstdcxx-ng >=7.3.0",
-        "openssl >=1.1.1f,<1.1.2a",
+        "openssl >=1.1.1g,<1.1.2a",
         "zlib >=1.2.11,<1.3.0a0"
       ],
       "license": "Apache-2.0",
       "license_family": "APACHE",
-      "md5": "80aa79451f5ff0bae1b9b8ccc18261d2",
+      "md5": "eb85c37f653fbfe01f945f403bcac91f",
       "name": "grpc-cpp",
-      "sha256": "9d753c57eeced4c3d1e8f11c5a2361adecddf409606161ed0a2fae8795881db4",
-      "size": 4189532,
+      "sha256": "9eebea92fc002bc3553c4c7754cad4ed014215e4ca634cd9f2f8541351909fb5",
+      "size": 4177948,
       "subdir": "linux-64",
-      "timestamp": 1587125974940,
+      "timestamp": 1587634183478,
       "version": "1.28.1"
     },
     "hdf4-4.2.13-hf30be14_1003.tar.bz2": {
@@ -672,9 +673,9 @@
       "timestamp": 1584486202167,
       "version": "2.34"
     },
-    "libarctern-0.0.0.dev-0.tar.bz2": {
-      "build": "0",
-      "build_number": 0,
+    "libarctern-0.1.0-1.tar.bz2": {
+      "build": "1",
+      "build_number": 1,
       "depends": [
         "gdal 3.0.4",
         "libnetcdf 4.7.3",
@@ -684,13 +685,13 @@
       ],
       "license": "Apache-2.0",
       "license_family": "Apache",
-      "md5": "1adce20cd2f63544a4b1f401b4bb5615",
+      "md5": "17eba609da1d05af584e2ae4e7aee6c6",
       "name": "libarctern",
-      "sha256": "3d6f0819159bb84d6f41a73dc3272d9d28c4d2d9c5cd4ea235d31d562044244a",
-      "size": 477120,
+      "sha256": "fc33ba9ecaed17901a8e0bdc8054afcbc1e0306517cf37fe76fa47d8ff2f7e55",
+      "size": 476104,
       "subdir": "linux-64",
-      "timestamp": 1587347495933,
-      "version": "0.0.0.dev"
+      "timestamp": 1587962135351,
+      "version": "0.1.0"
     },
     "libblas-3.8.0-16_openblas.tar.bz2": {
       "build": "16_openblas",
@@ -754,24 +755,24 @@
       "timestamp": 1586385897360,
       "version": "7.69.1"
     },
-    "libdap4-3.20.4-hd3bb157_0.tar.bz2": {
-      "build": "hd3bb157_0",
+    "libdap4-3.20.6-h1d1bd15_0.tar.bz2": {
+      "build": "h1d1bd15_0",
       "build_number": 0,
       "depends": [
-        "curl >=7.64.1,<8.0a0",
+        "curl >=7.69.1,<8.0a0",
         "libgcc-ng >=7.3.0",
         "libstdcxx-ng >=7.3.0",
         "libuuid >=2.32.1,<3.0a0",
-        "libxml2 >=2.9.9,<2.10.0a0"
+        "libxml2 >=2.9.10,<2.10.0a0"
       ],
       "license": "GNU LGPL",
-      "md5": "470b98f5baf353e3f96f537b2f07afd7",
+      "md5": "2fb6c338c62f3ed86b82edd4c54fac10",
       "name": "libdap4",
-      "sha256": "f4d4db19a84916c15f430497b244476fbc2dd11e691ddd581add3bca7347c143",
-      "size": 19389611,
+      "sha256": "75b43a4996affc3c0b4db57bfe65ecb7ea57222a65bf91ae905ded55aa2eee2c",
+      "size": 19087106,
       "subdir": "linux-64",
-      "timestamp": 1568125554609,
-      "version": "3.20.4"
+      "timestamp": 1587529962220,
+      "version": "3.20.6"
     },
     "libedit-3.1.20170329-hf8c457e_1001.tar.bz2": {
       "build": "hf8c457e_1001",
@@ -1289,7 +1290,7 @@
       "timestamp": 1575193820226,
       "version": "2.3.1"
     },
-    "openssl-1.1.1f-h516909a_0.tar.bz2": {
+    "openssl-1.1.1g-h516909a_0.tar.bz2": {
       "build": "h516909a_0",
       "build_number": 0,
       "depends": [
@@ -1298,13 +1299,13 @@
       ],
       "license": "OpenSSL",
       "license_family": "Apache",
-      "md5": "5acd6d5f94005db2464b306be26b4177",
+      "md5": "b68c8742d26e69d091ffcb2c1b85c3e8",
       "name": "openssl",
-      "sha256": "c70d551db499961404712d1dc3aa04e744e720ef6d447fd0a0cbc82bd8baacaf",
-      "size": 2234875,
+      "sha256": "ee347f50b6972a8d2ddc7d30a3cf4fe1b6d85ae8002f693ab31a492fc10f793c",
+      "size": 2227395,
       "subdir": "linux-64",
-      "timestamp": 1585668286103,
-      "version": "1.1.1f"
+      "timestamp": 1587478978945,
+      "version": "1.1.1g"
     },
     "pandas-1.0.3-py37h0da4684_1.tar.bz2": {
       "build": "py37h0da4684_1",
@@ -1442,8 +1443,8 @@
       "timestamp": 1537005788311,
       "version": "0.4"
     },
-    "pyarrow-0.16.0-py37hd02d5f2_2.tar.bz2": {
-      "build": "py37hd02d5f2_2",
+    "pyarrow-0.16.0-py37h110162e_2.tar.bz2": {
+      "build": "py37h110162e_2",
       "build_number": 2,
       "depends": [
         "arrow-cpp >=0.16.0,<0.16.1.0a0",
@@ -1455,16 +1456,17 @@
         "pandas",
         "parquet-cpp 1.5.1.*",
         "python >=3.7,<3.8.0a0",
+        "python_abi 3.7.* *_cp37m",
         "six",
         "snappy"
       ],
-      "license": "Apache 2.0",
-      "md5": "8b14447b47afa28cc05236d30092d187",
+      "license": "Apache-2.0",
+      "md5": "faebb33e87cd546ea5161c0510390489",
       "name": "pyarrow",
-      "sha256": "5641b45d2a4f864158c1a96700f1b90fdbf473fb9c16eb992236f80431342690",
-      "size": 4247999,
+      "sha256": "965e08fc1ba9b7fd542f85a88f9fd9bf696f5ea3ba492856d1749509e6194b0a",
+      "size": 4251497,
       "subdir": "linux-64",
-      "timestamp": 1582204674192,
+      "timestamp": 1587991225031,
       "version": "0.16.0"
     },
     "python-3.7.6-h8356626_5_cpython.tar.bz2": {
@@ -1689,21 +1691,21 @@
       "timestamp": 1574438287853,
       "version": "8.6.10"
     },
-    "tzcode-2019a-h516909a_1002.tar.bz2": {
-      "build": "h516909a_1002",
-      "build_number": 1002,
+    "tzcode-2020a-h516909a_0.tar.bz2": {
+      "build": "h516909a_0",
+      "build_number": 0,
       "depends": [
         "libgcc-ng >=7.3.0"
       ],
       "license": "BSD-3-Clause",
       "license_family": "BSD",
-      "md5": "3e96a84d234f84ea6cb87867a97975b0",
+      "md5": "20272a17cfb48266ac46e6e04ad8d21d",
       "name": "tzcode",
-      "sha256": "d8b9e1f5982dc7637221718ab92973490768b4654461fb051ec1abc65df8fa69",
-      "size": 439664,
+      "sha256": "08414974a48fb2073f240f0f6c30214c124ef1d9b5760d4bb6249f9d25659f71",
+      "size": 435147,
       "subdir": "linux-64",
-      "timestamp": 1559088920521,
-      "version": "2019a"
+      "timestamp": 1587733958931,
+      "version": "2020a"
     },
     "xerces-c-3.2.2-h8412b87_1004.tar.bz2": {
       "build": "h8412b87_1004",

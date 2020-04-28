@@ -1,0 +1,17 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.7/site-packages/arctern_pyspark-0.0.0-py3.7.egg",
+      "path_type": "hardlink",
+      "sha256": "51d8f7097815e9048415dfd1f27058677cb9bdb24de129cb066f7fcf172decd6",
+      "size_in_bytes": 29863
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern_pyspark.pth",
+      "path_type": "hardlink",
+      "sha256": "8f9e87b7beb9d8860fddebd2d9241fb4f0a3359ce4418542e92d3aedcdad592e",
+      "size_in_bytes": 34
+    }
+  ],
+  "paths_version": 1
+}

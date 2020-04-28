@@ -86,22 +86,22 @@
       "pre_unlink": false,
       "recipe_origin": null,
       "run_exports": {
-        "20200225.1": {
+        "20200225.2": {
           "weak": [
-            "abseil-cpp >=20200225.1,<20200225.2.0a0"
+            "abseil-cpp >=20200225.2,<20200225.3.0a0"
           ]
         }
       },
       "source_git_url": null,
-      "source_url": "https://github.com/abseil/abseil-cpp/archive/20200225.1.tar.gz",
+      "source_url": "https://github.com/abseil/abseil-cpp/archive/20200225.2.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "Abseil Common Libraries (C++)",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1584365268,
-      "version": "20200225.1"
+      "timestamp": 1587588470,
+      "version": "20200225.2"
     },
     "arctern": {
       "activate.d": false,
@@ -130,8 +130,8 @@
       "summary": "Python library for Arctern",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1587347806,
-      "version": "0.0.0.dev"
+      "timestamp": 1587962371,
+      "version": "0.1.0"
     },
     "arctern-spark": {
       "activate.d": false,
@@ -160,8 +160,8 @@
       "summary": "Python library for Arctern Spark",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1587347951,
-      "version": "0.0.0.dev"
+      "timestamp": 1587962492,
+      "version": "0.1.0"
     },
     "arrow-cpp": {
       "activate.d": false,
@@ -484,7 +484,7 @@
       "summary": "A library for reading and writing FITS files",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1565986116,
+      "timestamp": 1587992736,
       "version": "3.470"
     },
     "curl": {
@@ -976,7 +976,7 @@
       "summary": "gRPC - A high-performance, open-source universal RPC framework",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1587125974,
+      "timestamp": 1587634183,
       "version": "1.28.1"
     },
     "hdf4": {
@@ -1282,8 +1282,8 @@
       "summary": "C++ library for Arctern",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1587347495,
-      "version": "0.0.0.dev"
+      "timestamp": 1587962135,
+      "version": "0.1.0"
     },
     "libblas": {
       "activate.d": false,
@@ -1412,22 +1412,22 @@
       "pre_unlink": false,
       "recipe_origin": null,
       "run_exports": {
-        "3.20.4": {
+        "3.20.6": {
           "weak": [
-            "libdap4 >=3.20.4,<3.21.0a0"
+            "libdap4 >=3.20.6,<3.21.0a0"
           ]
         }
       },
       "source_git_url": null,
-      "source_url": "https://github.com/OPENDAP/libdap4/archive/version-3.20.4.tar.gz",
+      "source_url": "https://github.com/OPENDAP/libdap4/archive/version-3.20.6.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "A C++ SDK which contains an implementation of both DAP2 and DAP4",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1568125554,
-      "version": "3.20.4"
+      "timestamp": 1587529962,
+      "version": "3.20.6"
     },
     "libedit": {
       "activate.d": false,
@@ -2380,22 +2380,22 @@
       "pre_unlink": false,
       "recipe_origin": null,
       "run_exports": {
-        "1.1.1f": {
+        "1.1.1g": {
           "weak": [
-            "openssl >=1.1.1f,<1.1.2a"
+            "openssl >=1.1.1g,<1.1.2a"
           ]
         }
       },
       "source_git_url": null,
-      "source_url": "http://www.openssl.org/source/openssl-1.1.1f.tar.gz",
+      "source_url": "http://www.openssl.org/source/openssl-1.1.1g.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "OpenSSL is an open-source implementation of the SSL and TLS protocols",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1585668286,
-      "version": "1.1.1f"
+      "timestamp": 1587478978,
+      "version": "1.1.1g"
     },
     "pandas": {
       "activate.d": false,
@@ -2734,7 +2734,7 @@
       "icon_url": null,
       "identifiers": null,
       "keywords": null,
-      "license": "Apache 2.0",
+      "license": "Apache-2.0",
       "post_link": false,
       "pre_link": false,
       "pre_unlink": false,
@@ -2748,7 +2748,7 @@
       "summary": "Python libraries for Apache Arrow",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1582204674,
+      "timestamp": 1587991225,
       "version": "0.16.0"
     },
     "python": {
@@ -2870,15 +2870,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://pypi.io/packages/source/p/pytz/pytz-2019.3.tar.gz",
+      "source_url": "https://pypi.io/packages/source/p/pytz/pytz-2020.1.tar.gz",
       "subdirs": [
         "noarch"
       ],
       "summary": "World timezone definitions, modern and historical.",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1570448565,
-      "version": "2019.3"
+      "timestamp": 1588067104,
+      "version": "2020.1"
     },
     "rapidjson": {
       "activate.d": false,
@@ -3266,15 +3266,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://data.iana.org/time-zones/releases/tzdb-2019a.tar.lz",
+      "source_url": "https://data.iana.org/time-zones/releases/tzdb-2020a.tar.lz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "The Time Zone Database (often called tz or zoneinfo)",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1559088920,
-      "version": "2019a"
+      "timestamp": 1587733958,
+      "version": "2020a"
     },
     "wheel": {
       "activate.d": false,
