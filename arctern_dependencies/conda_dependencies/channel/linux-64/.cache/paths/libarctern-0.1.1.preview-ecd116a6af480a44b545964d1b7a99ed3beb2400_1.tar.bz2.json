@@ -1,0 +1,23 @@
+{
+  "paths": [
+    {
+      "_path": "lib/libarctern.so",
+      "path_type": "hardlink",
+      "sha256": "16eea0606c9f1a095a403b41540edcf6dd4768d3c3822735a9a053b41e7dec11",
+      "size_in_bytes": 1746400
+    },
+    {
+      "_path": "lib/libminiz.so",
+      "path_type": "hardlink",
+      "sha256": "bfa19f5142ab2981801c03019799e5f305238907bc33efcc8346ad1d6c5c1946",
+      "size_in_bytes": 124056
+    },
+    {
+      "_path": "scripts/arctern_env.sh",
+      "path_type": "hardlink",
+      "sha256": "9380492ac4660d326ca93976786e99b3b73302a7a2864c354a3b188813e80a84",
+      "size_in_bytes": 661
+    }
+  ],
+  "paths_version": 1
+}

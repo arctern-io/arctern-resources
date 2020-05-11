@@ -1,0 +1,1 @@
+{"build": "h6bb024c_0", "build_number": 0, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "Apache 2.0", "name": "tbb", "subdir": "linux-64", "timestamp": 1535203813841, "version": "2018.0.5", "size": 1124723, "md5": "ab7814ee402d409520954f7941652c0a", "sha256": "5760682c942d7053384e23f330023ab24d46cad03083415f020a2201d1333d39"}

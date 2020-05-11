@@ -68,6 +68,25 @@
       "timestamp": 1587962371563,
       "version": "0.1.0"
     },
+    "arctern-0.1.1.preview-ecd116a6af480a44b545964d1b7a99ed3beb2400_1.tar.bz2": {
+      "build": "ecd116a6af480a44b545964d1b7a99ed3beb2400_1",
+      "build_number": 1,
+      "depends": [
+        "libarctern 0.1.1.preview.*",
+        "pyarrow 0.16.0",
+        "python >=3.7,<3.8.0a0",
+        "python_abi 3.7.* *_cp37m"
+      ],
+      "license": "Apache-2.0",
+      "license_family": "Apache",
+      "md5": "7024324033101f41d1f66b2f15e535e9",
+      "name": "arctern",
+      "sha256": "cd81e744489b3b51a349a2cbf3d4f2523e39b5ad972ac9243e7293702c80ea59",
+      "size": 524091,
+      "subdir": "linux-64",
+      "timestamp": 1589185046328,
+      "version": "0.1.1.preview"
+    },
     "arctern-spark-0.1.0-1.tar.bz2": {
       "build": "1",
       "build_number": 1,
@@ -85,6 +104,24 @@
       "subdir": "linux-64",
       "timestamp": 1587962492754,
       "version": "0.1.0"
+    },
+    "arctern-spark-0.1.1.preview-ecd116a6af480a44b545964d1b7a99ed3beb2400_1.tar.bz2": {
+      "build": "ecd116a6af480a44b545964d1b7a99ed3beb2400_1",
+      "build_number": 1,
+      "depends": [
+        "arctern 0.1.1.preview.*",
+        "python >=3.7,<3.8.0a0",
+        "python_abi 3.7.* *_cp37m"
+      ],
+      "license": "Apache-2.0",
+      "license_family": "Apache",
+      "md5": "fbce566ef4401d1a23995552b84e9b31",
+      "name": "arctern-spark",
+      "sha256": "4477849557a5808956ae08026ecd14baf272f478e42cd0d0e72edaf0bee6d67c",
+      "size": 38414,
+      "subdir": "linux-64",
+      "timestamp": 1589185184921,
+      "version": "0.1.1.preview"
     },
     "arrow-cpp-0.16.0-py37h989c1cb_2.tar.bz2": {
       "build": "py37h989c1cb_2",
@@ -285,6 +322,25 @@
       "size": 1349753,
       "subdir": "linux-64",
       "timestamp": 1587992736796,
+      "version": "3.470"
+    },
+    "cfitsio-3.470-h3eac812_5.tar.bz2": {
+      "build": "h3eac812_5",
+      "build_number": 5,
+      "depends": [
+        "bzip2 >=1.0.8,<2.0a0",
+        "libcurl >=7.69.1,<8.0a0",
+        "libgcc-ng >=7.3.0",
+        "libgfortran-ng >=7,<8.0a0",
+        "zlib >=1.2.11,<1.3.0a0"
+      ],
+      "license": "fitsio",
+      "md5": "c49dda91239c43ba2c909ff6e3a84681",
+      "name": "cfitsio",
+      "sha256": "617def64635d98fc54e49a16758b626db0090d111e70d8dd2927b5d53f8ddda2",
+      "size": 1350028,
+      "subdir": "linux-64",
+      "timestamp": 1588212011374,
       "version": "3.470"
     },
     "curl-7.69.1-h33f0ec9_0.tar.bz2": {
@@ -692,6 +748,26 @@
       "subdir": "linux-64",
       "timestamp": 1587962135351,
       "version": "0.1.0"
+    },
+    "libarctern-0.1.1.preview-ecd116a6af480a44b545964d1b7a99ed3beb2400_1.tar.bz2": {
+      "build": "ecd116a6af480a44b545964d1b7a99ed3beb2400_1",
+      "build_number": 1,
+      "depends": [
+        "gdal 3.0.4",
+        "libnetcdf 4.7.3",
+        "libnetcdf >=4.7.3,<5.0a0",
+        "pyarrow =0.16.0",
+        "rapidjson 1.1.0"
+      ],
+      "license": "Apache-2.0",
+      "license_family": "Apache",
+      "md5": "471387b6f55d4140dec2fa6a008e7a6e",
+      "name": "libarctern",
+      "sha256": "5837ad33f66f2ae01b9a6295034db1efc448f2b6c86ff6b0a2f6ea08a62789a7",
+      "size": 524149,
+      "subdir": "linux-64",
+      "timestamp": 1589184745320,
+      "version": "0.1.1.preview"
     },
     "libblas-3.8.0-16_openblas.tar.bz2": {
       "build": "16_openblas",
@@ -1271,6 +1347,26 @@
       "timestamp": 1584937938385,
       "version": "1.18.1"
     },
+    "numpy-1.18.4-py37h8960a57_0.tar.bz2": {
+      "build": "py37h8960a57_0",
+      "build_number": 0,
+      "depends": [
+        "libblas >=3.8.0,<4.0a0",
+        "libcblas >=3.8.0,<4.0a0",
+        "libgcc-ng >=7.3.0",
+        "liblapack >=3.8.0,<3.9.0a0",
+        "python >=3.7,<3.8.0a0",
+        "python_abi 3.7.* *_cp37m"
+      ],
+      "license": "BSD-3-Clause",
+      "md5": "fb6f693eb4728e39c66edb9305cc1a2d",
+      "name": "numpy",
+      "sha256": "ecd761efba0aba61ea427d17808da8726daf8d95b654197b7ae3bd752dfe867c",
+      "size": 5482934,
+      "subdir": "linux-64",
+      "timestamp": 1588605356857,
+      "version": "1.18.4"
+    },
     "openjpeg-2.3.1-h981e76c_3.tar.bz2": {
       "build": "h981e76c_3",
       "build_number": 3,
@@ -1547,6 +1643,22 @@
       "subdir": "linux-64",
       "timestamp": 1585716527993,
       "version": "2020.04.01"
+    },
+    "re2-2020.05.01-he1b5a44_0.tar.bz2": {
+      "build": "he1b5a44_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=7.3.0",
+        "libstdcxx-ng >=7.3.0"
+      ],
+      "license": "BSD 3-clause",
+      "md5": "b6e4b1d7d267a5b25a70634eeee00010",
+      "name": "re2",
+      "sha256": "4b2a78cca66bee70c804dda8489d5c3ee47e62d7d47f7a9faf21dd50feb23f27",
+      "size": 435937,
+      "subdir": "linux-64",
+      "timestamp": 1588349339243,
+      "version": "2020.05.01"
     },
     "readline-8.0-hf8c457e_0.tar.bz2": {
       "build": "hf8c457e_0",
@@ -1961,7 +2073,24 @@
       "version": "1.4.4"
     }
   },
-  "packages.conda": {},
+  "packages.conda": {
+    "tbb-2018.0.5-h6bb024c_0.conda": {
+      "build": "h6bb024c_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=7.3.0",
+        "libstdcxx-ng >=7.3.0"
+      ],
+      "license": "Apache 2.0",
+      "md5": "ab7814ee402d409520954f7941652c0a",
+      "name": "tbb",
+      "sha256": "5760682c942d7053384e23f330023ab24d46cad03083415f020a2201d1333d39",
+      "size": 1124723,
+      "subdir": "linux-64",
+      "timestamp": 1535203813841,
+      "version": "2018.0.5"
+    }
+  },
   "removed": [],
   "repodata_version": 1
 }

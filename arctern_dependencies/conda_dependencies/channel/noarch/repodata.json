@@ -38,6 +38,25 @@
       "timestamp": 1580943385713,
       "version": "20.0.2"
     },
+    "pip-20.1-pyh9f0ad1d_0.tar.bz2": {
+      "build": "pyh9f0ad1d_0",
+      "build_number": 0,
+      "depends": [
+        "python",
+        "setuptools",
+        "wheel"
+      ],
+      "license": "MIT",
+      "license_family": "MIT",
+      "md5": "db77ee5f3abc11201e877b7477e81d74",
+      "name": "pip",
+      "noarch": "python",
+      "sha256": "d1ea438388a54c7f169c0bd5b9838d2a366110e623ef3a77475d5d283e73bfda",
+      "size": 1108923,
+      "subdir": "noarch",
+      "timestamp": 1588122268730,
+      "version": "20.1"
+    },
     "poppler-data-0.4.9-1.tar.bz2": {
       "build": "1",
       "build_number": 1,

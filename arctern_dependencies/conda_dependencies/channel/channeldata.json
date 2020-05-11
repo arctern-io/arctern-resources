@@ -130,8 +130,8 @@
       "summary": "Python library for Arctern",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1587962371,
-      "version": "0.1.0"
+      "timestamp": 1589185046,
+      "version": "0.1.1.preview"
     },
     "arctern-spark": {
       "activate.d": false,
@@ -160,8 +160,8 @@
       "summary": "Python library for Arctern Spark",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1587962492,
-      "version": "0.1.0"
+      "timestamp": 1589185184,
+      "version": "0.1.1.preview"
     },
     "arrow-cpp": {
       "activate.d": false,
@@ -484,7 +484,7 @@
       "summary": "A library for reading and writing FITS files",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1587992736,
+      "timestamp": 1588212011,
       "version": "3.470"
     },
     "curl": {
@@ -1282,8 +1282,8 @@
       "summary": "C++ library for Arctern",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1587962135,
-      "version": "0.1.0"
+      "timestamp": 1589184745,
+      "version": "0.1.1.preview"
     },
     "libblas": {
       "activate.d": false,
@@ -2315,15 +2315,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://github.com/numpy/numpy/releases/download/v1.18.1/numpy-1.18.1.tar.gz",
+      "source_url": "https://github.com/numpy/numpy/releases/download/v1.18.4/numpy-1.18.4.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "Array processing for numbers, strings, records, and objects.",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1584937938,
-      "version": "1.18.1"
+      "timestamp": 1588605356,
+      "version": "1.18.4"
     },
     "openjpeg": {
       "activate.d": false,
@@ -2513,15 +2513,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://pypi.io/packages/source/p/pip/pip-20.0.2.tar.gz",
+      "source_url": "https://pypi.io/packages/source/p/pip/pip-20.1.tar.gz",
       "subdirs": [
         "noarch"
       ],
       "summary": "PyPA recommended tool for installing Python packages",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1580943385,
-      "version": "20.0.2"
+      "timestamp": 1588122268,
+      "version": "20.1"
     },
     "pixman": {
       "activate.d": false,
@@ -2930,15 +2930,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "http://github.com/google/re2/archive/2020-04-01.tar.gz",
+      "source_url": "http://github.com/google/re2/archive/2020-05-01.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1585716527,
-      "version": "2020.04.01"
+      "timestamp": 1588349339,
+      "version": "2020.05.01"
     },
     "readline": {
       "activate.d": false,
@@ -3110,7 +3110,7 @@
     },
     "tbb": {
       "activate.d": false,
-      "binary_prefix": false,
+      "binary_prefix": true,
       "deactivate.d": false,
       "description": null,
       "dev_url": "https://github.com/01org/tbb",
@@ -3135,7 +3135,7 @@
       "summary": "High level abstract threading library",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1530117517,
+      "timestamp": 1535203813,
       "version": "2018.0.5"
     },
     "thrift-cpp": {
