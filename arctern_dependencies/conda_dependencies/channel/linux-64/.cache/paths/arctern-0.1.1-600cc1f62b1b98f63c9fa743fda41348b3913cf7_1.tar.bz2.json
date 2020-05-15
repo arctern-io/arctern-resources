@@ -1,0 +1,289 @@
+{
+  "paths": [
+    {
+      "_path": "lib/python3.7/site-packages/arctern-0.1.0-py3.7.egg-info/PKG-INFO",
+      "path_type": "hardlink",
+      "sha256": "6b2483ae01ac084433fe265b2a7b4e599d0fda0c678ac1707f8bdc9fab7cfc2f",
+      "size_in_bytes": 868
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern-0.1.0-py3.7.egg-info/SOURCES.txt",
+      "path_type": "hardlink",
+      "sha256": "b428e688b330120da477ea87544c689cc8d5f021fed7a0afe4c245973897cc62",
+      "size_in_bytes": 906
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern-0.1.0-py3.7.egg-info/dependency_links.txt",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern-0.1.0-py3.7.egg-info/native_libs.txt",
+      "path_type": "hardlink",
+      "sha256": "dc43c31d4bda0eede298a721aee0e96f86ef3e1c76fc230d5a272504f41ec061",
+      "size_in_bytes": 54
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern-0.1.0-py3.7.egg-info/not-zip-safe",
+      "path_type": "hardlink",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "size_in_bytes": 1
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern-0.1.0-py3.7.egg-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "51067195e7ad6088242ab4e5cf79ba515b3e7b064bb24848219ceb526ca4ca91",
+      "size_in_bytes": 8
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "94c3cc01ff88cc06e71d466408b33ab809780bc1f43c87a16348d91033dda0d4",
+      "size_in_bytes": 651
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "8461498ec88465cb5b9a6580dbc938dd5440711ea0f79a8d92fe88a0ef8626dc",
+      "size_in_bytes": 205
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/__pycache__/_plot.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "b4c7910d84f38aff16d5623f2dd785f19352a10b1b2a6613ae8016da3caa53fe",
+      "size_in_bytes": 9979
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/__pycache__/_wrapper_func.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c8aaff7f4a78945a9597c24bb2fecce6bb5dbcf9b390045052ea5fcf0da34f09",
+      "size_in_bytes": 43433
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/_plot.py",
+      "path_type": "hardlink",
+      "sha256": "730a2edd36c212042a32a717d684d8f53f1ebdcd9cfa446fe874dd6f6f2f6501",
+      "size_in_bytes": 13062
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/_wrapper_func.py",
+      "path_type": "hardlink",
+      "sha256": "b8bdd81499874615aba4471f205d1141daa4f90329797280df0b9c5b6481de71",
+      "size_in_bytes": 51341
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/arctern_core_.cpython-37m-x86_64-linux-gnu.so",
+      "file_mode": "binary",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/conda/envs/arctern/conda-bld/arctern_1589546068332/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pl",
+      "sha256": "81dd677b617e78c2239636aa0b9a72049b66e579b0d75b93ff3a1e15d1c4e78d",
+      "size_in_bytes": 1844024
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "7155f4fa49a11c7f3ee47ffca5bb0f67b9fbade819aacc0bf61d2636d1e31afe",
+      "size_in_bytes": 628
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "abb377bd14ae3632e9270912ec64608938495e33bfb2504f02f3e6c1ec164cfd",
+      "size_in_bytes": 190
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/__pycache__/_functions.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "d2106a303a8fc3cb19bbfa32022520fcebc985e794a3b94bdbf389007bb91adc",
+      "size_in_bytes": 412
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/_functions.py",
+      "path_type": "hardlink",
+      "sha256": "5973e78b4910fdf8933a0d039a0875f1d6bbdb431d1bbfd80e3b152217dc6d8b",
+      "size_in_bytes": 803
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "db14caba54455fc3d2f951f11cfabf9a29e1591d9384531a5c07fdeb5e370f3b",
+      "size_in_bytes": 633
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "00ac6e2c145e927aa0bdfa74603957e353c0866abf4ad8b0b0ea5c5d830e81d4",
+      "size_in_bytes": 200
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/__pycache__/_vega_functions.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "4eed9a76259b16fc83cee223dee081a51b979c072841f39161234e2994fe9f84",
+      "size_in_bytes": 2152
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/__pycache__/vega_node.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "10bfb129596ab109cb636d3f66bf54ea8108b62593e65724e0310ae520c22d73",
+      "size_in_bytes": 5611
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/_vega_functions.py",
+      "path_type": "hardlink",
+      "sha256": "18ad934b99d8ffba95c4b62e8cfabb08ea05033d2dbe1bb1b1bfdc364afc1ffd",
+      "size_in_bytes": 4700
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/choroplethmap/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "27f1dd6d5e9bbbbf3c287497e2f254cfe4422c08c07454cb6e752c26229eb0b3",
+      "size_in_bytes": 601
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/choroplethmap/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "00c07ad8a6e877a35eb62cb04335d052a2012349e15acf2f1edef77b4299883a",
+      "size_in_bytes": 182
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/choroplethmap/__pycache__/vega_choroplethmap.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "63d7dd5e11fbdcbb00ea8f765e29ab7ccf0e76704a2ad1d4d6844d4489a8bb8e",
+      "size_in_bytes": 4066
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/choroplethmap/vega_choroplethmap.py",
+      "path_type": "hardlink",
+      "sha256": "a4b47ae0a47c690714416b5f154ce1510bdc24518ade33277b5e3dadca010870",
+      "size_in_bytes": 4576
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/fishnetmap/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "27f1dd6d5e9bbbbf3c287497e2f254cfe4422c08c07454cb6e752c26229eb0b3",
+      "size_in_bytes": 601
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/fishnetmap/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "c4eac942ec73e58e5e3e60b5dc748ef9b6a295264140c263f26954d08fb32754",
+      "size_in_bytes": 179
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/fishnetmap/__pycache__/vega_fishnetmap.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3895dc30d458ba2e9295f074d127eadea4c7fceb9a3ca0e11d36e89c27fdfa9f",
+      "size_in_bytes": 4447
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/fishnetmap/vega_fishnetmap.py",
+      "path_type": "hardlink",
+      "sha256": "6cc8bedd1b0e88872fc02a66e67d2213c1832a203a0ffa0946d377d3285c87c3",
+      "size_in_bytes": 5100
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/heatmap/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "27f1dd6d5e9bbbbf3c287497e2f254cfe4422c08c07454cb6e752c26229eb0b3",
+      "size_in_bytes": 601
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/heatmap/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "4e898a57953ba4b45ab6618eb97ab8f1ccb9a9182c45abff3acaa7f2065b4819",
+      "size_in_bytes": 176
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/heatmap/__pycache__/vega_heatmap.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "19c9aef0adbb24f15de88e7cb41223716b053c150e63db1decc47c0f8c7c62a0",
+      "size_in_bytes": 3812
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/heatmap/vega_heatmap.py",
+      "path_type": "hardlink",
+      "sha256": "2c96dc1d48b6dda89136226e7adcd125f684932415996b05ea8f2d64b938e05e",
+      "size_in_bytes": 4110
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/icon/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "27f1dd6d5e9bbbbf3c287497e2f254cfe4422c08c07454cb6e752c26229eb0b3",
+      "size_in_bytes": 601
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/icon/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "cd353a2f34daa6d2db555023e42a54ece7f327ad6eb6cd9a28a809ece82ab08d",
+      "size_in_bytes": 173
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/icon/__pycache__/vega_icon.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "fb67e5ec9bb686fe4941cdd66de78d36e135c6003a93fcb577541a0de7ddb0fe",
+      "size_in_bytes": 3429
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/icon/vega_icon.py",
+      "path_type": "hardlink",
+      "sha256": "65542965df9d26a4ecc90eb073b9b7b0a774cde67bc8388d3ec20b392e72e972",
+      "size_in_bytes": 3411
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/pointmap/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "27f1dd6d5e9bbbbf3c287497e2f254cfe4422c08c07454cb6e752c26229eb0b3",
+      "size_in_bytes": 601
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/pointmap/__pycache__/__init__.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "cd8824bb006a4c97ca64ca2c41a68f9a6fcd4ec555ef2639ced53845551e665d",
+      "size_in_bytes": 177
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/pointmap/__pycache__/vega_pointmap.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "1c5780126733d68ca6775a449d9b13654ee5b97443595340408c1e5a284d4a7e",
+      "size_in_bytes": 4009
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/pointmap/__pycache__/vega_scatter_plot.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "99291fa2cf9218831e36d1c5ef8642bac2ce045ec3296ffd514919d2103636f1",
+      "size_in_bytes": 696
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/pointmap/__pycache__/vega_weighted_pointmap.cpython-37.pyc",
+      "path_type": "hardlink",
+      "sha256": "3379ab38d620392d7fce59002729d7eceb384c5e5308e0bc4f350b4bab5d73eb",
+      "size_in_bytes": 4455
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/pointmap/vega_pointmap.py",
+      "path_type": "hardlink",
+      "sha256": "a7c537935dc5f5d60013acb785f2776e655b122b59372740a82d75828ab926ab",
+      "size_in_bytes": 4523
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/pointmap/vega_scatter_plot.py",
+      "path_type": "hardlink",
+      "sha256": "3eac7fcb77a4e247f8d7ae85c3d705535cb83c53a7e865c6612506d35f1102e7",
+      "size_in_bytes": 827
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/pointmap/vega_weighted_pointmap.py",
+      "path_type": "hardlink",
+      "sha256": "f52ea5d9bc930151266a50b2fe7fc617faef273102024b57f0e311eb7a9bc3d7",
+      "size_in_bytes": 5364
+    },
+    {
+      "_path": "lib/python3.7/site-packages/arctern/util/vega/vega_node.py",
+      "path_type": "hardlink",
+      "sha256": "1e0c87a00b84800641ce232d374c4746c13c8bacde7208cc8fc33bce19329158",
+      "size_in_bytes": 4456
+    }
+  ],
+  "paths_version": 1
+}

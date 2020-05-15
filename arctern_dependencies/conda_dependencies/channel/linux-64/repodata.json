@@ -68,6 +68,25 @@
       "timestamp": 1587962371563,
       "version": "0.1.0"
     },
+    "arctern-0.1.1-600cc1f62b1b98f63c9fa743fda41348b3913cf7_1.tar.bz2": {
+      "build": "600cc1f62b1b98f63c9fa743fda41348b3913cf7_1",
+      "build_number": 1,
+      "depends": [
+        "libarctern 0.1.1.*",
+        "pyarrow 0.16.0",
+        "python >=3.7,<3.8.0a0",
+        "python_abi 3.7.* *_cp37m"
+      ],
+      "license": "Apache-2.0",
+      "license_family": "Apache",
+      "md5": "ba87c933bb4fb4a87f2afffcc630d320",
+      "name": "arctern",
+      "sha256": "ab2654536c643d740b25cf7ee953c358527fa9189aad3a897094d73127ae0156",
+      "size": 527959,
+      "subdir": "linux-64",
+      "timestamp": 1589546238644,
+      "version": "0.1.1"
+    },
     "arctern-0.1.1.preview-ecd116a6af480a44b545964d1b7a99ed3beb2400_1.tar.bz2": {
       "build": "ecd116a6af480a44b545964d1b7a99ed3beb2400_1",
       "build_number": 1,
@@ -104,6 +123,24 @@
       "subdir": "linux-64",
       "timestamp": 1587962492754,
       "version": "0.1.0"
+    },
+    "arctern-spark-0.1.1-600cc1f62b1b98f63c9fa743fda41348b3913cf7_1.tar.bz2": {
+      "build": "600cc1f62b1b98f63c9fa743fda41348b3913cf7_1",
+      "build_number": 1,
+      "depends": [
+        "arctern 0.1.1.*",
+        "python >=3.7,<3.8.0a0",
+        "python_abi 3.7.* *_cp37m"
+      ],
+      "license": "Apache-2.0",
+      "license_family": "Apache",
+      "md5": "7c6fcb683352e4648f4515b8d8494cc4",
+      "name": "arctern-spark",
+      "sha256": "7a9dfeb5f0677b023b9bdcf829774fe700df9573e37828f5b9318724b3df2650",
+      "size": 38406,
+      "subdir": "linux-64",
+      "timestamp": 1589546382227,
+      "version": "0.1.1"
     },
     "arctern-spark-0.1.1.preview-ecd116a6af480a44b545964d1b7a99ed3beb2400_1.tar.bz2": {
       "build": "ecd116a6af480a44b545964d1b7a99ed3beb2400_1",
@@ -748,6 +785,26 @@
       "subdir": "linux-64",
       "timestamp": 1587962135351,
       "version": "0.1.0"
+    },
+    "libarctern-0.1.1-600cc1f62b1b98f63c9fa743fda41348b3913cf7_1.tar.bz2": {
+      "build": "600cc1f62b1b98f63c9fa743fda41348b3913cf7_1",
+      "build_number": 1,
+      "depends": [
+        "gdal 3.0.4",
+        "libnetcdf 4.7.3",
+        "libnetcdf >=4.7.3,<5.0a0",
+        "pyarrow =0.16.0",
+        "rapidjson 1.1.0"
+      ],
+      "license": "Apache-2.0",
+      "license_family": "Apache",
+      "md5": "569315719e5f609af053e5ff94b17a49",
+      "name": "libarctern",
+      "sha256": "b53cb633996f30c514ee280748fcb9172fcdc438c7afec040f6005b1ba665599",
+      "size": 524249,
+      "subdir": "linux-64",
+      "timestamp": 1589545856710,
+      "version": "0.1.1"
     },
     "libarctern-0.1.1.preview-ecd116a6af480a44b545964d1b7a99ed3beb2400_1.tar.bz2": {
       "build": "ecd116a6af480a44b545964d1b7a99ed3beb2400_1",

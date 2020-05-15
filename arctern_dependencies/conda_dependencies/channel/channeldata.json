@@ -130,8 +130,8 @@
       "summary": "Python library for Arctern",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1589185046,
-      "version": "0.1.1.preview"
+      "timestamp": 1589546238,
+      "version": "0.1.1"
     },
     "arctern-spark": {
       "activate.d": false,
@@ -160,8 +160,8 @@
       "summary": "Python library for Arctern Spark",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1589185184,
-      "version": "0.1.1.preview"
+      "timestamp": 1589546382,
+      "version": "0.1.1"
     },
     "arrow-cpp": {
       "activate.d": false,
@@ -1282,8 +1282,8 @@
       "summary": "C++ library for Arctern",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1589184745,
-      "version": "0.1.1.preview"
+      "timestamp": 1589545856,
+      "version": "0.1.1"
     },
     "libblas": {
       "activate.d": false,
