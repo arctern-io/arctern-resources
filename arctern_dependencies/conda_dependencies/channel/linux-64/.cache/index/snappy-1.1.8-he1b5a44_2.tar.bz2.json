@@ -1,0 +1,1 @@
+{"build": "he1b5a44_2", "build_number": 2, "depends": ["libgcc-ng >=7.5.0", "libstdcxx-ng >=7.5.0"], "license": "BSD-3-Clause", "license_family": "BSD", "name": "snappy", "subdir": "linux-64", "timestamp": 1592200017881, "version": "1.1.8", "size": 32400, "md5": "a263bb8916842a5881b1168e3cdcfea3", "sha256": "656fc2b7d81f170e00573626c4caabbe9b7bd1d12a3b042035e35058c32d019b"}

@@ -1,0 +1,1 @@
+{"build": "hc9558a2_0", "build_number": 0, "depends": ["libgcc-ng >=7.3.0", "libstdcxx-ng >=7.3.0"], "license": "Apache 2.0", "name": "tbb", "subdir": "linux-64", "timestamp": 1583129865794, "version": "2020.1", "size": 1497250, "md5": "ca5543a3b0f8d62e38c5122a30f1aabd", "sha256": "a290cde247fc188883d9b0e6290479762ae69f38c5e52ec29c8e5221ecb5fa45"}

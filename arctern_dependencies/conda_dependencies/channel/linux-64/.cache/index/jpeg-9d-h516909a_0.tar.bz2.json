@@ -1,0 +1,1 @@
+{"build": "h516909a_0", "build_number": 0, "depends": ["libgcc-ng >=7.5.0"], "license": "IJG", "name": "jpeg", "subdir": "linux-64", "timestamp": 1591021488362, "version": "9d", "size": 272409, "md5": "aa82d2e6e1fa196bf4addd7ebc71a807", "sha256": "3772e3428012010adfea0bd63aff530ad6be7c3e225beebed16d814a70dae75f"}

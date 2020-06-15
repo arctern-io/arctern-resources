@@ -127,11 +127,11 @@
       "subdirs": [
         "linux-64"
       ],
-      "summary": "Python library for Arctern",
+      "summary": "library for Arctern",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1589546238,
-      "version": "0.1.1"
+      "timestamp": 1591415626,
+      "version": "0.2.0"
     },
     "arctern-spark": {
       "activate.d": false,
@@ -160,8 +160,8 @@
       "summary": "Python library for Arctern Spark",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1589546382,
-      "version": "0.1.1"
+      "timestamp": 1587962492,
+      "version": "0.1.0"
     },
     "arrow-cpp": {
       "activate.d": false,
@@ -196,7 +196,7 @@
       "summary": "C++ libraries for Apache Arrow",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1585895543,
+      "timestamp": 1589888535,
       "version": "0.16.0"
     },
     "aws-sdk-cpp": {
@@ -277,7 +277,13 @@
       "pre_link": false,
       "pre_unlink": false,
       "recipe_origin": null,
-      "run_exports": {},
+      "run_exports": {
+        "1.0.7": {
+          "weak": [
+            "brotli >=1.0.7,<1.1.0a0"
+          ]
+        }
+      },
       "source_git_url": null,
       "source_url": "https://github.com/google/brotli/archive/v1.0.7.tar.gz",
       "subdirs": [
@@ -286,7 +292,7 @@
       "summary": "Brotli compression format",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1584601771,
+      "timestamp": 1590624421,
       "version": "1.0.7"
     },
     "bzip2": {
@@ -375,15 +381,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://pypi.io/packages/source/c/certifi/certifi-2020.4.5.1.tar.gz",
+      "source_url": "https://pypi.io/packages/source/c/certifi/certifi-2020.4.5.2.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "Certificates for use with other packages.",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1586119584,
-      "version": "2020.4.5.1"
+      "timestamp": 1591548214,
+      "version": "2020.4.5.2"
     },
     "cairo": {
       "activate.d": false,
@@ -448,8 +454,8 @@
       "summary": "Python package for providing Mozilla's CA Bundle.",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1586119820,
-      "version": "2020.4.5.1"
+      "timestamp": 1591558114,
+      "version": "2020.4.5.2"
     },
     "cfitsio": {
       "activate.d": false,
@@ -602,7 +608,7 @@
       "icon_url": null,
       "identifiers": null,
       "keywords": null,
-      "license": "GPL-2.0 and FreeType",
+      "license": "GPL-2.0-only and LicenseRef-FreeType",
       "post_link": false,
       "pre_link": false,
       "pre_unlink": false,
@@ -612,18 +618,23 @@
           "weak": [
             "freetype >=2.10.1,<3.0a0"
           ]
+        },
+        "2.10.2": {
+          "weak": [
+            "freetype >=2.10.2,<3.0a0"
+          ]
         }
       },
       "source_git_url": null,
-      "source_url": "http://download.savannah.gnu.org/releases/freetype/freetype-2.10.1.tar.gz",
+      "source_url": "http://download.savannah.gnu.org/releases/freetype/freetype-2.10.2.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "A Free, High-Quality, and Portable Font Engine",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1584621901,
-      "version": "2.10.1"
+      "timestamp": 1589391964,
+      "version": "2.10.2"
     },
     "freexl": {
       "activate.d": false,
@@ -894,18 +905,23 @@
           "weak": [
             "glib >=2.64.2,<3.0a0"
           ]
+        },
+        "2.64.3": {
+          "weak": [
+            "glib >=2.64.3,<3.0a0"
+          ]
         }
       },
       "source_git_url": null,
-      "source_url": "http://ftp.gnome.org/pub/GNOME/sources/glib/2.64/glib-2.64.2.tar.xz",
+      "source_url": "http://ftp.gnome.org/pub/GNOME/sources/glib/2.64/glib-2.64.3.tar.xz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "Provides core application building blocks for libraries and applications written in C.",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1587051459,
-      "version": "2.64.2"
+      "timestamp": 1590337700,
+      "version": "2.64.3"
     },
     "glog": {
       "activate.d": false,
@@ -1110,18 +1126,23 @@
           "weak": [
             "jpeg >=9c,<10a"
           ]
+        },
+        "9d": {
+          "weak": [
+            "jpeg >=9d,<10a"
+          ]
         }
       },
       "source_git_url": null,
-      "source_url": "http://www.ijg.org/files/jpegsrc.v9c.tar.gz",
+      "source_url": "http://www.ijg.org/files/jpegsrc.v9d.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "read/write jpeg COM, EXIF, IPTC medata",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1536858543,
-      "version": "9c"
+      "timestamp": 1591021488,
+      "version": "9d"
     },
     "json-c": {
       "activate.d": false,
@@ -1141,7 +1162,13 @@
       "pre_link": false,
       "pre_unlink": false,
       "recipe_origin": null,
-      "run_exports": {},
+      "run_exports": {
+        "0.13.1": {
+          "weak": [
+            "json-c >=0.13.1,<0.14.0a0"
+          ]
+        }
+      },
       "source_git_url": null,
       "source_url": "https://s3.amazonaws.com/json-c_releases/releases/json-c-0.13.1.tar.gz",
       "subdirs": [
@@ -1150,7 +1177,7 @@
       "summary": "A JSON implementation in C",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1536928806,
+      "timestamp": 1589411866,
       "version": "0.13.1"
     },
     "kealib": {
@@ -1252,7 +1279,7 @@
       "summary": "A set of programming tools for creating and managing binary programs, object files, libraries, profile data, and assembly source code.",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1584486202,
+      "timestamp": 1591632300,
       "version": "2.34"
     },
     "libarctern": {
@@ -1282,8 +1309,8 @@
       "summary": "C++ library for Arctern",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1589545856,
-      "version": "0.1.1"
+      "timestamp": 1587962135,
+      "version": "0.1.0"
     },
     "libblas": {
       "activate.d": false,
@@ -1433,7 +1460,7 @@
       "activate.d": false,
       "binary_prefix": false,
       "deactivate.d": false,
-      "description": null,
+      "description": "This is an autotool- and libtoolized port of the NetBSD Editline library (libedit). This Berkeley-style licensed command line editor library provides generic line editing, history, and tokenization functions, similar to those found in GNU Readline",
       "dev_url": null,
       "doc_source_url": null,
       "doc_url": null,
@@ -1442,22 +1469,28 @@
       "icon_url": null,
       "identifiers": null,
       "keywords": null,
-      "license": "NetBSD",
+      "license": "BSD-2-Clause",
       "post_link": false,
       "pre_link": false,
       "pre_unlink": false,
       "recipe_origin": null,
-      "run_exports": {},
+      "run_exports": {
+        "3.1.20191231": {
+          "weak": [
+            "libedit >=3.1.20191231,<3.2.0a0"
+          ]
+        }
+      },
       "source_git_url": null,
-      "source_url": "http://thrysoee.dk/editline/libedit-20170329-3.1.tar.gz",
+      "source_url": "http://thrysoee.dk/editline/libedit-20191231-3.1.tar.gz",
       "subdirs": [
         "linux-64"
       ],
-      "summary": "Command line editor library provides generic line editing, history, and tokenization functions, similar to those found in GNU Readline.",
+      "summary": "Editline Library (libedit)",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1536911225,
-      "version": "3.1.20170329"
+      "timestamp": 1591110933,
+      "version": "3.1.20191231"
     },
     "libevent": {
       "activate.d": false,
@@ -1624,8 +1657,8 @@
       "summary": "The GNU Fortran Runtime Library",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1580520540,
-      "version": "7.3.0"
+      "timestamp": 1589467126,
+      "version": "7.5.0"
     },
     "libiconv": {
       "activate.d": false,
@@ -1974,18 +2007,23 @@
           "weak": [
             "libssh2 >=1.8.2,<2.0a0"
           ]
+        },
+        "1.9.0": {
+          "weak": [
+            "libssh2 >=1.9.0,<2.0a0"
+          ]
         }
       },
       "source_git_url": null,
-      "source_url": "https://www.libssh2.org/download/libssh2-1.8.2.tar.gz",
+      "source_url": "https://www.libssh2.org/download/libssh2-1.9.0.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "the SSH library",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1553788356,
-      "version": "1.8.2"
+      "timestamp": 1589911710,
+      "version": "1.9.0"
     },
     "libstdcxx-ng": {
       "activate.d": false,
@@ -2242,7 +2280,7 @@
       "icon_url": null,
       "identifiers": null,
       "keywords": null,
-      "license": "BSD 2-clause",
+      "license": "BSD-2-Clause",
       "post_link": false,
       "pre_link": false,
       "pre_unlink": false,
@@ -2252,18 +2290,23 @@
           "weak": [
             "lz4-c >=1.8.3,<1.8.4.0a0"
           ]
+        },
+        "1.9.2": {
+          "weak": [
+            "lz4-c >=1.9.2,<1.10.0a0"
+          ]
         }
       },
       "source_git_url": null,
-      "source_url": "https://github.com/lz4/lz4/archive/v1.8.3.tar.gz",
+      "source_url": "https://github.com/lz4/lz4/archive/v1.9.2.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "Extremely Fast Compression algorithm",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1556015482,
-      "version": "1.8.3"
+      "timestamp": 1588609868,
+      "version": "1.9.2"
     },
     "ncurses": {
       "activate.d": false,
@@ -2315,15 +2358,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://github.com/numpy/numpy/releases/download/v1.18.4/numpy-1.18.4.tar.gz",
+      "source_url": "https://github.com/numpy/numpy/releases/download/v1.18.5/numpy-1.18.5.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "Array processing for numbers, strings, records, and objects.",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1588605356,
-      "version": "1.18.4"
+      "timestamp": 1591485500,
+      "version": "1.18.5"
     },
     "openjpeg": {
       "activate.d": false,
@@ -2417,15 +2460,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://github.com/pandas-dev/pandas/releases/download/v1.0.3/pandas-1.0.3.tar.gz",
+      "source_url": "https://github.com/pandas-dev/pandas/releases/download/v1.0.4/pandas-1.0.4.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "High-performance, easy-to-use data structures and data analysis tools.",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1587069040,
-      "version": "1.0.3"
+      "timestamp": 1590753384,
+      "version": "1.0.4"
     },
     "parquet-cpp": {
       "activate.d": false,
@@ -2513,15 +2556,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://pypi.io/packages/source/p/pip/pip-20.1.tar.gz",
+      "source_url": "https://pypi.io/packages/source/p/pip/pip-20.1.1.tar.gz",
       "subdirs": [
         "noarch"
       ],
       "summary": "PyPA recommended tool for installing Python packages",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1588122268,
-      "version": "20.1"
+      "timestamp": 1590598274,
+      "version": "20.1.1"
     },
     "pixman": {
       "activate.d": false,
@@ -2748,7 +2791,7 @@
       "summary": "Python libraries for Apache Arrow",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1587991225,
+      "timestamp": 1589957023,
       "version": "0.16.0"
     },
     "python": {
@@ -2787,7 +2830,7 @@
       "summary": "General purpose programming language",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1585005068,
+      "timestamp": 1591038379,
       "version": "3.7.6"
     },
     "python-dateutil": {
@@ -2923,12 +2966,18 @@
       "icon_url": null,
       "identifiers": null,
       "keywords": null,
-      "license": "BSD 3-clause",
+      "license": "BSD-3-Clause",
       "post_link": false,
       "pre_link": false,
       "pre_unlink": false,
       "recipe_origin": null,
-      "run_exports": {},
+      "run_exports": {
+        "2020.05.01": {
+          "weak": [
+            "re2 >=2020.5.1,<2020.5.2.0a0"
+          ]
+        }
+      },
       "source_git_url": null,
       "source_url": "http://github.com/google/re2/archive/2020-05-01.tar.gz",
       "subdirs": [
@@ -2937,7 +2986,7 @@
       "summary": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1588349339,
+      "timestamp": 1589641441,
       "version": "2020.05.01"
     },
     "readline": {
@@ -2996,15 +3045,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://github.com/pypa/setuptools/archive/v46.1.3.tar.gz",
+      "source_url": "https://github.com/pypa/setuptools/archive/v47.1.1.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "Download, build, install, upgrade, and uninstall Python packages",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1585173362,
-      "version": "46.1.3"
+      "timestamp": 1590759476,
+      "version": "47.1.1"
     },
     "six": {
       "activate.d": false,
@@ -3026,15 +3075,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://pypi.io/packages/source/s/six/six-1.14.0.tar.gz",
+      "source_url": "https://pypi.io/packages/source/s/six/six-1.15.0.tar.gz",
       "subdirs": [
         "noarch"
       ],
       "summary": "Python 2 and 3 compatibility utilities",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1583921682,
-      "version": "1.14.0"
+      "timestamp": 1590081273,
+      "version": "1.15.0"
     },
     "snappy": {
       "activate.d": false,
@@ -3069,7 +3118,7 @@
       "summary": "A fast compressor/decompressor",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1580222246,
+      "timestamp": 1592200017,
       "version": "1.1.8"
     },
     "sqlite": {
@@ -3128,15 +3177,15 @@
       "recipe_origin": null,
       "run_exports": {},
       "source_git_url": null,
-      "source_url": "https://github.com/01org/tbb/archive/2018_U5.tar.gz",
+      "source_url": "https://github.com/intel/tbb/archive/v2020.1.tar.gz",
       "subdirs": [
         "linux-64"
       ],
       "summary": "High level abstract threading library",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1535203813,
-      "version": "2018.0.5"
+      "timestamp": 1583129865,
+      "version": "2020.1"
     },
     "thrift-cpp": {
       "activate.d": false,
@@ -3207,7 +3256,7 @@
       "summary": "TileDB sparse and dense multi-dimensional array data management",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1573854804,
+      "timestamp": 1590566163,
       "version": "1.7.0"
     },
     "tk": {
@@ -3777,7 +3826,7 @@
       "summary": "Zstandard - Fast real-time compression algorithm",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1584602594,
+      "timestamp": 1586586311,
       "version": "1.4.4"
     }
   },

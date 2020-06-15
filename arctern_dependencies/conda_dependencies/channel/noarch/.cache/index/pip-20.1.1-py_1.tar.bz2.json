@@ -1,0 +1,1 @@
+{"build": "py_1", "build_number": 1, "depends": ["python >=3", "setuptools", "wheel"], "license": "MIT", "license_family": "MIT", "name": "pip", "noarch": "python", "subdir": "noarch", "timestamp": 1590598274362, "version": "20.1.1", "size": 1105309, "md5": "5e42afe5672d5baf3d9d2260239aa923", "sha256": "6380f87af693b87cd3dc1125061ef643756d438f1a73d386be63b1507f27c89f"}

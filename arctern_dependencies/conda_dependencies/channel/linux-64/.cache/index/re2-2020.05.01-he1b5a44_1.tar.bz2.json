@@ -1,0 +1,1 @@
+{"build": "he1b5a44_1", "build_number": 1, "depends": ["libgcc-ng >=7.5.0", "libstdcxx-ng >=7.5.0"], "license": "BSD-3-Clause", "name": "re2", "subdir": "linux-64", "timestamp": 1589641441503, "version": "2020.05.01", "size": 459856, "md5": "e1f328c0af4020ee9927a14336fce72b", "sha256": "026214b25da99d524a7a21cd3a751a814c54a15606b3c8b42090f2f15327300e"}

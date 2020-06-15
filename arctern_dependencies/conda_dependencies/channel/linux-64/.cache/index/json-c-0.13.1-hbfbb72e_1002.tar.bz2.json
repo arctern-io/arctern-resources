@@ -1,0 +1,1 @@
+{"build": "hbfbb72e_1002", "build_number": 1002, "depends": ["libgcc-ng >=7.3.0"], "license": "MIT", "name": "json-c", "subdir": "linux-64", "timestamp": 1589411866682, "version": "0.13.1", "size": 77373, "md5": "a620e3c958b36503fa21f690178180c6", "sha256": "a4bddf256d68403f0abb5dc4d77438d1d35599380ada61f7eac32079c34f9ce5"}

@@ -1,0 +1,11 @@
+{
+  "paths": [
+    {
+      "_path": "bin/x86_64-conda_cos6-linux-gnu-ld",
+      "path_type": "hardlink",
+      "sha256": "a964ce2a7967c9cdb77401c7cd0ca2c7a370a47d869b0784b7e9c97a533e0d4c",
+      "size_in_bytes": 2525816
+    }
+  ],
+  "paths_version": 1
+}

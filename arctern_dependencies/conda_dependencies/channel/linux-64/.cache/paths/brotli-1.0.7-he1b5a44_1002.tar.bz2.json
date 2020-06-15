@@ -1,0 +1,131 @@
+{
+  "paths": [
+    {
+      "_path": "bin/brotli",
+      "path_type": "hardlink",
+      "sha256": "dda3d52ea83e99d81de365d5144175da533de6d3ed51e72b1ef813464b9047db",
+      "size_in_bytes": 841456
+    },
+    {
+      "_path": "include/brotli/decode.h",
+      "path_type": "hardlink",
+      "sha256": "a9665d09f77df18f8a1f4c948610474ebd8758ff3f3a0714842af0a12d263ee6",
+      "size_in_bytes": 14323
+    },
+    {
+      "_path": "include/brotli/encode.h",
+      "path_type": "hardlink",
+      "sha256": "f03b46a0cf3032bfb4c7b6e83917841a4f97dfadb6b744c83c1a03ee1f9c21c8",
+      "size_in_bytes": 16403
+    },
+    {
+      "_path": "include/brotli/port.h",
+      "path_type": "hardlink",
+      "sha256": "a988127b591614571ff7dd4e3ded909a099ddbb947811ce056dfac435fafe0cd",
+      "size_in_bytes": 10280
+    },
+    {
+      "_path": "include/brotli/types.h",
+      "path_type": "hardlink",
+      "sha256": "96c9330e790aa6fe53f4cdd328d0a4b98e361b82913baa3219db73aadb11272c",
+      "size_in_bytes": 2615
+    },
+    {
+      "_path": "lib/libbrotlicommon-static.a",
+      "path_type": "hardlink",
+      "sha256": "087b5e38f54a1f28ba2a34c066db338ef7eb0dcbc86934a1960140b343817a4e",
+      "size_in_bytes": 130950
+    },
+    {
+      "_path": "lib/libbrotlicommon.so",
+      "path_type": "softlink",
+      "sha256": "ab81b3ceec3bcf7ef69b65a607e6b6612318c4356be37264d78f38d057a2806f",
+      "size_in_bytes": 139528
+    },
+    {
+      "_path": "lib/libbrotlicommon.so.1",
+      "path_type": "softlink",
+      "sha256": "ab81b3ceec3bcf7ef69b65a607e6b6612318c4356be37264d78f38d057a2806f",
+      "size_in_bytes": 139528
+    },
+    {
+      "_path": "lib/libbrotlicommon.so.1.0.7",
+      "path_type": "hardlink",
+      "sha256": "ab81b3ceec3bcf7ef69b65a607e6b6612318c4356be37264d78f38d057a2806f",
+      "size_in_bytes": 139528
+    },
+    {
+      "_path": "lib/libbrotlidec-static.a",
+      "path_type": "hardlink",
+      "sha256": "c97b1a5a040985d435f67b97fa3d32cb909ec202d57d87a44203a270bfd6e175",
+      "size_in_bytes": 61232
+    },
+    {
+      "_path": "lib/libbrotlidec.so",
+      "path_type": "softlink",
+      "sha256": "bd4e9143e42c2770e5af6facc3c3877034fb606ff56f5675d5c49513b7aff135",
+      "size_in_bytes": 60008
+    },
+    {
+      "_path": "lib/libbrotlidec.so.1",
+      "path_type": "softlink",
+      "sha256": "bd4e9143e42c2770e5af6facc3c3877034fb606ff56f5675d5c49513b7aff135",
+      "size_in_bytes": 60008
+    },
+    {
+      "_path": "lib/libbrotlidec.so.1.0.7",
+      "path_type": "hardlink",
+      "sha256": "bd4e9143e42c2770e5af6facc3c3877034fb606ff56f5675d5c49513b7aff135",
+      "size_in_bytes": 60008
+    },
+    {
+      "_path": "lib/libbrotlienc-static.a",
+      "path_type": "hardlink",
+      "sha256": "8ba21508a98137ace24317cca01712434e0644cb562a06f60e520c0ffe1120b7",
+      "size_in_bytes": 713768
+    },
+    {
+      "_path": "lib/libbrotlienc.so",
+      "path_type": "softlink",
+      "sha256": "e0d07369b132b7300b780e4c942b81f9cf170e9ef5f9ed0f0d8697a8645e1308",
+      "size_in_bytes": 644504
+    },
+    {
+      "_path": "lib/libbrotlienc.so.1",
+      "path_type": "softlink",
+      "sha256": "e0d07369b132b7300b780e4c942b81f9cf170e9ef5f9ed0f0d8697a8645e1308",
+      "size_in_bytes": 644504
+    },
+    {
+      "_path": "lib/libbrotlienc.so.1.0.7",
+      "path_type": "hardlink",
+      "sha256": "e0d07369b132b7300b780e4c942b81f9cf170e9ef5f9ed0f0d8697a8645e1308",
+      "size_in_bytes": 644504
+    },
+    {
+      "_path": "lib/pkgconfig/libbrotlicommon.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/brotli_1590624287344/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "4410618b95f24ca742c9df7c87e7bddd28d3126503c8685e56cf3925d65737cb",
+      "size_in_bytes": 760
+    },
+    {
+      "_path": "lib/pkgconfig/libbrotlidec.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/brotli_1590624287344/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "e1b187e789dddb2d10f6d50317de39b0580e46517c88eb73fefb5878e68b3665",
+      "size_in_bytes": 787
+    },
+    {
+      "_path": "lib/pkgconfig/libbrotlienc.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/home/conda/feedstock_root/build_artifacts/brotli_1590624287344/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+      "sha256": "125c24893fd47b01ba5af333a989cb569f16e027a7f8f0236542bc1cf0b15543",
+      "size_in_bytes": 787
+    }
+  ],
+  "paths_version": 1
+}
